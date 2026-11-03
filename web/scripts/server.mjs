@@ -7,6 +7,8 @@ const root = path.resolve(fileURLToPath(new URL('../', import.meta.url)));
 const portIndex = process.argv.indexOf('--port');
 const port = Number(portIndex >= 0 ? process.argv[portIndex + 1] : process.env.PORT || 5173);
 const mime = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml' };
+// Accept the public Host forwarded by ngrok. Keep asset URLs relative so the
+// browser requests modules, styles and lesson data from the same public origin.
 http.createServer(async (req, res) => {
   try {
     const pathname = decodeURIComponent(new URL(req.url, 'http://localhost').pathname);

@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node scripts/server.mjs",
+    "tunnel": "ngrok http http://127.0.0.1:5173 --url https://larcher-brecken-palynologically.ngrok-free.dev",
     "build": "node scripts/build.mjs",
     "test": "node --test tests/state.test.mjs",
     "test:e2e": "playwright test"

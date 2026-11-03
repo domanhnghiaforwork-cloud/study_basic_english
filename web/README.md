@@ -9,6 +9,16 @@ npm run dev
 
 Mở http://localhost:5173. Trên điện thoại cùng Wi-Fi, dùng địa chỉ IP LAN của máy và cổng 5173. Máy chủ phát triển lắng nghe trên 0.0.0.0.
 
+Để dùng domain ngrok, giữ `npm run dev` chạy và mở terminal thứ hai tại thư mục này:
+
+```sh
+npm run tunnel
+```
+
+Lệnh trên chuyển `https://larcher-brecken-palynologically.ngrok-free.dev` đến `http://127.0.0.1:5173`. Cần ngrok đã được cài và cấu hình tài khoản sở hữu domain. Máy chủ không chặn hostname; các file và dữ liệu được tải bằng đường dẫn tương đối, không cần cấu hình `allowedHosts` hoặc `--host-header`.
+
+Nếu ngrok miễn phí hiện trang cảnh báo, bấm **Visit Site**; xem [tài liệu ngrok](https://ngrok.com/docs/pricing-limits/free-plan-limits#removing-the-interstitial-page). Cả terminal web và tunnel phải tiếp tục chạy trong lúc sử dụng.
+
 ```sh
 npm test
 npx playwright install chromium

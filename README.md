@@ -16,6 +16,26 @@ Mở `http://localhost:5173`. Để đọc bằng điện thoại trong cùng Wi
 
 Không mở trực tiếp `index.html` bằng `file://`, vì trình duyệt cần HTTP để tải module JavaScript và dữ liệu JSON.
 
+## Mở bằng domain ngrok
+
+Ở terminal thứ nhất, chạy web từ thư mục `web` bằng `npm run dev`. Giữ terminal này chạy. Ở terminal thứ hai, cũng tại `web`, chạy:
+
+```powershell
+npm run tunnel
+```
+
+Lệnh này tương đương:
+
+```powershell
+ngrok http http://127.0.0.1:5173 --url https://larcher-brecken-palynologically.ngrok-free.dev
+```
+
+Máy cần cài ngrok và cấu hình tài khoản sở hữu domain trên. Sau khi ngrok báo tunnel online, mở `https://larcher-brecken-palynologically.ngrok-free.dev` bằng điện thoại. Dùng địa chỉ upstream `127.0.0.1:5173` giúp ngrok kết nối đúng máy chủ IPv4 của web.
+
+Web dùng máy chủ Node.js, không dùng Vite và không giới hạn hostname: không cần `allowedHosts` hoặc sửa Host header. JavaScript, CSS và dữ liệu dùng đường dẫn tương đối nên cùng hoạt động qua domain HTTPS của ngrok.
+
+Gói ngrok miễn phí có thể hiện trang cảnh báo trước khi vào web; bấm **Visit Site** để tiếp tục. Đây là trang của ngrok, không phải lỗi chặn domain trong code. Xem [tài liệu ngrok](https://ngrok.com/docs/pricing-limits/free-plan-limits#removing-the-interstitial-page). Domain chỉ truy cập được khi cả máy chủ web và tunnel ngrok đang chạy.
+
 ## Cách dùng
 
 - **Đọc bài:** số bài hiện tại / tổng bài luôn hiển thị phía trên. Tất cả bài thuộc một danh sách liên tục, không hiển thị giai đoạn. Bài đầu mở sẵn; đọc xong mới mở được bài kế tiếp. Tên bài mới chỉ xuất hiện khi người học thực sự chuyển sang bài đó. Cỡ chữ có thể chỉnh từ 18 đến 26px.
