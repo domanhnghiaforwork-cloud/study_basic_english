@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 85,
+  "sourceFile": "paragraph/85_the_stray_cat_behind_the_cafe.md",
+  "sourceSha256": "b677eaf779cedd30ad816dcce9470365908ad3710bf03c64a80c704f225cc8be",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-85-01",
+      "kind": "sentence",
+      "en": "We did not expect a stray cat to change our cafe routine.",
+      "vi": "Chúng tôi không ngờ mèo hoang đổi nếp quán."
+    },
+    {
+      "id": "s3-85-02",
+      "kind": "sentence",
+      "en": "It seemed to exist on scraps it would gather near the bins, stopping to fight with a loose paper bag.",
+      "vi": "Nó dường như sống bằng những mẩu thức ăn nhặt gần thùng rác, thỉnh thoảng dừng lại đánh nhau với chiếc túi giấy lỏng lẻo."
+    },
+    {
+      "id": "s3-85-03",
+      "kind": "sentence",
+      "en": "We tried to identify its owner, but nobody nearby recognized it.",
+      "vi": "Chúng tôi tìm chủ nhưng gần đó chẳng ai nhận ra."
+    },
+    {
+      "id": "s3-85-04",
+      "kind": "sentence",
+      "en": "My sister wanted to feed it immediately; I worried we might fail to handle the situation well.",
+      "vi": "Em muốn cho ăn ngay; tôi lo không xử lý tốt."
+    },
+    {
+      "id": "s3-85-05",
+      "kind": "sentence",
+      "en": "We asked a local rescue group to express an opinion, hoping to gain some advice.",
+      "vi": "Chúng tôi nhờ nhóm cứu hộ địa phương nêu ý kiến, mong nhận được lời khuyên."
+    },
+    {
+      "id": "s3-85-06",
+      "kind": "sentence",
+      "en": "The cat seemed to forgive our delay.",
+      "vi": "Mèo như tha thứ chậm trễ."
+    },
+    {
+      "id": "s3-85-07",
+      "kind": "sentence",
+      "en": "By evening, several new people were ready to help it find a safer home.",
+      "vi": "Đến tối, thêm vài người đã sẵn lòng giúp nó tìm một mái nhà an toàn hơn."
+    }
+  ]
+}

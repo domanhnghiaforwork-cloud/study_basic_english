@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 10,
+  "sourceFile": "paragraph/10_the_broken_bench_debate.md",
+  "sourceSha256": "34080549ceb4a65d434594787bc938110e4f738091176a0c9b3c1ebbb17694e0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-10-01",
+      "kind": "sentence",
+      "en": "A broken park bench reveals an unexpected truth about our neighborhood.",
+      "vi": "Chiếc ghế công viên hỏng làm lộ sự thật bất ngờ về khu phố."
+    },
+    {
+      "id": "s3-10-02",
+      "kind": "sentence",
+      "en": "Each citizen has a different view of its value.",
+      "vi": "Mỗi người dân nhìn giá trị của nó khác nhau."
+    },
+    {
+      "id": "s3-10-03",
+      "kind": "sentence",
+      "en": "Children wish for a climbing frame, while older residents want a quiet seat.",
+      "vi": "Trẻ muốn khung leo, người lớn tuổi muốn ghế yên tĩnh."
+    },
+    {
+      "id": "s3-10-04",
+      "kind": "sentence",
+      "en": "A community meeting brings these ideas together.",
+      "vi": "Cuộc họp cộng đồng tập hợp các ý tưởng."
+    },
+    {
+      "id": "s3-10-05",
+      "kind": "sentence",
+      "en": "The local authority admits a weakness in its repair system and asks for suggestions.",
+      "vi": "Chính quyền địa phương thừa nhận điểm yếu trong sửa chữa và xin góp ý."
+    },
+    {
+      "id": "s3-10-06",
+      "kind": "sentence",
+      "en": "I wonder whether society changes through moments this small.",
+      "vi": "Tôi tự hỏi xã hội có đổi từ việc nhỏ thế này không."
+    },
+    {
+      "id": "s3-10-07",
+      "kind": "sentence",
+      "en": "A month later, a new bench stands beside a small play area, and people who once argued now stop there to talk.",
+      "vi": "Một tháng sau, ghế mới cạnh khu chơi nhỏ; người từng tranh luận nay dừng lại chuyện trò ở đó."
+    }
+  ]
+}

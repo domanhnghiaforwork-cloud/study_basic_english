@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 98,
+  "sourceFile": "paragraph/98_the_ice_sculpture_that_began_to_melt.md",
+  "sourceSha256": "ef319b60e38da5593ac201e37496cc8a3b85a968ecd6f89db696c09beb8b92f3",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-98-01",
+      "kind": "sentence",
+      "en": "Our festival team wants to invest in an ice sculpture, but warm weather changes the plan.",
+      "vi": "Nhóm lễ hội muốn đầu tư tượng băng nhưng trời ấm đổi kế hoạch."
+    },
+    {
+      "id": "s3-98-02",
+      "kind": "sentence",
+      "en": "We lay a cloth beneath the display and ask visitors not to lean against it.",
+      "vi": "Chúng tôi trải vải dưới trưng bày, đề nghị khách đừng dựa."
+    },
+    {
+      "id": "s3-98-03",
+      "kind": "sentence",
+      "en": "When the surface begins to melt, the organizer gives a small nod and asks everyone to pause.",
+      "vi": "Mặt băng tan, người tổ chức gật nhẹ, xin tất cả tạm dừng."
+    },
+    {
+      "id": "s3-98-04",
+      "kind": "sentence",
+      "en": "She can persuade the artist to postpone the demonstration, but the crowd must obey the safety signs first.",
+      "vi": "Cô thuyết phục nghệ sĩ hoãn trình diễn được, nhưng đám đông phải theo biển an toàn trước."
+    },
+    {
+      "id": "s3-98-05",
+      "kind": "sentence",
+      "en": "We owe the visitors a clear explanation.",
+      "vi": "Chúng tôi có trách nhiệm giải thích rõ cho khách."
+    },
+    {
+      "id": "s3-98-06",
+      "kind": "sentence",
+      "en": "Nobody tries to blame or punish the weather; we simply move the next activity indoors.",
+      "vi": "Chẳng ai đổ lỗi hay phạt thời tiết; chúng tôi chuyển hoạt động tiếp vào nhà."
+    }
+  ]
+}

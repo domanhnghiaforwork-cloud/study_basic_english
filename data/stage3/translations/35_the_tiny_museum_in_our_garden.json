@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 35,
+  "sourceFile": "paragraph/35_the_tiny_museum_in_our_garden.md",
+  "sourceSha256": "f03e81ac7df78aea1674e88c047a82f4d148ea476a98ad1eef4360ee41f111b4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-35-01",
+      "kind": "sentence",
+      "en": "My brother calls our garden a museum after finding an empty shell and a small lizard.",
+      "vi": "Em trai gọi vườn là bảo tàng sau khi tìm vỏ ốc rỗng và thằn lằn nhỏ."
+    },
+    {
+      "id": "s3-35-02",
+      "kind": "sentence",
+      "en": "We watch a butterfly near a flower while a bee passes overhead.",
+      "vi": "Chúng tôi ngắm bướm gần hoa, ong bay trên đầu."
+    },
+    {
+      "id": "s3-35-03",
+      "kind": "sentence",
+      "en": "An ant carries something larger than itself, and a spider waits beneath a leaf.",
+      "vi": "Kiến mang thứ lớn hơn mình, nhện đợi dưới lá."
+    },
+    {
+      "id": "s3-35-04",
+      "kind": "sentence",
+      "en": "The only insect nobody welcomes is a mosquito.",
+      "vi": "Côn trùng duy nhất chẳng ai chào là muỗi."
+    },
+    {
+      "id": "s3-35-05",
+      "kind": "sentence",
+      "en": "A worm appears when Dad moves a pot.",
+      "vi": "Giun hiện khi bố dời chậu."
+    },
+    {
+      "id": "s3-35-06",
+      "kind": "sentence",
+      "en": "My brother wants a crocodile for the pond, but Dad laughs and gives him a toy one.",
+      "vi": "Em muốn cá sấu cho ao, bố cười đưa cá sấu đồ chơi."
+    },
+    {
+      "id": "s3-35-07",
+      "kind": "sentence",
+      "en": "The garden already has enough surprises without adding a dangerous visitor.",
+      "vi": "Vườn đủ bất ngờ, không cần thêm vị khách nguy hiểm."
+    }
+  ]
+}

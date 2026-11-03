@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 33,
+  "sourceFile": "paragraph/33_the_missing_zoo_labels.md",
+  "sourceSha256": "752d8139c2e05cd21536a4d44568c674d581bf1360b1021eb5ca69d238dc9528",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-33-01",
+      "kind": "sentence",
+      "en": "Our class makes a pretend zoo with drawings, but several labels fall off before the exhibition.",
+      "vi": "Lớp làm sở thú giả bằng tranh, nhưng nhãn rơi trước triển lãm."
+    },
+    {
+      "id": "s3-33-02",
+      "kind": "sentence",
+      "en": "I match a wolf with a forest scene and put a fox beside a deer.",
+      "vi": "Tôi ghép sói với cảnh rừng, đặt cáo cạnh hươu."
+    },
+    {
+      "id": "s3-33-03",
+      "kind": "sentence",
+      "en": "An elephant, a giraffe, and a zebra belong in another display.",
+      "vi": "Voi, hươu cao cổ, ngựa vằn thuộc khu khác."
+    },
+    {
+      "id": "s3-33-04",
+      "kind": "sentence",
+      "en": "The camel needs its own sandy background, while the panda sits near bamboo.",
+      "vi": "Lạc đà cần nền cát riêng, gấu trúc ngồi cạnh tre."
+    },
+    {
+      "id": "s3-33-05",
+      "kind": "sentence",
+      "en": "My friend places the kangaroo and koala together on a large map.",
+      "vi": "Bạn đặt chuột túi, gấu koala cùng trên bản đồ lớn."
+    },
+    {
+      "id": "s3-33-06",
+      "kind": "sentence",
+      "en": "We check every label before visitors arrive.",
+      "vi": "Chúng tôi kiểm từng nhãn trước khi khách đến."
+    },
+    {
+      "id": "s3-33-07",
+      "kind": "sentence",
+      "en": "The drawings are imaginary, but we want their names to be right.",
+      "vi": "Tranh tưởng tượng, nhưng chúng tôi muốn tên đúng."
+    }
+  ]
+}

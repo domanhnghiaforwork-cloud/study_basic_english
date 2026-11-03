@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 45,
+  "sourceFile": "paragraph/45_the_wall_that_became_a_mural.md",
+  "sourceSha256": "37a06ca340c13475edd3afac56ec6253209f22eea1278c4c1e4341511a2ce163",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-45-01",
+      "kind": "sentence",
+      "en": "A blank wall outside the youth center gives our art club an unexpected project.",
+      "vi": "Bức tường trống ngoài trung tâm thanh thiếu niên đem đến dự án bất ngờ."
+    },
+    {
+      "id": "s3-45-02",
+      "kind": "sentence",
+      "en": "Curiosity brings children to watch, and their questions become inspiration for the design.",
+      "vi": "Tò mò đưa trẻ đến xem, câu hỏi thành cảm hứng thiết kế."
+    },
+    {
+      "id": "s3-45-03",
+      "kind": "sentence",
+      "en": "We need patience when rain washes away the first sketch, and courage to begin again.",
+      "vi": "Chúng tôi cần kiên nhẫn khi mưa xóa phác thảo đầu, can đảm để làm lại."
+    },
+    {
+      "id": "s3-45-04",
+      "kind": "sentence",
+      "en": "Creativity returns once everyone contributes an idea.",
+      "vi": "Sáng tạo trở lại khi ai cũng góp ý."
+    },
+    {
+      "id": "s3-45-05",
+      "kind": "sentence",
+      "en": "A neighbor's generosity pays for paint, while her kindness keeps our motivation alive.",
+      "vi": "Sự hào phóng của hàng xóm trả tiền sơn, lòng tốt giữ động lực chúng tôi."
+    },
+    {
+      "id": "s3-45-06",
+      "kind": "sentence",
+      "en": "Some visitors offer sympathy about the ruined work; others show empathy by helping us cover the new one.",
+      "vi": "Có khách bày tỏ cảm thông về tranh hỏng; người khác đồng cảm bằng cách giúp che tranh mới."
+    },
+    {
+      "id": "s3-45-07",
+      "kind": "sentence",
+      "en": "The finished mural belongs to far more people than its painters.",
+      "vi": "Bích họa hoàn thành thuộc về nhiều người hơn những người vẽ."
+    }
+  ]
+}

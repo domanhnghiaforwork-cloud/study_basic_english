@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 54,
+  "sourceFile": "paragraph/54_the_poster_with_too_many_names.md",
+  "sourceSha256": "c4c2643d119ce7ea61d3c93cb29c706a3f39a5bffac4d90ad640832339bfee61",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-54-01",
+      "kind": "sentence",
+      "en": "Our school principal asks for a poster about next month's arts and science evening.",
+      "vi": "Hiệu trưởng nhờ làm áp phích cho đêm nghệ thuật, khoa học tháng tới."
+    },
+    {
+      "id": "s3-54-02",
+      "kind": "sentence",
+      "en": "A writer and a poet will read, an actress will perform, and a director will answer questions.",
+      "vi": "Nhà văn, nhà thơ đọc tác phẩm; nữ diễn viên diễn; đạo diễn trả lời."
+    },
+    {
+      "id": "s3-54-03",
+      "kind": "sentence",
+      "en": "An artist will display sketches beside a scientist and a researcher showing an experiment.",
+      "vi": "Họa sĩ trưng phác thảo cạnh nhà khoa học, nhà nghiên cứu làm thí nghiệm."
+    },
+    {
+      "id": "s3-54-04",
+      "kind": "sentence",
+      "en": "A professor and a lecturer will lead the final discussion.",
+      "vi": "Giáo sư, giảng viên dẫn thảo luận cuối."
+    },
+    {
+      "id": "s3-54-05",
+      "kind": "sentence",
+      "en": "I cannot fit every name on one page.",
+      "vi": "Tôi không xếp hết tên vào một trang được."
+    },
+    {
+      "id": "s3-54-06",
+      "kind": "sentence",
+      "en": "Then I draw a long table instead of separate boxes, and the poster begins to show people meeting rather than subjects competing for space.",
+      "vi": "Rồi tôi vẽ bàn dài thay ô riêng, áp phích bắt đầu thể hiện người gặp nhau thay vì môn cạnh tranh chỗ."
+    }
+  ]
+}

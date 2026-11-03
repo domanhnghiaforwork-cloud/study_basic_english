@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 32,
+  "sourceFile": "paragraph/32_the_animals_in_the_attic_book.md",
+  "sourceSha256": "4e99d755f7bf79e2fcf91ba19fc6392665b46f03d807dbeab18be475a0c59d59",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-32-01",
+      "kind": "sentence",
+      "en": "Rain keeps us indoors, so we open an old animal book from the attic.",
+      "vi": "Mưa giữ chúng tôi trong nhà nên hai anh em mở sách động vật cũ trên gác."
+    },
+    {
+      "id": "s3-32-02",
+      "kind": "sentence",
+      "en": "A donkey and a rabbit share the first page with a rat and a squirrel.",
+      "vi": "Lừa, thỏ chung trang đầu với chuột, sóc."
+    },
+    {
+      "id": "s3-32-03",
+      "kind": "sentence",
+      "en": "Farther on, a monkey hangs above a gorilla, and a lion faces a tiger across the fold.",
+      "vi": "Xa hơn, khỉ treo trên khỉ đột, sư tử đối diện hổ qua nếp gấp."
+    },
+    {
+      "id": "s3-32-04",
+      "kind": "sentence",
+      "en": "My brother likes the leopard, but I choose the bear on the cover.",
+      "vi": "Em thích báo hoa mai, tôi chọn gấu ngoài bìa."
+    },
+    {
+      "id": "s3-32-05",
+      "kind": "sentence",
+      "en": "We decide to invent a story in which they all meet.",
+      "vi": "Chúng tôi định bịa truyện cho tất cả gặp nhau."
+    },
+    {
+      "id": "s3-32-06",
+      "kind": "sentence",
+      "en": "Finding a place that suits every character turns out to be harder than naming the hero.",
+      "vi": "Tìm nơi hợp mọi nhân vật hóa ra khó hơn đặt tên anh hùng."
+    }
+  ]
+}

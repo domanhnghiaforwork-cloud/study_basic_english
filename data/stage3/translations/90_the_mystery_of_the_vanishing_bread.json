@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 90,
+  "sourceFile": "paragraph/90_the_mystery_of_the_vanishing_bread.md",
+  "sourceSha256": "2e887e59b701398a3299c5b89972a7e65375191af14a47b4114d7bd02119631e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-90-01",
+      "kind": "sentence",
+      "en": "In our comic play, a baker wakes to find his bread missing.",
+      "vi": "Trong hài kịch, thợ bánh thức dậy thấy bánh mất."
+    },
+    {
+      "id": "s3-90-02",
+      "kind": "sentence",
+      "en": "He begins to suspect every neighbor, and rumors spread before breakfast.",
+      "vi": "Ông nghi từng hàng xóm, tin đồn lan trước bữa sáng."
+    },
+    {
+      "id": "s3-90-03",
+      "kind": "sentence",
+      "en": "Some characters shout, while others suggest a careful search.",
+      "vi": "Vài nhân vật hét, người khác gợi tìm kỹ."
+    },
+    {
+      "id": "s3-90-04",
+      "kind": "sentence",
+      "en": "We suppose the mystery will be easy to solve, but each clue changes the story.",
+      "vi": "Chúng tôi tưởng dễ giải bí ẩn, nhưng manh mối nào cũng đổi truyện."
+    },
+    {
+      "id": "s3-90-05",
+      "kind": "sentence",
+      "en": "We shoot a short video in which the bread must survive a storm before the characters can succeed.",
+      "vi": "Chúng tôi quay video ngắn: bánh phải qua bão trước khi nhân vật thành công."
+    },
+    {
+      "id": "s3-90-06",
+      "kind": "sentence",
+      "en": "Our director enjoys surprises, but she refuses to let an innocent character suffer just for a joke.",
+      "vi": "Đạo diễn thích bất ngờ, nhưng không để người vô tội chịu khổ chỉ vì câu đùa."
+    },
+    {
+      "id": "s3-90-07",
+      "kind": "sentence",
+      "en": "The final culprit is a very hungry goat.",
+      "vi": "Thủ phạm cuối là dê rất đói."
+    }
+  ]
+}

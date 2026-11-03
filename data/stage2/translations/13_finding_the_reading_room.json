@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 13,
+  "sourceFile": "paragraph/13_finding_the_reading_room.md",
+  "sourceSha256": "f8253a1cd854453841c01aa97a6e1dec2c1955d561c55a876af9d6b10b6b0bc7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-13-01",
+      "kind": "sentence",
+      "en": "At the museum entrance, a guide tells us where to find the reading room.",
+      "vi": "Ở cửa bảo tàng, hướng dẫn viên chỉ phòng đọc."
+    },
+    {
+      "id": "s2-13-02",
+      "kind": "sentence",
+      "en": "We walk straight through the hall and turn left beside a painting.",
+      "vi": "Chúng tôi đi thẳng qua sảnh, rẽ trái cạnh tranh."
+    },
+    {
+      "id": "s2-13-03",
+      "kind": "sentence",
+      "en": "In front of us is a tall cupboard with a map on its side.",
+      "vi": "Trước mặt có tủ cao, bản đồ bên hông."
+    },
+    {
+      "id": "s2-13-04",
+      "kind": "sentence",
+      "en": "The room is in the middle of the next hall, far from the exit.",
+      "vi": "Phòng giữa hành lang tiếp, xa lối ra."
+    },
+    {
+      "id": "s2-13-05",
+      "kind": "sentence",
+      "en": "I choose a book from the bottom shelf while my brother reaches for one at the top.",
+      "vi": "Tôi chọn sách kệ dưới cùng, anh với sách kệ trên cùng."
+    },
+    {
+      "id": "s2-13-06",
+      "kind": "sentence",
+      "en": "This quiet place is exactly what we need after a noisy morning outside.",
+      "vi": "Nơi yên này đúng thứ chúng tôi cần sau sáng ồn ngoài trời."
+    }
+  ]
+}

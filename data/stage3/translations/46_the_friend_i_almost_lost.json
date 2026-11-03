@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 46,
+  "sourceFile": "paragraph/46_the_friend_i_almost_lost.md",
+  "sourceSha256": "22c5490ea438b7772663273c7cd21d1aa2ac094f4149c5e056e77a19c134121f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-46-01",
+      "kind": "sentence",
+      "en": "When my best friend wins a writing prize, jealousy catches me by surprise.",
+      "vi": "Bạn thân thắng giải viết, lòng ghen làm tôi bất ngờ."
+    },
+    {
+      "id": "s3-46-02",
+      "kind": "sentence",
+      "en": "My envy turns into anger, and I say something unkind.",
+      "vi": "Đố kỵ thành giận, tôi nói lời không tốt."
+    },
+    {
+      "id": "s3-46-03",
+      "kind": "sentence",
+      "en": "The joy on her face disappears.",
+      "vi": "Niềm vui trên mặt bạn mất đi."
+    },
+    {
+      "id": "s3-46-04",
+      "kind": "sentence",
+      "en": "Later, loneliness fills the walk home, and sadness makes it difficult to write an apology.",
+      "vi": "Sau đó, cô đơn phủ đường về, buồn bã làm khó viết xin lỗi."
+    },
+    {
+      "id": "s3-46-05",
+      "kind": "sentence",
+      "en": "I do not want one bad moment to end our friendship.",
+      "vi": "Tôi không muốn một lúc tệ kết thúc tình bạn."
+    },
+    {
+      "id": "s3-46-06",
+      "kind": "sentence",
+      "en": "She listens when I return and offers forgiveness, but we both need time.",
+      "vi": "Tôi quay lại, bạn nghe và tha thứ, nhưng cả hai cần thời gian."
+    },
+    {
+      "id": "s3-46-07",
+      "kind": "sentence",
+      "en": "Her compassion teaches me something that the prize never could: caring for someone includes admitting the sorrow I caused.",
+      "vi": "Lòng trắc ẩn của bạn dạy điều giải thưởng không thể: quan tâm ai đó gồm thừa nhận nỗi buồn mình gây ra."
+    }
+  ]
+}

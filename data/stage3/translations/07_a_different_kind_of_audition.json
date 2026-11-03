@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 7,
+  "sourceFile": "paragraph/07_a_different_kind_of_audition.md",
+  "sourceSha256": "02cebfb352ba556005a7ec9fccf60e0560fd9f0cfe6ccba99e7fb1c00f9f82ea",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-07-01",
+      "kind": "sentence",
+      "en": "The theater offers me an opportunity to audition.",
+      "vi": "Nhà hát cho tôi cơ hội thử vai."
+    },
+    {
+      "id": "s3-07-02",
+      "kind": "sentence",
+      "en": "One option is a loud comic role; another is a quiet character whose personality resembles mine.",
+      "vi": "Một lựa chọn là vai hài ồn ào; lựa chọn khác là nhân vật trầm tính giống tôi."
+    },
+    {
+      "id": "s3-07-03",
+      "kind": "sentence",
+      "en": "I ask permission to try both.",
+      "vi": "Tôi xin thử cả hai."
+    },
+    {
+      "id": "s3-07-04",
+      "kind": "sentence",
+      "en": "The director says the new policy allows this because good performance should not depend on guessing correctly the first time.",
+      "vi": "Đạo diễn nói chính sách mới cho phép, vì diễn tốt không nên phụ thuộc việc đoán đúng lần đầu."
+    },
+    {
+      "id": "s3-07-05",
+      "kind": "sentence",
+      "en": "I notice a pattern: pressure makes me rush, while pleasure in the scene helps me listen.",
+      "vi": "Tôi nhận ra quy luật: áp lực khiến tôi vội, niềm vui trong cảnh diễn giúp lắng nghe."
+    },
+    {
+      "id": "s3-07-06",
+      "kind": "sentence",
+      "en": "My priority changes from winning the part to telling the story well.",
+      "vi": "Ưu tiên của tôi chuyển từ giành vai sang kể chuyện hay."
+    },
+    {
+      "id": "s3-07-07",
+      "kind": "sentence",
+      "en": "For once, the waiting room feels almost peaceful.",
+      "vi": "Lần này, phòng chờ gần như bình yên."
+    }
+  ]
+}

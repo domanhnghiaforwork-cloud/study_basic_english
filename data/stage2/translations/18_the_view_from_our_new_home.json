@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 18,
+  "sourceFile": "paragraph/18_the_view_from_our_new_home.md",
+  "sourceSha256": "7c9a67aba37a4382c8e0d40a23b1a7b0ea0e9bb994852c83a813f870e2d38da6",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-18-01",
+      "kind": "sentence",
+      "en": "Our new apartment is in a tall building beside a busy road.",
+      "vi": "Căn hộ mới ở tòa nhà cao cạnh đường đông."
+    },
+    {
+      "id": "s2-18-02",
+      "kind": "sentence",
+      "en": "From the window, I can see a market, a supermarket, and a bank.",
+      "vi": "Từ cửa sổ, tôi thấy chợ, siêu thị, ngân hàng."
+    },
+    {
+      "id": "s2-18-03",
+      "kind": "sentence",
+      "en": "There is a clinic downstairs and a hospital two streets away.",
+      "vi": "Có phòng khám dưới nhà, bệnh viện cách hai phố."
+    },
+    {
+      "id": "s2-18-04",
+      "kind": "sentence",
+      "en": "Dad works at a factory near the old farm outside town.",
+      "vi": "Bố làm nhà máy gần nông trại cũ ngoài thị trấn."
+    },
+    {
+      "id": "s2-18-05",
+      "kind": "sentence",
+      "en": "On Saturday, he wants to visit the mall, but I would rather explore the small shops below us.",
+      "vi": "Thứ Bảy, bố muốn đến trung tâm thương mại, tôi thích khám phá tiệm nhỏ bên dưới."
+    },
+    {
+      "id": "s2-18-06",
+      "kind": "sentence",
+      "en": "Mom suggests buying vegetables at the market first.",
+      "vi": "Mẹ gợi ý mua rau ở chợ trước."
+    },
+    {
+      "id": "s2-18-07",
+      "kind": "sentence",
+      "en": "Soon, this unfamiliar view begins to feel like our neighborhood.",
+      "vi": "Chẳng lâu, cảnh lạ bắt đầu thành khu phố thân quen."
+    }
+  ]
+}

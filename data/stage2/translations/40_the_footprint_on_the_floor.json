@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 40,
+  "sourceFile": "paragraph/40_the_footprint_on_the_floor.md",
+  "sourceSha256": "8327a289f94abc62a8f535d0a64f5322fc47ac8eeb10d2b457977b608bd26e0f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-40-01",
+      "kind": "sentence",
+      "en": "A wet footprint crosses our classroom floor, and we try to guess who made it.",
+      "vi": "Dấu chân ướt chạy qua sàn lớp, chúng tôi đoán ai để lại."
+    },
+    {
+      "id": "s2-40-02",
+      "kind": "sentence",
+      "en": "One foot is smaller than the other, and a toe leaves a separate mark.",
+      "vi": "Một bàn chân nhỏ hơn bên kia, một ngón in dấu riêng."
+    },
+    {
+      "id": "s2-40-03",
+      "kind": "sentence",
+      "en": "Soon, Minh arrives with wet feet and explains that he stepped in a puddle.",
+      "vi": "Minh đến với hai chân ướt, kể đã giẫm vào vũng nước."
+    },
+    {
+      "id": "s2-40-04",
+      "kind": "sentence",
+      "en": "During science, we draw what lies beneath skin: bone, blood vessels, and the heart.",
+      "vi": "Trong giờ khoa học, chúng tôi vẽ dưới da có gì: xương, mạch máu và tim."
+    },
+    {
+      "id": "s2-40-05",
+      "kind": "sentence",
+      "en": "We add the brain above them.",
+      "vi": "Chúng tôi thêm não phía trên."
+    },
+    {
+      "id": "s2-40-06",
+      "kind": "sentence",
+      "en": "Minh says the only ache he has is embarrassment.",
+      "vi": "Minh nói điều duy nhất làm bạn nhức nhối là xấu hổ."
+    },
+    {
+      "id": "s2-40-07",
+      "kind": "sentence",
+      "en": "By lunch, the floor is dry, and nobody feels any pain except from laughing too much.",
+      "vi": "Đến trưa, sàn khô và chẳng ai đau gì ngoài đau bụng vì cười quá nhiều."
+    }
+  ]
+}

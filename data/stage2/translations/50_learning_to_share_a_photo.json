@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 50,
+  "sourceFile": "paragraph/50_learning_to_share_a_photo.md",
+  "sourceSha256": "1ed22aa0099339001f2b4bea0a515531a4065c8f6ed7827f1bc8fcb3c1d163c7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-50-01",
+      "kind": "sentence",
+      "en": "Grandpa asks for advice about sending a photo to his sister.",
+      "vi": "Ông xin lời khuyên gửi ảnh chị gái."
+    },
+    {
+      "id": "s2-50-02",
+      "kind": "sentence",
+      "en": "We connect his phone to the internet and search for the picture.",
+      "vi": "Chúng tôi nối điện thoại mạng, tìm ảnh."
+    },
+    {
+      "id": "s2-50-03",
+      "kind": "sentence",
+      "en": "I show him how to copy a short message and paste it below the photo.",
+      "vi": "Tôi chỉ sao chép lời ngắn, dán dưới ảnh."
+    },
+    {
+      "id": "s2-50-04",
+      "kind": "sentence",
+      "en": "Then we upload the picture and download her reply.",
+      "vi": "Rồi tải ảnh lên, tải trả lời xuống."
+    },
+    {
+      "id": "s2-50-05",
+      "kind": "sentence",
+      "en": "Before dinner, we charge the phone together.",
+      "vi": "Trước tối, chúng tôi cùng sạc điện thoại."
+    },
+    {
+      "id": "s2-50-06",
+      "kind": "sentence",
+      "en": "This small activity gives him a chance to practice without feeling rushed.",
+      "vi": "Hoạt động nhỏ cho ông cơ hội luyện không vội."
+    },
+    {
+      "id": "s2-50-07",
+      "kind": "sentence",
+      "en": "His ability grows each time he tries.",
+      "vi": "Khả năng tăng mỗi lần thử."
+    },
+    {
+      "id": "s2-50-08",
+      "kind": "sentence",
+      "en": "Soon, he sends another picture while I am still washing the dishes.",
+      "vi": "Sớm thôi ông gửi ảnh khác khi tôi còn rửa bát."
+    }
+  ]
+}

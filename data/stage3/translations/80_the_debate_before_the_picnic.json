@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 80,
+  "sourceFile": "paragraph/80_the_debate_before_the_picnic.md",
+  "sourceSha256": "3f94f8147d90f730c10b3e37b293428bba3ca16779e1bb0c87760b1bbc3e4f56",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-80-01",
+      "kind": "sentence",
+      "en": "Before our picnic, we argue about where everyone should sit.",
+      "vi": "Trước dã ngoại, chúng tôi cãi về chỗ ngồi."
+    },
+    {
+      "id": "s3-80-02",
+      "kind": "sentence",
+      "en": "Some assume that the shady tables belong to the first people who arrive.",
+      "vi": "Có người cho bàn râm thuộc ai đến trước."
+    },
+    {
+      "id": "s3-80-03",
+      "kind": "sentence",
+      "en": "Others want to arrange places for older visitors.",
+      "vi": "Người khác muốn xếp cho khách lớn tuổi."
+    },
+    {
+      "id": "s3-80-04",
+      "kind": "sentence",
+      "en": "Our teacher refuses to approve a plan until we find a better balance.",
+      "vi": "Cô chưa chấp thuận đến khi tìm cân bằng hơn."
+    },
+    {
+      "id": "s3-80-05",
+      "kind": "sentence",
+      "en": "She asks us to avoid turning disagreement into a personal attack and to behave as if every guest were already listening.",
+      "vi": "Cô bảo tránh biến bất đồng thành công kích cá nhân, cư xử như mọi khách đang nghe."
+    },
+    {
+      "id": "s3-80-06",
+      "kind": "sentence",
+      "en": "By noon, we have moved the tables together.",
+      "vi": "Đến trưa, chúng tôi kéo bàn gần nhau."
+    },
+    {
+      "id": "s3-80-07",
+      "kind": "sentence",
+      "en": "Nobody owns the shade, but there is enough space for everyone to share it.",
+      "vi": "Chẳng ai sở hữu bóng râm, nhưng đủ chỗ chia sẻ."
+    }
+  ]
+}

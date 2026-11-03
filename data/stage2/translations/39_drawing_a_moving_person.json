@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 39,
+  "sourceFile": "paragraph/39_drawing_a_moving_person.md",
+  "sourceSha256": "86a1b4d34e1894f163774080b4febb7a8f25300ddb95437b9ffa8c96405c0711",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-39-01",
+      "kind": "sentence",
+      "en": "Our art teacher asks us to draw someone throwing a ball.",
+      "vi": "Cô mỹ thuật yêu cầu vẽ người ném bóng."
+    },
+    {
+      "id": "s2-39-02",
+      "kind": "sentence",
+      "en": "I begin with an arm and bend it at the elbow.",
+      "vi": "Tôi bắt đầu từ cánh tay, gập ở khuỷu."
+    },
+    {
+      "id": "s2-39-03",
+      "kind": "sentence",
+      "en": "Then I add a hand, each finger, and a thumb.",
+      "vi": "Rồi thêm bàn tay, từng ngón và ngón cái."
+    },
+    {
+      "id": "s2-39-04",
+      "kind": "sentence",
+      "en": "My first drawing has a very long leg and a tiny knee.",
+      "vi": "Bản đầu có chân rất dài, đầu gối tí hon."
+    },
+    {
+      "id": "s2-39-05",
+      "kind": "sentence",
+      "en": "The chest is too wide, and the stomach seems to face the wrong way.",
+      "vi": "Ngực quá rộng, bụng như quay sai hướng."
+    },
+    {
+      "id": "s2-39-06",
+      "kind": "sentence",
+      "en": "The teacher draws a line for the backbone and helps me start again.",
+      "vi": "Cô vẽ đường cột sống rồi giúp tôi làm lại."
+    },
+    {
+      "id": "s2-39-07",
+      "kind": "sentence",
+      "en": "This time, my person looks ready to throw instead of falling over.",
+      "vi": "Lần này, người trong tranh trông sẵn sàng ném bóng thay vì ngã."
+    }
+  ]
+}

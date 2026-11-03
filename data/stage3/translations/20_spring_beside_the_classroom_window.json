@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 20,
+  "sourceFile": "paragraph/20_spring_beside_the_classroom_window.md",
+  "sourceSha256": "c13acf3d984d7bfff361f40b770815f794fabf9246f3287c5286bbabf068f7f9",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-20-01",
+      "kind": "sentence",
+      "en": "Our classroom has a reputation for being cold, so its new status as the garden room makes us laugh.",
+      "vi": "Lớp chúng tôi nổi tiếng lạnh nên danh hiệu mới phòng vườn khiến mọi người cười."
+    },
+    {
+      "id": "s3-20-02",
+      "kind": "sentence",
+      "en": "In spring, seedlings fill the windowsill and change the environment completely.",
+      "vi": "Mùa xuân, cây con đầy bậu cửa, đổi hẳn môi trường."
+    },
+    {
+      "id": "s3-20-03",
+      "kind": "sentence",
+      "en": "We record the weather and temperature each morning, learning that one warm day does not explain the climate.",
+      "vi": "Chúng tôi ghi thời tiết, nhiệt độ mỗi sáng, học rằng một ngày ấm không giải thích được khí hậu."
+    },
+    {
+      "id": "s3-20-04",
+      "kind": "sentence",
+      "en": "The season brings insects back to the courtyard, and nature becomes something we can observe between lessons.",
+      "vi": "Mùa mới đưa côn trùng lại sân, thiên nhiên thành điều quan sát giữa giờ."
+    },
+    {
+      "id": "s3-20-05",
+      "kind": "sentence",
+      "en": "Even students who dislike gardening stop to check the plants.",
+      "vi": "Ngay cả bạn không thích làm vườn cũng dừng xem cây."
+    },
+    {
+      "id": "s3-20-06",
+      "kind": "sentence",
+      "en": "The smallest seedling becomes the one we all want to protect.",
+      "vi": "Cây con nhỏ nhất thành cây cả lớp muốn bảo vệ."
+    }
+  ]
+}

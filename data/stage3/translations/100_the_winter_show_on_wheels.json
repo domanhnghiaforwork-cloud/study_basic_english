@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 100,
+  "sourceFile": "paragraph/100_the_winter_show_on_wheels.md",
+  "sourceSha256": "92eaf7009906df62a7099e8c540dda0ec5c2fee8d1ff4e818661ebc25bb59e97",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-100-01",
+      "kind": "sentence",
+      "en": "Our winter show combines a sewing workshop with a scene about learning to skate.",
+      "vi": "Buổi diễn mùa đông kết hợp học may với cảnh tập trượt băng."
+    },
+    {
+      "id": "s3-100-02",
+      "kind": "sentence",
+      "en": "We select bright cloth, sew small flags, and roll them into a basket.",
+      "vi": "Chúng tôi chọn vải sáng, may cờ nhỏ, cuộn vào giỏ."
+    },
+    {
+      "id": "s3-100-03",
+      "kind": "sentence",
+      "en": "Onstage, children skip between paper snowflakes that scatter when the fan starts.",
+      "vi": "Trên sân khấu, trẻ nhảy chân sáo giữa bông tuyết giấy tung khi quạt chạy."
+    },
+    {
+      "id": "s3-100-04",
+      "kind": "sentence",
+      "en": "One actor must pretend to slip, rub his knee, and scream in surprise.",
+      "vi": "Diễn viên giả trượt, xoa gối, hét ngạc nhiên."
+    },
+    {
+      "id": "s3-100-05",
+      "kind": "sentence",
+      "en": "We change the movement so it cannot scratch the floor or frighten the youngest guests.",
+      "vi": "Chúng tôi đổi động tác để không cào sàn hay làm khách nhỏ nhất sợ."
+    },
+    {
+      "id": "s3-100-06",
+      "kind": "sentence",
+      "en": "By evening, the show looks effortless.",
+      "vi": "Đến tối, buổi diễn như dễ dàng."
+    },
+    {
+      "id": "s3-100-07",
+      "kind": "sentence",
+      "en": "Only the performers know how many careful choices lie behind one minute of cheerful confusion.",
+      "vi": "Chỉ người diễn biết bao lựa chọn cẩn thận sau một phút vui náo nhiệt."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 60,
+  "sourceFile": "paragraph/60_a_long_journey_for_one_parcel.md",
+  "sourceSha256": "86e7cd0db1bf1e9781df2bffc3e3806d87507fe9a10e870e2ba05538f04157d0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-60-01",
+      "kind": "sentence",
+      "en": "Our class follows a parcel from a small marketplace to a distant customer.",
+      "vi": "Lớp theo bưu kiện từ chợ nhỏ đến khách xa."
+    },
+    {
+      "id": "s3-60-02",
+      "kind": "sentence",
+      "en": "The story begins with trade between two towns and grows into a lesson about industry.",
+      "vi": "Chuyện bắt đầu từ thương mại hai thị trấn, thành bài công nghiệp."
+    },
+    {
+      "id": "s3-60-03",
+      "kind": "sentence",
+      "en": "At the manufacturing stage, a delay in the supply of parts slows production.",
+      "vi": "Khâu sản xuất, nguồn phụ tùng trễ làm chậm sản lượng."
+    },
+    {
+      "id": "s3-60-04",
+      "kind": "sentence",
+      "en": "The manager wants higher productivity, but a demanding schedule causes mistakes.",
+      "vi": "Quản lý muốn tăng năng suất nhưng lịch đòi hỏi cao gây sai."
+    },
+    {
+      "id": "s3-60-05",
+      "kind": "sentence",
+      "en": "We redesign the distribution plan instead of simply asking everyone to work faster.",
+      "vi": "Chúng tôi thiết kế lại phân phối thay vì chỉ yêu cầu làm nhanh."
+    },
+    {
+      "id": "s3-60-06",
+      "kind": "sentence",
+      "en": "On our map, the final delivery arrives a day late.",
+      "vi": "Trên bản đồ, hàng giao trễ một ngày."
+    },
+    {
+      "id": "s3-60-07",
+      "kind": "sentence",
+      "en": "The parcel still teaches us how many people stand behind one ordinary purchase.",
+      "vi": "Bưu kiện vẫn dạy bao người đứng sau món mua thường ngày."
+    }
+  ]
+}

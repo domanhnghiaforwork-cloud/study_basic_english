@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 25,
+  "sourceFile": "paragraph/25_the_dust_on_the_window.md",
+  "sourceSha256": "9e087aaf866839eee759890c3165f7cfeed1370901c17aa29484aca40bb00b12",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-25-01",
+      "kind": "sentence",
+      "en": "In a story we read, a child lives near the shore and watches each wave through a dusty window.",
+      "vi": "Trong truyện chúng tôi đọc, em nhỏ sống gần bờ biển, ngắm từng sóng qua cửa sổ bụi."
+    },
+    {
+      "id": "s3-25-02",
+      "kind": "sentence",
+      "en": "One morning, the tide brings a strange boat close to land.",
+      "vi": "Một sáng, thủy triều đưa thuyền lạ đến gần đất liền."
+    },
+    {
+      "id": "s3-25-03",
+      "kind": "sentence",
+      "en": "A strong current carries it past the village, leaving smoke above the water.",
+      "vi": "Dòng chảy mạnh cuốn qua làng, để khói phía trên nước."
+    },
+    {
+      "id": "s3-25-04",
+      "kind": "sentence",
+      "en": "The child's science notebook mentions air, oxygen, carbon, and gas, but these words cannot explain who is aboard.",
+      "vi": "Sổ khoa học ghi không khí, oxy, carbon, khí, nhưng các từ không giải thích được ai trên thuyền."
+    },
+    {
+      "id": "s3-25-05",
+      "kind": "sentence",
+      "en": "She wipes the dust away and calls her grandfather.",
+      "vi": "Em lau bụi, gọi ông."
+    },
+    {
+      "id": "s3-25-06",
+      "kind": "sentence",
+      "en": "Together, they follow the boat with their eyes until it disappears around the headland.",
+      "vi": "Hai ông cháu dõi theo đến khi thuyền khuất sau mũi đất."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 74,
+  "sourceFile": "paragraph/74_a_formal_dinner_with_funny_speeches.md",
+  "sourceSha256": "629e731e2e2e1deb96d75c8c91b4de5f152b06ee266aaaebc15295444c01e3a3",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-74-01",
+      "kind": "sentence",
+      "en": "Our friendly host welcomes us to a formal dinner for volunteers.",
+      "vi": "Chủ nhà thân thiện đón chúng tôi vào bữa tối trang trọng cho tình nguyện viên."
+    },
+    {
+      "id": "s3-74-02",
+      "kind": "sentence",
+      "en": "The room looks serious until the first funny speech makes everyone laugh.",
+      "vi": "Phòng nghiêm túc đến khi bài nói hài đầu khiến tất cả cười."
+    },
+    {
+      "id": "s3-74-03",
+      "kind": "sentence",
+      "en": "A generous neighbor thanks the people who helped her after a storm, and a gentle child reads a short poem.",
+      "vi": "Hàng xóm hào phóng cảm ơn người giúp sau bão, em nhỏ dịu dàng đọc thơ."
+    },
+    {
+      "id": "s3-74-04",
+      "kind": "sentence",
+      "en": "I feel glad to be there and grateful for the invitation.",
+      "vi": "Tôi vui có mặt, biết ơn lời mời."
+    },
+    {
+      "id": "s3-74-05",
+      "kind": "sentence",
+      "en": "One speaker describes a global volunteer project, but the most helpful stories come from our own street.",
+      "vi": "Một diễn giả kể dự án tình nguyện toàn cầu, nhưng chuyện hữu ích nhất từ chính phố mình."
+    },
+    {
+      "id": "s3-74-06",
+      "kind": "sentence",
+      "en": "I had felt guilty about missing earlier meetings.",
+      "vi": "Tôi từng áy náy vì vắng các buổi trước."
+    },
+    {
+      "id": "s3-74-07",
+      "kind": "sentence",
+      "en": "Tonight, listening gives me a reason to return.",
+      "vi": "Tối nay, lắng nghe cho tôi lý do quay lại."
+    }
+  ]
+}

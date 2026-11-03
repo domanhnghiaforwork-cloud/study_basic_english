@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 12,
+  "sourceFile": "paragraph/12_the_walk_to_the_old_mill.md",
+  "sourceSha256": "49b7ef8e15d9953b23e6d27f422cc505dceb74a6136c606de537080d5ed4be8f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-12-01",
+      "kind": "sentence",
+      "en": "The old mill stands north of the town center.",
+      "vi": "Cối xay cũ ở phía bắc trung tâm thị trấn."
+    },
+    {
+      "id": "s2-12-02",
+      "kind": "sentence",
+      "en": "To reach it, follow the main road until you see a narrow lane on the east side.",
+      "vi": "Để đến đó, theo đường chính đến khi thấy ngõ hẹp phía đông."
+    },
+    {
+      "id": "s2-12-03",
+      "kind": "sentence",
+      "en": "Turn at the corner and take the path beside the river.",
+      "vi": "Rẽ góc, theo lối cạnh sông."
+    },
+    {
+      "id": "s2-12-04",
+      "kind": "sentence",
+      "en": "A small bridge leads across the water.",
+      "vi": "Cầu nhỏ dẫn qua nước."
+    },
+    {
+      "id": "s2-12-05",
+      "kind": "sentence",
+      "en": "From there, you can see gardens to the west and the school to the south.",
+      "vi": "Từ đó thấy vườn phía tây, trường phía nam."
+    },
+    {
+      "id": "s2-12-06",
+      "kind": "sentence",
+      "en": "My grandfather used to walk this way every morning.",
+      "vi": "Ông từng đi lối này mỗi sáng."
+    },
+    {
+      "id": "s2-12-07",
+      "kind": "sentence",
+      "en": "Today, he comes with me and stops often to tell stories about the people who lived here.",
+      "vi": "Hôm nay ông đi cùng, thường dừng kể người từng sống ở đây."
+    }
+  ]
+}

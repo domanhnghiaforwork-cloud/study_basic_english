@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 7,
+  "sourceFile": "paragraph/07_a_page_about_bees.md",
+  "sourceSha256": "764beabc979cde818da0839c143d8829fdd2cba9750ebd4fdae94dfbe4e6cb41",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-07-01",
+      "kind": "sentence",
+      "en": "In our science class, we read an article about bees.",
+      "vi": "Trong lớp khoa học, chúng tôi đọc bài viết về ong."
+    },
+    {
+      "id": "s2-07-02",
+      "kind": "sentence",
+      "en": "Our teacher brings a magazine and a newspaper, and we compare their pictures.",
+      "vi": "Cô giáo mang tạp chí và báo đến để cả lớp so sánh ảnh."
+    },
+    {
+      "id": "s2-07-03",
+      "kind": "sentence",
+      "en": "The subject seems difficult at first, but one simple exercise helps: we draw a garden with places for bees to rest.",
+      "vi": "Ban đầu, chủ đề có vẻ khó, nhưng một bài tập đơn giản giúp chúng tôi hiểu: vẽ khu vườn có chỗ cho ong nghỉ."
+    },
+    {
+      "id": "s2-07-04",
+      "kind": "sentence",
+      "en": "For homework, we must find another useful fact at the library.",
+      "vi": "Bài tập về nhà là tìm thêm một thông tin hữu ích ở thư viện."
+    },
+    {
+      "id": "s2-07-05",
+      "kind": "sentence",
+      "en": "This lesson is part of a short course about animals near our homes.",
+      "vi": "Bài học thuộc khóa ngắn hạn về động vật quanh nhà."
+    },
+    {
+      "id": "s2-07-06",
+      "kind": "sentence",
+      "en": "I used to be afraid of bees.",
+      "vi": "Trước đây tôi sợ ong."
+    },
+    {
+      "id": "s2-07-07",
+      "kind": "sentence",
+      "en": "Now I want to understand them before I move away.",
+      "vi": "Giờ tôi muốn hiểu chúng trước khi tránh ra xa."
+    }
+  ]
+}

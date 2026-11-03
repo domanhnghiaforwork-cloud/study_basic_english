@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 26,
+  "sourceFile": "paragraph/26_the_river_behind_the_workshop.md",
+  "sourceSha256": "5853dedf1fc8932d4f24bf1d75db9a1d70ceb640879ab572336aa3ae0ff62a73",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-26-01",
+      "kind": "sentence",
+      "en": "A small fire in a fictional workshop leaves ash beside the river.",
+      "vi": "Đám cháy nhỏ trong xưởng hư cấu để tro bên sông."
+    },
+    {
+      "id": "s3-26-02",
+      "kind": "sentence",
+      "en": "Nobody is injured, but a child notices one flame reflected in dirty water.",
+      "vi": "Không ai bị thương, nhưng em nhỏ thấy ngọn lửa phản chiếu trên nước bẩn."
+    },
+    {
+      "id": "s3-26-03",
+      "kind": "sentence",
+      "en": "The story becomes a class project about pollution.",
+      "vi": "Câu chuyện thành dự án lớp về ô nhiễm."
+    },
+    {
+      "id": "s3-26-04",
+      "kind": "sentence",
+      "en": "We make separate labels for wastewater, garbage, trash, and rubbish, then discuss how some words overlap.",
+      "vi": "Chúng tôi làm nhãn riêng cho nước thải và ba từ chỉ rác, rồi bàn nghĩa chồng lấn."
+    },
+    {
+      "id": "s3-26-05",
+      "kind": "sentence",
+      "en": "Our model town adds a recycling station and treats water as a shared resource.",
+      "vi": "Thị trấn mô hình thêm trạm tái chế, coi nước là tài nguyên chung."
+    },
+    {
+      "id": "s3-26-06",
+      "kind": "sentence",
+      "en": "The final scene shows neighbors cleaning the riverbank together.",
+      "vi": "Cảnh cuối là hàng xóm cùng dọn bờ sông."
+    },
+    {
+      "id": "s3-26-07",
+      "kind": "sentence",
+      "en": "It is an imagined town, but the questions about responsibility feel close to home.",
+      "vi": "Thị trấn tưởng tượng, nhưng câu hỏi trách nhiệm gần đời thật."
+    }
+  ]
+}

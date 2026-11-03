@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 6,
+  "sourceFile": "paragraph/06_a_film_for_grandma.md",
+  "sourceSha256": "df43926f5ffe9416d244ef0318f0567d1c3492f2c91af126979ec4d596cce4eb",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-06-01",
+      "kind": "sentence",
+      "en": "Grandma tells me a story about the first cinema in her village.",
+      "vi": "Bà kể chuyện về rạp chiếu phim đầu tiên ở làng."
+    },
+    {
+      "id": "s2-06-02",
+      "kind": "sentence",
+      "en": "I want to make a short film about it, so I open a video app on my computer.",
+      "vi": "Muốn làm một bộ phim ngắn về chuyện ấy, tôi mở ứng dụng video trên máy tính."
+    },
+    {
+      "id": "s2-06-03",
+      "kind": "sentence",
+      "en": "The software lets me add audio from our conversation and some quiet music.",
+      "vi": "Phần mềm cho phép thêm âm thanh cuộc trò chuyện và nhạc nhẹ."
+    },
+    {
+      "id": "s2-06-04",
+      "kind": "sentence",
+      "en": "Grandma chooses a song she remembers from childhood.",
+      "vi": "Bà chọn bài hát bà nhớ từ thời thơ ấu."
+    },
+    {
+      "id": "s2-06-05",
+      "kind": "sentence",
+      "en": "We use old photos instead of actors.",
+      "vi": "Chúng tôi dùng ảnh cũ thay diễn viên."
+    },
+    {
+      "id": "s2-06-06",
+      "kind": "sentence",
+      "en": "Our movie is only three minutes long, but the village news page shares it.",
+      "vi": "Bộ phim chỉ dài ba phút nhưng được trang tin của làng chia sẻ."
+    },
+    {
+      "id": "s2-06-07",
+      "kind": "sentence",
+      "en": "That evening, Grandma receives calls from friends she has not seen for years.",
+      "vi": "Tối ấy, bà nhận cuộc gọi từ những người bạn đã nhiều năm không gặp."
+    }
+  ]
+}

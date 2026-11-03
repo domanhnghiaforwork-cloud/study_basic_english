@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 36,
+  "sourceFile": "paragraph/36_grandpa_s_taste_test.md",
+  "sourceSha256": "a3fca1747b9687434f98fb37eb3fd71c3b0b848e8c8ff068efeaa2262345461d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-36-01",
+      "kind": "sentence",
+      "en": "Grandpa sets six little bowls on the kitchen table.",
+      "vi": "Ông đặt sáu bát nhỏ trên bàn bếp."
+    },
+    {
+      "id": "s2-36-02",
+      "kind": "sentence",
+      "en": "One contains honey, another vinegar, and another a dark sauce.",
+      "vi": "Một bát có mật ong, một bát giấm, một bát nước xốt sẫm màu."
+    },
+    {
+      "id": "s2-36-03",
+      "kind": "sentence",
+      "en": "He asks me to describe each taste: sweet, sour, bitter, salty, or spicy.",
+      "vi": "Ông yêu cầu tôi tả vị từng bát: ngọt, chua, đắng, mặn hay cay."
+    },
+    {
+      "id": "s2-36-04",
+      "kind": "sentence",
+      "en": "Then he shows me how flour becomes a soft dough when we add water.",
+      "vi": "Rồi ông chỉ cách bột mì thành khối bột mềm khi thêm nước."
+    },
+    {
+      "id": "s2-36-05",
+      "kind": "sentence",
+      "en": "We cook small pieces and try different toppings.",
+      "vi": "Chúng tôi nấu từng miếng nhỏ, thử các loại phủ khác nhau."
+    },
+    {
+      "id": "s2-36-06",
+      "kind": "sentence",
+      "en": "Some combinations are delicious, and others make us laugh.",
+      "vi": "Có cách kết hợp ngon, có cách làm cả hai bật cười."
+    },
+    {
+      "id": "s2-36-07",
+      "kind": "sentence",
+      "en": "Grandpa says a good cook pays attention before adding more.",
+      "vi": "Ông nói đầu bếp giỏi phải để ý trước khi thêm đồ."
+    },
+    {
+      "id": "s2-36-08",
+      "kind": "sentence",
+      "en": "I write that sentence at the top of our new recipe book.",
+      "vi": "Tôi ghi câu ấy lên đầu sổ công thức mới."
+    }
+  ]
+}

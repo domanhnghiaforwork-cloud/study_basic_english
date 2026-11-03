@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 1,
+  "sourceFile": "paragraph/01_opening_the_workshop_doors.md",
+  "sourceSha256": "821519ae4916d86a55cbb34076136ca39d4d363d7c918ef2c8aa679fc75f7926",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-01-01",
+      "kind": "sentence",
+      "en": "The town workshop used to open only during school hours.",
+      "vi": "Xưởng học tập của thị trấn trước đây chỉ mở trong giờ học."
+    },
+    {
+      "id": "s3-01-02",
+      "kind": "sentence",
+      "en": "Giving evening access to everyone became our club's greatest achievement.",
+      "vi": "Cho mọi người vào buổi tối trở thành thành tựu lớn nhất của câu lạc bộ."
+    },
+    {
+      "id": "s3-01-03",
+      "kind": "sentence",
+      "en": "At first, an argument divided the members: some feared noisy behavior, while others saw an advantage for working parents.",
+      "vi": "Ban đầu, thành viên tranh luận: có người lo hành vi ồn ào, người khác thấy lợi thế cho phụ huynh đi làm."
+    },
+    {
+      "id": "s3-01-04",
+      "kind": "sentence",
+      "en": "We reached an agreement after a simple analysis of attendance.",
+      "vi": "Sau khi phân tích đơn giản lượng người đến, chúng tôi đạt thỏa thuận."
+    },
+    {
+      "id": "s3-01-05",
+      "kind": "sentence",
+      "en": "A small amount of money paid for better lights.",
+      "vi": "Một khoản tiền nhỏ được dùng mua đèn tốt hơn."
+    },
+    {
+      "id": "s3-01-06",
+      "kind": "sentence",
+      "en": "More important was a change in attitude.",
+      "vi": "Quan trọng hơn là sự thay đổi thái độ."
+    },
+    {
+      "id": "s3-01-07",
+      "kind": "sentence",
+      "en": "Volunteers began paying attention to what visitors needed, and the workshop slowly became a place where the whole neighborhood could learn.",
+      "vi": "Tình nguyện viên chú ý nhu cầu khách, xưởng dần trở thành nơi cả khu phố cùng học."
+    }
+  ]
+}

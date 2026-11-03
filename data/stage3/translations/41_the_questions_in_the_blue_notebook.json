@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 41,
+  "sourceFile": "paragraph/41_the_questions_in_the_blue_notebook.md",
+  "sourceSha256": "c80c2b1e6e69515213fa7c648ccb063a1ad57a787905c22678726a42a1caac15",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-41-01",
+      "kind": "sentence",
+      "en": "During her recovery, Aunt Mai keeps a blue notebook beside her bed.",
+      "vi": "Trong thời gian hồi phục, dì Mai giữ sổ xanh cạnh giường."
+    },
+    {
+      "id": "s3-41-02",
+      "kind": "sentence",
+      "en": "It contains questions about surgery, the operation she remembers only briefly, and her period of hospitalization.",
+      "vi": "Sổ có câu hỏi về phẫu thuật, ca mổ dì chỉ nhớ mơ hồ và thời gian nằm viện."
+    },
+    {
+      "id": "s3-41-03",
+      "kind": "sentence",
+      "en": "Before each visit, she writes down the medication and prescription she wants to discuss.",
+      "vi": "Trước mỗi lần khám, dì ghi thuốc, đơn thuốc muốn trao đổi."
+    },
+    {
+      "id": "s3-41-04",
+      "kind": "sentence",
+      "en": "A page about an allergy sits beside one mentioning an injection and a vaccine from an earlier appointment.",
+      "vi": "Trang về dị ứng nằm cạnh trang nhắc mũi tiêm và vắc xin từ lần hẹn trước."
+    },
+    {
+      "id": "s3-41-05",
+      "kind": "sentence",
+      "en": "Her therapy sessions have their own section.",
+      "vi": "Các buổi trị liệu có mục riêng."
+    },
+    {
+      "id": "s3-41-06",
+      "kind": "sentence",
+      "en": "Writing helps her remember what she wants to ask, and I help by carrying the notebook when we walk together.",
+      "vi": "Viết giúp dì nhớ điều cần hỏi; tôi giúp mang sổ khi hai dì cháu đi bộ."
+    }
+  ]
+}

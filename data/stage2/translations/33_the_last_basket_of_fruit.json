@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 33,
+  "sourceFile": "paragraph/33_the_last_basket_of_fruit.md",
+  "sourceSha256": "8753fc47de2a6288b3f46683806b58cfc62621dcad952fded3a02d39fabbe9e6",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-33-01",
+      "kind": "sentence",
+      "en": "At the end of the market day, our stall has one cucumber, a cabbage, and a mushroom left.",
+      "vi": "Cuối buổi chợ, quầy còn một quả dưa chuột, một bắp cải và một cây nấm."
+    },
+    {
+      "id": "s2-33-02",
+      "kind": "sentence",
+      "en": "There is also a small bag of bean seeds and some corn.",
+      "vi": "Còn túi hạt đậu nhỏ và ít ngô."
+    },
+    {
+      "id": "s2-33-03",
+      "kind": "sentence",
+      "en": "Grandma puts the vegetables in a basket for our neighbor.",
+      "vi": "Bà xếp rau vào giỏ cho hàng xóm."
+    },
+    {
+      "id": "s2-33-04",
+      "kind": "sentence",
+      "en": "Then she chooses fruit for us: a lemon, a lime, a mango, a pineapple, and one last grape.",
+      "vi": "Rồi bà chọn trái cây cho chúng tôi: chanh vàng, chanh xanh, xoài, dứa và một quả nho cuối."
+    },
+    {
+      "id": "s2-33-05",
+      "kind": "sentence",
+      "en": "My brother laughs at the lonely grape.",
+      "vi": "Anh trai bật cười vì quả nho lẻ loi."
+    },
+    {
+      "id": "s2-33-06",
+      "kind": "sentence",
+      "en": "Grandma cuts the larger fruit into pieces, and we all share a colorful snack before cleaning the empty stall.",
+      "vi": "Bà cắt quả lớn thành miếng để cả nhà cùng ăn bữa phụ đầy màu sắc trước khi dọn quầy trống."
+    }
+  ]
+}

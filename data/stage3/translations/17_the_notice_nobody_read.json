@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 17,
+  "sourceFile": "paragraph/17_the_notice_nobody_read.md",
+  "sourceSha256": "1f8043a9bb7681ba4b082e43ca8ded557d464318b9146a86f6d6bddb0fdc929c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-17-01",
+      "kind": "sentence",
+      "en": "A bicycle club discovers that good communication requires more than one announcement.",
+      "vi": "Câu lạc bộ xe đạp nhận ra giao tiếp tốt cần hơn một thông báo."
+    },
+    {
+      "id": "s3-17-02",
+      "kind": "sentence",
+      "en": "Its first notice is too small, and nobody understands the registration form.",
+      "vi": "Tờ báo tin đầu quá nhỏ, chẳng ai hiểu mẫu đăng ký."
+    },
+    {
+      "id": "s3-17-03",
+      "kind": "sentence",
+      "en": "A volunteer rewrites it and adds a short statement explaining the ride.",
+      "vi": "Tình nguyện viên viết lại, thêm lời giải thích ngắn về chuyến đi."
+    },
+    {
+      "id": "s3-17-04",
+      "kind": "sentence",
+      "en": "The group keeps a record of questions and prepares a report about the changes.",
+      "vi": "Nhóm ghi nhận câu hỏi, làm báo cáo về thay đổi."
+    },
+    {
+      "id": "s3-17-05",
+      "kind": "sentence",
+      "en": "When someone asks about a license or permit, the organizer directs them to the appropriate office rather than guessing.",
+      "vi": "Ai hỏi giấy phép hoặc giấy cho phép thì người tổ chức hướng đến đúng cơ quan, không đoán."
+    },
+    {
+      "id": "s3-17-06",
+      "kind": "sentence",
+      "en": "Attendance grows after the club starts listening to confusion instead of blaming people for missing the message.",
+      "vi": "Số người tham gia tăng khi câu lạc bộ lắng nghe điều gây khó hiểu thay vì trách người bỏ lỡ tin."
+    }
+  ]
+}

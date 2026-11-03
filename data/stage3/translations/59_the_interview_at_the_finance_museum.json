@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 59,
+  "sourceFile": "paragraph/59_the_interview_at_the_finance_museum.md",
+  "sourceSha256": "cc298ff06d0b4a0e6ec7f4f1e43a366d8da9f220f78a4d36971581888449ff6d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-59-01",
+      "kind": "sentence",
+      "en": "A museum about the economy advertises a part-time job.",
+      "vi": "Bảo tàng kinh tế tuyển việc bán thời gian."
+    },
+    {
+      "id": "s3-59-02",
+      "kind": "sentence",
+      "en": "During recruitment, applicants bring a resume, one reference, and evidence of a relevant qualification.",
+      "vi": "Trong tuyển dụng, ứng viên mang sơ yếu lý lịch, một người giới thiệu, bằng chứng trình độ phù hợp."
+    },
+    {
+      "id": "s3-59-03",
+      "kind": "sentence",
+      "en": "My aunt applies after receiving her pension because she wants to stay active.",
+      "vi": "Dì nộp sau khi nhận lương hưu vì muốn năng động."
+    },
+    {
+      "id": "s3-59-04",
+      "kind": "sentence",
+      "en": "At the interview, she talks about explaining financial records to beginners.",
+      "vi": "Phỏng vấn, dì kể việc giải thích sổ tài chính cho người mới."
+    },
+    {
+      "id": "s3-59-05",
+      "kind": "sentence",
+      "en": "She does not claim to know every economic theory or every detail of finance.",
+      "vi": "Dì không nhận biết mọi lý thuyết kinh tế hay chi tiết tài chính."
+    },
+    {
+      "id": "s3-59-06",
+      "kind": "sentence",
+      "en": "She offers patience and years of listening to people's questions.",
+      "vi": "Dì có kiên nhẫn và nhiều năm nghe câu hỏi."
+    },
+    {
+      "id": "s3-59-07",
+      "kind": "sentence",
+      "en": "A week later, the museum asks her to help design its first workshop for families.",
+      "vi": "Một tuần sau, bảo tàng mời giúp thiết kế buổi học gia đình đầu tiên."
+    }
+  ]
+}

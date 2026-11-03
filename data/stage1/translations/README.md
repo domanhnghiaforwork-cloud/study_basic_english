@@ -33,7 +33,7 @@ python -X utf8 scripts/build_lessons.py
 python -X utf8 scripts/build_lessons.py --check
 ```
 
-Lệnh đầu tạo lại `web/data/lessons.json`; lệnh thứ hai chỉ kiểm tra. Công cụ sẽ kiểm tra đủ 50 bài, toàn bộ đoạn gốc được map liên tục, không thiếu bản dịch, mỗi bài có 10 từ trọng tâm và phủ đủ 500 mục từ nguồn.
+Lệnh đầu tạo lại `web/data/lessons.json`; lệnh thứ hai chỉ kiểm tra. Công cụ nối các stage có bài đọc thành danh sách liên tục, kiểm tra toàn bộ đoạn gốc được map đầy đủ, không thiếu bản dịch, mỗi bài có 10 từ trọng tâm và phủ đủ mục từ nguồn của các stage. Hiện có 200 bài với 2.000 mục từ; riêng stage 1 có 50 bài với 500 mục từ.
 
 Nếu sửa đoạn tiếng Anh, cần sửa `segments.en`, bản dịch liên quan và cập nhật `sourceSha256` sau khi đối chiếu. Không bỏ qua kiểm tra mã nguồn để giữ bản dịch cũ.
 

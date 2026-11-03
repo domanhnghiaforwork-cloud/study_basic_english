@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 81,
+  "sourceFile": "paragraph/81_the_festival_team_learns_to_talk.md",
+  "sourceSha256": "a43868ec6371c5e41625e94398db36ca8259201f8bd35f554dd6bb0c8072485e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-81-01",
+      "kind": "sentence",
+      "en": "We cannot complete the festival plan because every meeting ends in blame.",
+      "vi": "Chúng tôi không thể xong kế hoạch lễ hội vì họp nào cũng kết bằng đổ lỗi."
+    },
+    {
+      "id": "s3-81-02",
+      "kind": "sentence",
+      "en": "People complain about noise, claim the best tasks, and bother those trying to concentrate.",
+      "vi": "Mọi người phàn nàn tiếng ồn, giành việc tốt, làm phiền người tập trung."
+    },
+    {
+      "id": "s3-81-03",
+      "kind": "sentence",
+      "en": "Our organizer asks us to communicate through one shared notebook.",
+      "vi": "Người tổ chức đề nghị trao đổi qua sổ chung."
+    },
+    {
+      "id": "s3-81-04",
+      "kind": "sentence",
+      "en": "We combine related jobs, confirm each deadline, and stop assuming that silence means agreement.",
+      "vi": "Chúng tôi gộp việc liên quan, xác nhận hạn, ngừng coi im lặng là đồng ý."
+    },
+    {
+      "id": "s3-81-05",
+      "kind": "sentence",
+      "en": "The change feels slow until the first stall opens exactly on time.",
+      "vi": "Thay đổi chậm đến khi quầy đầu mở đúng giờ."
+    },
+    {
+      "id": "s3-81-06",
+      "kind": "sentence",
+      "en": "That evening, we celebrate with tea among the empty tables.",
+      "vi": "Tối ấy, chúng tôi mừng bằng trà giữa bàn trống."
+    },
+    {
+      "id": "s3-81-07",
+      "kind": "sentence",
+      "en": "Nobody calls the plan perfect, but we finally recognize the work behind one another's tired smiles.",
+      "vi": "Chẳng ai gọi kế hoạch hoàn hảo, nhưng cuối cùng chúng tôi nhận ra công sức sau nụ cười mệt của nhau."
+    }
+  ]
+}

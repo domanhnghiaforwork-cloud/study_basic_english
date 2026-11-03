@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 21,
+  "sourceFile": "paragraph/21_a_tool_for_our_school_garden.md",
+  "sourceSha256": "b10735623e011cc5866d949dff10353761c408b49eae60d47b0e53f3d12280ac",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-21-01",
+      "kind": "sentence",
+      "en": "Our class needs a tool for the school garden, so we go shopping at a farm store.",
+      "vi": "Lớp cần dụng cụ cho vườn trường nên chúng tôi đi mua ở cửa hàng nông cụ."
+    },
+    {
+      "id": "s2-21-02",
+      "kind": "sentence",
+      "en": "We compare each product carefully instead of choosing a famous brand.",
+      "vi": "Chúng tôi xem kỹ từng sản phẩm thay vì chọn thương hiệu nổi tiếng."
+    },
+    {
+      "id": "s2-21-03",
+      "kind": "sentence",
+      "en": "One item is the right size but too heavy for us.",
+      "vi": "Một món đúng kích thước nhưng quá nặng."
+    },
+    {
+      "id": "s2-21-04",
+      "kind": "sentence",
+      "en": "Another has less weight and a handle that matches my height.",
+      "vi": "Món khác nhẹ hơn, có tay cầm hợp chiều cao của tôi."
+    },
+    {
+      "id": "s2-21-05",
+      "kind": "sentence",
+      "en": "The shopkeeper lets us try it in a small field behind the building.",
+      "vi": "Người bán cho thử ở cánh đồng nhỏ sau cửa hàng."
+    },
+    {
+      "id": "s2-21-06",
+      "kind": "sentence",
+      "en": "We choose the lighter tool and carry it back together.",
+      "vi": "Chúng tôi chọn dụng cụ nhẹ hơn rồi cùng mang về."
+    },
+    {
+      "id": "s2-21-07",
+      "kind": "sentence",
+      "en": "The next morning, even the youngest students can help us prepare the ground.",
+      "vi": "Sáng sau, ngay cả các bạn nhỏ nhất cũng giúp chuẩn bị đất được."
+    }
+  ]
+}

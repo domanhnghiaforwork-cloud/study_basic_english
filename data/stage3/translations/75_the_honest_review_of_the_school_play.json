@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 75,
+  "sourceFile": "paragraph/75_the_honest_review_of_the_school_play.md",
+  "sourceSha256": "2fef33284b5742dd227474129542f39e5472aee2bdd2e4d9928e1edc8136dd13",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-75-01",
+      "kind": "sentence",
+      "en": "The school paper asks me for an honest review of our play.",
+      "vi": "Báo trường nhờ tôi nhận xét trung thực vở kịch."
+    },
+    {
+      "id": "s3-75-02",
+      "kind": "sentence",
+      "en": "My immediate response is that the costumes were impressive, but the opening was slow.",
+      "vi": "Phản ứng tức thì: trang phục ấn tượng, mở đầu chậm."
+    },
+    {
+      "id": "s3-75-03",
+      "kind": "sentence",
+      "en": "I worry that this will sound unkind.",
+      "vi": "Tôi lo nghe không tử tế."
+    },
+    {
+      "id": "s3-75-04",
+      "kind": "sentence",
+      "en": "At an informal meeting, the director tells me an interesting review can be both fair and kind.",
+      "vi": "Trong buổi gặp thân mật, đạo diễn nói nhận xét thú vị có thể công bằng và tốt."
+    },
+    {
+      "id": "s3-75-05",
+      "kind": "sentence",
+      "en": "An impatient actor calls the audience lazy, yet an innocent question changes the discussion: was the story clear?",
+      "vi": "Diễn viên sốt ruột gọi khán giả lười, nhưng câu hỏi hồn nhiên đổi cuộc bàn: truyện có rõ không?"
+    },
+    {
+      "id": "s3-75-06",
+      "kind": "sentence",
+      "en": "We decide people were likely confused by the first scene.",
+      "vi": "Chúng tôi nghĩ có lẽ người xem bối rối cảnh đầu."
+    },
+    {
+      "id": "s3-75-07",
+      "kind": "sentence",
+      "en": "My review becomes more useful once I describe that problem.",
+      "vi": "Nhận xét hữu ích hơn khi tôi mô tả vấn đề ấy."
+    }
+  ]
+}

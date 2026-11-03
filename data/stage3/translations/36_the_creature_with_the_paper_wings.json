@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 36,
+  "sourceFile": "paragraph/36_the_creature_with_the_paper_wings.md",
+  "sourceSha256": "439ca3ca745f9e60bee15f7f1d407a6150c7e692267b1c1b071ca45bd55532db",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-36-01",
+      "kind": "sentence",
+      "en": "For an art project about wildlife, I invent a creature with soft fur and one bright feather above its beak.",
+      "vi": "Trong dự án mỹ thuật về động vật hoang dã, tôi tạo sinh vật lông mềm, có lông vũ sáng trên mỏ."
+    },
+    {
+      "id": "s3-36-02",
+      "kind": "sentence",
+      "en": "Each wing is made from folded paper, and its tail curls around a cardboard nest.",
+      "vi": "Mỗi cánh bằng giấy gấp, đuôi cuộn quanh tổ bìa."
+    },
+    {
+      "id": "s3-36-03",
+      "kind": "sentence",
+      "en": "My partner adds a small horn and a sharp-looking claw.",
+      "vi": "Bạn thêm sừng nhỏ, móng trông sắc."
+    },
+    {
+      "id": "s3-36-04",
+      "kind": "sentence",
+      "en": "We label it a wild creature from an imaginary island.",
+      "vi": "Chúng tôi ghi nhãn sinh vật hoang dã từ đảo tưởng tượng."
+    },
+    {
+      "id": "s3-36-05",
+      "kind": "sentence",
+      "en": "Then we write a story about why its home needs protection.",
+      "vi": "Rồi viết chuyện vì sao cần bảo vệ nhà nó."
+    },
+    {
+      "id": "s3-36-06",
+      "kind": "sentence",
+      "en": "The teacher asks what it eats, and our beautiful model suddenly requires an entire imaginary world to support it.",
+      "vi": "Cô hỏi nó ăn gì, mô hình đẹp bỗng cần cả thế giới tưởng tượng nâng đỡ."
+    }
+  ]
+}

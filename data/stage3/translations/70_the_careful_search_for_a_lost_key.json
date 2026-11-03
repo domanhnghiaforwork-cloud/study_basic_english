@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 70,
+  "sourceFile": "paragraph/70_the_careful_search_for_a_lost_key.md",
+  "sourceSha256": "390736c6401e976900ddc1400a4883c662f51004e2d9ea761251e62b9e1b678a",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-70-01",
+      "kind": "sentence",
+      "en": "When a museum key disappears, the average visitor notices nothing.",
+      "vi": "Chìa bảo tàng mất, khách bình thường không thấy gì."
+    },
+    {
+      "id": "s3-70-02",
+      "kind": "sentence",
+      "en": "The staff remain calm and give us a clear plan.",
+      "vi": "Nhân viên bình tĩnh cho kế hoạch rõ."
+    },
+    {
+      "id": "s3-70-03",
+      "kind": "sentence",
+      "en": "A brave child offers to search the dark store cupboard, but the guide explains why being careful matters more than being bold.",
+      "vi": "Em nhỏ can đảm xung phong tìm tủ kho tối, nhưng hướng dẫn viên giải thích cẩn thận quan trọng hơn táo bạo."
+    },
+    {
+      "id": "s3-70-04",
+      "kind": "sentence",
+      "en": "We become aware of a basic mistake: someone used the wrong hook.",
+      "vi": "Chúng tôi nhận ra lỗi cơ bản: có người dùng sai móc."
+    },
+    {
+      "id": "s3-70-05",
+      "kind": "sentence",
+      "en": "A clever volunteer checks the available labels and finds the key at once.",
+      "vi": "Tình nguyện viên thông minh kiểm nhãn sẵn, tìm thấy ngay."
+    },
+    {
+      "id": "s3-70-06",
+      "kind": "sentence",
+      "en": "Nobody is certain who moved it, and nobody calls anyone careless.",
+      "vi": "Chẳng ai chắc ai chuyển, cũng chẳng gọi ai bất cẩn."
+    },
+    {
+      "id": "s3-70-07",
+      "kind": "sentence",
+      "en": "We simply make the hooks easier to tell apart.",
+      "vi": "Chúng tôi chỉ làm móc dễ phân biệt hơn."
+    }
+  ]
+}

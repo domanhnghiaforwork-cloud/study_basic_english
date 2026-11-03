@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 42,
+  "sourceFile": "paragraph/42_the_characters_in_the_clinic_play.md",
+  "sourceSha256": "18fa38002580cb4cdfa989c51913c8d83b9b1bcf9d13feaf8037b21fabe6275d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-42-01",
+      "kind": "sentence",
+      "en": "Our drama club writes a play set in a crowded clinic.",
+      "vi": "Câu lạc bộ kịch viết vở ở phòng khám đông."
+    },
+    {
+      "id": "s3-42-02",
+      "kind": "sentence",
+      "en": "One character arrives with a headache, another with a stomachache, and a third complains of toothache.",
+      "vi": "Một người đến vì đau đầu, người khác đau bụng, người thứ ba đau răng."
+    },
+    {
+      "id": "s3-42-03",
+      "kind": "sentence",
+      "en": "An older visitor wants to discuss diabetes, while a woman is waiting for news about cancer.",
+      "vi": "Khách lớn tuổi muốn trao đổi bệnh tiểu đường, một phụ nữ chờ tin về ung thư."
+    },
+    {
+      "id": "s3-42-04",
+      "kind": "sentence",
+      "en": "A child with asthma sits beside his father.",
+      "vi": "Em bé hen suyễn ngồi cạnh bố."
+    },
+    {
+      "id": "s3-42-05",
+      "kind": "sentence",
+      "en": "My character has a sore hand, a swollen finger, and a bleeding wound drawn with washable paint.",
+      "vi": "Nhân vật tôi đau tay, sưng ngón, có vết thương chảy máu vẽ bằng màu rửa được."
+    },
+    {
+      "id": "s3-42-06",
+      "kind": "sentence",
+      "en": "We revise the scene carefully so the people sound like individuals with different worries, rather than a list of medical words.",
+      "vi": "Chúng tôi sửa cảnh kỹ để nhân vật giống người riêng biệt với lo lắng khác nhau, thay vì danh sách từ y khoa."
+    }
+  ]
+}

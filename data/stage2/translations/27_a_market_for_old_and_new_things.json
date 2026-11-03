@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 27,
+  "sourceFile": "paragraph/27_a_market_for_old_and_new_things.md",
+  "sourceSha256": "5e70bc01e879343ee8677f47fa557bc5461874059ebf129561cdeafa56729aa0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-27-01",
+      "kind": "sentence",
+      "en": "At the weekend market, Dad looks at a silver spoon beside a gold ring.",
+      "vi": "Ở chợ cuối tuần, bố ngắm chiếc thìa bạc cạnh nhẫn vàng."
+    },
+    {
+      "id": "s2-27-02",
+      "kind": "sentence",
+      "en": "They are expensive, so we only admire them.",
+      "vi": "Chúng đắt nên hai bố con chỉ ngắm."
+    },
+    {
+      "id": "s2-27-03",
+      "kind": "sentence",
+      "en": "A cheap stone bowl catches my eye instead.",
+      "vi": "Một chiếc bát đá rẻ lại thu hút tôi."
+    },
+    {
+      "id": "s2-27-04",
+      "kind": "sentence",
+      "en": "The seller explains its traditional pattern and shows a recent photo of the person who made it.",
+      "vi": "Người bán giải thích hoa văn truyền thống và cho xem ảnh gần đây của người làm bát."
+    },
+    {
+      "id": "s2-27-05",
+      "kind": "sentence",
+      "en": "Nearby, a modern stall sells fresh bread.",
+      "vi": "Gần đó, quầy hiện đại bán bánh mì mới."
+    },
+    {
+      "id": "s2-27-06",
+      "kind": "sentence",
+      "en": "Dad buys a loaf while I carry my bowl carefully.",
+      "vi": "Bố mua một ổ, còn tôi cẩn thận ôm bát."
+    },
+    {
+      "id": "s2-27-07",
+      "kind": "sentence",
+      "en": "It is not the most valuable thing at the market, but I know I will use it every morning.",
+      "vi": "Nó không quý giá nhất chợ, nhưng tôi biết mình sẽ dùng mỗi sáng."
+    }
+  ]
+}

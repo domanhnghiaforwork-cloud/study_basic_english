@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 24,
+  "sourceFile": "paragraph/24_packing_for_different_weather.md",
+  "sourceSha256": "30857557c390342e806c38fc8d120a18a034957b1b79a60d3b6ef325b19cb2c7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-24-01",
+      "kind": "sentence",
+      "en": "I spread my clothes across the bed before our trip.",
+      "vi": "Trước chuyến đi, tôi bày quần áo trên giường."
+    },
+    {
+      "id": "s2-24-02",
+      "kind": "sentence",
+      "en": "A shirt and a light tee will be useful on warm days.",
+      "vi": "Áo sơ mi và áo thun nhẹ sẽ hữu ích vào ngày ấm."
+    },
+    {
+      "id": "s2-24-03",
+      "kind": "sentence",
+      "en": "For cooler evenings, I choose a blouse, a sweater, and a jacket.",
+      "vi": "Cho buổi tối mát hơn, tôi chọn áo kiểu, áo len và áo khoác."
+    },
+    {
+      "id": "s2-24-04",
+      "kind": "sentence",
+      "en": "Mom says a heavy coat is unnecessary, but rain is possible.",
+      "vi": "Mẹ nói không cần áo choàng dày, nhưng có thể mưa."
+    },
+    {
+      "id": "s2-24-05",
+      "kind": "sentence",
+      "en": "I put pants and jeans beside my shorts, then add a skirt for our family dinner.",
+      "vi": "Tôi xếp quần dài, quần jean cạnh quần soóc, rồi thêm váy cho bữa tối gia đình."
+    },
+    {
+      "id": "s2-24-06",
+      "kind": "sentence",
+      "en": "The bag is almost full.",
+      "vi": "Túi gần đầy."
+    },
+    {
+      "id": "s2-24-07",
+      "kind": "sentence",
+      "en": "After looking at the weather again, I take out two things and leave room for the books I want to bring.",
+      "vi": "Xem lại thời tiết, tôi bỏ ra hai món để chừa chỗ cho sách muốn mang theo."
+    }
+  ]
+}

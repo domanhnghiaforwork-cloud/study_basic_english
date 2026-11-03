@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 28,
+  "sourceFile": "paragraph/28_the_forest_that_kept_its_stories.md",
+  "sourceSha256": "749ad4ed61c33e287aa5a9c44400cc6aca16e9e7fb113dfb467858aad726fb63",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-28-01",
+      "kind": "sentence",
+      "en": "In our adventure story, one ancient tree survives an earthquake and a flood.",
+      "vi": "Trong truyện phiêu lưu, cây cổ thụ sống sót qua động đất và lũ."
+    },
+    {
+      "id": "s3-28-02",
+      "kind": "sentence",
+      "en": "A nearby volcano leaves black stones after an eruption, while years of drought change the valley below.",
+      "vi": "Núi lửa gần đó để đá đen sau phun trào, nhiều năm hạn hán đổi thung lũng dưới chân."
+    },
+    {
+      "id": "s3-28-03",
+      "kind": "sentence",
+      "en": "During a freezing winter, a child finds a rare plant near its roots.",
+      "vi": "Mùa đông lạnh cóng, em nhỏ thấy cây hiếm gần rễ."
+    },
+    {
+      "id": "s3-28-04",
+      "kind": "sentence",
+      "en": "She wonders how each species has endured so much.",
+      "vi": "Em tự hỏi mỗi loài chịu đựng nhiều đến vậy thế nào."
+    },
+    {
+      "id": "s3-28-05",
+      "kind": "sentence",
+      "en": "Her grandmother says every disaster leaves a story, though some stories are difficult to read.",
+      "vi": "Bà nói mỗi thảm họa để câu chuyện, dù có chuyện khó đọc."
+    },
+    {
+      "id": "s3-28-06",
+      "kind": "sentence",
+      "en": "The child begins drawing the forest, hoping to preserve what she can before the next season changes it again.",
+      "vi": "Em bắt đầu vẽ rừng, mong giữ điều có thể trước khi mùa tới lại thay đổi."
+    }
+  ]
+}

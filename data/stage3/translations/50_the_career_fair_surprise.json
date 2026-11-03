@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 50,
+  "sourceFile": "paragraph/50_the_career_fair_surprise.md",
+  "sourceSha256": "1e05e550305c2f2caf3ab980add3cc2047bb7d9de460dd20c87e421eb4e0accb",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-50-01",
+      "kind": "sentence",
+      "en": "The biggest surprise at our career fair is how many people work together on one building.",
+      "vi": "Bất ngờ lớn nhất ở hội nghề trường là nhiều người cùng làm một tòa nhà."
+    },
+    {
+      "id": "s3-50-02",
+      "kind": "sentence",
+      "en": "An architect explains the plan, an engineer checks a model, and a designer chooses materials.",
+      "vi": "Kiến trúc sư giải thích bản vẽ, kỹ sư kiểm mô hình, nhà thiết kế chọn vật liệu."
+    },
+    {
+      "id": "s3-50-03",
+      "kind": "sentence",
+      "en": "A developer describes the software behind their work, and a programmer shows us a small demonstration.",
+      "vi": "Nhà phát triển tả phần mềm sau công việc, lập trình viên trình diễn ngắn."
+    },
+    {
+      "id": "s3-50-04",
+      "kind": "sentence",
+      "en": "Nearby, an accountant and an auditor discuss records from an imaginary company.",
+      "vi": "Gần đó, kế toán và kiểm toán bàn sổ công ty tưởng tượng."
+    },
+    {
+      "id": "s3-50-05",
+      "kind": "sentence",
+      "en": "I arrived hoping to choose a profession by lunch.",
+      "vi": "Tôi đến mong chọn nghề trước trưa."
+    },
+    {
+      "id": "s3-50-06",
+      "kind": "sentence",
+      "en": "Instead, I leave with better questions about each occupation and the kinds of problems I enjoy solving.",
+      "vi": "Thay vào đó, tôi về với câu hỏi tốt hơn về từng nghề và kiểu vấn đề mình thích giải."
+    }
+  ]
+}

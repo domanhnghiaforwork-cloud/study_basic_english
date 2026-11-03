@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 6,
+  "sourceFile": "paragraph/06_the_story_beneath_a_name.md",
+  "sourceSha256": "70ac0b49c4a772247c892fbbd17cade5835a6d0e99fb066fdca0d015809ba14f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-06-01",
+      "kind": "sentence",
+      "en": "Our school newspaper asks whether names influence identity.",
+      "vi": "Báo trường hỏi tên gọi có ảnh hưởng bản sắc không."
+    },
+    {
+      "id": "s3-06-02",
+      "kind": "sentence",
+      "en": "I interview my grandmother, whose interest in the issue comes from years of hearing her name pronounced incorrectly.",
+      "vi": "Tôi phỏng vấn bà, người quan tâm vấn đề vì nhiều năm nghe tên mình bị phát âm sai."
+    },
+    {
+      "id": "s3-06-03",
+      "kind": "sentence",
+      "en": "In her opinion, there is no single method for teaching respect, but listening is a useful beginning.",
+      "vi": "Theo bà, không có một phương pháp duy nhất dạy tôn trọng, nhưng lắng nghe là khởi đầu hữu ích."
+    },
+    {
+      "id": "s3-06-04",
+      "kind": "sentence",
+      "en": "She speaks about the importance of justice in small daily encounters.",
+      "vi": "Bà nói về tầm quan trọng của công bằng trong gặp gỡ nhỏ hằng ngày."
+    },
+    {
+      "id": "s3-06-05",
+      "kind": "sentence",
+      "en": "There is a limit to what one article can change.",
+      "vi": "Một bài báo chỉ thay đổi được trong giới hạn."
+    },
+    {
+      "id": "s3-06-06",
+      "kind": "sentence",
+      "en": "Still, I feel lucky to have this conversation, and I hope luck will lead a few readers to ask about someone else's story.",
+      "vi": "Dù vậy, tôi thấy may mắn vì cuộc trò chuyện, mong may mắn khiến vài độc giả hỏi về câu chuyện của ai đó."
+    }
+  ]
+}

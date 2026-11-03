@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 87,
+  "sourceFile": "paragraph/87_the_experiment_we_had_to_repeat.md",
+  "sourceSha256": "22a89bb53ea443cdb9e926e9536aa40b242e88faf1dc63ca5c058567da3e8514",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-87-01",
+      "kind": "sentence",
+      "en": "Our science club wants to prove that a new design uses less water.",
+      "vi": "Câu lạc bộ muốn chứng minh thiết kế mới tốn ít nước."
+    },
+    {
+      "id": "s3-87-02",
+      "kind": "sentence",
+      "en": "We observe the first test carefully, but an unexpected leak can occur when the tube bends.",
+      "vi": "Chúng tôi quan sát thử đầu kỹ, nhưng rò bất ngờ có thể xảy ra khi ống cong."
+    },
+    {
+      "id": "s3-87-03",
+      "kind": "sentence",
+      "en": "Before we publish anything, we repeat the experiment and provide notes about the failure.",
+      "vi": "Trước công bố, chúng tôi lặp thí nghiệm, ghi thất bại."
+    },
+    {
+      "id": "s3-87-04",
+      "kind": "sentence",
+      "en": "Younger students participate by timing each run, while older ones perform the measurements.",
+      "vi": "Bạn nhỏ tham gia bấm giờ, bạn lớn đo."
+    },
+    {
+      "id": "s3-87-05",
+      "kind": "sentence",
+      "en": "We offer everyone a chance to mention something uncertain.",
+      "vi": "Chúng tôi cho mọi người nêu điều chưa chắc."
+    },
+    {
+      "id": "s3-87-06",
+      "kind": "sentence",
+      "en": "That honesty does not prevent every mistake.",
+      "vi": "Sự trung thực không ngăn mọi sai sót."
+    },
+    {
+      "id": "s3-87-07",
+      "kind": "sentence",
+      "en": "It does give us a clearer account of what happened and what our results can reasonably show.",
+      "vi": "Nó cho tường thuật rõ hơn việc xảy ra, điều kết quả có thể hợp lý cho thấy."
+    }
+  ]
+}

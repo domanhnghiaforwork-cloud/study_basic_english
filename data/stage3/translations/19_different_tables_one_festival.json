@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 19,
+  "sourceFile": "paragraph/19_different_tables_one_festival.md",
+  "sourceSha256": "ca3fd16d113fd2834b40100e76fade04bcf13b431878a29b5a28df74e0b20a8b",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-19-01",
+      "kind": "sentence",
+      "en": "At our neighborhood festival, each family shares a dish and a tradition.",
+      "vi": "Ở lễ hội khu phố, mỗi nhà chia sẻ món ăn và truyền thống."
+    },
+    {
+      "id": "s3-19-02",
+      "kind": "sentence",
+      "en": "One table explains a religion, while another displays photographs of a journey made in faith.",
+      "vi": "Một bàn giới thiệu tôn giáo, bàn khác trưng ảnh hành trình vì đức tin."
+    },
+    {
+      "id": "s3-19-03",
+      "kind": "sentence",
+      "en": "We learn that respect does not require sharing every belief.",
+      "vi": "Chúng tôi hiểu tôn trọng không đòi cùng mọi niềm tin."
+    },
+    {
+      "id": "s3-19-04",
+      "kind": "sentence",
+      "en": "Later, a discussion about wealth reveals how inequality can hide behind a cheerful event.",
+      "vi": "Sau đó, bàn về của cải cho thấy bất bình đẳng có thể ẩn sau sự kiện vui."
+    },
+    {
+      "id": "s3-19-05",
+      "kind": "sentence",
+      "en": "Organizers promise to work toward equality by removing the entry fee.",
+      "vi": "Ban tổ chức hứa hướng tới bình đẳng bằng cách bỏ phí vào cửa."
+    },
+    {
+      "id": "s3-19-06",
+      "kind": "sentence",
+      "en": "Diversity becomes more than a word when everyone can come.",
+      "vi": "Đa dạng không chỉ là từ khi ai cũng đến được."
+    },
+    {
+      "id": "s3-19-07",
+      "kind": "sentence",
+      "en": "A young visitor describes discrimination she faced elsewhere, and the room becomes quiet enough to listen.",
+      "vi": "Một khách trẻ kể sự phân biệt từng gặp nơi khác, cả phòng lặng đủ để nghe."
+    }
+  ]
+}

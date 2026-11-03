@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 83,
+  "sourceFile": "paragraph/83_the_letters_after_the_flood.md",
+  "sourceSha256": "ca0c9f8d9e8eec5c34dca04e42c767ac852590e826f0b73f8cbd9de81dc5caa8",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-83-01",
+      "kind": "sentence",
+      "en": "After a flood, a volunteer offers to deliver letters between two villages.",
+      "vi": "Sau lũ, tình nguyện viên đề nghị chuyển thư hai làng."
+    },
+    {
+      "id": "s3-83-02",
+      "kind": "sentence",
+      "en": "The families depend on these messages to discover who has reached safety.",
+      "vi": "Gia đình dựa tin nhắn để biết ai an toàn."
+    },
+    {
+      "id": "s3-83-03",
+      "kind": "sentence",
+      "en": "Each letter helps determine where supplies should go next.",
+      "vi": "Mỗi thư giúp xác định nơi cần vật tư tiếp."
+    },
+    {
+      "id": "s3-83-04",
+      "kind": "sentence",
+      "en": "The stories differ, but many describe the same fear: another storm could destroy what remains.",
+      "vi": "Chuyện khác nhau nhưng nhiều thư cùng sợ: bão nữa phá điều còn lại."
+    },
+    {
+      "id": "s3-83-05",
+      "kind": "sentence",
+      "en": "At the hall, neighbors discuss how to develop a better warning system and decrease the danger.",
+      "vi": "Ở hội trường, hàng xóm bàn phát triển cảnh báo tốt hơn, giảm nguy cơ."
+    },
+    {
+      "id": "s3-83-06",
+      "kind": "sentence",
+      "en": "They deserve time to grieve, yet urgent work continues.",
+      "vi": "Họ xứng đáng có thời gian đau buồn, nhưng việc gấp tiếp tục."
+    },
+    {
+      "id": "s3-83-07",
+      "kind": "sentence",
+      "en": "I watch one woman hold a damp envelope as if it contains the first solid thing she has touched all day.",
+      "vi": "Tôi nhìn phụ nữ ôm phong bì ẩm như vật vững chắc đầu tiên bà chạm suốt ngày."
+    }
+  ]
+}

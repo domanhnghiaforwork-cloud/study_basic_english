@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 26,
+  "sourceFile": "paragraph/26_the_gift_made_from_scraps.md",
+  "sourceSha256": "01651ed5aa7ea2ea6106f11c5d14ed9d6e1f4091c6d916fe155c65b00feb831d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-26-01",
+      "kind": "sentence",
+      "en": "For Grandma's birthday, we want to make a gift instead of buying one.",
+      "vi": "Sinh nhật bà, chúng tôi muốn tự làm quà thay vì mua."
+    },
+    {
+      "id": "s2-26-02",
+      "kind": "sentence",
+      "en": "My sister suggests a ring, a necklace, or a bracelet.",
+      "vi": "Em gái gợi ý nhẫn, dây chuyền hoặc vòng tay."
+    },
+    {
+      "id": "s2-26-03",
+      "kind": "sentence",
+      "en": "We search the craft box and find cotton fabric, a little leather, and some smooth wood.",
+      "vi": "Lục hộp thủ công, chúng tôi tìm được vải cotton, chút da và gỗ nhẵn."
+    },
+    {
+      "id": "s2-26-04",
+      "kind": "sentence",
+      "en": "There is also a bent metal handle from an old umbrella.",
+      "vi": "Còn có tay cầm kim loại cong của chiếc ô cũ."
+    },
+    {
+      "id": "s2-26-05",
+      "kind": "sentence",
+      "en": "We avoid the sharp pieces and choose large plastic beads for a necklace.",
+      "vi": "Chúng tôi tránh mảnh sắc, chọn hạt nhựa lớn làm dây chuyền."
+    },
+    {
+      "id": "s2-26-06",
+      "kind": "sentence",
+      "en": "Grandma wears it at dinner and asks how we made it.",
+      "vi": "Bà đeo lúc ăn tối và hỏi chúng tôi làm thế nào."
+    },
+    {
+      "id": "s2-26-07",
+      "kind": "sentence",
+      "en": "Our small gift gives her a whole evening of stories.",
+      "vi": "Món quà nhỏ mang đến cho bà cả tối nghe kể chuyện."
+    }
+  ]
+}

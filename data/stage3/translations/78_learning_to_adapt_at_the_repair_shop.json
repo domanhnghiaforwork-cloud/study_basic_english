@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 78,
+  "sourceFile": "paragraph/78_learning_to_adapt_at_the_repair_shop.md",
+  "sourceSha256": "d3dd63224309698961971131b90f9e14329ac00192711d5c91f7632ef8dd7ce4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-78-01",
+      "kind": "sentence",
+      "en": "My first week at the repair shop teaches me that quick work is not always precise work.",
+      "vi": "Tuần đầu tiệm sửa dạy tôi làm nhanh chưa hẳn chính xác."
+    },
+    {
+      "id": "s3-78-02",
+      "kind": "sentence",
+      "en": "I am proud of finishing a clock until its hands stop again.",
+      "vi": "Tôi tự hào xong đồng hồ đến khi kim lại dừng."
+    },
+    {
+      "id": "s3-78-03",
+      "kind": "sentence",
+      "en": "The owner stays quiet while I discover a loose piece.",
+      "vi": "Chủ yên lặng lúc tôi tìm mảnh lỏng."
+    },
+    {
+      "id": "s3-78-04",
+      "kind": "sentence",
+      "en": "He says a responsible worker takes the problem seriously, but being serious need not mean being afraid.",
+      "vi": "Ông nói người trách nhiệm coi trọng vấn đề, nghiêm túc không có nghĩa sợ."
+    },
+    {
+      "id": "s3-78-05",
+      "kind": "sentence",
+      "en": "With regular practice, I can achieve steadier results and adapt to unfamiliar tasks.",
+      "vi": "Luyện đều, tôi đạt kết quả ổn hơn, thích nghi việc lạ."
+    },
+    {
+      "id": "s3-78-06",
+      "kind": "sentence",
+      "en": "The clock finally works on Friday.",
+      "vi": "Thứ Sáu, đồng hồ cuối cùng chạy."
+    },
+    {
+      "id": "s3-78-07",
+      "kind": "sentence",
+      "en": "Its real lesson has taken longer than the repair itself.",
+      "vi": "Bài học thật lâu hơn việc sửa."
+    }
+  ]
+}

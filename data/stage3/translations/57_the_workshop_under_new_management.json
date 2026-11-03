@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 57,
+  "sourceFile": "paragraph/57_the_workshop_under_new_management.md",
+  "sourceSha256": "1bfdbd07b66b34610a58561fefc40e3643f85a71a3fb60f75325eed58805e565",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-57-01",
+      "kind": "sentence",
+      "en": "The owner of a furniture workshop retires, leaving her former apprentice in charge.",
+      "vi": "Chủ xưởng nội thất nghỉ hưu, giao học trò cũ phụ trách."
+    },
+    {
+      "id": "s3-57-02",
+      "kind": "sentence",
+      "en": "As its founder, she knows every corner, but she refuses to decide everything for him.",
+      "vi": "Là sáng lập viên, bà biết từng góc nhưng không quyết hết thay anh."
+    },
+    {
+      "id": "s3-57-03",
+      "kind": "sentence",
+      "en": "A chairman from their small association introduces a retired executive who offers advice.",
+      "vi": "Chủ tịch hiệp hội nhỏ giới thiệu một quản lý đã nghỉ hưu để góp ý."
+    },
+    {
+      "id": "s3-57-04",
+      "kind": "sentence",
+      "en": "An intern and a trainee help prepare the new catalogue, while a freelancer photographs the work.",
+      "vi": "Thực tập sinh, người tập sự giúp chuẩn bị danh mục mới, người làm tự do chụp sản phẩm."
+    },
+    {
+      "id": "s3-57-05",
+      "kind": "sentence",
+      "en": "A contractor repairs the roof before winter.",
+      "vi": "Nhà thầu sửa mái trước đông."
+    },
+    {
+      "id": "s3-57-06",
+      "kind": "sentence",
+      "en": "The new employer feels nervous, yet the workshop opens on Monday with its familiar smell of wood and a slightly different future.",
+      "vi": "Người chủ mới lo, nhưng thứ Hai xưởng mở với mùi gỗ quen và tương lai hơi khác."
+    }
+  ]
+}

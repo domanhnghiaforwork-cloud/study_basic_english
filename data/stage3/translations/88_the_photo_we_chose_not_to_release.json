@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 88,
+  "sourceFile": "paragraph/88_the_photo_we_chose_not_to_release.md",
+  "sourceSha256": "65888c0e3ceedea486fe21599f81714791f5f456d729edc71a53374d6e7c01b4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-88-01",
+      "kind": "sentence",
+      "en": "We plan to release photographs from the street fair, then realize that some visitors never agreed to appear.",
+      "vi": "Chúng tôi định công bố ảnh hội chợ rồi nhận ra vài khách chưa đồng ý xuất hiện."
+    },
+    {
+      "id": "s3-88-02",
+      "kind": "sentence",
+      "en": "The editor asks us to reflect before posting.",
+      "vi": "Biên tập bảo nghĩ trước đăng."
+    },
+    {
+      "id": "s3-88-03",
+      "kind": "sentence",
+      "en": "We recognize familiar faces, but that does not remove the need to ask.",
+      "vi": "Nhận ra mặt quen không bỏ được việc xin phép."
+    },
+    {
+      "id": "s3-88-04",
+      "kind": "sentence",
+      "en": "Volunteers register requests and remind us which pictures require permission.",
+      "vi": "Tình nguyện viên ghi yêu cầu, nhắc ảnh cần phép."
+    },
+    {
+      "id": "s3-88-05",
+      "kind": "sentence",
+      "en": "Some recommend sharing only wide views; others reject that limit.",
+      "vi": "Có người đề nghị chỉ ảnh toàn cảnh, người khác bác giới hạn."
+    },
+    {
+      "id": "s3-88-06",
+      "kind": "sentence",
+      "en": "We reduce the collection and write captions that relate each image to the event.",
+      "vi": "Chúng tôi giảm bộ ảnh, viết chú thích nối từng ảnh với sự kiện."
+    },
+    {
+      "id": "s3-88-07",
+      "kind": "sentence",
+      "en": "The final album is shorter, yet everyone shown has helped choose how their day is remembered.",
+      "vi": "Album cuối ngắn hơn, nhưng mọi người có mặt đã góp chọn cách ngày mình được nhớ."
+    }
+  ]
+}

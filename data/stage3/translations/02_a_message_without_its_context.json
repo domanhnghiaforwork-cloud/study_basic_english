@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 2,
+  "sourceFile": "paragraph/02_a_message_without_its_context.md",
+  "sourceSha256": "4c29408ede3a0fd10ba6b30b72cdfe98b387bcdeb46c2de7eafa50b304d73b4b",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-02-01",
+      "kind": "sentence",
+      "en": "A screenshot from our club chat causes a conflict.",
+      "vi": "Ảnh chụp màn hình nhóm trò chuyện gây mâu thuẫn."
+    },
+    {
+      "id": "s3-02-02",
+      "kind": "sentence",
+      "en": "The content seems rude until someone reads the whole conversation.",
+      "vi": "Nội dung có vẻ thô lỗ cho đến khi có người đọc toàn bộ cuộc trò chuyện."
+    },
+    {
+      "id": "s3-02-03",
+      "kind": "sentence",
+      "en": "In context, the sentence is clearly a joke between old friends.",
+      "vi": "Trong ngữ cảnh, câu đó rõ ràng là lời đùa giữa bạn cũ."
+    },
+    {
+      "id": "s3-02-04",
+      "kind": "sentence",
+      "en": "We contact both people before making a choice about what to do.",
+      "vi": "Chúng tôi liên hệ cả hai trước khi quyết định xử lý."
+    },
+    {
+      "id": "s3-02-05",
+      "kind": "sentence",
+      "en": "The real challenge is admitting how quickly we judged them.",
+      "vi": "Thử thách thật sự là thừa nhận mình đã phán xét quá nhanh."
+    },
+    {
+      "id": "s3-02-06",
+      "kind": "sentence",
+      "en": "As a condition for sharing screenshots, we agree to ask first.",
+      "vi": "Chúng tôi thống nhất phải hỏi trước khi chia sẻ ảnh chụp màn hình."
+    },
+    {
+      "id": "s3-02-07",
+      "kind": "sentence",
+      "en": "One benefit is greater confidence in the group.",
+      "vi": "Một lợi ích là mọi người tin tưởng nhóm hơn."
+    },
+    {
+      "id": "s3-02-08",
+      "kind": "sentence",
+      "en": "Another consequence is quieter phones: people stop forwarding every surprising message they receive.",
+      "vi": "Hệ quả khác là điện thoại bớt ồn: người ta ngừng chuyển tiếp mọi tin bất ngờ."
+    }
+  ]
+}

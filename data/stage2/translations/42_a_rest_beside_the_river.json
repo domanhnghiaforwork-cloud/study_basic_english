@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 42,
+  "sourceFile": "paragraph/42_a_rest_beside_the_river.md",
+  "sourceSha256": "027a1cb39a9da070ca6a54cf5ba756b54828050c74c29f99f01548576bbc8da5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-42-01",
+      "kind": "sentence",
+      "en": "An accident on the cycling path ends our ride early.",
+      "vi": "Tai nạn đường xe đạp kết chuyến sớm."
+    },
+    {
+      "id": "s2-42-02",
+      "kind": "sentence",
+      "en": "My brother has a small injury, and his knee is hurt.",
+      "vi": "Anh bị thương nhẹ, đầu gối đau."
+    },
+    {
+      "id": "s2-42-03",
+      "kind": "sentence",
+      "en": "A park worker calls for help and checks whether it is an emergency.",
+      "vi": "Nhân viên công viên gọi giúp, kiểm có cấp cứu không."
+    },
+    {
+      "id": "s2-42-04",
+      "kind": "sentence",
+      "en": "While we wait, my brother tries to relax and breathe slowly.",
+      "vi": "Chờ đợi, anh cố thư giãn, thở chậm."
+    },
+    {
+      "id": "s2-42-05",
+      "kind": "sentence",
+      "en": "I sit beside him without trying to touch the sore knee.",
+      "vi": "Tôi ngồi cạnh, không chạm đầu gối đau."
+    },
+    {
+      "id": "s2-42-06",
+      "kind": "sentence",
+      "en": "We can smell bread from a nearby cafe but cannot taste it yet.",
+      "vi": "Chúng tôi ngửi bánh quán gần nhưng chưa nếm được."
+    },
+    {
+      "id": "s2-42-07",
+      "kind": "sentence",
+      "en": "Later, when an adult says he can go home, we make a quiet plan to rest together.",
+      "vi": "Sau khi người lớn bảo về được, chúng tôi lên kế hoạch nghỉ yên cùng nhau."
+    }
+  ]
+}

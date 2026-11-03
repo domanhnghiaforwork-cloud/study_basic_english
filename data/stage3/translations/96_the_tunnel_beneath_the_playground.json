@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 96,
+  "sourceFile": "paragraph/96_the_tunnel_beneath_the_playground.md",
+  "sourceSha256": "e20e28668821ea4af412f322980a9bf108a44f6a3e4264cb835e041c51225ffc",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-96-01",
+      "kind": "sentence",
+      "en": "In our adventure novel, a hidden tunnel causes a delay in building a playground.",
+      "vi": "Trong truyện phiêu lưu, đường hầm kín làm chậm xây sân chơi."
+    },
+    {
+      "id": "s3-96-02",
+      "kind": "sentence",
+      "en": "Officials deny knowing its history, so the children designate one friend to search old maps.",
+      "vi": "Quan chức phủ nhận biết lịch sử, trẻ cử một bạn tìm bản đồ cũ."
+    },
+    {
+      "id": "s3-96-03",
+      "kind": "sentence",
+      "en": "Another uses a lamp to detect marks in the walls.",
+      "vi": "Bạn khác dùng đèn phát hiện dấu tường."
+    },
+    {
+      "id": "s3-96-04",
+      "kind": "sentence",
+      "en": "Before anyone can dig farther, heavy rain makes the entrance disappear beneath mud.",
+      "vi": "Trước khi đào thêm, mưa lớn làm cửa biến dưới bùn."
+    },
+    {
+      "id": "s3-96-05",
+      "kind": "sentence",
+      "en": "The group must distribute supplies and drag a cart to higher ground.",
+      "vi": "Nhóm phải chia vật tư, kéo xe lên cao."
+    },
+    {
+      "id": "s3-96-06",
+      "kind": "sentence",
+      "en": "They escape before the stream begins to expand.",
+      "vi": "Họ thoát trước dòng nước mở rộng."
+    },
+    {
+      "id": "s3-96-07",
+      "kind": "sentence",
+      "en": "Back at home, their questions grow louder than the storm: who built the tunnel, and why hide it?",
+      "vi": "Về nhà, câu hỏi to hơn bão: ai xây hầm, sao giấu?"
+    }
+  ]
+}

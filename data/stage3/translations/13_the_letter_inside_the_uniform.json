@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 13,
+  "sourceFile": "paragraph/13_the_letter_inside_the_uniform.md",
+  "sourceSha256": "81fea3ebf4761138595281898cbbe36e149589d084ce328aea3a992d149a0e00",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-13-01",
+      "kind": "sentence",
+      "en": "In a fictional museum story, a girl finds a letter inside an old military uniform.",
+      "vi": "Trong truyện bảo tàng hư cấu, cô bé tìm thư trong quân phục cũ."
+    },
+    {
+      "id": "s3-13-02",
+      "kind": "sentence",
+      "en": "The writer is a soldier waiting after a battle, wondering whether the war will ever end.",
+      "vi": "Người viết là lính chờ sau trận đánh, tự hỏi chiến tranh bao giờ kết thúc."
+    },
+    {
+      "id": "s3-13-03",
+      "kind": "sentence",
+      "en": "He describes an army camp, a broken weapon, and his longing for his family's safety.",
+      "vi": "Anh kể trại quân đội, vũ khí hỏng và mong gia đình an toàn."
+    },
+    {
+      "id": "s3-13-04",
+      "kind": "sentence",
+      "en": "The girl reads the letter during an exhibition about security and the protection of ordinary people.",
+      "vi": "Cô bé đọc thư trong triển lãm về an ninh và bảo vệ thường dân."
+    },
+    {
+      "id": "s3-13-05",
+      "kind": "sentence",
+      "en": "She adds a note beside it about human rights.",
+      "vi": "Cô thêm ghi chú về nhân quyền bên cạnh."
+    },
+    {
+      "id": "s3-13-06",
+      "kind": "sentence",
+      "en": "Visitors pause longer at this small letter than at the large map of distant fighting.",
+      "vi": "Khách dừng trước lá thư nhỏ lâu hơn trước bản đồ lớn về chiến sự xa."
+    }
+  ]
+}

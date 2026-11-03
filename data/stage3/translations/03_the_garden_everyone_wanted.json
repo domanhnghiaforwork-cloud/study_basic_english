@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 3,
+  "sourceFile": "paragraph/03_the_garden_everyone_wanted.md",
+  "sourceSha256": "840b98a8cca4a92ac40ed8303223ee4be2353cc9f6be8d8e192665b460c63b6c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-03-01",
+      "kind": "sentence",
+      "en": "There is growing demand for a garden behind our community hall.",
+      "vi": "Nhu cầu có vườn sau hội trường cộng đồng ngày càng tăng."
+    },
+    {
+      "id": "s3-03-02",
+      "kind": "sentence",
+      "en": "The development committee collects data about sunlight and water before making a decision.",
+      "vi": "Ủy ban phát triển thu thập dữ liệu nắng, nước trước khi quyết định."
+    },
+    {
+      "id": "s3-03-03",
+      "kind": "sentence",
+      "en": "One detail surprises us: the quietest corner floods after heavy rain.",
+      "vi": "Một chi tiết gây ngạc nhiên: góc yên tĩnh nhất bị ngập sau mưa lớn."
+    },
+    {
+      "id": "s3-03-04",
+      "kind": "sentence",
+      "en": "That danger changes the design.",
+      "vi": "Nguy cơ đó làm thay đổi thiết kế."
+    },
+    {
+      "id": "s3-03-05",
+      "kind": "sentence",
+      "en": "Nobody has complete control over the plan, and cooperation becomes essential.",
+      "vi": "Không ai toàn quyền với kế hoạch, hợp tác trở nên thiết yếu."
+    },
+    {
+      "id": "s3-03-06",
+      "kind": "sentence",
+      "en": "Members from a different culture suggest vegetables we have never grown.",
+      "vi": "Thành viên từ nền văn hóa khác gợi ý rau chúng tôi chưa trồng."
+    },
+    {
+      "id": "s3-03-07",
+      "kind": "sentence",
+      "en": "The difference between our ideas makes the discussion lively.",
+      "vi": "Khác biệt ý tưởng khiến thảo luận sôi nổi."
+    },
+    {
+      "id": "s3-03-08",
+      "kind": "sentence",
+      "en": "By spring, the empty ground holds both familiar plants and the beginning of new friendships.",
+      "vi": "Đến xuân, mảnh đất trống có cây quen và những tình bạn mới bắt đầu."
+    }
+  ]
+}

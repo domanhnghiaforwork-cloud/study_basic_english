@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 37,
+  "sourceFile": "paragraph/37_the_old_dog_s_last_summer.md",
+  "sourceSha256": "5fb2dcc94b5c4677ebcdf3a3a1c491cd76f1d59641d4a6a328127f6c247eae22",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-37-01",
+      "kind": "sentence",
+      "en": "Our domestic dog spends his last summer sleeping beneath a tree.",
+      "vi": "Chú chó nhà dành hè cuối ngủ dưới cây."
+    },
+    {
+      "id": "s3-37-02",
+      "kind": "sentence",
+      "en": "I know he is alive when his tail moves at the sound of my voice, yet I fear the day he will be dead.",
+      "vi": "Tôi biết nó còn sống khi đuôi động theo tiếng mình, nhưng sợ ngày nó chết."
+    },
+    {
+      "id": "s3-37-03",
+      "kind": "sentence",
+      "en": "Grandma says birth and death both belong to life, though that does not make loss easy.",
+      "vi": "Bà nói sinh và tử đều thuộc cuộc sống, dù thế không làm mất mát dễ hơn."
+    },
+    {
+      "id": "s3-37-04",
+      "kind": "sentence",
+      "en": "In school, we learn that sex and gender are different terms, and that natural changes happen over a lifetime.",
+      "vi": "Ở trường, chúng tôi học giới tính sinh học và giới là thuật ngữ khác nhau, những thay đổi tự nhiên xảy ra suốt đời."
+    },
+    {
+      "id": "s3-37-05",
+      "kind": "sentence",
+      "en": "At home, the lesson is quieter: I sit beside our dog and keep him company.",
+      "vi": "Ở nhà, bài học lặng hơn: tôi ngồi cạnh bầu bạn với chó."
+    }
+  ]
+}

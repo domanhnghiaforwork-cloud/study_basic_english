@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 5,
+  "sourceFile": "paragraph/05_the_missing_page.md",
+  "sourceSha256": "a818562d68ed825ad839c054f2f7e978a631467ce3062b026687351f35fcd6c6",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-05-01",
+      "kind": "sentence",
+      "en": "Before our lesson, the teacher asks me to print a document.",
+      "vi": "Trước giờ học, cô giáo nhờ tôi in một tài liệu."
+    },
+    {
+      "id": "s2-05-02",
+      "kind": "sentence",
+      "en": "I open my account with a password and find the correct folder.",
+      "vi": "Tôi dùng mật khẩu đăng nhập tài khoản và tìm đúng thư mục."
+    },
+    {
+      "id": "s2-05-03",
+      "kind": "sentence",
+      "en": "There is only one file inside, but the last page is missing.",
+      "vi": "Trong đó chỉ có một tệp, nhưng trang cuối lại thiếu."
+    },
+    {
+      "id": "s2-05-04",
+      "kind": "sentence",
+      "en": "I move the mouse across the screen and check again.",
+      "vi": "Tôi di chuột trên màn hình và kiểm tra lần nữa."
+    },
+    {
+      "id": "s2-05-05",
+      "kind": "sentence",
+      "en": "Then I notice a message above the keyboard: the printer has no paper.",
+      "vi": "Rồi tôi thấy lời nhắn phía trên bàn phím: máy in hết giấy."
+    },
+    {
+      "id": "s2-05-06",
+      "kind": "sentence",
+      "en": "My friend brings a new pack from the cupboard.",
+      "vi": "Bạn tôi lấy một tập giấy mới từ tủ."
+    },
+    {
+      "id": "s2-05-07",
+      "kind": "sentence",
+      "en": "Soon, everyone has a copy, and I can finally sit down before the lesson begins.",
+      "vi": "Cuối cùng, ai cũng có bản in, và tôi kịp ngồi xuống trước giờ học."
+    }
+  ]
+}

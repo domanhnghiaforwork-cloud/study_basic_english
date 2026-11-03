@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 65,
+  "sourceFile": "paragraph/65_the_poster_that_sold_nothing.md",
+  "sourceSha256": "9cd9bc625e765001bf447a5d9a19b661095b56c213246c9534935b2f794ff88a",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-65-01",
+      "kind": "sentence",
+      "en": "Our school shop makes an advertisement for reusable cups, but consumption barely changes.",
+      "vi": "Cửa hàng trường làm mẫu quảng cáo cốc tái sử dụng nhưng tiêu dùng hầu như không đổi."
+    },
+    {
+      "id": "s3-65-02",
+      "kind": "sentence",
+      "en": "A visiting consumer explains that our advertising never shows the cup clearly.",
+      "vi": "Một người tiêu dùng đến thăm giải thích quảng cáo không cho thấy cốc rõ."
+    },
+    {
+      "id": "s3-65-03",
+      "kind": "sentence",
+      "en": "We revise the marketing plan and arrange a partnership with the art club.",
+      "vi": "Chúng tôi sửa kế hoạch tiếp thị, hợp tác với câu lạc bộ mỹ thuật."
+    },
+    {
+      "id": "s3-65-04",
+      "kind": "sentence",
+      "en": "A local cafe offers sponsorship for a demonstration.",
+      "vi": "Quán địa phương tài trợ buổi giới thiệu."
+    },
+    {
+      "id": "s3-65-05",
+      "kind": "sentence",
+      "en": "After a short negotiation, we reach a deal that keeps the cups affordable.",
+      "vi": "Sau đàm phán ngắn, chúng tôi thỏa thuận giữ cốc vừa túi tiền."
+    },
+    {
+      "id": "s3-65-06",
+      "kind": "sentence",
+      "en": "One student calls the price a bargain, but we ask visitors what they think.",
+      "vi": "Một bạn gọi giá hời, nhưng chúng tôi hỏi khách nghĩ sao."
+    },
+    {
+      "id": "s3-65-07",
+      "kind": "sentence",
+      "en": "This time, listening becomes part of the project before we print another poster.",
+      "vi": "Lần này, lắng nghe là phần dự án trước khi in áp phích khác."
+    }
+  ]
+}

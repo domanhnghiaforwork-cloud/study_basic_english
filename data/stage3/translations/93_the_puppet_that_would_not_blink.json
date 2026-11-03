@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 93,
+  "sourceFile": "paragraph/93_the_puppet_that_would_not_blink.md",
+  "sourceSha256": "f3b669e44880bc28faedd89938989319606c36832aa05c49957f632777035617",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-93-01",
+      "kind": "sentence",
+      "en": "We design a puppet to amuse children at the library.",
+      "vi": "Chúng tôi làm rối mua vui cho trẻ thư viện."
+    },
+    {
+      "id": "s3-93-02",
+      "kind": "sentence",
+      "en": "Its eyes should blink, and its mouth should pretend to bite a wooden apple.",
+      "vi": "Mắt cần chớp, miệng giả cắn táo gỗ."
+    },
+    {
+      "id": "s3-93-03",
+      "kind": "sentence",
+      "en": "Instead, a loose string makes the head bend and block the view.",
+      "vi": "Nhưng dây lỏng làm đầu cong, che tầm nhìn."
+    },
+    {
+      "id": "s3-93-04",
+      "kind": "sentence",
+      "en": "We analyze the problem while a friend tries to attract the waiting children with a song.",
+      "vi": "Chúng tôi phân tích lỗi, bạn hát thu hút trẻ chờ."
+    },
+    {
+      "id": "s3-93-05",
+      "kind": "sentence",
+      "en": "One loud laugh seems to awaken the smallest visitor, who begins to cry.",
+      "vi": "Tiếng cười lớn như đánh thức khách nhỏ nhất, em khóc."
+    },
+    {
+      "id": "s3-93-06",
+      "kind": "sentence",
+      "en": "We apologize and decide to ban sudden noises from the show.",
+      "vi": "Chúng tôi xin lỗi, cấm tiếng bất chợt trong buổi diễn."
+    },
+    {
+      "id": "s3-93-07",
+      "kind": "sentence",
+      "en": "The puppet returns the next week, moving slowly enough for everyone to enjoy.",
+      "vi": "Tuần sau rối trở lại, cử động đủ chậm cho ai cũng thích."
+    }
+  ]
+}

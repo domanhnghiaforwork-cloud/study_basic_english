@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 16,
+  "sourceFile": "paragraph/16_the_suitcase_with_a_yellow_ribbon.md",
+  "sourceSha256": "387ae2407c8f97a552076efc9c82da738249e0b3f90f5c75f61faf0e1d48765f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-16-01",
+      "kind": "sentence",
+      "en": "At the airport, I check my ticket twice before entering the terminal.",
+      "vi": "Ở sân bay, tôi kiểm vé hai lần trước vào nhà ga."
+    },
+    {
+      "id": "s2-16-02",
+      "kind": "sentence",
+      "en": "My passport and visa are safe in a small bag, but I worry about my luggage.",
+      "vi": "Hộ chiếu, thị thực an toàn trong túi nhỏ, nhưng tôi lo hành lý."
+    },
+    {
+      "id": "s2-16-03",
+      "kind": "sentence",
+      "en": "Every black suitcase looks like mine.",
+      "vi": "Vali đen nào cũng giống của tôi."
+    },
+    {
+      "id": "s2-16-04",
+      "kind": "sentence",
+      "en": "Then I remember the yellow ribbon my sister tied to the handle.",
+      "vi": "Rồi tôi nhớ ruy băng vàng em buộc quai."
+    },
+    {
+      "id": "s2-16-05",
+      "kind": "sentence",
+      "en": "I find it at once and laugh.",
+      "vi": "Tôi tìm ngay, bật cười."
+    },
+    {
+      "id": "s2-16-06",
+      "kind": "sentence",
+      "en": "This is my first trip abroad and the beginning of a long vacation.",
+      "vi": "Đây là chuyến nước ngoài đầu, mở đầu kỳ nghỉ dài."
+    },
+    {
+      "id": "s2-16-07",
+      "kind": "sentence",
+      "en": "The journey has only just started, but I already have a useful story to tell my sister.",
+      "vi": "Hành trình mới bắt đầu nhưng đã có chuyện hữu ích kể em."
+    }
+  ]
+}

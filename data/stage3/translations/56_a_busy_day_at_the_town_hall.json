@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 56,
+  "sourceFile": "paragraph/56_a_busy_day_at_the_town_hall.md",
+  "sourceSha256": "3e220a0fe455f47d7fc483248b39d7b50dbc39f0bc1f57cab1351c9ac21c3ee3",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-56-01",
+      "kind": "sentence",
+      "en": "At the town hall exhibition, a guide welcomes visitors beside a display prepared by the librarian.",
+      "vi": "Ở triển lãm tòa thị chính, hướng dẫn viên đón khách cạnh trưng bày thủ thư chuẩn bị."
+    },
+    {
+      "id": "s3-56-02",
+      "kind": "sentence",
+      "en": "A vet talks to schoolchildren while a politician waits for a meeting with a diplomat.",
+      "vi": "Bác sĩ thú y nói với học sinh, chính trị gia đợi họp nhà ngoại giao."
+    },
+    {
+      "id": "s3-56-03",
+      "kind": "sentence",
+      "en": "A translator has prepared the printed labels, and an interpreter helps with questions from visitors.",
+      "vi": "Người biên dịch soạn nhãn in, phiên dịch giúp câu hỏi khách."
+    },
+    {
+      "id": "s3-56-04",
+      "kind": "sentence",
+      "en": "When the sound fails, a technician works with the operator and supervisor to fix it.",
+      "vi": "Âm thanh hỏng, kỹ thuật viên cùng người vận hành, giám sát sửa."
+    },
+    {
+      "id": "s3-56-05",
+      "kind": "sentence",
+      "en": "I came to photograph the exhibition.",
+      "vi": "Tôi đến chụp triển lãm."
+    },
+    {
+      "id": "s3-56-06",
+      "kind": "sentence",
+      "en": "Instead, I spend the afternoon noticing the quiet work that allows so many different conversations to happen in one building.",
+      "vi": "Thay vào đó, tôi dành chiều để ý việc thầm lặng cho phép nhiều cuộc trò chuyện khác nhau trong một tòa nhà."
+    }
+  ]
+}

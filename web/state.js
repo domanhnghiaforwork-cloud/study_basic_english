@@ -116,3 +116,29 @@ export function monthCells(year, month) {
   const size = Math.ceil((offset + days) / 7) * 7;
   return Array.from({ length: size }, (_, i) => i >= offset && i < offset + days ? i - offset + 1 : null);
 }
+
+// The same operations are applied optimistically in the browser and atomically
+// on the server. Undo removes only the explicitly named reading record.
+export function applyProgressOperation(state, operation, total) {
+  if (!operation || typeof operation !== 'object') throw new Error('Thay đổi tiến độ không hợp lệ.');
+  switch (operation.type) {
+    case 'open': {
+      const next = openLesson(state, operation.lessonId, total);
+      if (!next) throw new Error('Hãy đọc xong bài trước để mở bài tiếp theo.');
+      return next;
+    }
+    case 'complete':
+      if (!validDate(operation.date)) throw new Error('Ngày đọc không hợp lệ.');
+      return completeLesson(state, operation.lessonId, operation.date, total);
+    case 'undo':
+      if (!validLesson(operation.lessonId, total) || !validDate(operation.date)) throw new Error('Ngày hoặc bài đọc không hợp lệ.');
+      return undoCompletion(state, operation.lessonId, operation.date);
+    case 'font':
+      if (!FONT_SIZES.includes(operation.fontSize)) throw new Error('Cỡ chữ không hợp lệ.');
+      return { ...state, fontSize: operation.fontSize };
+    case 'import':
+      return mergeBackup(state, operation.state, total);
+    default:
+      throw new Error('Thay đổi tiến độ không được hỗ trợ.');
+  }
+}

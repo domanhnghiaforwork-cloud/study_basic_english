@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 67,
+  "sourceFile": "paragraph/67_the_shop_with_two_price_tags.md",
+  "sourceSha256": "438210bcb7830c9cacaa7a6316b4eb5a601be8565ec1796e27ddae5555de2cd1",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-67-01",
+      "kind": "sentence",
+      "en": "A shop owner in our story keeps two windows.",
+      "vi": "Chủ tiệm trong truyện giữ hai ô trưng bày."
+    },
+    {
+      "id": "s3-67-02",
+      "kind": "sentence",
+      "en": "One shows luxury gifts for wealthy visitors, while the other offers affordable repairs.",
+      "vi": "Một bên quà xa xỉ cho khách giàu, bên kia sửa chữa giá vừa phải."
+    },
+    {
+      "id": "s3-67-03",
+      "kind": "sentence",
+      "en": "A poor student and a rich traveler both stop to look.",
+      "vi": "Sinh viên nghèo, du khách giàu đều dừng nhìn."
+    },
+    {
+      "id": "s3-67-04",
+      "kind": "sentence",
+      "en": "The owner wants a reasonable return without using all her savings.",
+      "vi": "Chủ muốn lãi hợp lý mà không dùng hết tiết kiệm."
+    },
+    {
+      "id": "s3-67-05",
+      "kind": "sentence",
+      "en": "Nearby, a commercial district is growing around an old industrial site, bringing more competitive prices.",
+      "vi": "Gần đó, khu thương mại phát triển quanh khu công nghiệp cũ, mang giá cạnh tranh hơn."
+    },
+    {
+      "id": "s3-67-06",
+      "kind": "sentence",
+      "en": "She cannot control every change in the neighborhood.",
+      "vi": "Cô không kiểm soát được mọi đổi thay khu phố."
+    },
+    {
+      "id": "s3-67-07",
+      "kind": "sentence",
+      "en": "She can choose to explain her prices clearly and keep one shelf for useful things almost anyone can afford.",
+      "vi": "Cô có thể giải thích giá rõ, giữ một kệ đồ hữu ích hầu như ai cũng mua được."
+    }
+  ]
+}

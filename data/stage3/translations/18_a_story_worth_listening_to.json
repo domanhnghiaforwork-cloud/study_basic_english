@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 18,
+  "sourceFile": "paragraph/18_a_story_worth_listening_to.md",
+  "sourceSha256": "e72d02f225de3f9b01802655a5eb4e45676213f87b0fca6b6f14745973fe4437",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-18-01",
+      "kind": "sentence",
+      "en": "A young reporter visits a shelter while preparing a story about poverty.",
+      "vi": "Phóng viên trẻ đến nơi tạm trú làm bài về nghèo đói."
+    },
+    {
+      "id": "s3-18-02",
+      "kind": "sentence",
+      "en": "Her editor asks for dramatic photographs, but a volunteer suggests spending time with the residents first.",
+      "vi": "Biên tập viên muốn ảnh kịch tính, nhưng tình nguyện viên gợi ý dành thời gian cho cư dân trước."
+    },
+    {
+      "id": "s3-18-03",
+      "kind": "sentence",
+      "en": "The journalist listens to a woman explain why a small donation of bus tickets matters to her family.",
+      "vi": "Nhà báo nghe một phụ nữ giải thích vì sao ít vé xe buýt quyên góp có ý nghĩa với gia đình."
+    },
+    {
+      "id": "s3-18-04",
+      "kind": "sentence",
+      "en": "This detail changes the article.",
+      "vi": "Chi tiết ấy đổi bài viết."
+    },
+    {
+      "id": "s3-18-05",
+      "kind": "sentence",
+      "en": "When it reaches a wider audience through local media, a charity receives offers of practical help.",
+      "vi": "Bài đến đông độc giả qua truyền thông địa phương, tổ chức từ thiện nhận đề nghị giúp thiết thực."
+    },
+    {
+      "id": "s3-18-06",
+      "kind": "sentence",
+      "en": "The reporter returns a month later, bringing copies so the people she interviewed can read their own story.",
+      "vi": "Một tháng sau, phóng viên trở lại, mang bản in cho người được phỏng vấn đọc chuyện mình."
+    }
+  ]
+}

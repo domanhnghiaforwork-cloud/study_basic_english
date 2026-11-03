@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 8,
+  "sourceFile": "paragraph/08_more_than_a_test_score.md",
+  "sourceSha256": "95c1bf091e10ad4814af56dd3f165cc5cab22c0c8dd6b7b402325e588f0c1611",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-08-01",
+      "kind": "sentence",
+      "en": "Before my English exam, I worry about every little mark on my practice paper.",
+      "vi": "Trước kỳ thi tiếng Anh, tôi lo về từng dấu nhỏ trên bài luyện tập."
+    },
+    {
+      "id": "s2-08-02",
+      "kind": "sentence",
+      "en": "My teacher notices and gives me a different test: explain the way to the station.",
+      "vi": "Cô giáo nhận ra và cho tôi bài kiểm tra khác: giải thích đường đến nhà ga."
+    },
+    {
+      "id": "s2-08-03",
+      "kind": "sentence",
+      "en": "I speak slowly, but my partner understands.",
+      "vi": "Tôi nói chậm, nhưng bạn cùng cặp vẫn hiểu."
+    },
+    {
+      "id": "s2-08-04",
+      "kind": "sentence",
+      "en": "My score is not perfect, and my grade is lower than I hoped.",
+      "vi": "Điểm số không hoàn hảo, và điểm xếp loại thấp hơn mong đợi."
+    },
+    {
+      "id": "s2-08-05",
+      "kind": "sentence",
+      "en": "Still, I have reached a new level in this language.",
+      "vi": "Dù vậy, tôi đã đạt trình độ mới trong ngôn ngữ này."
+    },
+    {
+      "id": "s2-08-06",
+      "kind": "sentence",
+      "en": "The teacher says knowledge matters, but using it is a skill too.",
+      "vi": "Cô nói kiến thức quan trọng, nhưng vận dụng cũng là một kỹ năng."
+    },
+    {
+      "id": "s2-08-07",
+      "kind": "sentence",
+      "en": "I leave the room thinking about the traveler I could help one day.",
+      "vi": "Rời phòng, tôi nghĩ đến người khách lạ mà một ngày nào đó tôi có thể giúp."
+    }
+  ]
+}

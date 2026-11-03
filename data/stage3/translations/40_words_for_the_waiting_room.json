@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 40,
+  "sourceFile": "paragraph/40_words_for_the_waiting_room.md",
+  "sourceSha256": "519087b200ba9d800651820793cb6c7056b5307a4ccf235e1cd71c09c8d1bcf0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-40-01",
+      "kind": "sentence",
+      "en": "A fictional clinic asks our design class to make its waiting room easier to understand.",
+      "vi": "Phòng khám hư cấu nhờ lớp thiết kế làm phòng chờ dễ hiểu."
+    },
+    {
+      "id": "s3-40-02",
+      "kind": "sentence",
+      "en": "We begin with words such as illness, disease, infection, and symptom.",
+      "vi": "Chúng tôi bắt đầu với từ chỉ ốm, bệnh, nhiễm trùng, triệu chứng."
+    },
+    {
+      "id": "s3-40-03",
+      "kind": "sentence",
+      "en": "A poster comparing a virus with bacteria takes several drafts because our teacher wants us to check every label.",
+      "vi": "Áp phích so virus và vi khuẩn sửa vài lần vì cô muốn kiểm từng nhãn."
+    },
+    {
+      "id": "s3-40-04",
+      "kind": "sentence",
+      "en": "Another display explains that diagnosis and treatment belong in conversations with trained staff.",
+      "vi": "Bảng khác giải thích chẩn đoán, điều trị cần được trao đổi với nhân viên có chuyên môn."
+    },
+    {
+      "id": "s3-40-05",
+      "kind": "sentence",
+      "en": "We place mineral and calorie on a separate nutrition board.",
+      "vi": "Chúng tôi đặt khoáng chất, calo trên bảng dinh dưỡng riêng."
+    },
+    {
+      "id": "s3-40-06",
+      "kind": "sentence",
+      "en": "The project teaches me that a clear sentence can help, while an unclear one can leave people with more questions.",
+      "vi": "Dự án dạy tôi câu rõ ràng giúp ích, câu khó hiểu để người ta thêm thắc mắc."
+    }
+  ]
+}

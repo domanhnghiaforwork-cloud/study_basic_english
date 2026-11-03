@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 38,
+  "sourceFile": "paragraph/38_the_face_in_the_mirror.md",
+  "sourceSha256": "dc20953b62d29f7de9ede50636d5202183af85120af473551653373cbca5619f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-38-01",
+      "kind": "sentence",
+      "en": "For an art lesson, I draw my face while looking in a mirror.",
+      "vi": "Trong giờ mỹ thuật, tôi nhìn gương vẽ khuôn mặt mình."
+    },
+    {
+      "id": "s2-38-02",
+      "kind": "sentence",
+      "en": "One eye is higher than the other, and my ear is too large.",
+      "vi": "Một mắt cao hơn mắt kia, tai lại quá lớn."
+    },
+    {
+      "id": "s2-38-03",
+      "kind": "sentence",
+      "en": "My nose looks fine, but my mouth makes me seem surprised.",
+      "vi": "Mũi trông ổn nhưng miệng khiến tôi có vẻ ngạc nhiên."
+    },
+    {
+      "id": "s2-38-04",
+      "kind": "sentence",
+      "en": "When I smile, I notice a small gap where a tooth is missing.",
+      "vi": "Khi cười, tôi thấy khe nhỏ chỗ mất răng."
+    },
+    {
+      "id": "s2-38-05",
+      "kind": "sentence",
+      "en": "I draw the rest of my teeth, then add my tongue as a joke.",
+      "vi": "Tôi vẽ những chiếc răng còn lại, thêm lưỡi cho vui."
+    },
+    {
+      "id": "s2-38-06",
+      "kind": "sentence",
+      "en": "Finally, I sketch my neck and one shoulder.",
+      "vi": "Cuối cùng, tôi phác cổ và một bên vai."
+    },
+    {
+      "id": "s2-38-07",
+      "kind": "sentence",
+      "en": "The picture is imperfect, but everyone knows who it is supposed to be.",
+      "vi": "Tranh chưa hoàn hảo nhưng ai cũng biết tôi đang vẽ ai."
+    }
+  ]
+}

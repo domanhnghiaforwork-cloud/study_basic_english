@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 48,
+  "sourceFile": "paragraph/48_a_cooking_lesson_for_everyone.md",
+  "sourceSha256": "f5141e1cf14c171aad0e640e14d4504304c55bc6d897fb4712a1dbf027d9cb49",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-48-01",
+      "kind": "sentence",
+      "en": "At our family cooking lesson, we measure rice and weigh vegetables before starting.",
+      "vi": "Trong buổi học nấu gia đình, chúng tôi đong gạo, cân rau trước."
+    },
+    {
+      "id": "s2-48-02",
+      "kind": "sentence",
+      "en": "Dad asks me to peel a carrot and slice it carefully.",
+      "vi": "Bố bảo tôi gọt cà rốt, thái cẩn thận."
+    },
+    {
+      "id": "s2-48-03",
+      "kind": "sentence",
+      "en": "My sister learns to mix a simple sauce and pour it into a bowl.",
+      "vi": "Em học trộn xốt đơn giản, đổ bát."
+    },
+    {
+      "id": "s2-48-04",
+      "kind": "sentence",
+      "en": "We boil the rice while Mom shows us how to fry small vegetable cakes.",
+      "vi": "Chúng tôi nấu gạo, mẹ chỉ chiên bánh rau."
+    },
+    {
+      "id": "s2-48-05",
+      "kind": "sentence",
+      "en": "Later, we bake bread for tomorrow and pack the extra food into boxes.",
+      "vi": "Sau đó nướng bánh ngày mai, đóng đồ dư hộp."
+    },
+    {
+      "id": "s2-48-06",
+      "kind": "sentence",
+      "en": "Nobody makes the whole meal alone.",
+      "vi": "Chẳng ai nấu cả bữa một mình."
+    },
+    {
+      "id": "s2-48-07",
+      "kind": "sentence",
+      "en": "When we sit down, each of us can point to something we helped prepare.",
+      "vi": "Ngồi xuống, ai cũng chỉ được món góp làm."
+    }
+  ]
+}

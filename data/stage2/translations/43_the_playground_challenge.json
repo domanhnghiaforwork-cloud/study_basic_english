@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 43,
+  "sourceFile": "paragraph/43_the_playground_challenge.md",
+  "sourceSha256": "a555d51b542be963a0b58d3a9dd2e14947db1dd5cebd285a489bf75638082cb5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-43-01",
+      "kind": "sentence",
+      "en": "Our sports teacher asks us to stretch before the playground challenge.",
+      "vi": "Thầy thể dục bảo giãn cơ trước thử thách."
+    },
+    {
+      "id": "s2-43-02",
+      "kind": "sentence",
+      "en": "We jump over a line, climb a low frame, and rise from the ground without using our hands.",
+      "vi": "Chúng tôi nhảy vạch, leo khung thấp, đứng dậy không dùng tay."
+    },
+    {
+      "id": "s2-43-03",
+      "kind": "sentence",
+      "en": "If we fall, the soft mats help.",
+      "vi": "Nếu ngã, thảm mềm giúp."
+    },
+    {
+      "id": "s2-43-04",
+      "kind": "sentence",
+      "en": "Next, we lift a light ball and try not to drop it.",
+      "vi": "Tiếp đó nâng bóng nhẹ, cố đừng rơi."
+    },
+    {
+      "id": "s2-43-05",
+      "kind": "sentence",
+      "en": "I need to borrow a smaller one, so a friend offers to lend me hers.",
+      "vi": "Tôi cần mượn bóng nhỏ nên bạn cho mượn."
+    },
+    {
+      "id": "s2-43-06",
+      "kind": "sentence",
+      "en": "At the last station, we pick a ribbon from a basket.",
+      "vi": "Trạm cuối, chúng tôi chọn ruy băng trong giỏ."
+    },
+    {
+      "id": "s2-43-07",
+      "kind": "sentence",
+      "en": "Mine says that trying together matters more than winning alone.",
+      "vi": "Dải tôi nói cùng cố quan trọng hơn thắng một mình."
+    }
+  ]
+}

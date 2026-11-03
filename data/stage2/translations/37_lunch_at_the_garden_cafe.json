@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 37,
+  "sourceFile": "paragraph/37_lunch_at_the_garden_cafe.md",
+  "sourceSha256": "5a59c9e751d0635527b3296241cca07af5fbb96b13668ba6026ab37bdd3e4de5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-37-01",
+      "kind": "sentence",
+      "en": "After working in the garden, we stop at a vegetarian cafe.",
+      "vi": "Làm vườn xong, chúng tôi ghé quán chay."
+    },
+    {
+      "id": "s2-37-02",
+      "kind": "sentence",
+      "en": "The menu offers raw vegetables, boiled potatoes, fried rice, and baked mushrooms.",
+      "vi": "Thực đơn có rau sống, khoai luộc, cơm chiên và nấm nướng."
+    },
+    {
+      "id": "s2-37-03",
+      "kind": "sentence",
+      "en": "I choose a tasty bowl with several colors in it.",
+      "vi": "Tôi chọn bát ngon có nhiều màu."
+    },
+    {
+      "id": "s2-37-04",
+      "kind": "sentence",
+      "en": "While we wait, my sister notices soil in my hair and points at my head.",
+      "vi": "Trong lúc chờ, em gái thấy đất trên tóc tôi rồi chỉ vào đầu."
+    },
+    {
+      "id": "s2-37-05",
+      "kind": "sentence",
+      "en": "I wash before eating and laugh at my reflection.",
+      "vi": "Tôi rửa sạch trước khi ăn, bật cười nhìn mình trong gương."
+    },
+    {
+      "id": "s2-37-06",
+      "kind": "sentence",
+      "en": "Our teacher says health is one reason to learn about food and the body.",
+      "vi": "Cô giáo nói sức khỏe là một lý do để tìm hiểu thực phẩm và cơ thể."
+    },
+    {
+      "id": "s2-37-07",
+      "kind": "sentence",
+      "en": "For me, another reason is enjoying a good meal with friends.",
+      "vi": "Với tôi, lý do khác là được ăn ngon cùng bạn."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 99,
+  "sourceFile": "paragraph/99_the_repair_shop_s_last_summer.md",
+  "sourceSha256": "07e352914d651612fa97587a8a62d87b00404a45e5624eb2281e51eafe1a4649",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-99-01",
+      "kind": "sentence",
+      "en": "The owner of our repair shop plans to retire, but a storm nearly forces him to quit early.",
+      "vi": "Chủ tiệm sửa định nghỉ hưu nhưng bão suýt buộc bỏ sớm."
+    },
+    {
+      "id": "s3-99-02",
+      "kind": "sentence",
+      "en": "Volunteers arrive to rescue the tools and help the business recover.",
+      "vi": "Tình nguyện viên đến cứu dụng cụ, giúp phục hồi kinh doanh."
+    },
+    {
+      "id": "s3-99-03",
+      "kind": "sentence",
+      "en": "We recycle broken packaging, find a replaceable part for one machine, and resist the urge to throw everything away.",
+      "vi": "Chúng tôi tái chế bao bì hỏng, tìm bộ phận thay được cho máy, cưỡng lại ý vứt hết."
+    },
+    {
+      "id": "s3-99-04",
+      "kind": "sentence",
+      "en": "The owner writes a reply to every offer of help.",
+      "vi": "Chủ viết trả lời mọi đề nghị giúp."
+    },
+    {
+      "id": "s3-99-05",
+      "kind": "sentence",
+      "en": "Together, we reform the storage system before the doors reopen.",
+      "vi": "Cùng nhau, chúng tôi cải tổ lưu kho trước mở cửa lại."
+    },
+    {
+      "id": "s3-99-06",
+      "kind": "sentence",
+      "en": "Nobody mentions a need to punish whoever left the window open.",
+      "vi": "Chẳng ai nhắc phạt người để cửa sổ mở."
+    },
+    {
+      "id": "s3-99-07",
+      "kind": "sentence",
+      "en": "We have enough work building a better ending to the summer.",
+      "vi": "Chúng tôi đủ bận tạo kết hè tốt hơn."
+    }
+  ]
+}

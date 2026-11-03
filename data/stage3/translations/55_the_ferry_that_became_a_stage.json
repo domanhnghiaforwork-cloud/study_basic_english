@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 55,
+  "sourceFile": "paragraph/55_the_ferry_that_became_a_stage.md",
+  "sourceSha256": "fed1affe63a125e79820c4b7dda01b631901317d007a5cbc5bc6721806307a7d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-55-01",
+      "kind": "sentence",
+      "en": "On a charity ferry trip, a coach travels with an athlete and a referee.",
+      "vi": "Trên chuyến phà từ thiện, huấn luyện viên đi cùng vận động viên, trọng tài."
+    },
+    {
+      "id": "s3-55-02",
+      "kind": "sentence",
+      "en": "A pilot sits beside a bus driver, comparing early mornings.",
+      "vi": "Phi công ngồi cạnh tài xế xe buýt, so buổi sáng sớm."
+    },
+    {
+      "id": "s3-55-03",
+      "kind": "sentence",
+      "en": "The captain asks a sailor to show us the safest place to stand for photographs.",
+      "vi": "Thuyền trưởng nhờ thủy thủ chỉ chỗ đứng chụp ảnh an toàn nhất."
+    },
+    {
+      "id": "s3-55-04",
+      "kind": "sentence",
+      "en": "Near the front, a firefighter tells a fisherman about a difficult rescue, while a hunter quietly listens.",
+      "vi": "Gần đầu tàu, lính cứu hỏa kể ngư dân vụ cứu khó, thợ săn lặng nghe."
+    },
+    {
+      "id": "s3-55-05",
+      "kind": "sentence",
+      "en": "At first, I am shy among so many strangers.",
+      "vi": "Ban đầu, tôi ngại giữa nhiều người lạ."
+    },
+    {
+      "id": "s3-55-06",
+      "kind": "sentence",
+      "en": "Then someone starts a song, and everyone joins in.",
+      "vi": "Rồi ai bắt hát, mọi người cùng hát."
+    },
+    {
+      "id": "s3-55-07",
+      "kind": "sentence",
+      "en": "By the return journey, their job titles matter less than their voices.",
+      "vi": "Lúc về, chức danh ít quan trọng hơn tiếng hát."
+    }
+  ]
+}

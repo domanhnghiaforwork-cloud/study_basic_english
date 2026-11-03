@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 27,
+  "sourceFile": "paragraph/27_power_for_the_little_lighthouse.md",
+  "sourceSha256": "179e10e708ebf31843aeb21ef60107d569ea394f380ce6f929abe934e691505a",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-27-01",
+      "kind": "sentence",
+      "en": "Our model lighthouse needs power, so the science club compares fuel, electricity, and a battery.",
+      "vi": "Hải đăng mô hình cần năng lượng nên câu lạc bộ so nhiên liệu, điện và pin."
+    },
+    {
+      "id": "s3-27-02",
+      "kind": "sentence",
+      "en": "We add a small solar panel and record what happens on a sunny afternoon.",
+      "vi": "Chúng tôi thêm tấm năng lượng mặt trời nhỏ, ghi kết quả chiều nắng."
+    },
+    {
+      "id": "s3-27-03",
+      "kind": "sentence",
+      "en": "A cloudy day brings different results, while rainy and stormy weather keep the model indoors.",
+      "vi": "Ngày nhiều mây cho kết quả khác, ngày mưa bão giữ mô hình trong nhà."
+    },
+    {
+      "id": "s3-27-04",
+      "kind": "sentence",
+      "en": "On a windy morning, we test a tiny paper windmill instead.",
+      "vi": "Sáng có gió, chúng tôi thử chong chóng giấy nhỏ thay thế."
+    },
+    {
+      "id": "s3-27-05",
+      "kind": "sentence",
+      "en": "The experiment does not give us one perfect answer.",
+      "vi": "Thí nghiệm không đưa một đáp án hoàn hảo."
+    },
+    {
+      "id": "s3-27-06",
+      "kind": "sentence",
+      "en": "It gives us a notebook full of observations and a better reason to ask what each kind of equipment can do.",
+      "vi": "Nó cho sổ đầy quan sát và lý do tốt hơn để hỏi mỗi loại thiết bị làm được gì."
+    }
+  ]
+}

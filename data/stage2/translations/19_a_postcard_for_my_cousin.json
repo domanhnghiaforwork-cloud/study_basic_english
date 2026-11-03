@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 19,
+  "sourceFile": "paragraph/19_a_postcard_for_my_cousin.md",
+  "sourceSha256": "78702a58c93d51a7992ebb0fad76bcbf82d86573248c8b2d55861f98ad1790b5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-19-01",
+      "kind": "sentence",
+      "en": "I buy a postcard at the museum and write to my cousin about our town.",
+      "vi": "Tôi mua bưu thiếp ở bảo tàng, viết cho em họ về thị trấn."
+    },
+    {
+      "id": "s2-19-02",
+      "kind": "sentence",
+      "en": "I describe the park, the old theater, and the new cinema.",
+      "vi": "Tôi tả công viên, nhà hát cũ, rạp phim mới."
+    },
+    {
+      "id": "s2-19-03",
+      "kind": "sentence",
+      "en": "The picture shows a stadium where we watched a match last summer.",
+      "vi": "Ảnh có sân vận động nơi chúng tôi xem trận hè trước."
+    },
+    {
+      "id": "s2-19-04",
+      "kind": "sentence",
+      "en": "Before I post my card, I walk past the gym and stop at the pharmacy for some soap.",
+      "vi": "Trước gửi, tôi đi qua phòng tập, ghé hiệu thuốc mua xà phòng."
+    },
+    {
+      "id": "s2-19-05",
+      "kind": "sentence",
+      "en": "Outside, a police officer helps a child find his father.",
+      "vi": "Bên ngoài, cảnh sát giúp em nhỏ tìm bố."
+    },
+    {
+      "id": "s2-19-06",
+      "kind": "sentence",
+      "en": "I add one more sentence to the card: the best thing here is how people help one another.",
+      "vi": "Tôi thêm câu: điều tốt nhất ở đây là cách mọi người giúp nhau."
+    }
+  ]
+}

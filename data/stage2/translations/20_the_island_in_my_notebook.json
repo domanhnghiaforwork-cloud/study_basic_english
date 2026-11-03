@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 20,
+  "sourceFile": "paragraph/20_the_island_in_my_notebook.md",
+  "sourceSha256": "0b96ab7c8d9d0c3466f40f0a667866e2baef1156c50ff83313959096b34c7070",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-20-01",
+      "kind": "sentence",
+      "en": "Our teacher asks us to invent an island and draw it.",
+      "vi": "Cô bảo chúng tôi tưởng tượng đảo rồi vẽ."
+    },
+    {
+      "id": "s2-20-02",
+      "kind": "sentence",
+      "en": "Mine has a forest below a mountain and a small village beside a lake.",
+      "vi": "Đảo tôi có rừng dưới núi, làng cạnh hồ."
+    },
+    {
+      "id": "s2-20-03",
+      "kind": "sentence",
+      "en": "A river runs toward the sea, passing a green hill and a quiet beach.",
+      "vi": "Sông chảy ra biển, qua đồi xanh, bãi biển yên."
+    },
+    {
+      "id": "s2-20-04",
+      "kind": "sentence",
+      "en": "I add a pool near the school so children can learn to swim before entering the ocean.",
+      "vi": "Tôi thêm bể bơi gần trường để trẻ học trước xuống đại dương."
+    },
+    {
+      "id": "s2-20-05",
+      "kind": "sentence",
+      "en": "My friend asks where people will grow food.",
+      "vi": "Bạn hỏi người dân trồng lương thực ở đâu."
+    },
+    {
+      "id": "s2-20-06",
+      "kind": "sentence",
+      "en": "I draw some land behind the village and realize that making a beautiful place is easier than making one people can live in.",
+      "vi": "Tôi vẽ đất sau làng, nhận ra làm nơi đẹp dễ hơn làm nơi con người sống được."
+    }
+  ]
+}

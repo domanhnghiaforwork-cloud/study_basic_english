@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 45,
+  "sourceFile": "paragraph/45_practicing_the_school_talk.md",
+  "sourceSha256": "5c3fa32aeda7131071324e7624ef6e30c1179485da5f420746fe4845ca0cd457",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-45-01",
+      "kind": "sentence",
+      "en": "We must prepare a short talk about a place we love.",
+      "vi": "Chúng tôi phải chuẩn bị nói ngắn về nơi yêu."
+    },
+    {
+      "id": "s2-45-02",
+      "kind": "sentence",
+      "en": "I prefer the river, but I doubt I can describe it well.",
+      "vi": "Tôi thích sông nhưng ngờ khó tả hay."
+    },
+    {
+      "id": "s2-45-03",
+      "kind": "sentence",
+      "en": "My partner helps me decide which details to include.",
+      "vi": "Bạn giúp quyết chi tiết nào kể."
+    },
+    {
+      "id": "s2-45-04",
+      "kind": "sentence",
+      "en": "We promise to listen carefully and explain anything unclear.",
+      "vi": "Chúng tôi hứa nghe kỹ, giải thích chỗ chưa rõ."
+    },
+    {
+      "id": "s2-45-05",
+      "kind": "sentence",
+      "en": "When I make a mistake, she asks me to repeat the sentence and correct it myself.",
+      "vi": "Tôi sai, bạn nhờ nhắc câu, tự sửa."
+    },
+    {
+      "id": "s2-45-06",
+      "kind": "sentence",
+      "en": "Each practice helps me improve a little.",
+      "vi": "Mỗi lần tập giúp tiến chút."
+    },
+    {
+      "id": "s2-45-07",
+      "kind": "sentence",
+      "en": "By the morning of the talk, I still feel nervous, but I know the story I want to tell.",
+      "vi": "Sáng nói, tôi vẫn lo nhưng biết chuyện muốn kể."
+    }
+  ]
+}

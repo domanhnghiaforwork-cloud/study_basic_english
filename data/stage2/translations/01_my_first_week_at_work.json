@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 1,
+  "sourceFile": "paragraph/01_my_first_week_at_work.md",
+  "sourceSha256": "e5d71e61c313d68e3f2dc96a2b817308b3c2f25e86555054e830c83d5602d506",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-01-01",
+      "kind": "sentence",
+      "en": "On Monday, I start a new job at a small furniture company.",
+      "vi": "Thứ Hai, tôi bắt đầu công việc mới ở một công ty nội thất nhỏ."
+    },
+    {
+      "id": "s2-01-02",
+      "kind": "sentence",
+      "en": "The office is above the shop, so I can hear people moving chairs downstairs.",
+      "vi": "Văn phòng ở trên cửa hàng nên tôi nghe được tiếng mọi người chuyển ghế phía dưới."
+    },
+    {
+      "id": "s2-01-03",
+      "kind": "sentence",
+      "en": "My boss introduces me to the manager and every employee on our floor.",
+      "vi": "Sếp giới thiệu tôi với người quản lý và từng nhân viên trên tầng."
+    },
+    {
+      "id": "s2-01-04",
+      "kind": "sentence",
+      "en": "One worker shows me how to check an order, while a colleague brings me tea.",
+      "vi": "Một người thợ chỉ tôi cách kiểm tra đơn hàng, còn một đồng nghiệp mang trà đến."
+    },
+    {
+      "id": "s2-01-05",
+      "kind": "sentence",
+      "en": "Later, a customer asks about a wooden table.",
+      "vi": "Sau đó, một khách hàng hỏi về chiếc bàn gỗ."
+    },
+    {
+      "id": "s2-01-06",
+      "kind": "sentence",
+      "en": "I help her find the right size.",
+      "vi": "Tôi giúp cô ấy tìm kích thước phù hợp."
+    },
+    {
+      "id": "s2-01-07",
+      "kind": "sentence",
+      "en": "For the first time, I can imagine a career here, learning something useful each day.",
+      "vi": "Lần đầu tiên, tôi hình dung mình có thể gắn bó sự nghiệp ở đây, mỗi ngày học một điều hữu ích."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 35,
+  "sourceFile": "paragraph/35_the_smallest_birthday_party.md",
+  "sourceSha256": "281a3681aae1fce881dc3cc7d315680332100ca2ef0549074961a601d9599ad5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-35-01",
+      "kind": "sentence",
+      "en": "My cousin wants a small birthday party, so we invite just three friends.",
+      "vi": "Em họ muốn tiệc sinh nhật nhỏ nên chúng tôi chỉ mời ba bạn."
+    },
+    {
+      "id": "s2-35-02",
+      "kind": "sentence",
+      "en": "I make a cake with chocolate cream, and my sister puts one cookie on each plate.",
+      "vi": "Tôi làm bánh kem sô cô la, em gái đặt một bánh quy lên mỗi đĩa."
+    },
+    {
+      "id": "s2-35-03",
+      "kind": "sentence",
+      "en": "There is candy in a jar, but we keep it for later.",
+      "vi": "Có kẹo trong lọ nhưng để ăn sau."
+    },
+    {
+      "id": "s2-35-04",
+      "kind": "sentence",
+      "en": "Before dessert, Dad serves a warm snack made with a little oil and a favorite spice.",
+      "vi": "Trước món tráng miệng, bố dọn món ăn nhẹ nóng, dùng chút dầu và loại gia vị yêu thích."
+    },
+    {
+      "id": "s2-35-05",
+      "kind": "sentence",
+      "en": "He adds pepper to his own portion.",
+      "vi": "Bố thêm tiêu vào phần mình."
+    },
+    {
+      "id": "s2-35-06",
+      "kind": "sentence",
+      "en": "We eat slowly, play cards, and sing softly when the candles come out.",
+      "vi": "Chúng tôi ăn chậm, chơi bài và hát nhẹ khi mang nến ra."
+    },
+    {
+      "id": "s2-35-07",
+      "kind": "sentence",
+      "en": "Nobody misses having a bigger party.",
+      "vi": "Không ai tiếc vì bữa tiệc không lớn hơn."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 11,
+  "sourceFile": "paragraph/11_the_imaginary_country_project.md",
+  "sourceSha256": "26ccce8b813ac5e8c3caeac506b5723003ec7b7f91fbd66a72aa3eda7e6005f1",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-11-01",
+      "kind": "sentence",
+      "en": "Our class invents a nation for a geography exhibition.",
+      "vi": "Lớp sáng tạo một quốc gia cho triển lãm địa lý."
+    },
+    {
+      "id": "s3-11-02",
+      "kind": "sentence",
+      "en": "We draw a border around its territory, choose a capital, and design a flag.",
+      "vi": "Chúng tôi vẽ biên giới lãnh thổ, chọn thủ đô, thiết kế cờ."
+    },
+    {
+      "id": "s3-11-03",
+      "kind": "sentence",
+      "en": "Next, we divide the country into a mountain region and a coastal region.",
+      "vi": "Tiếp đó, chúng tôi chia nước thành miền núi và miền biển."
+    },
+    {
+      "id": "s3-11-04",
+      "kind": "sentence",
+      "en": "The population must have ways to travel between them.",
+      "vi": "Dân cư cần cách đi lại giữa hai vùng."
+    },
+    {
+      "id": "s3-11-05",
+      "kind": "sentence",
+      "en": "Writing a law proves harder than drawing a map: what should be legal, and what should be illegal?",
+      "vi": "Viết luật khó hơn vẽ bản đồ: điều gì nên hợp pháp, điều gì bất hợp pháp?"
+    },
+    {
+      "id": "s3-11-06",
+      "kind": "sentence",
+      "en": "We argue about cars in village streets until someone suggests a vote.",
+      "vi": "Chúng tôi tranh cãi về ô tô trên đường làng đến khi có người đề nghị bỏ phiếu."
+    },
+    {
+      "id": "s3-11-07",
+      "kind": "sentence",
+      "en": "By afternoon, our imaginary country has taught us something about living in a real one.",
+      "vi": "Đến chiều, đất nước tưởng tượng đã dạy điều gì đó về sống trong đất nước thật."
+    }
+  ]
+}

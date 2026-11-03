@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 52,
+  "sourceFile": "paragraph/52_breakfast_before_the_street_fair.md",
+  "sourceSha256": "aa44d26b40e252b133db2ecff312b5ec8ebae48a2262bb2a3a09e7824ec1cd65",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-52-01",
+      "kind": "sentence",
+      "en": "Before the street fair opens, the receptionist from the nearby hotel brings coffee for the volunteers.",
+      "vi": "Trước khai hội, lễ tân khách sạn gần mang cà phê cho tình nguyện viên."
+    },
+    {
+      "id": "s3-52-02",
+      "kind": "sentence",
+      "en": "A secretary checks the stall list while a chef and a baker unpack breakfast.",
+      "vi": "Thư ký kiểm danh sách quầy, đầu bếp và thợ bánh dỡ đồ sáng."
+    },
+    {
+      "id": "s3-52-03",
+      "kind": "sentence",
+      "en": "The waiter and waitress from the cafe carry trays, and the bartender sets out fruit drinks.",
+      "vi": "Nam, nữ phục vụ quán mang khay, nhân viên pha chế bày nước trái cây."
+    },
+    {
+      "id": "s3-52-04",
+      "kind": "sentence",
+      "en": "Across the road, a butcher, a tailor, and a barber raise their awnings.",
+      "vi": "Bên kia đường, người bán thịt, thợ may, thợ cắt tóc dựng mái che."
+    },
+    {
+      "id": "s3-52-05",
+      "kind": "sentence",
+      "en": "For half an hour, the street belongs to people preparing things for others.",
+      "vi": "Nửa giờ, phố thuộc về những người chuẩn bị cho người khác."
+    },
+    {
+      "id": "s3-52-06",
+      "kind": "sentence",
+      "en": "I eat a warm roll and watch an ordinary neighborhood become a festival.",
+      "vi": "Tôi ăn bánh nóng, ngắm khu phố thường ngày thành lễ hội."
+    }
+  ]
+}

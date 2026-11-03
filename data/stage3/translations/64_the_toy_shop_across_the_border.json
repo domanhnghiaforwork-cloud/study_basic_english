@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 64,
+  "sourceFile": "paragraph/64_the_toy_shop_across_the_border.md",
+  "sourceSha256": "43be3efcc0a57f5eff3e247f7332c7a25c7710785125ddab574c4428afc4f5f2",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-64-01",
+      "kind": "sentence",
+      "en": "In our business simulation, a toy shop wants to import wooden trains and export handmade dolls.",
+      "vi": "Trong mô phỏng kinh doanh, tiệm đồ chơi muốn nhập tàu gỗ, xuất búp bê thủ công."
+    },
+    {
+      "id": "s3-64-02",
+      "kind": "sentence",
+      "en": "A change in currency means the owner must check the exchange calculation again.",
+      "vi": "Thay đổi tiền tệ khiến chủ phải kiểm tỷ giá lần nữa."
+    },
+    {
+      "id": "s3-64-03",
+      "kind": "sentence",
+      "en": "A new tariff raises costs, while competition from another shop makes planning harder.",
+      "vi": "Thuế quan mới tăng phí, cạnh tranh từ tiệm khác làm khó kế hoạch."
+    },
+    {
+      "id": "s3-64-04",
+      "kind": "sentence",
+      "en": "We give each competitor a different strategy: one aims at a small target group, another at a broader market segment.",
+      "vi": "Chúng tôi cho mỗi đối thủ chiến lược khác: một nhắm nhóm mục tiêu nhỏ, một nhắm phân khúc rộng."
+    },
+    {
+      "id": "s3-64-05",
+      "kind": "sentence",
+      "en": "Nobody wins every round.",
+      "vi": "Chẳng ai thắng mọi vòng."
+    },
+    {
+      "id": "s3-64-06",
+      "kind": "sentence",
+      "en": "When we compare results, we find that the same decision can look sensible under one set of conditions and risky under another.",
+      "vi": "So kết quả, chúng tôi thấy cùng quyết định có thể hợp lý ở điều kiện này nhưng rủi ro ở điều kiện khác."
+    }
+  ]
+}

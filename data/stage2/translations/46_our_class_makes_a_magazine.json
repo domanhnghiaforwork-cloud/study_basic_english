@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 46,
+  "sourceFile": "paragraph/46_our_class_makes_a_magazine.md",
+  "sourceSha256": "649b54951ea89929d59c86630a867b4a8143088b90e1b36c6781fec685f56bc6",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-46-01",
+      "kind": "sentence",
+      "en": "We want to create a class magazine, so our teacher helps us organize the work.",
+      "vi": "Chúng tôi muốn tạp chí lớp nên cô giúp tổ chức."
+    },
+    {
+      "id": "s2-46-02",
+      "kind": "sentence",
+      "en": "Two students manage the stories while others design the pages.",
+      "vi": "Hai bạn quản truyện, người khác thiết kế trang."
+    },
+    {
+      "id": "s2-46-03",
+      "kind": "sentence",
+      "en": "We collect drawings, receive letters from parents, and add a short puzzle near the back.",
+      "vi": "Chúng tôi gom tranh, nhận thư phụ huynh, thêm câu đố gần cuối."
+    },
+    {
+      "id": "s2-46-04",
+      "kind": "sentence",
+      "en": "Before we produce the final copies, we remove one story because its writer wants more time.",
+      "vi": "Trước in cuối, chúng tôi bỏ truyện vì tác giả muốn thêm giờ."
+    },
+    {
+      "id": "s2-46-05",
+      "kind": "sentence",
+      "en": "There is still enough material to fill every page.",
+      "vi": "Vẫn đủ nội dung mọi trang."
+    },
+    {
+      "id": "s2-46-06",
+      "kind": "sentence",
+      "en": "When the magazine arrives, we pass it around slowly.",
+      "vi": "Tạp chí đến, chúng tôi chuyền chậm."
+    },
+    {
+      "id": "s2-46-07",
+      "kind": "sentence",
+      "en": "It feels different to see our own words in print.",
+      "vi": "Thấy lời mình in ra cảm giác khác hẳn."
+    }
+  ]
+}

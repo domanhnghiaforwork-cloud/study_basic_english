@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 71,
+  "sourceFile": "paragraph/71_the_robot_that_asked_questions.md",
+  "sourceSha256": "59025bbcc46ddbb1ca6729d40b814ffc20a489193e6795f9ce4de7b99d8de519",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-71-01",
+      "kind": "sentence",
+      "en": "Our daily science club builds a robot for carrying library books.",
+      "vi": "Câu lạc bộ khoa học hằng ngày làm robot mang sách thư viện."
+    },
+    {
+      "id": "s3-71-02",
+      "kind": "sentence",
+      "en": "The clever design looks convenient, but it is dependent on a battery that rarely lasts long enough.",
+      "vi": "Thiết kế thông minh tiện lợi nhưng phụ thuộc pin hiếm khi đủ lâu."
+    },
+    {
+      "id": "s3-71-03",
+      "kind": "sentence",
+      "en": "We feel confident until the machine becomes confused near the stairs.",
+      "vi": "Chúng tôi tự tin đến khi máy lúng túng gần cầu thang."
+    },
+    {
+      "id": "s3-71-04",
+      "kind": "sentence",
+      "en": "That dangerous moment makes us stop.",
+      "vi": "Khoảnh khắc nguy hiểm buộc dừng."
+    },
+    {
+      "id": "s3-71-05",
+      "kind": "sentence",
+      "en": "A curious younger student asks a critical question: why must it work alone?",
+      "vi": "Bạn nhỏ tò mò hỏi điều quan trọng: sao nó phải tự hoạt động?"
+    },
+    {
+      "id": "s3-71-06",
+      "kind": "sentence",
+      "en": "Her creative suggestion leads to a guided version that follows a marked path.",
+      "vi": "Gợi ý sáng tạo dẫn đến bản có dẫn đường theo lối đánh dấu."
+    },
+    {
+      "id": "s3-71-07",
+      "kind": "sentence",
+      "en": "The new robot does less, but it gives us more control and a clearer reason to keep experimenting.",
+      "vi": "Robot mới làm ít hơn, nhưng cho kiểm soát tốt hơn và lý do rõ để thử tiếp."
+    }
+  ]
+}

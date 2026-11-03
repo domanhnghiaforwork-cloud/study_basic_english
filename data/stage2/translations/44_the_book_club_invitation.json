@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 44,
+  "sourceFile": "paragraph/44_the_book_club_invitation.md",
+  "sourceSha256": "ea8bfeebd40be9900852f1fb096068fe7f95c7a1b2dce6a251d79cddca76c528",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-44-01",
+      "kind": "sentence",
+      "en": "When I return a book, the librarian asks me to join a reading group.",
+      "vi": "Tôi trả sách, thủ thư mời vào nhóm đọc."
+    },
+    {
+      "id": "s2-44-02",
+      "kind": "sentence",
+      "en": "Members share a short story each week and invite someone new once a month.",
+      "vi": "Thành viên chia sẻ truyện tuần, tháng mời người mới."
+    },
+    {
+      "id": "s2-44-03",
+      "kind": "sentence",
+      "en": "I want to accept, but I worry that I read too slowly.",
+      "vi": "Tôi muốn nhận nhưng lo đọc chậm."
+    },
+    {
+      "id": "s2-44-04",
+      "kind": "sentence",
+      "en": "She says I can refuse to read aloud and simply listen.",
+      "vi": "Cô bảo có thể từ chối đọc to, chỉ nghe."
+    },
+    {
+      "id": "s2-44-05",
+      "kind": "sentence",
+      "en": "We may agree or disagree about a story, as long as we are kind.",
+      "vi": "Chúng tôi đồng ý, bất đồng được, miễn tử tế."
+    },
+    {
+      "id": "s2-44-06",
+      "kind": "sentence",
+      "en": "I believe her and decide to trust the group.",
+      "vi": "Tôi tin cô, quyết tin nhóm."
+    },
+    {
+      "id": "s2-44-07",
+      "kind": "sentence",
+      "en": "On Friday, I arrive with a book I have loved for years.",
+      "vi": "Thứ Sáu, tôi đến với sách đã yêu nhiều năm."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 69,
+  "sourceFile": "paragraph/69_the_ancient_door_in_the_new_museum.md",
+  "sourceSha256": "69bb361db8f2283eeaef2530421a42a26203cd66077b31e3c222e50d86fff29c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-69-01",
+      "kind": "sentence",
+      "en": "Our annual museum trip includes an amazing discovery: an ancient door hidden behind a modern display.",
+      "vi": "Chuyến bảo tàng hằng năm có phát hiện đáng kinh ngạc: cửa cổ giấu sau trưng bày hiện đại."
+    },
+    {
+      "id": "s3-69-02",
+      "kind": "sentence",
+      "en": "The guide asks an active group of students to compare the actual object with an advanced digital image.",
+      "vi": "Hướng dẫn viên nhờ nhóm học sinh năng động so vật thật với ảnh số tiên tiến."
+    },
+    {
+      "id": "s3-69-03",
+      "kind": "sentence",
+      "en": "One apparent crack turns out to be part of the design.",
+      "vi": "Vết nứt tưởng rõ hóa ra thuộc thiết kế."
+    },
+    {
+      "id": "s3-69-04",
+      "kind": "sentence",
+      "en": "We ask for additional information, and she brings a drawing from storage.",
+      "vi": "Chúng tôi xin thêm thông tin, cô mang bản vẽ từ kho."
+    },
+    {
+      "id": "s3-69-05",
+      "kind": "sentence",
+      "en": "Our ambitious plan to sketch every object becomes less appropriate.",
+      "vi": "Kế hoạch tham vọng phác mọi vật bỗng bớt phù hợp."
+    },
+    {
+      "id": "s3-69-06",
+      "kind": "sentence",
+      "en": "We spend the rest of the visit studying this one door and imagining the hands that once opened it.",
+      "vi": "Phần còn lại, chúng tôi ngắm một cửa, tưởng tượng những bàn tay từng mở."
+    }
+  ]
+}

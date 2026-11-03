@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 61,
+  "sourceFile": "paragraph/61_the_box_at_the_back_of_the_warehouse.md",
+  "sourceSha256": "0d23d7fffa80060e83c7d66521a05d9e67e425272650fd5311afac5b932af0e4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-61-01",
+      "kind": "sentence",
+      "en": "During a warehouse visit, we trace a missing shipment through the inventory.",
+      "vi": "Trong chuyến thăm nhà kho, chúng tôi lần theo lô hàng mất qua sổ tồn."
+    },
+    {
+      "id": "s3-61-02",
+      "kind": "sentence",
+      "en": "It appears in the stock list, but nobody can find it.",
+      "vi": "Nó có trong danh sách hàng nhưng chẳng ai tìm thấy."
+    },
+    {
+      "id": "s3-61-03",
+      "kind": "sentence",
+      "en": "A shareholder visiting that morning asks about the loss, while the manager worries about the expense of sending another box.",
+      "vi": "Cổ đông đến sáng ấy hỏi về thiệt hại, quản lý lo chi phí gửi hộp khác."
+    },
+    {
+      "id": "s3-61-04",
+      "kind": "sentence",
+      "en": "An investment in better labels suddenly seems less boring.",
+      "vi": "Đầu tư nhãn tốt bỗng bớt nhàm chán."
+    },
+    {
+      "id": "s3-61-05",
+      "kind": "sentence",
+      "en": "Before lunch, a worker finds the parcel behind a display of old packaging.",
+      "vi": "Trước trưa, công nhân tìm bưu kiện sau khu trưng bày bao bì cũ."
+    },
+    {
+      "id": "s3-61-06",
+      "kind": "sentence",
+      "en": "It will not add much revenue or profit, but its journey gives our class a useful story about checking small details.",
+      "vi": "Nó không thêm nhiều doanh thu hay lợi nhuận, nhưng hành trình cho lớp câu chuyện hữu ích về kiểm chi tiết nhỏ."
+    }
+  ]
+}

@@ -1,11 +1,9 @@
-import { test, expect } from '@playwright/test';
+import { test, expect, seedProgress } from './fixtures.js';
 
 const fixedTime = new Date('2026-11-03T12:00:00+07:00');
 async function openApp(page, hash = '', previouslyOpened = []) {
   await page.clock.setFixedTime(fixedTime);
-  if (previouslyOpened.length) await page.addInitScript(ids => {
-    localStorage.setItem('moi-ngay-english:v1', JSON.stringify({ version: 1, currentLesson: 1, fontSize: 22, openedLessons: [1, ...ids], records: [] }));
-  }, previouslyOpened);
+  if (previouslyOpened.length) await seedProgress(page, { version: 1, currentLesson: 1, fontSize: 22, openedLessons: [1, ...previouslyOpened], records: [] });
   await page.goto(`/${hash}`);
   await expect(page.locator('#passage')).toBeVisible();
 }
@@ -66,6 +64,13 @@ test('context groups highlight and translate the entire mapped group', async ({ 
 
 test('vocabulary sheet has all ten words, phrase maps, keyboard tabs, and closes accessibly', async ({ page }) => {
   await openApp(page);
+  await expect(page.locator('#vocabulary-toggle')).toHaveText('Từ vựng & cụm câu');
+  await expect(page.locator('#vocabulary-toggle')).toHaveCSS('text-decoration-line', 'underline');
+  await expect(page.locator('#vocabulary-toggle svg')).toHaveCount(0);
+  await expect(page.locator('#story-details')).toHaveCount(0);
+  const vocabularyPosition = await page.locator('#vocabulary-toggle').boundingBox();
+  const passagePosition = await page.locator('#passage').boundingBox();
+  expect(vocabularyPosition.y + vocabularyPosition.height).toBeLessThan(passagePosition.y);
   await page.locator('#vocabulary-toggle').tap();
   await expect(page.locator('#vocabulary-dialog')).toBeVisible();
   await expect(page.locator('#vocabulary-toggle')).toHaveAttribute('aria-expanded', 'true');
@@ -131,11 +136,7 @@ test('lesson selection, Vietnamese search, font sizes and boundaries work', asyn
   await expect(page.locator('#lesson-number')).toHaveText('02');
   await page.goto('/#read/50');
   await expect(page.locator('#lesson-number')).toHaveText('02');
-  await page.evaluate(() => {
-    const state = JSON.parse(localStorage.getItem('moi-ngay-english:v1'));
-    state.openedLessons.push(50);
-    localStorage.setItem('moi-ngay-english:v1', JSON.stringify(state));
-  });
+  await seedProgress(page, { version: 1, currentLesson: 50, fontSize: 22, records: [] });
   await page.reload();
   await page.goto('/#read/50');
   await expect(page.locator('#lesson-number')).toHaveText('50');
@@ -164,7 +165,7 @@ test('backup exports real progress, merges valid files and rejects invalid data 
   expect(file.suggestedFilename()).toBe('moi-ngay-tien-do-2026-11-03.json');
   await page.locator('#import-backup').setInputFiles({ name: 'backup.json', mimeType: 'application/json', buffer: Buffer.from(JSON.stringify({ version: 1, currentLesson: 1, fontSize: 22, records: [{ lessonId: 1, date: '2026-11-03' }, { lessonId: 2, date: '2026-11-03' }] })) });
   await expect(page.locator('#backup-message')).toContainText('Đã gộp');
-  await page.locator('#import-backup').setInputFiles({ name: 'bad.json', mimeType: 'application/json', buffer: Buffer.from('{"version":1,"records":[{"lessonId":51,"date":"2026-11-03"}]}') });
+  await page.locator('#import-backup').setInputFiles({ name: 'bad.json', mimeType: 'application/json', buffer: Buffer.from('{"version":1,"records":[{"lessonId":999999,"date":"2026-11-03"}]}') });
   await expect(page.locator('#backup-message')).toHaveClass('is-error');
   await page.locator('[data-close="backup-dialog"]').tap();
   await expect(page.locator('#history-list .lesson-row')).toHaveCount(2);
@@ -175,13 +176,15 @@ test('unavailable storage and a failed data request have recoverable visible sta
   await page.route('**/data/lessons.json', route => route.fulfill({ status: 503, body: 'Unavailable' }));
   await page.goto('/');
   await expect(page.locator('#error-view')).toBeVisible();
-  await expect(page.locator('#storage-warning')).toBeVisible();
+  await expect(page.locator('#storage-warning')).toBeHidden();
   await page.unroute('**/data/lessons.json');
   await page.locator('#retry-button').tap();
   await expect(page.locator('#passage')).toBeVisible();
   await page.locator('#complete-button').tap();
   await expect(page.locator('#today-count')).toHaveText('Hôm nay · 1 bài');
-  await expect(page.locator('#storage-warning')).toContainText('chưa lưu được');
+  await expect.poll(async () => (await (await page.request.get('/api/progress')).json()).state.records.length).toBe(1);
+  await page.reload();
+  await expect(page.locator('#complete-button')).toBeDisabled();
 });
 
 test('future titles stay hidden in the picker and search, and direct links cannot skip ahead', async ({ page }) => {
@@ -219,11 +222,19 @@ test('future titles stay hidden in the picker and search, and direct links canno
   await expect(page.locator('#lesson-number')).toHaveText('02');
 });
 
-test('existing progress migrates without exposing titles of skipped lessons', async ({ page }) => {
+test('existing browser progress is imported explicitly without exposing skipped titles', async ({ page }) => {
   await page.addInitScript(() => localStorage.setItem('moi-ngay-english:v1', JSON.stringify({ version: 1, currentLesson: 12, fontSize: 24, records: [{ lessonId: 5, date: '2026-11-02' }] })));
   await openApp(page);
+  await expect(page.locator('#lesson-number')).toHaveText('01');
+  await page.locator('[data-view="history"]').tap();
+  await page.locator('#backup-toggle').tap();
+  await page.locator('#import-legacy').tap();
+  await expect(page.locator('#backup-message')).toContainText('Đã nhập');
+  await page.keyboard.press('Escape');
+  await page.locator('[data-view="read"]').tap();
+  await page.locator('#lesson-picker').tap();
+  await page.locator('#picker-list [data-lesson="12"]').tap();
   await expect(page.locator('#lesson-number')).toHaveText('12');
-  await expect(page.locator('#passage')).toHaveCSS('font-size', '24px');
   await expect(page.locator('#previous-lesson')).toBeDisabled();
   await page.locator('#lesson-picker').tap();
   await expect(page.locator('#picker-list .lesson-row')).toHaveCount(3);
@@ -237,10 +248,11 @@ test('appended lessons form one list and unlock after the previous final lesson'
   await page.route('**/data/lessons.json', async route => {
     const response = await route.fetch();
     const data = await response.json();
+    data.lessons = data.lessons.slice(0, 50);
     data.lessons.push({ ...data.lessons[0], id: 51, title: 'A Secret New Chapter', titleVi: 'Một trang mới bí mật' });
     await route.fulfill({ json: data });
   });
-  await page.addInitScript(() => localStorage.setItem('moi-ngay-english:v1', JSON.stringify({ version: 1, currentLesson: 50, fontSize: 22, records: [{ lessonId: 50, date: '2026-11-02' }] })));
+  await seedProgress(page, { version: 1, currentLesson: 50, fontSize: 22, records: [{ lessonId: 50, date: '2026-11-02' }] });
   await openApp(page);
   await expect(page.locator('#lesson-total')).toHaveText('/ 51');
   await expect(page.locator('#lesson-title')).toHaveText('Lunch for a New Student');
@@ -269,3 +281,65 @@ for (const width of [320, 375, 414, 768, 1365]) {
     expect(await overflow()).toBe(false);
   });
 }
+
+for (const width of [320, 375, 414, 768]) {
+  test(`mobile identity and empty history fit above bottom navigation at ${width}px`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 740 });
+    await openApp(page);
+    await expect(page.locator('.mobile-brand-mark svg')).toBeVisible();
+    const mobilePath = await page.locator('.mobile-brand-mark path').getAttribute('d');
+    expect(mobilePath).toBe(await page.locator('.sidebar .brand-mark path').getAttribute('d'));
+    await page.locator('[data-view="history"]').click();
+    await expect(page.locator('#history-view')).toBeVisible();
+    const cta = page.locator('#history-list [data-go-read]');
+    await expect(cta).toBeVisible();
+    const geometry = await page.evaluate(() => {
+      const button = document.querySelector('#history-list [data-go-read]').getBoundingClientRect();
+      const nav = document.querySelector('.sidebar').getBoundingClientRect();
+      const title = document.querySelector('#history-title').getBoundingClientRect();
+      const header = document.querySelector('.topbar').getBoundingClientRect();
+      const icons = [...document.querySelectorAll('.main-nav a > [data-icon]')].map(el => el.getBoundingClientRect().top);
+      return { buttonBottom: button.bottom, buttonHeight: button.height, navTop: nav.top, titleTop: title.top, headerBottom: header.bottom, icons, overflows: document.documentElement.scrollWidth > innerWidth };
+    });
+    expect(geometry.buttonBottom).toBeLessThan(geometry.navTop - 8);
+    expect(geometry.buttonHeight).toBeGreaterThanOrEqual(44);
+    expect(geometry.titleTop - geometry.headerBottom).toBeLessThanOrEqual(32);
+    expect(Math.max(...geometry.icons) - Math.min(...geometry.icons)).toBeLessThanOrEqual(1);
+    expect(geometry.overflows).toBe(false);
+    await cta.click();
+    await expect(page.locator('#reader-view')).toBeVisible();
+    await page.locator('#complete-button').scrollIntoViewIfNeeded();
+    const button = await page.locator('#complete-button').boundingBox();
+    const nav = await page.locator('.sidebar').boundingBox();
+    expect(button.y + button.height).toBeLessThanOrEqual(nav.y);
+    await page.locator('[data-view="calendar"]').click();
+    await expect(page.locator('#calendar-view')).toBeVisible();
+    const lastDay = await page.locator('.calendar-day').last().boundingBox();
+    const calendarNav = await page.locator('.sidebar').boundingBox();
+    expect(lastDay.y + lastDay.height).toBeLessThan(calendarNav.y);
+  });
+}
+
+test('short phone screens can scroll the last history action above the navigation', async ({ page }) => {
+  await page.setViewportSize({ width: 360, height: 580 });
+  await openApp(page);
+  await page.locator('[data-view="history"]').click();
+  await expect(page.locator('#history-view')).toBeVisible();
+  const cta = page.locator('#history-list [data-go-read]');
+  await cta.scrollIntoViewIfNeeded();
+  const button = await cta.boundingBox();
+  const nav = await page.locator('.sidebar').boundingBox();
+  expect(button.y + button.height).toBeLessThan(nav.y);
+  await cta.click();
+  await expect(page.locator('#reader-view')).toBeVisible();
+});
+
+test('desktop retains the sidebar and original brand layout', async ({ page }) => {
+  await page.setViewportSize({ width: 1365, height: 900 });
+  await openApp(page);
+  await expect(page.locator('.brand')).toBeVisible();
+  await expect(page.locator('.mobile-brand')).toBeHidden();
+  const sidebar = await page.locator('.sidebar').boundingBox();
+  expect(sidebar.width).toBe(244);
+  await expect(page.locator('#lesson-title')).toHaveCSS('font-size', '51.2px');
+});

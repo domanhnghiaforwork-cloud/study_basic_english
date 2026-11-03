@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 73,
+  "sourceFile": "paragraph/73_the_exciting_part_of_a_familiar_story.md",
+  "sourceSha256": "417659ae9055c0142d58e17c912be33b13fd79e4cd229075e99517c6e52d6151",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-73-01",
+      "kind": "sentence",
+      "en": "I feel excited when our theater group chooses a familiar story.",
+      "vi": "Tôi hào hứng khi đoàn kịch chọn truyện quen."
+    },
+    {
+      "id": "s3-73-02",
+      "kind": "sentence",
+      "en": "The director promises an exciting version, but she refuses to rush the essential preparation.",
+      "vi": "Đạo diễn hứa bản thú vị, nhưng không vội khâu chuẩn bị thiết yếu."
+    },
+    {
+      "id": "s3-73-03",
+      "kind": "sentence",
+      "en": "An experienced actor helps us find the exact moment when the hero changes his mind.",
+      "vi": "Diễn viên kinh nghiệm giúp tìm đúng lúc anh hùng đổi ý."
+    },
+    {
+      "id": "s3-73-04",
+      "kind": "sentence",
+      "en": "Our first performance is far from excellent, and the enormous hall seems to swallow every word.",
+      "vi": "Lần diễn đầu chưa xuất sắc, hội trường khổng lồ như nuốt từng lời."
+    },
+    {
+      "id": "s3-73-05",
+      "kind": "sentence",
+      "en": "We practice again, taking turns so the process stays fair.",
+      "vi": "Chúng tôi luyện lại, thay phiên cho công bằng."
+    },
+    {
+      "id": "s3-73-06",
+      "kind": "sentence",
+      "en": "By opening night, nobody expects a perfect show.",
+      "vi": "Đến khai màn, chẳng ai mong hoàn hảo."
+    },
+    {
+      "id": "s3-73-07",
+      "kind": "sentence",
+      "en": "We simply want the audience to enjoy a fantastic evening together.",
+      "vi": "Chúng tôi chỉ muốn khán giả có tối tuyệt vời bên nhau."
+    }
+  ]
+}

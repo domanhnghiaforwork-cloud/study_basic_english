@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 29,
+  "sourceFile": "paragraph/29_the_little_bridge_in_the_picture.md",
+  "sourceSha256": "d6c275d7dd282a9ee649e3392b3020003f85620b901b214b0ab97676d7dab273",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-29-01",
+      "kind": "sentence",
+      "en": "I am painting a bridge over a river.",
+      "vi": "Tôi đang vẽ cây cầu qua sông."
+    },
+    {
+      "id": "s2-29-02",
+      "kind": "sentence",
+      "en": "The paper is smooth, but my brush leaves thick lines where I want thin ones.",
+      "vi": "Giấy nhẵn, nhưng cọ để nét dày ở nơi tôi muốn nét mảnh."
+    },
+    {
+      "id": "s2-29-03",
+      "kind": "sentence",
+      "en": "I add bright colors to the wide fields and dark colors beneath the trees.",
+      "vi": "Tôi tô màu sáng cho đồng rộng và màu tối dưới cây."
+    },
+    {
+      "id": "s2-29-04",
+      "kind": "sentence",
+      "en": "A narrow path leads across the bridge toward a heavy wooden gate.",
+      "vi": "Lối hẹp qua cầu dẫn đến cổng gỗ nặng."
+    },
+    {
+      "id": "s2-29-05",
+      "kind": "sentence",
+      "en": "Near the bank, the water is shallow; farther out, it looks deep.",
+      "vi": "Gần bờ, nước nông; xa hơn có vẻ sâu."
+    },
+    {
+      "id": "s2-29-06",
+      "kind": "sentence",
+      "en": "My brother asks why nobody is crossing.",
+      "vi": "Anh trai hỏi sao không ai đi qua."
+    },
+    {
+      "id": "s2-29-07",
+      "kind": "sentence",
+      "en": "I paint two tiny people on the path, and suddenly the picture feels like a story.",
+      "vi": "Tôi vẽ hai người tí hon trên đường, bỗng bức tranh giống một câu chuyện."
+    }
+  ]
+}

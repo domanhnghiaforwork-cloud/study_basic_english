@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 72,
+  "sourceFile": "paragraph/72_the_ramp_at_the_distant_station.md",
+  "sourceSha256": "b5130c9258840ddf92258f29cc0b748e7afe871ac276dc6c72b9560d9f14d4ce",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-72-01",
+      "kind": "sentence",
+      "en": "A distant railway station becomes the subject of our educational film.",
+      "vi": "Nhà ga xa thành đề tài phim giáo dục của chúng tôi."
+    },
+    {
+      "id": "s3-72-02",
+      "kind": "sentence",
+      "en": "A disabled traveler gives direct comments about the entire route from the entrance to the platform.",
+      "vi": "Khách khuyết tật góp ý trực tiếp về toàn đường từ cửa đến sân ga."
+    },
+    {
+      "id": "s3-72-03",
+      "kind": "sentence",
+      "en": "We are disappointed to find a ramp blocked by boxes.",
+      "vi": "Chúng tôi thất vọng thấy dốc bị hộp chắn."
+    },
+    {
+      "id": "s3-72-04",
+      "kind": "sentence",
+      "en": "The staff first seem doubtful about our project, and one interview becomes dramatic.",
+      "vi": "Ban đầu nhân viên nghi ngại dự án, một cuộc phỏng vấn căng thẳng."
+    },
+    {
+      "id": "s3-72-05",
+      "kind": "sentence",
+      "en": "Still, the most effective scene is quiet: a worker moves the boxes and asks the traveler to try again.",
+      "vi": "Nhưng cảnh hiệu quả nhất yên lặng: công nhân chuyển hộp, mời khách thử lại."
+    },
+    {
+      "id": "s3-72-06",
+      "kind": "sentence",
+      "en": "The result is hopeful, although the disappointing delay reminds us how easily a small obstacle can change a journey.",
+      "vi": "Kết quả có hy vọng, dù chậm trễ đáng thất vọng nhắc rằng vật cản nhỏ dễ đổi hành trình ra sao."
+    }
+  ]
+}

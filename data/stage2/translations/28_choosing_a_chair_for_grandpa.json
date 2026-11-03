@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 28,
+  "sourceFile": "paragraph/28_choosing_a_chair_for_grandpa.md",
+  "sourceSha256": "2201c1aeed021d006684163890cbc3ce2f4596966eff6acd285c533d64704d16",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-28-01",
+      "kind": "sentence",
+      "en": "A famous shop has a popular chair in its window, but Grandpa does not want it.",
+      "vi": "Cửa hàng nổi tiếng trưng chiếc ghế được ưa chuộng, nhưng ông không muốn mua."
+    },
+    {
+      "id": "s2-28-02",
+      "kind": "sentence",
+      "en": "He says the complicated frame makes him uncomfortable.",
+      "vi": "Ông nói khung cầu kỳ khiến ông khó chịu."
+    },
+    {
+      "id": "s2-28-03",
+      "kind": "sentence",
+      "en": "At another shop, we find a simple wooden chair with a soft seat.",
+      "vi": "Ở cửa hàng khác, chúng tôi thấy ghế gỗ đơn giản có đệm mềm."
+    },
+    {
+      "id": "s2-28-04",
+      "kind": "sentence",
+      "en": "A rough edge needs a little work, but sitting in it feels comfortable.",
+      "vi": "Một cạnh thô cần sửa chút, nhưng ngồi rất thoải mái."
+    },
+    {
+      "id": "s2-28-05",
+      "kind": "sentence",
+      "en": "The owner says this kind of chair used to be common and is now quite rare.",
+      "vi": "Chủ tiệm nói kiểu ghế này từng phổ biến, giờ khá hiếm."
+    },
+    {
+      "id": "s2-28-06",
+      "kind": "sentence",
+      "en": "Grandpa buys it and carries it home slowly.",
+      "vi": "Ông mua rồi chậm rãi mang về."
+    },
+    {
+      "id": "s2-28-07",
+      "kind": "sentence",
+      "en": "By evening, he is reading beside the window in his new favorite seat.",
+      "vi": "Đến tối, ông đã đọc sách cạnh cửa sổ trên chiếc ghế yêu thích mới."
+    }
+  ]
+}

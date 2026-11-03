@@ -3,6 +3,7 @@ import {
   undoCompletion, completedIds, recordsOn, history, streak, monthCells, mergeBackup,
   openedIds, canOpenLesson, openLesson, validateState,
 } from './state.js';
+import { createAccount } from './account.js';
 
 const $ = id => document.getElementById(id);
 const ICONS = {
@@ -36,8 +37,7 @@ const shortDate = key => new Intl.DateTimeFormat('vi-VN', { day: '2-digit', mont
 const announce = text => { $('announcement').textContent = text; };
 let storage;
 try { storage = window.localStorage; } catch { storage = { getItem() { throw new Error('Storage unavailable'); } }; }
-const loaded = loadState(storage);
-let state = loaded.state;
+let state = freshState();
 let lessons = [];
 let view = 'read';
 let today = dateKey();
@@ -48,20 +48,47 @@ let historyFilter = 'read';
 let activeSegment = null;
 let hold = null;
 let loading = false;
-if (loaded.error) showStorageWarning(loaded.error);
+let aiController = null;
+let aiVersion = 0;
+let aiAnimationFrame = null;
+const account = createAccount({
+  onReady: async next => {
+    state = next;
+    $('lesson-search').value = '';
+    historyFilter = 'read';
+    selectedDay = dateKey();
+    if (lessons.length) route(); else await loadLessons();
+  },
+  onSignedOut: () => {
+    closeTranslation(); cancelHold();
+    document.querySelectorAll('dialog[open]').forEach(dialog => dialog.close());
+    state = freshState();
+    $('passage').replaceChildren();
+    $('history-list').replaceChildren();
+    $('day-lessons').replaceChildren();
+    $('ai-logs-list').replaceChildren();
+    $('lesson-title').textContent = '';
+    $('account-username').textContent = '';
+    $('storage-warning').hidden = true;
+  },
+  onUpdate: next => {
+    const changed = next.currentLesson !== state.currentLesson || next.fontSize !== state.fontSize;
+    state = next;
+    updateSummary();
+    if (view === 'read') { if (changed) renderReader(); else updateCompletion(); }
+    if (view === 'calendar') renderCalendar();
+    if (view === 'history') renderHistory();
+  },
+  onWarning: message => { if (message) showStorageWarning(message); else $('storage-warning').hidden = true; },
+});
 
 function showStorageWarning(message) {
   $('storage-warning').textContent = message;
   $('storage-warning').hidden = false;
 }
 
-function save() {
-  try {
-    storage.setItem(STORAGE_KEY, JSON.stringify(state));
-    $('storage-warning').hidden = true;
-  } catch {
-    showStorageWarning('Trình duyệt chưa lưu được tiến độ. Hãy tải bản sao lưu trong mục Đã đọc trước khi đóng trang.');
-  }
+function save(operation) {
+  account.save(operation, state);
 }
 
 function currentLesson() { return lessons.find(lesson => lesson.id === state.currentLesson) || lessons[0]; }
@@ -86,9 +113,7 @@ function renderReader() {
   $('lesson-number').textContent = String(lesson.id).padStart(2, '0');
   $('lesson-progress-bar').style.width = `${lesson.id / lessons.length * 100}%`;
   $('lesson-picker').setAttribute('aria-label', `Bài ${lesson.id} trên ${lessons.length}. Chọn bài đọc`);
-  $('story-details').textContent = `${lesson.wordCount} từ · 10 từ vựng trọng tâm`;
   document.documentElement.style.setProperty('--reading-size', `${state.fontSize}px`);
-  const wordPattern = new RegExp(`(?<![a-zA-Z])(${lesson.vocabulary.map(entry => entry.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})(?![a-zA-Z])`, 'gi');
   $('passage').replaceChildren();
   for (const segment of lesson.segments) {
     const span = document.createElement('span');
@@ -99,16 +124,7 @@ function renderReader() {
     span.setAttribute('aria-pressed', 'false');
     span.setAttribute('aria-label', `${segment.en} — Giữ hoặc nhấn Enter để xem bản dịch`);
     span.setAttribute('aria-controls', 'translation-card');
-    let previous = 0;
-    for (const match of segment.en.matchAll(wordPattern)) {
-      span.append(document.createTextNode(segment.en.slice(previous, match.index)));
-      const word = document.createElement('strong');
-      word.className = 'target-word';
-      word.textContent = match[0];
-      span.append(word);
-      previous = match.index + match[0].length;
-    }
-    span.append(document.createTextNode(segment.en.slice(previous)));
+    span.textContent = segment.en;
     $('passage').append(span, document.createTextNode(' '));
   }
   $('previous-lesson').disabled = !canOpenLesson(state, lesson.id - 1, lessons.length);
@@ -185,11 +201,11 @@ function renderHistory() {
   $('history-list').innerHTML = filtered.length ? filtered.map(lesson => {
     const record = records.get(lesson.id);
     return lessonRow(lesson, record ? `Đọc gần nhất ${shortDate(record.lastRead)} · ${record.days} ngày đã đọc` : lesson.titleVi, !!record);
-  }).join('') : emptyState(query ? 'Chưa tìm thấy bài này.' : 'Hành trình bắt đầu từ một bài.', query ? 'Thử tìm bằng tên tiếng Anh, tiếng Việt hoặc số bài.' : 'Bài đã đọc xong sẽ được lưu ở đây để bạn dễ ôn lại.', !query);
+  }).join('') : emptyState(query ? 'Chưa tìm thấy bài này.' : 'Bắt đầu từ một bài đọc.', query ? 'Thử tìm bằng tên tiếng Anh, tiếng Việt hoặc số bài.' : 'Đọc xong một bài, bạn sẽ thấy nó ở đây để ôn lại.', !query);
 }
 
 function route() {
-  if (!lessons.length) return;
+  if (!lessons.length || !account.user) return;
   closeTranslation();
   cancelHold();
   document.querySelectorAll('dialog[open]').forEach(dialog => dialog.close());
@@ -199,7 +215,7 @@ function route() {
   if (view === 'read') {
     const target = match?.[2] ? requested : state.currentLesson;
     const next = openLesson(state, target, lessons.length);
-    if (next) { state = next; save(); }
+    if (next) { state = next; save({ type: 'open', lessonId: target }); }
     else {
       window.history.replaceState(null, '', `#read/${state.currentLesson}`);
       announce('Hãy đọc xong bài hiện tại để mở bài tiếp theo.');
@@ -227,6 +243,7 @@ function goToLesson(id) {
 }
 
 function closeTranslation() {
+  resetAiQuestion();
   if (activeSegment) {
     activeSegment.classList.remove('selected');
     activeSegment.setAttribute('aria-pressed', 'false');
@@ -245,12 +262,116 @@ function translate(span) {
   $('translation-kind').textContent = segment.kind === 'group' ? 'Nghĩa tiếng Việt · Cụm câu' : 'Nghĩa tiếng Việt';
   $('translation-text').textContent = segment.vi;
   $('translation-card').hidden = false;
+  positionTranslationCard();
   requestAnimationFrame(() => {
     const rect = span.getBoundingClientRect();
     const cardRect = $('translation-card').getBoundingClientRect();
     if (rect.bottom > cardRect.top - 20) span.scrollIntoView({ block: 'center', behavior: 'instant' });
   });
 }
+
+function setAiBusy(busy) {
+  $('ai-form').setAttribute('aria-busy', String(busy));
+  $('ai-submit').disabled = busy;
+  $('ai-question').readOnly = busy;
+}
+
+function resetAiQuestion() {
+  aiVersion++;
+  aiController?.abort();
+  aiController = null;
+  if (aiAnimationFrame !== null) cancelAnimationFrame(aiAnimationFrame);
+  aiAnimationFrame = null;
+  $('ai-question').value = '';
+  $('ai-status').hidden = true;
+  $('ai-status').classList.remove('is-error');
+  $('ai-status').textContent = '';
+  $('ai-answer').hidden = true;
+  $('ai-answer').textContent = '';
+  $('ai-announcement').textContent = '';
+  setAiBusy(false);
+}
+
+function positionTranslationCard() {
+  const viewport = window.visualViewport;
+  const height = viewport?.height || window.innerHeight;
+  const keyboardInset = Math.max(0, window.innerHeight - height - (viewport?.offsetTop || 0));
+  $('translation-card').style.setProperty('--keyboard-inset', `${keyboardInset}px`);
+  $('translation-card').style.setProperty('--translation-viewport-height', `${height}px`);
+}
+
+function showAiAnswer(answer, version) {
+  if (aiAnimationFrame !== null) cancelAnimationFrame(aiAnimationFrame);
+  const paragraph = $('ai-answer');
+  paragraph.hidden = false;
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    paragraph.textContent = answer;
+    $('ai-announcement').textContent = answer;
+    return;
+  }
+  // Reveal text progressively; the fixed-bottom box naturally grows upward
+  // with each line, without animating layout height or stretching the text.
+  const points = Array.from(answer);
+  const start = performance.now();
+  const duration = Math.min(850, Math.max(220, points.length * 2));
+  const frame = now => {
+    if (version !== aiVersion) return;
+    const count = Math.min(points.length, Math.ceil((now - start) / duration * points.length));
+    paragraph.textContent = points.slice(0, count).join('');
+    if (count < points.length) aiAnimationFrame = requestAnimationFrame(frame);
+    else { aiAnimationFrame = null; $('ai-announcement').textContent = answer; }
+  };
+  aiAnimationFrame = requestAnimationFrame(frame);
+}
+
+$('ai-form').addEventListener('submit', async event => {
+  event.preventDefault();
+  if (aiController || !activeSegment) return;
+  const question = $('ai-question').value.trim();
+  if (!question) {
+    $('ai-status').textContent = 'Nhập từ hoặc cụm từ bạn muốn hỏi.';
+    $('ai-status').classList.add('is-error');
+    $('ai-status').hidden = false;
+    $('ai-question').focus();
+    return;
+  }
+  const lesson = currentLesson();
+  const segmentId = activeSegment.dataset.segmentId;
+  const version = ++aiVersion;
+  if (aiAnimationFrame !== null) cancelAnimationFrame(aiAnimationFrame);
+  aiAnimationFrame = null;
+  const controller = new AbortController();
+  aiController = controller;
+  $('ai-answer').hidden = true;
+  $('ai-answer').textContent = '';
+  $('ai-status').classList.remove('is-error');
+  $('ai-status').textContent = 'AI đang suy nghĩ...';
+  $('ai-status').hidden = false;
+  setAiBusy(true);
+  positionTranslationCard();
+  try {
+    const data = await account.api('./api/ai/explain', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ lessonId: lesson.id, segmentId, question }),
+      signal: controller.signal,
+    });
+    if (typeof data.answer !== 'string' || !data.answer.trim()) throw new Error('AI chưa có câu trả lời. Bạn thử lại nhé.');
+    if (version !== aiVersion) return;
+    $('ai-status').hidden = true;
+    showAiAnswer(data.answer, version);
+  } catch (error) {
+    if (version !== aiVersion || error.name === 'AbortError') return;
+    $('ai-status').textContent = error instanceof TypeError ? 'Mất kết nối. Bạn thử gửi lại câu hỏi nhé.' : error.message;
+    $('ai-status').classList.add('is-error');
+    $('ai-status').hidden = false;
+  } finally {
+    if (version === aiVersion) { aiController = null; setAiBusy(false); }
+  }
+});
+window.visualViewport?.addEventListener('resize', positionTranslationCard);
+window.visualViewport?.addEventListener('scroll', positionTranslationCard);
+window.addEventListener('resize', positionTranslationCard);
 
 function cancelHold() {
   if (hold) window.clearTimeout(hold.timer);
@@ -311,18 +432,18 @@ $('next-lesson').addEventListener('click', () => goToLesson(Math.min(lessons.len
 $('complete-button').addEventListener('click', () => {
   today = dateKey();
   state = completeLesson(state, state.currentLesson, today, lessons.length);
-  save(); updateCompletion(); updateSummary();
+  save({ type: 'complete', lessonId: state.currentLesson, date: today }); updateCompletion(); updateSummary();
   announce(`Đã ghi lại bài ${state.currentLesson} vào lịch hôm nay.`);
 });
 $('undo-button').addEventListener('click', () => {
   today = dateKey();
   state = undoCompletion(state, state.currentLesson, today);
-  save(); updateCompletion(); updateSummary(); announce('Đã hoàn tác đánh dấu đọc hôm nay.');
+  save({ type: 'undo', lessonId: state.currentLesson, date: today }); updateCompletion(); updateSummary(); announce('Đã hoàn tác đánh dấu đọc hôm nay.');
 });
 for (const [id, step] of [['font-down', -1], ['font-up', 1]]) {
   $(id).addEventListener('click', () => {
     const size = FONT_SIZES[FONT_SIZES.indexOf(state.fontSize) + step];
-    if (size) { state = { ...state, fontSize: size }; save(); renderReader(); announce(`Cỡ chữ ${size}.`); }
+    if (size) { state = { ...state, fontSize: size }; save({ type: 'font', fontSize: size }); renderReader(); announce(`Cỡ chữ ${size}.`); }
   });
 }
 $('vocabulary-toggle').addEventListener('click', () => openDialog('vocabulary-dialog'));
@@ -367,7 +488,52 @@ for (const [id, step] of [['previous-month', -1], ['next-month', 1]]) $(id).addE
 });
 for (const type of ['read', 'all']) $(`filter-${type}`).addEventListener('click', () => { historyFilter = type; renderHistory(); });
 $('lesson-search').addEventListener('input', renderHistory);
-$('backup-toggle').addEventListener('click', () => { $('backup-message').textContent = ''; openDialog('backup-dialog'); });
+$('backup-toggle').addEventListener('click', () => {
+  $('backup-message').textContent = '';
+  const legacy = loadState(storage, lessons.length);
+  let legacyOwner;
+  try { legacyOwner = storage.getItem(`${STORAGE_KEY}:legacy-owner`); } catch {}
+  $('import-legacy').hidden = !!legacy.error || (legacyOwner && legacyOwner !== account.user.id) || (!legacy.state.records.length && legacy.state.currentLesson === 1);
+  openDialog('backup-dialog');
+});
+$('import-legacy').addEventListener('click', async () => {
+  const legacy = loadState(storage, lessons.length);
+  if (legacy.error) { $('backup-message').textContent = legacy.error; return; }
+  state = mergeBackup(state, legacy.state, lessons.length);
+  save({ type: 'import', state: legacy.state }); updateSummary(); renderHistory();
+  if (await account.flush()) {
+    try { storage.setItem(`${STORAGE_KEY}:legacy-owner`, account.user.id); } catch {}
+    $('import-legacy').hidden = true;
+    $('backup-message').textContent = 'Đã nhập tiến độ cũ vào tài khoản này.';
+  }
+});
+let aiLogCursor = null;
+let aiLogsBusy = false;
+async function loadAiLogs(append = false) {
+  if (aiLogsBusy) return;
+  aiLogsBusy = true;
+  const userId = account.user?.id;
+  $('ai-logs-status').textContent = 'Đang mở nhật ký…';
+  $('ai-logs-more').disabled = true;
+  try {
+    const data = await account.api(`./api/ai/logs${append && aiLogCursor ? `?before=${aiLogCursor}` : ''}`);
+    if (account.user?.id !== userId) return;
+    if (!append) $('ai-logs-list').replaceChildren();
+    for (const entry of data.items) {
+      const row = document.createElement('article');
+      row.className = 'ai-log-row';
+      const when = new Intl.DateTimeFormat('vi-VN', { dateStyle: 'short', timeStyle: 'short' }).format(new Date(entry.timestamp));
+      row.innerHTML = `<span class="small-label">${escapeHTML(when)} · Bài ${entry.lessonId}</span><h3>${escapeHTML(entry.userInput)}</h3><p>${escapeHTML(entry.answer || 'Lượt hỏi chưa có câu trả lời.')}</p><details><summary>Xem câu đã hỏi</summary><p lang="en">${escapeHTML(entry.sourceEnglish)}</p><p>${escapeHTML(entry.translationVietnamese)}</p></details>`;
+      $('ai-logs-list').append(row);
+    }
+    aiLogCursor = data.nextCursor;
+    $('ai-logs-more').hidden = !aiLogCursor;
+    $('ai-logs-status').textContent = $('ai-logs-list').childElementCount ? '' : 'Chưa có câu hỏi AI nào trong tài khoản này.';
+  } catch (error) { $('ai-logs-status').textContent = error.message; }
+  finally { aiLogsBusy = false; $('ai-logs-more').disabled = false; }
+}
+$('ai-logs-toggle').addEventListener('click', () => { aiLogCursor = null; $('ai-logs-list').replaceChildren(); openDialog('ai-logs-dialog'); void loadAiLogs(); });
+$('ai-logs-more').addEventListener('click', () => void loadAiLogs(true));
 $('import-button').addEventListener('click', () => $('import-backup').click());
 document.querySelector('.skip-link').addEventListener('click', event => { event.preventDefault(); $('main').focus(); });
 $('export-backup').addEventListener('click', () => {
@@ -387,7 +553,7 @@ $('import-backup').addEventListener('change', async event => {
     if (file.size > 5 * 1024 * 1024) throw new Error('Tệp quá lớn. Hãy chọn bản sao lưu nhỏ hơn 5 MB.');
     const imported = JSON.parse(await file.text());
     state = mergeBackup(state, imported, lessons.length);
-    save(); updateSummary(); renderHistory();
+    save({ type: 'import', state: imported }); updateSummary(); renderHistory();
     $('backup-message').classList.remove('is-error');
     $('backup-message').textContent = 'Đã gộp bản sao lưu vào tiến độ của bạn.';
   } catch (error) {
@@ -395,17 +561,8 @@ $('import-backup').addEventListener('change', async event => {
     $('backup-message').textContent = error instanceof SyntaxError ? 'Tệp không phải JSON hợp lệ. Hãy chọn đúng bản sao lưu.' : error.message;
   } finally { event.target.value = ''; }
 });
-window.addEventListener('storage', event => {
-  if (event.key !== STORAGE_KEY) return;
-  const next = loadState(storage, lessons.length || Number.MAX_SAFE_INTEGER);
-  if (next.error) { showStorageWarning(next.error); return; }
-  state = next.state;
-  updateSummary();
-  if (view === 'read') renderReader();
-  if (view === 'calendar') renderCalendar();
-  if (view === 'history') renderHistory();
-});
 function refreshDate() {
+  if (!account.user) return;
   const now = dateKey();
   if (today === now) return;
   today = now; updateSummary();
@@ -438,4 +595,4 @@ async function loadLessons() {
 }
 $('retry-button').addEventListener('click', loadLessons);
 hydrateIcons();
-loadLessons();
+account.bootstrap();

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 14,
+  "sourceFile": "paragraph/14_a_council_in_the_school_hall.md",
+  "sourceSha256": "5ee7e9a2ee9074d77267f2efe188c59d69d5d183a19e6367a6cb74075442bd1e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-14-01",
+      "kind": "sentence",
+      "en": "Our class invents a government for a school play.",
+      "vi": "Lớp tạo chính phủ cho vở kịch trường."
+    },
+    {
+      "id": "s3-14-02",
+      "kind": "sentence",
+      "en": "One group studies a parliament, while another writes scenes about a congress in a different fictional country.",
+      "vi": "Một nhóm tìm hiểu nghị viện, nhóm khác viết cảnh về quốc hội ở nước hư cấu khác."
+    },
+    {
+      "id": "s3-14-03",
+      "kind": "sentence",
+      "en": "The president and a minister disagree over a broken bridge.",
+      "vi": "Tổng thống và bộ trưởng bất đồng về cầu hỏng."
+    },
+    {
+      "id": "s3-14-04",
+      "kind": "sentence",
+      "en": "Their political argument becomes the central problem of the story.",
+      "vi": "Tranh luận chính trị của họ trở thành vấn đề chính câu chuyện."
+    },
+    {
+      "id": "s3-14-05",
+      "kind": "sentence",
+      "en": "Our teacher reminds us that politics affects human lives, so the villagers need voices too.",
+      "vi": "Cô nhắc chính trị ảnh hưởng đời người nên dân làng cũng cần tiếng nói."
+    },
+    {
+      "id": "s3-14-06",
+      "kind": "sentence",
+      "en": "A quiet student becomes their leader and asks everyone to listen.",
+      "vi": "Một bạn ít nói thành người lãnh đạo, đề nghị tất cả lắng nghe."
+    },
+    {
+      "id": "s3-14-07",
+      "kind": "sentence",
+      "en": "Her leadership changes the ending: the bridge is repaired after the characters finally work together.",
+      "vi": "Sự lãnh đạo ấy đổi kết thúc: cầu được sửa khi các nhân vật cuối cùng hợp tác."
+    }
+  ]
+}

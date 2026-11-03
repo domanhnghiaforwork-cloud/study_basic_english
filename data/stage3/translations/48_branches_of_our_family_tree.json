@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 48,
+  "sourceFile": "paragraph/48_branches_of_our_family_tree.md",
+  "sourceSha256": "937c490454f2ab70ff70f6b9a464ebc44b6ac845624288cd82467c6311a7f07e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-48-01",
+      "kind": "sentence",
+      "en": "For a school project, I interview each relative about our family tree.",
+      "vi": "Cho dự án trường, tôi phỏng vấn người thân về gia phả."
+    },
+    {
+      "id": "s3-48-02",
+      "kind": "sentence",
+      "en": "One ancestor crossed the country by train, and a descendant still keeps his old ticket.",
+      "vi": "Một tổ tiên đi tàu xuyên đất nước, hậu duệ vẫn giữ vé cũ."
+    },
+    {
+      "id": "s3-48-03",
+      "kind": "sentence",
+      "en": "My nephew and niece add drawings beside their names.",
+      "vi": "Cháu trai, cháu gái thêm tranh cạnh tên."
+    },
+    {
+      "id": "s3-48-04",
+      "kind": "sentence",
+      "en": "Grandma chooses a photograph of every grandchild, while my stepfather shares a memory from his childhood.",
+      "vi": "Bà chọn ảnh từng cháu, cha dượng kể kỷ niệm thơ ấu."
+    },
+    {
+      "id": "s3-48-05",
+      "kind": "sentence",
+      "en": "My cousin writes about her stepmother and the adoption that brought them together.",
+      "vi": "Em họ viết về mẹ kế và việc nhận nuôi đưa hai người đến nhau."
+    },
+    {
+      "id": "s3-48-06",
+      "kind": "sentence",
+      "en": "As a teenager, I thought family history meant dates.",
+      "vi": "Lúc thiếu niên, tôi nghĩ lịch sử gia đình là ngày tháng."
+    },
+    {
+      "id": "s3-48-07",
+      "kind": "sentence",
+      "en": "Now the page holds journeys, choices, and people who made room for one another.",
+      "vi": "Giờ trang giấy có hành trình, lựa chọn, những người dành chỗ cho nhau."
+    }
+  ]
+}

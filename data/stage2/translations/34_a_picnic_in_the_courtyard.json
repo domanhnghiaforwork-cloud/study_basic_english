@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 34,
+  "sourceFile": "paragraph/34_a_picnic_in_the_courtyard.md",
+  "sourceSha256": "c2e6b3fa85452ac548278b6bf832052fecfd8dd7b4cdc95aa4f761e38803e1a6",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-34-01",
+      "kind": "sentence",
+      "en": "Rain changes our picnic plans, so we eat in the covered courtyard.",
+      "vi": "Mưa đổi kế hoạch dã ngoại nên chúng tôi ăn trong sân có mái che."
+    },
+    {
+      "id": "s2-34-02",
+      "kind": "sentence",
+      "en": "We cut a watermelon and share a peach and a pear.",
+      "vi": "Chúng tôi bổ dưa hấu, chia nhau một quả đào và một quả lê."
+    },
+    {
+      "id": "s2-34-03",
+      "kind": "sentence",
+      "en": "My little brother places a strawberry on every plate.",
+      "vi": "Em trai đặt dâu tây lên từng đĩa."
+    },
+    {
+      "id": "s2-34-04",
+      "kind": "sentence",
+      "en": "Mom brings coconut juice, while Dad chooses soda.",
+      "vi": "Mẹ mang nước dừa, bố chọn nước ngọt có ga."
+    },
+    {
+      "id": "s2-34-05",
+      "kind": "sentence",
+      "en": "There is bread with butter and cheese, and a bowl of yogurt for anyone still hungry.",
+      "vi": "Có bánh mì phết bơ, phô mai và bát sữa chua cho ai còn đói."
+    },
+    {
+      "id": "s2-34-06",
+      "kind": "sentence",
+      "en": "The food looks beautiful on our old tablecloth.",
+      "vi": "Đồ ăn trông đẹp trên khăn bàn cũ."
+    },
+    {
+      "id": "s2-34-07",
+      "kind": "sentence",
+      "en": "We cannot sit under the trees today, but we can hear the rain and tell stories without getting wet.",
+      "vi": "Hôm nay không ngồi dưới cây được, nhưng chúng tôi nghe mưa, kể chuyện mà không ướt."
+    }
+  ]
+}

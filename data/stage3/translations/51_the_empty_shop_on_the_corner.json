@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 51,
+  "sourceFile": "paragraph/51_the_empty_shop_on_the_corner.md",
+  "sourceSha256": "ce959fbfe2791a3e193623620a443c761dd33a22fff22ce598dc70ed4651c6f7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-51-01",
+      "kind": "sentence",
+      "en": "An entrepreneur wants to turn the empty corner shop into a repair market.",
+      "vi": "Doanh nhân muốn biến tiệm trống góc phố thành chợ sửa chữa."
+    },
+    {
+      "id": "s3-51-02",
+      "kind": "sentence",
+      "en": "A banker discusses the plan with her, while an investor asks how it will grow.",
+      "vi": "Nhân viên ngân hàng bàn kế hoạch, nhà đầu tư hỏi sẽ phát triển thế nào."
+    },
+    {
+      "id": "s3-51-03",
+      "kind": "sentence",
+      "en": "Her assistant invites a merchant, a salesperson, and a local consultant to an open afternoon.",
+      "vi": "Trợ lý mời thương nhân, nhân viên bán hàng, chuyên gia tư vấn địa phương đến buổi mở cửa."
+    },
+    {
+      "id": "s3-51-04",
+      "kind": "sentence",
+      "en": "There, each seller meets a possible buyer, and a volunteer cashier practices using the till.",
+      "vi": "Mỗi người bán gặp người mua tiềm năng, thu ngân tình nguyện tập dùng máy tính tiền."
+    },
+    {
+      "id": "s3-51-05",
+      "kind": "sentence",
+      "en": "Nothing is sold yet, but people leave their names.",
+      "vi": "Chưa bán gì nhưng mọi người để tên."
+    },
+    {
+      "id": "s3-51-06",
+      "kind": "sentence",
+      "en": "By evening, the shop is still empty of products and full of possibilities that did not exist that morning.",
+      "vi": "Đến tối, tiệm vẫn chưa có sản phẩm nhưng đầy khả năng buổi sáng chưa có."
+    }
+  ]
+}

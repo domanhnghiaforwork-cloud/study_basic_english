@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 44,
+  "sourceFile": "paragraph/44_a_notebook_for_difficult_days.md",
+  "sourceSha256": "9e8dbed53256ec96cced28373d2da01f8b0346d03557d13584f4fc62fcf0c6b4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-44-01",
+      "kind": "sentence",
+      "en": "In a novel, the main character writes through a difficult year.",
+      "vi": "Trong tiểu thuyết, nhân vật chính viết suốt năm khó khăn."
+    },
+    {
+      "id": "s3-44-02",
+      "kind": "sentence",
+      "en": "Her emotional life changes from page to page: anxiety fills some entries, while depression makes others brief.",
+      "vi": "Đời sống cảm xúc đổi từng trang: lo âu đầy một số mục, trầm cảm khiến mục khác ngắn."
+    },
+    {
+      "id": "s3-44-03",
+      "kind": "sentence",
+      "en": "She notices how mood affects concentration and how memory can surprise her.",
+      "vi": "Cô nhận ra tâm trạng ảnh hưởng tập trung, trí nhớ có thể gây bất ngờ."
+    },
+    {
+      "id": "s3-44-04",
+      "kind": "sentence",
+      "en": "A dream raises questions about consciousness, but her teacher asks only what the scene means to her.",
+      "vi": "Giấc mơ đặt câu hỏi về ý thức, nhưng giáo viên chỉ hỏi cảnh ấy có nghĩa gì với cô."
+    },
+    {
+      "id": "s3-44-05",
+      "kind": "sentence",
+      "en": "Through writing, she gains awareness of her own patterns.",
+      "vi": "Qua viết, cô nhận thức kiểu diễn biến của mình."
+    },
+    {
+      "id": "s3-44-06",
+      "kind": "sentence",
+      "en": "The story does not treat intelligence as a solution to everything; it gives imagination a place beside the people who support her.",
+      "vi": "Truyện không coi trí thông minh giải quyết mọi thứ; nó dành chỗ cho trí tưởng tượng bên những người hỗ trợ cô."
+    }
+  ]
+}

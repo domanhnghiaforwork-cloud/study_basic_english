@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 47,
+  "sourceFile": "paragraph/47_saving_the_school_fair_lunch.md",
+  "sourceSha256": "e25de77dc7f9290a6738dbe5f5021a20d60b80dff3028d1b6c912abc5a389875",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-47-01",
+      "kind": "sentence",
+      "en": "Our class will serve lunch at the school fair.",
+      "vi": "Lớp sẽ phục vụ trưa ở hội chợ trường."
+    },
+    {
+      "id": "s2-47-02",
+      "kind": "sentence",
+      "en": "We count the guests and compare prices before placing an order.",
+      "vi": "Chúng tôi đếm khách, so giá trước đặt."
+    },
+    {
+      "id": "s2-47-03",
+      "kind": "sentence",
+      "en": "To save money and avoid waste, we ask people to choose their meals early.",
+      "vi": "Để tiết kiệm, tránh phí, chúng tôi nhờ chọn món sớm."
+    },
+    {
+      "id": "s2-47-04",
+      "kind": "sentence",
+      "en": "We cover the outdoor tables to protect them from rain.",
+      "vi": "Chúng tôi che bàn ngoài trời tránh mưa."
+    },
+    {
+      "id": "s2-47-05",
+      "kind": "sentence",
+      "en": "Parents support our plan, but a storm may force us to cancel the fair.",
+      "vi": "Phụ huynh ủng hộ nhưng bão có thể buộc hủy."
+    },
+    {
+      "id": "s2-47-06",
+      "kind": "sentence",
+      "en": "On Saturday, the sky clears just before noon.",
+      "vi": "Thứ Bảy, trời quang trước trưa."
+    },
+    {
+      "id": "s2-47-07",
+      "kind": "sentence",
+      "en": "We put the food outside, and soon the tables are full of people enjoying the afternoon together.",
+      "vi": "Chúng tôi mang thức ăn ra, bàn sớm đầy người vui buổi chiều."
+    }
+  ]
+}

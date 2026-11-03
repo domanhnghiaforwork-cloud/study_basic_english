@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 32,
+  "sourceFile": "paragraph/32_dinner_from_the_market.md",
+  "sourceSha256": "11a8fcffc0577e0644eea6d20d4526b7071534709ae5f0f4f1776a46686a8929",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-32-01",
+      "kind": "sentence",
+      "en": "Dad returns from the market with beef, pork, and a bag of seafood.",
+      "vi": "Bố đi chợ về với thịt bò, thịt lợn và một túi hải sản."
+    },
+    {
+      "id": "s2-32-02",
+      "kind": "sentence",
+      "en": "My sister sees a crab and asks whether we are feeding the whole street.",
+      "vi": "Em gái thấy cua, hỏi có phải nhà mình sẽ cho cả phố ăn không."
+    },
+    {
+      "id": "s2-32-03",
+      "kind": "sentence",
+      "en": "Dad laughs and puts most of the food away for tomorrow.",
+      "vi": "Bố cười, cất phần lớn đồ ăn cho ngày mai."
+    },
+    {
+      "id": "s2-32-04",
+      "kind": "sentence",
+      "en": "Tonight, we cook shrimp and make a salad with tomato and onion.",
+      "vi": "Tối nay, chúng tôi nấu tôm và làm salad cà chua, hành tây."
+    },
+    {
+      "id": "s2-32-05",
+      "kind": "sentence",
+      "en": "I wash a potato while my sister cuts a carrot into small stars.",
+      "vi": "Tôi rửa khoai tây, em cắt cà rốt thành sao nhỏ."
+    },
+    {
+      "id": "s2-32-06",
+      "kind": "sentence",
+      "en": "By dinner, the kitchen is warm and busy.",
+      "vi": "Đến bữa, bếp ấm và nhộn nhịp."
+    },
+    {
+      "id": "s2-32-07",
+      "kind": "sentence",
+      "en": "We carry everything to the table and invite our neighbor to join us.",
+      "vi": "Chúng tôi mang đồ ra bàn, mời hàng xóm cùng ăn."
+    }
+  ]
+}

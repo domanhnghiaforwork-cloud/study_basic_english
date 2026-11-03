@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 58,
+  "sourceFile": "paragraph/58_the_notice_beside_the_time_clock.md",
+  "sourceSha256": "eded558cee3488d52849e1b3b6b9935b7364914e854eabb4f164339462c2fffa",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-58-01",
+      "kind": "sentence",
+      "en": "After months of unemployment, Minh finds employment at a bicycle factory.",
+      "vi": "Sau nhiều tháng thất nghiệp, Minh có việc tại xưởng xe đạp."
+    },
+    {
+      "id": "s3-58-02",
+      "kind": "sentence",
+      "en": "On his first shift, he reads a notice about overtime, insurance, and other benefits.",
+      "vi": "Ca đầu, bạn đọc thông báo làm thêm, bảo hiểm và phúc lợi khác."
+    },
+    {
+      "id": "s3-58-03",
+      "kind": "sentence",
+      "en": "The workplace feels unfamiliar, but the workforce includes several patient people who answer his questions.",
+      "vi": "Nơi làm lạ, nhưng đội ngũ có vài người kiên nhẫn trả lời."
+    },
+    {
+      "id": "s3-58-04",
+      "kind": "sentence",
+      "en": "Nobody promises a quick promotion or a large bonus.",
+      "vi": "Không ai hứa sớm thăng chức hay thưởng lớn."
+    },
+    {
+      "id": "s3-58-05",
+      "kind": "sentence",
+      "en": "Instead, his supervisor gives him a clear schedule and time to learn.",
+      "vi": "Thay vào đó, giám sát cho lịch rõ, thời gian học."
+    },
+    {
+      "id": "s3-58-06",
+      "kind": "sentence",
+      "en": "At the end of the week, Minh brings home a repaired bicycle frame.",
+      "vi": "Cuối tuần, Minh mang khung xe đã sửa về."
+    },
+    {
+      "id": "s3-58-07",
+      "kind": "sentence",
+      "en": "It is only a sample, but he cannot stop looking at it.",
+      "vi": "Chỉ mẫu thôi nhưng bạn cứ ngắm mãi."
+    }
+  ]
+}

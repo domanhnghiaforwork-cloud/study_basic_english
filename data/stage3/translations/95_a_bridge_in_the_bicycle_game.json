@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 95,
+  "sourceFile": "paragraph/95_a_bridge_in_the_bicycle_game.md",
+  "sourceSha256": "4bbe2a5791c2df48e21c92b0ab4854d79c4504080d5e9fbd0e1d8aafd1ee9dae",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-95-01",
+      "kind": "sentence",
+      "en": "We compete to construct a bridge inside a computer game.",
+      "vi": "Chúng tôi thi xây cầu trong trò máy tính."
+    },
+    {
+      "id": "s3-95-02",
+      "kind": "sentence",
+      "en": "Our riders must cycle across before a storm can damage the supports.",
+      "vi": "Người đạp xe phải qua trước bão làm hỏng trụ."
+    },
+    {
+      "id": "s3-95-03",
+      "kind": "sentence",
+      "en": "The first design begins to collapse, and a cartoon crash sends everyone back to the start.",
+      "vi": "Thiết kế đầu sắp sập, va chạm hoạt hình đưa tất cả về đầu."
+    },
+    {
+      "id": "s3-95-04",
+      "kind": "sentence",
+      "en": "We convert spare parts into a stronger base, but the repairs consume most of our imaginary budget.",
+      "vi": "Chúng tôi chuyển phụ tùng thành nền chắc, nhưng sửa tốn gần hết tiền tưởng tượng."
+    },
+    {
+      "id": "s3-95-05",
+      "kind": "sentence",
+      "en": "The game cannot cure our habit of rushing.",
+      "vi": "Trò không chữa được thói vội."
+    },
+    {
+      "id": "s3-95-06",
+      "kind": "sentence",
+      "en": "It can show us the consequences.",
+      "vi": "Nó cho thấy hậu quả."
+    },
+    {
+      "id": "s3-95-07",
+      "kind": "sentence",
+      "en": "By the last attempt, we check every support before letting a single rider cross the river.",
+      "vi": "Đến lần cuối, chúng tôi kiểm mọi trụ trước cho một người qua."
+    }
+  ]
+}

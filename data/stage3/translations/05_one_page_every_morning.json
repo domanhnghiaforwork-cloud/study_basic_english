@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 5,
+  "sourceFile": "paragraph/05_one_page_every_morning.md",
+  "sourceSha256": "086593640b1a347ba3985b6d968db9efd5cb402d52f64f57e846488f5808ddd7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-05-01",
+      "kind": "sentence",
+      "en": "I begin a new habit: writing one honest page before breakfast.",
+      "vi": "Tôi bắt đầu thói quen mới: viết một trang chân thật trước bữa sáng."
+    },
+    {
+      "id": "s3-05-02",
+      "kind": "sentence",
+      "en": "The fact that nobody will read it gives me freedom.",
+      "vi": "Việc không ai đọc mang lại cho tôi tự do."
+    },
+    {
+      "id": "s3-05-03",
+      "kind": "sentence",
+      "en": "Some mornings, I describe a fear about the future.",
+      "vi": "Có sáng, tôi tả nỗi sợ về tương lai."
+    },
+    {
+      "id": "s3-05-04",
+      "kind": "sentence",
+      "en": "Other mornings, I record a small moment of happiness.",
+      "vi": "Có sáng khác, tôi ghi khoảnh khắc hạnh phúc nhỏ."
+    },
+    {
+      "id": "s3-05-05",
+      "kind": "sentence",
+      "en": "This feeling of having space to think helps me focus at school.",
+      "vi": "Cảm giác có khoảng riêng để nghĩ giúp tôi tập trung ở trường."
+    },
+    {
+      "id": "s3-05-06",
+      "kind": "sentence",
+      "en": "After a month, I notice growth in how clearly I understand my own choices.",
+      "vi": "Sau một tháng, tôi thấy mình hiểu lựa chọn bản thân rõ hơn."
+    },
+    {
+      "id": "s3-05-07",
+      "kind": "sentence",
+      "en": "Honesty on paper is not always comfortable, but it helps me find questions I once tried to avoid.",
+      "vi": "Chân thật trên giấy không phải lúc nào cũng dễ chịu, nhưng giúp tôi tìm câu hỏi từng né tránh."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 77,
+  "sourceFile": "paragraph/77_the_ordinary_box_with_precious_things.md",
+  "sourceSha256": "cd75856cc5040149171ecc3726c27a3e93081033dc4d4237c342d95a7c5a0bb4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-77-01",
+      "kind": "sentence",
+      "en": "An ordinary box on Grandma's shelf holds her most precious things.",
+      "vi": "Hộp thường trên kệ bà giữ đồ quý nhất."
+    },
+    {
+      "id": "s3-77-02",
+      "kind": "sentence",
+      "en": "There is an original drawing, a personal letter, and a photograph from a pleasant afternoon.",
+      "vi": "Có tranh gốc, thư riêng, ảnh buổi chiều dễ chịu."
+    },
+    {
+      "id": "s3-77-03",
+      "kind": "sentence",
+      "en": "None is perfect, but each has a powerful place in her memory.",
+      "vi": "Không món hoàn hảo nhưng mỗi món có vị trí mạnh trong trí nhớ bà."
+    },
+    {
+      "id": "s3-77-04",
+      "kind": "sentence",
+      "en": "I offer a practical idea: make copies for a more permanent record.",
+      "vi": "Tôi đề nghị thiết thực: sao để lưu lâu dài hơn."
+    },
+    {
+      "id": "s3-77-05",
+      "kind": "sentence",
+      "en": "She likes the suggestion, and we spend a positive afternoon naming the people in every picture.",
+      "vi": "Bà thích, chúng tôi dành chiều tích cực gọi tên người trong ảnh."
+    },
+    {
+      "id": "s3-77-06",
+      "kind": "sentence",
+      "en": "By evening, the box is back on the shelf.",
+      "vi": "Tối, hộp về kệ."
+    },
+    {
+      "id": "s3-77-07",
+      "kind": "sentence",
+      "en": "It looks the same, though I can no longer walk past without noticing it.",
+      "vi": "Trông vẫn vậy, nhưng tôi không thể đi qua mà không chú ý."
+    }
+  ]
+}

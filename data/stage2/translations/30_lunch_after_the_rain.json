@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 30,
+  "sourceFile": "paragraph/30_lunch_after_the_rain.md",
+  "sourceSha256": "5d86a4e98b8524e941fb578893121b65678c1e748cb6e45783a283b1a9f89989",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-30-01",
+      "kind": "sentence",
+      "en": "Our clothes are wet after a walk, so we stop for a meal while they dry.",
+      "vi": "Quần áo ướt sau khi đi bộ nên chúng tôi ghé ăn trong lúc chờ khô."
+    },
+    {
+      "id": "s2-30-02",
+      "kind": "sentence",
+      "en": "The restaurant has a private room upstairs and a public dining area below.",
+      "vi": "Nhà hàng có phòng riêng trên tầng và khu ăn chung bên dưới."
+    },
+    {
+      "id": "s2-30-03",
+      "kind": "sentence",
+      "en": "A local cook welcomes us and recommends a dish from her village.",
+      "vi": "Đầu bếp địa phương đón chúng tôi và gợi ý món của làng."
+    },
+    {
+      "id": "s2-30-04",
+      "kind": "sentence",
+      "en": "On one wall, a national food award hangs beside photos from an international festival.",
+      "vi": "Trên tường, giải thưởng ẩm thực quốc gia treo cạnh ảnh lễ hội quốc tế."
+    },
+    {
+      "id": "s2-30-05",
+      "kind": "sentence",
+      "en": "Some foreign visitors ask her about the recipe.",
+      "vi": "Vài khách nước ngoài hỏi cô về công thức."
+    },
+    {
+      "id": "s2-30-06",
+      "kind": "sentence",
+      "en": "She brings everyone a small bowl to try.",
+      "vi": "Cô mang cho mỗi người một bát nhỏ để thử."
+    },
+    {
+      "id": "s2-30-07",
+      "kind": "sentence",
+      "en": "Soon, people from different tables are talking as if they came here together.",
+      "vi": "Chẳng bao lâu, khách các bàn nói chuyện như thể đã cùng nhau đến đây."
+    }
+  ]
+}

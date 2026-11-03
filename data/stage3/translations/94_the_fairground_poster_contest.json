@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 94,
+  "sourceFile": "paragraph/94_the_fairground_poster_contest.md",
+  "sourceSha256": "2ca3b248ff6b05aa0cf25e8cd77cf13418c8ecd6d3172968a0172c79c693c64c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-94-01",
+      "kind": "sentence",
+      "en": "A sudden gust threatens to blow every sketch off the table as our poster contest begins.",
+      "vi": "Khi cuộc thi áp phích bắt đầu, một cơn gió giật bất chợt có nguy cơ thổi mọi bản phác thảo khỏi bàn."
+    },
+    {
+      "id": "s3-94-02",
+      "kind": "sentence",
+      "en": "We chase the papers and calculate how many are missing.",
+      "vi": "Chúng tôi đuổi giấy, tính số thiếu."
+    },
+    {
+      "id": "s3-94-03",
+      "kind": "sentence",
+      "en": "One student uses a brush to flatten a damp page, while another tries to capture the whole scene in a photograph.",
+      "vi": "Một bạn dùng cọ ép trang ẩm phẳng, bạn khác cố chụp toàn cảnh."
+    },
+    {
+      "id": "s3-94-04",
+      "kind": "sentence",
+      "en": "We classify the entries by age and remind everyone not to cheat.",
+      "vi": "Chúng tôi phân loại theo tuổi, nhắc không gian lận."
+    },
+    {
+      "id": "s3-94-05",
+      "kind": "sentence",
+      "en": "During judging, younger children clap and cheer for every picture.",
+      "vi": "Chấm thi, trẻ nhỏ vỗ tay, cổ vũ từng tranh."
+    },
+    {
+      "id": "s3-94-06",
+      "kind": "sentence",
+      "en": "The old display stand looks ready to collapse, so we move it away.",
+      "vi": "Giá trưng bày cũ sắp sập nên được chuyển đi."
+    },
+    {
+      "id": "s3-94-07",
+      "kind": "sentence",
+      "en": "Nobody lets one accident spoil the afternoon; the winning picture shows a dragon that can burn a castle.",
+      "vi": "Không ai để một sự cố làm hỏng buổi chiều; bức tranh thắng cuộc vẽ con rồng có thể thiêu cháy một lâu đài."
+    }
+  ]
+}

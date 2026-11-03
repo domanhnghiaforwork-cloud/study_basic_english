@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 66,
+  "sourceFile": "paragraph/66_the_repair_club_s_first_invoice.md",
+  "sourceSha256": "043809e063519bdfb494c779d43437337d30609e5487835f642fc325dd9a0d11",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-66-01",
+      "kind": "sentence",
+      "en": "The repair club receives its first invoice and discovers an error.",
+      "vi": "Câu lạc bộ sửa chữa nhận hóa đơn đầu và thấy lỗi."
+    },
+    {
+      "id": "s3-66-02",
+      "kind": "sentence",
+      "en": "A purchase was charged twice, so the treasurer requests a refund.",
+      "vi": "Một món mua bị tính hai lần nên thủ quỹ yêu cầu hoàn tiền."
+    },
+    {
+      "id": "s3-66-03",
+      "kind": "sentence",
+      "en": "Meanwhile, members compare a warranty with a written guarantee before buying equipment.",
+      "vi": "Trong khi đó, thành viên so bảo hành với cam kết viết trước khi mua thiết bị."
+    },
+    {
+      "id": "s3-66-04",
+      "kind": "sentence",
+      "en": "We discuss renting a room instead of accepting ownership of an expensive workshop.",
+      "vi": "Chúng tôi bàn thuê phòng thay vì nhận sở hữu xưởng đắt tiền."
+    },
+    {
+      "id": "s3-66-05",
+      "kind": "sentence",
+      "en": "A subscription to a tool catalogue is cancelled, but the small membership fee stays.",
+      "vi": "Gói đăng ký danh mục dụng cụ bị hủy, nhưng phí thành viên nhỏ vẫn giữ."
+    },
+    {
+      "id": "s3-66-06",
+      "kind": "sentence",
+      "en": "After reading a story about bankruptcy, nobody treats the accounts as someone else's problem.",
+      "vi": "Đọc chuyện phá sản xong, chẳng ai coi sổ sách là việc người khác."
+    },
+    {
+      "id": "s3-66-07",
+      "kind": "sentence",
+      "en": "The club is still small, and that makes every careful decision visible.",
+      "vi": "Câu lạc bộ còn nhỏ nên mọi quyết định cẩn thận đều thấy rõ."
+    }
+  ]
+}

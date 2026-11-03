@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 17,
+  "sourceFile": "paragraph/17_a_quiet_place_to_stay.md",
+  "sourceSha256": "2432e719cdb153cf16ed338efb1968f6ccb58dc295a18a512aab044caba2e521",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-17-01",
+      "kind": "sentence",
+      "en": "During our holiday, we leave a busy hotel and look for a quieter place.",
+      "vi": "Trong kỳ nghỉ, chúng tôi rời khách sạn đông tìm chỗ yên hơn."
+    },
+    {
+      "id": "s2-17-02",
+      "kind": "sentence",
+      "en": "A tourist on our walking tour recommends a family hostel near the river.",
+      "vi": "Du khách cùng tour đi bộ gợi ý nhà trọ gia đình gần sông."
+    },
+    {
+      "id": "s2-17-03",
+      "kind": "sentence",
+      "en": "At reception, we ask about a reservation for two nights.",
+      "vi": "Tại lễ tân, chúng tôi hỏi đặt phòng hai đêm."
+    },
+    {
+      "id": "s2-17-04",
+      "kind": "sentence",
+      "en": "The owner checks our booking and shows us the kitchen.",
+      "vi": "Chủ kiểm đặt chỗ, chỉ bếp."
+    },
+    {
+      "id": "s2-17-05",
+      "kind": "sentence",
+      "en": "Our favorite facility is a small reading room with old travel books.",
+      "vi": "Tiện ích yêu thích là phòng đọc nhỏ có sách du lịch cũ."
+    },
+    {
+      "id": "s2-17-06",
+      "kind": "sentence",
+      "en": "The service is friendly, and breakfast arrives in a basket each morning.",
+      "vi": "Dịch vụ thân thiện, bữa sáng đến trong giỏ mỗi ngày."
+    },
+    {
+      "id": "s2-17-07",
+      "kind": "sentence",
+      "en": "By the second day, we know the other guests and feel almost at home.",
+      "vi": "Ngày thứ hai, chúng tôi quen khách khác, gần như ở nhà."
+    }
+  ]
+}

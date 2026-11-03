@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 38,
+  "sourceFile": "paragraph/38_building_a_model_for_science_class.md",
+  "sourceSha256": "a53de3289b3b8025af59b347653b87c9a1b7b59d9a4b8e1adca85a699ce0963f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-38-01",
+      "kind": "sentence",
+      "en": "Our science class builds a model of an imaginary organism.",
+      "vi": "Lớp khoa học làm mô hình sinh vật tưởng tượng."
+    },
+    {
+      "id": "s3-38-02",
+      "kind": "sentence",
+      "en": "We begin with a cell, then show how tissue can form a muscle or another organ.",
+      "vi": "Chúng tôi bắt đầu từ tế bào, rồi cho thấy mô hình mô tạo cơ hoặc cơ quan khác."
+    },
+    {
+      "id": "s3-38-03",
+      "kind": "sentence",
+      "en": "A cardboard skeleton supports the model, and yellow string marks a nerve.",
+      "vi": "Bộ xương bìa đỡ mô hình, chỉ vàng đánh dấu dây thần kinh."
+    },
+    {
+      "id": "s3-38-04",
+      "kind": "sentence",
+      "en": "Before the exhibition, we add a separate panel about male and female animals and reproduction.",
+      "vi": "Trước triển lãm, chúng tôi thêm bảng riêng về động vật đực, cái và sinh sản."
+    },
+    {
+      "id": "s3-38-05",
+      "kind": "sentence",
+      "en": "The teacher checks our labels and asks us to explain each connection.",
+      "vi": "Cô kiểm nhãn, yêu cầu giải thích từng kết nối."
+    },
+    {
+      "id": "s3-38-06",
+      "kind": "sentence",
+      "en": "The model looks strange, but the visitors ask thoughtful questions.",
+      "vi": "Mô hình kỳ lạ nhưng khách hỏi sâu sắc."
+    },
+    {
+      "id": "s3-38-07",
+      "kind": "sentence",
+      "en": "I discover that making something visible can reveal what I still do not understand.",
+      "vi": "Tôi nhận ra làm thứ gì nhìn thấy được có thể lộ điều mình chưa hiểu."
+    }
+  ]
+}

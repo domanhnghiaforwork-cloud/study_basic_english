@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 86,
+  "sourceFile": "paragraph/86_the_exhibition_we_could_not_imagine.md",
+  "sourceSha256": "fca23295ebd79f6f1a6c0c6398c618d582016f7046fbcdc9ed5c18563f380dae",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-86-01",
+      "kind": "sentence",
+      "en": "When our teacher asks us to imagine a neighborhood exhibition, we suggest photographs.",
+      "vi": "Cô đề nghị tưởng tượng triển lãm khu phố, chúng tôi nghĩ ảnh."
+    },
+    {
+      "id": "s3-86-02",
+      "kind": "sentence",
+      "en": "Then a visitor helps us identify people whose stories rarely appear in pictures.",
+      "vi": "Một khách giúp nhận diện người ít có chuyện xuất hiện trong ảnh."
+    },
+    {
+      "id": "s3-86-03",
+      "kind": "sentence",
+      "en": "We decide to include recordings and introduce a listening corner.",
+      "vi": "Chúng tôi thêm bản ghi, giới thiệu góc nghe."
+    },
+    {
+      "id": "s3-86-04",
+      "kind": "sentence",
+      "en": "To increase participation, we inform families in several languages and involve a local youth group.",
+      "vi": "Để tăng tham gia, chúng tôi báo gia đình nhiều ngôn ngữ, mời nhóm thanh niên địa phương."
+    },
+    {
+      "id": "s3-86-05",
+      "kind": "sentence",
+      "en": "Two students insist on making a quiet space for older visitors.",
+      "vi": "Hai bạn nhất quyết làm nơi yên tĩnh cho khách cao tuổi."
+    },
+    {
+      "id": "s3-86-06",
+      "kind": "sentence",
+      "en": "Others lead interviews and maintain the equipment.",
+      "vi": "Bạn khác dẫn phỏng vấn, bảo dưỡng thiết bị."
+    },
+    {
+      "id": "s3-86-07",
+      "kind": "sentence",
+      "en": "At the opening, I mention how simple our first plan was.",
+      "vi": "Khai mạc, tôi nhắc kế hoạch đầu đơn giản thế nào."
+    },
+    {
+      "id": "s3-86-08",
+      "kind": "sentence",
+      "en": "The teacher smiles and points toward the crowded room.",
+      "vi": "Cô cười chỉ phòng đông."
+    }
+  ]
+}

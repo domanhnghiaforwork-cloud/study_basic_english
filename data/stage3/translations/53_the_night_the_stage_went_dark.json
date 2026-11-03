@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 53,
+  "sourceFile": "paragraph/53_the_night_the_stage_went_dark.md",
+  "sourceSha256": "f2f6365ae750415be624fbf79d28b575ebf2aa4c1fb75e37dfb69b956115272f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-53-01",
+      "kind": "sentence",
+      "en": "Just before our play begins, the stage goes dark.",
+      "vi": "Ngay trước khi kịch bắt đầu, sân khấu tối."
+    },
+    {
+      "id": "s3-53-02",
+      "kind": "sentence",
+      "en": "An electrician checks the lights while a mechanic moves a noisy generator outside.",
+      "vi": "Thợ điện kiểm đèn, thợ máy chuyển máy phát ồn ra ngoài."
+    },
+    {
+      "id": "s3-53-03",
+      "kind": "sentence",
+      "en": "A carpenter steadies a loose door in the set, and a plumber stops a leak behind the hall.",
+      "vi": "Thợ mộc cố định cửa lỏng trong bối cảnh, thợ ống nước ngăn rò sau hội trường."
+    },
+    {
+      "id": "s3-53-04",
+      "kind": "sentence",
+      "en": "The painter and photographer help carry buckets.",
+      "vi": "Thợ sơn, nhiếp ảnh gia giúp xách xô."
+    },
+    {
+      "id": "s3-53-05",
+      "kind": "sentence",
+      "en": "In the dressing room, a hairdresser finishes the lead actor's hair while a singer and a musician entertain the waiting audience.",
+      "vi": "Trong phòng hóa trang, thợ tóc hoàn thiện tóc vai chính, ca sĩ và nhạc sĩ giúp khán giả chờ vui."
+    },
+    {
+      "id": "s3-53-06",
+      "kind": "sentence",
+      "en": "By the time the curtain rises, the story onstage has become only one part of the evening's performance.",
+      "vi": "Màn kéo lên, truyện trên sân khấu đã thành chỉ một phần buổi diễn tối nay."
+    }
+  ]
+}

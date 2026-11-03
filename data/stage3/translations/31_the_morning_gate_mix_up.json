@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 31,
+  "sourceFile": "paragraph/31_the_morning_gate_mix_up.md",
+  "sourceSha256": "81b821dfdc9d945f88e618090659ecd71bdc58c4c8fc56066a3708b52cac384f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-31-01",
+      "kind": "sentence",
+      "en": "Someone leaves a gate open during our visit to the farm.",
+      "vi": "Ai đó để cổng mở khi chúng tôi thăm trại."
+    },
+    {
+      "id": "s3-31-02",
+      "kind": "sentence",
+      "en": "A goat walks toward the kitchen, followed by a pig and a curious sheep.",
+      "vi": "Dê tiến về bếp, lợn và cừu tò mò đi theo."
+    },
+    {
+      "id": "s3-31-03",
+      "kind": "sentence",
+      "en": "The farmer calmly guides a cow and her calf away from the road.",
+      "vi": "Nông dân bình tĩnh dẫn bò mẹ, bê tránh đường."
+    },
+    {
+      "id": "s3-31-04",
+      "kind": "sentence",
+      "en": "Behind another fence, a bull watches without moving.",
+      "vi": "Sau hàng rào khác, bò đực đứng yên nhìn."
+    },
+    {
+      "id": "s3-31-05",
+      "kind": "sentence",
+      "en": "A hen hides beneath a cart while a rooster calls from the roof.",
+      "vi": "Gà mái trốn dưới xe, gà trống gáy trên mái."
+    },
+    {
+      "id": "s3-31-06",
+      "kind": "sentence",
+      "en": "Then a turkey appears beside our teacher, and a horse lifts its head as if expecting an explanation.",
+      "vi": "Rồi gà tây xuất hiện cạnh cô, ngựa ngẩng đầu như chờ giải thích."
+    },
+    {
+      "id": "s3-31-07",
+      "kind": "sentence",
+      "en": "By the time every gate is closed, we all need a rest.",
+      "vi": "Khi đóng hết cổng, tất cả đều cần nghỉ."
+    }
+  ]
+}

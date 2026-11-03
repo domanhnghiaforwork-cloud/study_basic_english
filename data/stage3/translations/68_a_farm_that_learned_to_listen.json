@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 68,
+  "sourceFile": "paragraph/68_a_farm_that_learned_to_listen.md",
+  "sourceSha256": "d3a4e70a23bf7daa331ed47956980ef864c44f2ba32301f2296e754f930f3aa3",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-68-01",
+      "kind": "sentence",
+      "en": "An agricultural cooperative invites an independent visitor to review its records.",
+      "vi": "Hợp tác xã nông nghiệp mời người độc lập xem hồ sơ."
+    },
+    {
+      "id": "s3-68-02",
+      "kind": "sentence",
+      "en": "She is professional and careful, checking whether the figures are accurate before suggesting changes.",
+      "vi": "Cô chuyên nghiệp, cẩn thận, kiểm số chính xác trước khi gợi đổi."
+    },
+    {
+      "id": "s3-68-03",
+      "kind": "sentence",
+      "en": "The farmers want an efficient system, but they also want a stable income and a sustainable way to work.",
+      "vi": "Nông dân muốn hệ thống hiệu quả, thu nhập ổn định, cách làm bền vững."
+    },
+    {
+      "id": "s3-68-04",
+      "kind": "sentence",
+      "en": "A flexible schedule helps during busy weeks, while reliable equipment makes each day more productive.",
+      "vi": "Lịch linh hoạt giúp mùa bận, thiết bị tin cậy làm ngày năng suất hơn."
+    },
+    {
+      "id": "s3-68-05",
+      "kind": "sentence",
+      "en": "The visitor's final report is short.",
+      "vi": "Báo cáo cuối ngắn."
+    },
+    {
+      "id": "s3-68-06",
+      "kind": "sentence",
+      "en": "Most of its best ideas came from people already working there, once someone made time to hear them explain their routines.",
+      "vi": "Hầu hết ý hay nhất từ người sẵn làm ở đó, khi ai dành thời gian nghe họ kể công việc thường ngày."
+    }
+  ]
+}

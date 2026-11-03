@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 14,
+  "sourceFile": "paragraph/14_a_better_way_to_school.md",
+  "sourceSha256": "26ebbb4bdeb64b36a69e77f9da0e2d2e27e44934434086af999cffeb31f7ca91",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-14-01",
+      "kind": "sentence",
+      "en": "Our class studies transport in the area around our school.",
+      "vi": "Lớp tìm hiểu giao thông quanh trường."
+    },
+    {
+      "id": "s2-14-02",
+      "kind": "sentence",
+      "en": "We mark each dangerous location on a map, including a broken traffic sign near the gate.",
+      "vi": "Chúng tôi đánh dấu mọi vị trí nguy hiểm trên bản đồ, cả biển giao thông hỏng gần cổng."
+    },
+    {
+      "id": "s2-14-03",
+      "kind": "sentence",
+      "en": "Every direction seems busy when lessons end.",
+      "vi": "Tan học hướng nào cũng đông."
+    },
+    {
+      "id": "s2-14-04",
+      "kind": "sentence",
+      "en": "A car often stops across the crossing, and a large vehicle sometimes blocks the view.",
+      "vi": "Ô tô thường chắn lối sang, xe lớn đôi khi che nhìn."
+    },
+    {
+      "id": "s2-14-05",
+      "kind": "sentence",
+      "en": "We ask whether a school bus could help more children travel together.",
+      "vi": "Chúng tôi hỏi xe buýt trường có giúp nhiều trẻ đi cùng hơn không."
+    },
+    {
+      "id": "s2-14-06",
+      "kind": "sentence",
+      "en": "The teacher sends our map to the school office.",
+      "vi": "Cô gửi bản đồ văn phòng trường."
+    },
+    {
+      "id": "s2-14-07",
+      "kind": "sentence",
+      "en": "A week later, a worker repairs the sign, and parents receive a note about keeping the crossing clear.",
+      "vi": "Một tuần sau, công nhân sửa biển, phụ huynh nhận lời nhắc giữ lối sang thông."
+    }
+  ]
+}

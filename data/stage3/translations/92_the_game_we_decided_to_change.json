@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 92,
+  "sourceFile": "paragraph/92_the_game_we_decided_to_change.md",
+  "sourceSha256": "10bbd6c44961541000a56867183dc73d35e219872414e76dcaf6f66c7b48b407",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-92-01",
+      "kind": "sentence",
+      "en": "Our design club wants to accelerate a game project, but one question makes us pause: could the reward system addict players instead of helping them learn?",
+      "vi": "Nhóm thiết kế muốn tăng tốc trò chơi, nhưng câu hỏi làm dừng: hệ thưởng có thể gây nghiện thay vì giúp học không?"
+    },
+    {
+      "id": "s3-92-02",
+      "kind": "sentence",
+      "en": "We ask a mentor to accompany us through a test.",
+      "vi": "Chúng tôi nhờ người hướng dẫn cùng qua buổi thử."
+    },
+    {
+      "id": "s3-92-03",
+      "kind": "sentence",
+      "en": "She helps us acquire feedback and act on it.",
+      "vi": "Cô giúp nhận phản hồi, hành động theo."
+    },
+    {
+      "id": "s3-92-04",
+      "kind": "sentence",
+      "en": "We adopt shorter sessions, activate an optional timer, and allocate space for clear stopping points.",
+      "vi": "Chúng tôi áp dụng buổi ngắn, bật hẹn giờ tùy chọn, dành chỗ cho điểm dừng rõ."
+    },
+    {
+      "id": "s3-92-05",
+      "kind": "sentence",
+      "en": "These changes affect the story, but they also aid younger players.",
+      "vi": "Đổi thay ảnh hưởng truyện nhưng cũng giúp người chơi nhỏ."
+    },
+    {
+      "id": "s3-92-06",
+      "kind": "sentence",
+      "en": "Finishing later feels reasonable once we understand the kind of experience we are trying to create.",
+      "vi": "Hoàn thành muộn hợp lý khi hiểu kiểu trải nghiệm muốn tạo."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 21,
+  "sourceFile": "paragraph/21_four_letters_from_the_same_window.md",
+  "sourceSha256": "d2132ceab034ef9c564773c315dc88ca5dd59c4b8359e3e5f94ad3ba96868988",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-21-01",
+      "kind": "sentence",
+      "en": "My cousin sends four letters describing the view from her window.",
+      "vi": "Em họ gửi bốn thư tả cảnh ngoài cửa sổ."
+    },
+    {
+      "id": "s3-21-02",
+      "kind": "sentence",
+      "en": "In summer, the sun fills her desk with sunshine.",
+      "vi": "Mùa hè, mặt trời phủ nắng lên bàn học."
+    },
+    {
+      "id": "s3-21-03",
+      "kind": "sentence",
+      "en": "In autumn, a low cloud covers the hill before the rain begins.",
+      "vi": "Mùa thu, mây thấp che đồi trước cơn mưa."
+    },
+    {
+      "id": "s3-21-04",
+      "kind": "sentence",
+      "en": "By winter, she can see the moon earlier, and one bright star appears above the roof.",
+      "vi": "Đến đông, em thấy trăng sớm hơn, một ngôi sao sáng hiện trên mái."
+    },
+    {
+      "id": "s3-21-05",
+      "kind": "sentence",
+      "en": "I pin her letters beside my own window and compare the sky in our two towns.",
+      "vi": "Tôi ghim thư bên cửa sổ mình, so bầu trời hai thị trấn."
+    },
+    {
+      "id": "s3-21-06",
+      "kind": "sentence",
+      "en": "We live far apart, but watching the same evening become dark makes the distance feel a little smaller.",
+      "vi": "Chúng tôi sống xa, nhưng cùng nhìn chiều tối xuống khiến khoảng cách gần hơn chút."
+    }
+  ]
+}

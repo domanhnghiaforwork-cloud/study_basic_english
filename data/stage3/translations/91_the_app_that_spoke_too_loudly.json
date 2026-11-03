@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 91,
+  "sourceFile": "paragraph/91_the_app_that_spoke_too_loudly.md",
+  "sourceSha256": "4a69f447c6b64c5fe9367f4d84de5bae6817839973d543083f904bc160fd8787",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-91-01",
+      "kind": "sentence",
+      "en": "Our school app will translate notices, but its audio seems to yell when everyone else is trying to whisper.",
+      "vi": "Ứng dụng trường dịch thông báo, nhưng âm thanh như hét lúc người khác nói thầm."
+    },
+    {
+      "id": "s3-91-02",
+      "kind": "sentence",
+      "en": "The developers tend to focus on adding features, while teachers warn that too much sound can threaten concentration.",
+      "vi": "Nhà phát triển thường thêm tính năng, giáo viên cảnh báo âm quá nhiều đe dọa tập trung."
+    },
+    {
+      "id": "s3-91-03",
+      "kind": "sentence",
+      "en": "We ask them to update the volume controls before an upgrade adds more voices.",
+      "vi": "Chúng tôi nhờ cập nhật chỉnh âm lượng trước nâng cấp thêm giọng."
+    },
+    {
+      "id": "s3-91-04",
+      "kind": "sentence",
+      "en": "A quieter design helps us absorb information at our own pace.",
+      "vi": "Thiết kế yên hơn giúp tiếp thu thông tin theo tốc độ mình."
+    },
+    {
+      "id": "s3-91-05",
+      "kind": "sentence",
+      "en": "The change does not yield dramatic headlines.",
+      "vi": "Thay đổi không tạo tiêu đề kịch tính."
+    },
+    {
+      "id": "s3-91-06",
+      "kind": "sentence",
+      "en": "It simply makes the app easier to use in the ordinary room where we need it most.",
+      "vi": "Nó chỉ làm ứng dụng dễ dùng hơn trong căn phòng bình thường nơi cần nhất."
+    }
+  ]
+}

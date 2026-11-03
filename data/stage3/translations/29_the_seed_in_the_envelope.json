@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 29,
+  "sourceFile": "paragraph/29_the_seed_in_the_envelope.md",
+  "sourceSha256": "0e08a724ad5899e420df75bc596ad4a86639373214418d0820ab07d58c0016fa",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-29-01",
+      "kind": "sentence",
+      "en": "My grandmother sends a seed inside a letter about agriculture.",
+      "vi": "Bà gửi hạt giống trong thư về nông nghiệp."
+    },
+    {
+      "id": "s3-29-02",
+      "kind": "sentence",
+      "en": "She describes a crop from her childhood and the excitement of the harvest.",
+      "vi": "Bà tả mùa màng thời nhỏ, niềm vui thu hoạch."
+    },
+    {
+      "id": "s3-29-03",
+      "kind": "sentence",
+      "en": "I plant the seed beside the grass outside our kitchen.",
+      "vi": "Tôi gieo cạnh cỏ ngoài bếp."
+    },
+    {
+      "id": "s3-29-04",
+      "kind": "sentence",
+      "en": "Soon, a root takes hold, then a leaf appears.",
+      "vi": "Rễ bám rồi một lá mọc."
+    },
+    {
+      "id": "s3-29-05",
+      "kind": "sentence",
+      "en": "More leaves follow, and one branch reaches toward the wall.",
+      "vi": "Thêm nhiều lá, một cành vươn về tường."
+    },
+    {
+      "id": "s3-29-06",
+      "kind": "sentence",
+      "en": "By summer, a small flower opens.",
+      "vi": "Đến hè, hoa nhỏ nở."
+    },
+    {
+      "id": "s3-29-07",
+      "kind": "sentence",
+      "en": "I send Grandma a photograph every week.",
+      "vi": "Tuần nào tôi cũng gửi ảnh bà."
+    },
+    {
+      "id": "s3-29-08",
+      "kind": "sentence",
+      "en": "She says the pictures make her feel involved in our daily life, even though her own garden is far away.",
+      "vi": "Bà nói ảnh giúp thấy mình tham gia đời sống nhà tôi, dù vườn bà ở xa."
+    }
+  ]
+}

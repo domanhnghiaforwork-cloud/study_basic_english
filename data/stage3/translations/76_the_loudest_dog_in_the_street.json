@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 76,
+  "sourceFile": "paragraph/76_the_loudest_dog_in_the_street.md",
+  "sourceSha256": "508f1a5b52d5292a089f2c114993599b2e3787a59ae3758f246125c88565c2eb",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-76-01",
+      "kind": "sentence",
+      "en": "Our neighbor's dog is loyal but loud, and its barking becomes a major subject at the street meeting.",
+      "vi": "Chó hàng xóm trung thành nhưng ồn, tiếng sủa thành đề tài chính cuộc họp phố."
+    },
+    {
+      "id": "s3-76-02",
+      "kind": "sentence",
+      "en": "I am nervous because my little brother caused one recent disturbance by leaving a gate open.",
+      "vi": "Tôi lo vì em trai gây một vụ gần đây khi để cổng mở."
+    },
+    {
+      "id": "s3-76-03",
+      "kind": "sentence",
+      "en": "Luckily, the damage was minor, and the dog was lucky to avoid the road.",
+      "vi": "May là thiệt hại nhỏ, chó may tránh được đường."
+    },
+    {
+      "id": "s3-76-04",
+      "kind": "sentence",
+      "en": "The owner feels lonely and worries that the negative comments mean nobody likes him.",
+      "vi": "Chủ cô đơn, sợ lời tiêu cực nghĩa không ai thích mình."
+    },
+    {
+      "id": "s3-76-05",
+      "kind": "sentence",
+      "en": "Once this becomes obvious, the conversation changes.",
+      "vi": "Điều ấy rõ, cuộc nói chuyện đổi."
+    },
+    {
+      "id": "s3-76-06",
+      "kind": "sentence",
+      "en": "We discuss normal ways to share the pavement, and he invites the children to meet the dog calmly.",
+      "vi": "Chúng tôi bàn cách thường ngày chia sẻ vỉa hè, ông mời trẻ bình tĩnh làm quen chó."
+    }
+  ]
+}

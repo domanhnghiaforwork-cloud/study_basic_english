@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 82,
+  "sourceFile": "paragraph/82_the_club_that_almost_closed.md",
+  "sourceSha256": "aaf50e6d5a835b785ef65b6acea73decec160575be9e130c0ee7577446c44ab0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-82-01",
+      "kind": "sentence",
+      "en": "When attendance falls, our reading club must consider whether to continue.",
+      "vi": "Lượng người giảm, câu lạc bộ đọc phải cân nhắc có tiếp tục không."
+    },
+    {
+      "id": "s3-82-02",
+      "kind": "sentence",
+      "en": "The weekly meetings usually consist of one long talk and contain little time for questions.",
+      "vi": "Buổi tuần thường gồm bài nói dài, ít thời gian hỏi."
+    },
+    {
+      "id": "s3-82-03",
+      "kind": "sentence",
+      "en": "We debate changing the format, but several members criticize every suggestion.",
+      "vi": "Chúng tôi tranh luận đổi kiểu, nhưng vài thành viên chê mọi gợi ý."
+    },
+    {
+      "id": "s3-82-04",
+      "kind": "sentence",
+      "en": "A new volunteer offers to contribute a short story and help us cooperate in smaller groups.",
+      "vi": "Tình nguyện viên mới góp truyện ngắn, giúp hợp tác nhóm nhỏ."
+    },
+    {
+      "id": "s3-82-05",
+      "kind": "sentence",
+      "en": "Her enthusiasm begins to convince the others.",
+      "vi": "Hứng thú của cô bắt đầu thuyết phục người khác."
+    },
+    {
+      "id": "s3-82-06",
+      "kind": "sentence",
+      "en": "We learn to cope with uncertainty instead of waiting for a perfect plan.",
+      "vi": "Chúng tôi học đối phó bất định thay vì chờ kế hoạch hoàn hảo."
+    },
+    {
+      "id": "s3-82-07",
+      "kind": "sentence",
+      "en": "By winter, arguments decrease because visitors have more chances to speak and more reasons to return.",
+      "vi": "Đến đông, tranh cãi giảm vì khách có thêm cơ hội nói, lý do quay lại."
+    }
+  ]
+}

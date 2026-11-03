@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 84,
+  "sourceFile": "paragraph/84_a_fair_place_in_the_garden.md",
+  "sourceSha256": "ecc77983f7bdaaba75e377feccbba2b9192e308ab9eb36532b337cd56c4af866",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-84-01",
+      "kind": "sentence",
+      "en": "Some members dislike our community garden's new rules.",
+      "vi": "Vài thành viên không thích quy tắc mới vườn cộng đồng."
+    },
+    {
+      "id": "s3-84-02",
+      "kind": "sentence",
+      "en": "We must divide the land fairly, but nobody knows how much each family needs.",
+      "vi": "Phải chia đất công bằng nhưng chưa ai biết mỗi nhà cần bao nhiêu."
+    },
+    {
+      "id": "s3-84-03",
+      "kind": "sentence",
+      "en": "The organizer asks us to examine the unused beds and estimate what we can grow.",
+      "vi": "Người tổ chức bảo xem luống chưa dùng, ước lượng trồng được gì."
+    },
+    {
+      "id": "s3-84-04",
+      "kind": "sentence",
+      "en": "We establish a simple system that lets newcomers enter without waiting a whole year.",
+      "vi": "Chúng tôi lập hệ đơn giản cho người mới vào không đợi cả năm."
+    },
+    {
+      "id": "s3-84-05",
+      "kind": "sentence",
+      "en": "Older members earn extra seedlings by helping beginners, and everyone agrees to encourage children to join.",
+      "vi": "Thành viên cũ nhận thêm cây con khi giúp người mới, tất cả đồng ý khuyến khích trẻ."
+    },
+    {
+      "id": "s3-84-06",
+      "kind": "sentence",
+      "en": "The rules cannot ensure perfect weather.",
+      "vi": "Quy tắc không bảo đảm thời tiết hoàn hảo."
+    },
+    {
+      "id": "s3-84-07",
+      "kind": "sentence",
+      "en": "They can help more neighbors enjoy the garden, which is why we began it.",
+      "vi": "Chúng giúp thêm hàng xóm hưởng vườn, lý do chúng tôi bắt đầu."
+    }
+  ]
+}

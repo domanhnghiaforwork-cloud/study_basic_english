@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 22,
+  "sourceFile": "paragraph/22_the_table_by_the_window.md",
+  "sourceSha256": "6db8d3cf34ef560a4e04a3160d02b90f144e2efc9f648e6503753ca1dd6568db",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-22-01",
+      "kind": "sentence",
+      "en": "Mom wants a table for the kitchen sale we are planning.",
+      "vi": "Mẹ muốn một chiếc bàn cho buổi bán đồ ở bếp mà chúng tôi đang chuẩn bị."
+    },
+    {
+      "id": "s2-22-02",
+      "kind": "sentence",
+      "en": "We check the length and width of an old one in the shed.",
+      "vi": "Chúng tôi đo chiều dài và chiều rộng chiếc bàn cũ trong kho."
+    },
+    {
+      "id": "s2-22-03",
+      "kind": "sentence",
+      "en": "Its shape is perfect, and the material feels strong.",
+      "vi": "Hình dáng rất hợp, chất liệu có vẻ chắc chắn."
+    },
+    {
+      "id": "s2-22-04",
+      "kind": "sentence",
+      "en": "The quality is good even though the paint is old.",
+      "vi": "Chất lượng còn tốt dù sơn đã cũ."
+    },
+    {
+      "id": "s2-22-05",
+      "kind": "sentence",
+      "en": "We only need a small quantity of paint to repair it, so the cost is low.",
+      "vi": "Chỉ cần ít sơn để sửa nên chi phí thấp."
+    },
+    {
+      "id": "s2-22-06",
+      "kind": "sentence",
+      "en": "A shop gives us a discount because the table will help our school.",
+      "vi": "Cửa hàng giảm giá vì chiếc bàn sẽ giúp ích cho trường."
+    },
+    {
+      "id": "s2-22-07",
+      "kind": "sentence",
+      "en": "We pay in cash and spend the afternoon turning it into something useful.",
+      "vi": "Chúng tôi trả tiền mặt rồi dành buổi chiều làm nó hữu dụng trở lại."
+    }
+  ]
+}

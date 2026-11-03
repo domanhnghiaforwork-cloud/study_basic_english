@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 41,
+  "sourceFile": "paragraph/41_a_quiet_morning_at_the_clinic.md",
+  "sourceSha256": "9c71b6f857528fd887aabc7ce00245802c71cf2e7258f56be5a9bf75e069b224",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-41-01",
+      "kind": "sentence",
+      "en": "In our school play, I act as a patient with a fever and a cough.",
+      "vi": "Trong kịch trường, tôi đóng bệnh nhân sốt, ho."
+    },
+    {
+      "id": "s2-41-02",
+      "kind": "sentence",
+      "en": "My friend plays the nurse and asks whether I have an appointment.",
+      "vi": "Bạn đóng y tá, hỏi có hẹn không."
+    },
+    {
+      "id": "s2-41-03",
+      "kind": "sentence",
+      "en": "The doctor listens while I describe the coldness I felt the night before.",
+      "vi": "Bác sĩ nghe tôi tả cảm giác lạnh đêm trước."
+    },
+    {
+      "id": "s2-41-04",
+      "kind": "sentence",
+      "en": "On the desk is a pretend box of medicine and a large paper pill.",
+      "vi": "Trên bàn có hộp thuốc giả, viên thuốc giấy lớn."
+    },
+    {
+      "id": "s2-41-05",
+      "kind": "sentence",
+      "en": "Our teacher stops the scene to remind us that our play cannot tell anyone whether they have flu.",
+      "vi": "Cô dừng cảnh nhắc kịch không thể cho ai biết mình có cúm không."
+    },
+    {
+      "id": "s2-41-06",
+      "kind": "sentence",
+      "en": "Then we begin again, speaking clearly enough for the back row to hear.",
+      "vi": "Rồi chúng tôi bắt đầu lại, nói rõ cho hàng cuối nghe."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 97,
+  "sourceFile": "paragraph/97_the_last_day_before_graduation.md",
+  "sourceSha256": "fc1dea2e4ee9111394fd088568e77cf2a5d7bf93fad0907f9ad3024a06e56ce7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-97-01",
+      "kind": "sentence",
+      "en": "Before we graduate, our class returns to the science fair to explore unfinished projects.",
+      "vi": "Trước tốt nghiệp, lớp quay lại hội khoa học khám phá dự án dở."
+    },
+    {
+      "id": "s3-97-02",
+      "kind": "sentence",
+      "en": "A model balloon seems ready to explode, so our teacher asks everyone to freeze while she checks it.",
+      "vi": "Bóng mô hình như sắp nổ nên cô yêu cầu đứng im để kiểm."
+    },
+    {
+      "id": "s3-97-03",
+      "kind": "sentence",
+      "en": "Nearby, an experiment shows how water can freeze, and a paper bridge reaches across two desks.",
+      "vi": "Gần đó, thí nghiệm cho thấy nước đông băng, cầu giấy nối hai bàn."
+    },
+    {
+      "id": "s3-97-04",
+      "kind": "sentence",
+      "en": "We greet old partners and guess which ideas will impress visitors most.",
+      "vi": "Chúng tôi chào bạn cũ, đoán ý nào gây ấn tượng khách."
+    },
+    {
+      "id": "s3-97-05",
+      "kind": "sentence",
+      "en": "One group hopes a company will hire them someday; another wants to invest more time and extend its project.",
+      "vi": "Nhóm mong công ty tuyển một ngày, nhóm khác muốn đầu tư thời gian, kéo dài dự án."
+    },
+    {
+      "id": "s3-97-06",
+      "kind": "sentence",
+      "en": "We cannot ignore how quickly the year has passed.",
+      "vi": "Chúng tôi không thể bỏ qua năm đã qua nhanh."
+    },
+    {
+      "id": "s3-97-07",
+      "kind": "sentence",
+      "en": "Nobody feels quite ready for the room to become a memory.",
+      "vi": "Chẳng ai sẵn cho căn phòng thành ký ức."
+    }
+  ]
+}

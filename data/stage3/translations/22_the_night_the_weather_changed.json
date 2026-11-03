@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 22,
+  "sourceFile": "paragraph/22_the_night_the_weather_changed.md",
+  "sourceSha256": "7e59daf070fe4dca1f5b8e536ba336986167b99068bb5cbacd7f582911eb6954",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-22-01",
+      "kind": "sentence",
+      "en": "The afternoon heat and humidity make everyone restless.",
+      "vi": "Nóng ẩm buổi chiều làm ai cũng bồn chồn."
+    },
+    {
+      "id": "s3-22-02",
+      "kind": "sentence",
+      "en": "By evening, wind shakes the gate, and a storm moves over the village.",
+      "vi": "Đến tối, gió rung cổng, bão kéo qua làng."
+    },
+    {
+      "id": "s3-22-03",
+      "kind": "sentence",
+      "en": "We hear thunder before lightning lights the room.",
+      "vi": "Chúng tôi nghe sấm trước khi chớp sáng phòng."
+    },
+    {
+      "id": "s3-22-04",
+      "kind": "sentence",
+      "en": "Grandpa closes the curtains and tells a story about a winter with snow, ice, and frost.",
+      "vi": "Ông kéo rèm, kể mùa đông có tuyết, băng và sương giá."
+    },
+    {
+      "id": "s3-22-05",
+      "kind": "sentence",
+      "en": "Outside, the road disappears into heavy rain.",
+      "vi": "Ngoài kia, đường biến trong mưa lớn."
+    },
+    {
+      "id": "s3-22-06",
+      "kind": "sentence",
+      "en": "By morning, a little fog hangs above the fields, but the house is quiet.",
+      "vi": "Sáng ra, sương mù mỏng trên đồng, nhà yên tĩnh."
+    },
+    {
+      "id": "s3-22-07",
+      "kind": "sentence",
+      "en": "We step outside together to collect fallen branches and discover that the old gate has somehow stayed standing.",
+      "vi": "Chúng tôi cùng ra nhặt cành rụng, thấy chiếc cổng cũ bằng cách nào đó vẫn đứng vững."
+    }
+  ]
+}

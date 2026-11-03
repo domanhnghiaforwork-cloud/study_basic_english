@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 31,
+  "sourceFile": "paragraph/31_the_cafe_with_two_kitchens.md",
+  "sourceSha256": "e916c4317ae72fef78df6d252fc9ebb95fcbfea3e735180640f06e1e85acba08",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-31-01",
+      "kind": "sentence",
+      "en": "The menu at our new cafe changes every Friday.",
+      "vi": "Thực đơn quán cà phê mới thay đổi mỗi thứ Sáu."
+    },
+    {
+      "id": "s2-31-02",
+      "kind": "sentence",
+      "en": "Today, one kitchen makes soup, pasta, and a noodle dish, while the other prepares pizza.",
+      "vi": "Hôm nay, một bếp làm súp, mì ống và món mì sợi, bếp kia làm pizza."
+    },
+    {
+      "id": "s2-31-03",
+      "kind": "sentence",
+      "en": "My brother wants a burger with sausage, but I choose a vegetable sandwich.",
+      "vi": "Anh trai muốn bánh burger có xúc xích, còn tôi chọn sandwich rau."
+    },
+    {
+      "id": "s2-31-04",
+      "kind": "sentence",
+      "en": "Through a window, we can watch the cook follow a handwritten recipe.",
+      "vi": "Qua cửa sổ, chúng tôi xem đầu bếp làm theo công thức viết tay."
+    },
+    {
+      "id": "s2-31-05",
+      "kind": "sentence",
+      "en": "She lets a student name one ingredient in each dish before serving it.",
+      "vi": "Trước khi phục vụ, cô để một học sinh gọi tên một nguyên liệu trong mỗi món."
+    },
+    {
+      "id": "s2-31-06",
+      "kind": "sentence",
+      "en": "We came here because we were hungry.",
+      "vi": "Chúng tôi đến vì đói."
+    },
+    {
+      "id": "s2-31-07",
+      "kind": "sentence",
+      "en": "We leave with an idea for a meal we could try making at home.",
+      "vi": "Ra về, chúng tôi có ý tưởng cho bữa ăn có thể thử tự nấu."
+    }
+  ]
+}

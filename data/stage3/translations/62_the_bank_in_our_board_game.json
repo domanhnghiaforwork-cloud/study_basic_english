@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 62,
+  "sourceFile": "paragraph/62_the_bank_in_our_board_game.md",
+  "sourceSha256": "fff783c930199948bbf9b5afac5890bf46c34fb22d2364c43ad08629b8025f71",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-62-01",
+      "kind": "sentence",
+      "en": "We add a bank to our class board game.",
+      "vi": "Chúng tôi thêm ngân hàng vào trò bàn của lớp."
+    },
+    {
+      "id": "s3-62-02",
+      "kind": "sentence",
+      "en": "Every payment becomes a transaction written on a card.",
+      "vi": "Mỗi thanh toán thành giao dịch ghi trên thẻ."
+    },
+    {
+      "id": "s3-62-03",
+      "kind": "sentence",
+      "en": "Players can make a deposit, request a withdrawal, or arrange a transfer between accounts.",
+      "vi": "Người chơi gửi tiền, rút tiền hoặc chuyển khoản."
+    },
+    {
+      "id": "s3-62-04",
+      "kind": "sentence",
+      "en": "One player takes a loan, then discovers that debt affects the next turn.",
+      "vi": "Một người vay rồi phát hiện nợ ảnh hưởng lượt tới."
+    },
+    {
+      "id": "s3-62-05",
+      "kind": "sentence",
+      "en": "Another forgets to include tax in her expenditure.",
+      "vi": "Người khác quên tính thuế vào chi tiêu."
+    },
+    {
+      "id": "s3-62-06",
+      "kind": "sentence",
+      "en": "We change the interest rate to see how the game responds.",
+      "vi": "Chúng tôi đổi lãi suất xem trò phản ứng."
+    },
+    {
+      "id": "s3-62-07",
+      "kind": "sentence",
+      "en": "By the final round, nobody is rushing.",
+      "vi": "Đến vòng cuối, chẳng ai vội."
+    },
+    {
+      "id": "s3-62-08",
+      "kind": "sentence",
+      "en": "The imaginary money has given us real reasons to read instructions and check our calculations.",
+      "vi": "Tiền tưởng tượng cho lý do thật để đọc hướng dẫn, kiểm phép tính."
+    }
+  ]
+}

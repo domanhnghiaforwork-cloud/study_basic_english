@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 30,
+  "sourceFile": "paragraph/30_a_farmer_for_one_morning.md",
+  "sourceSha256": "9918aa8d9dbfc5dc9a52adf8da43e988e43b76ed6f6b86999f8ee458a3173a0d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-30-01",
+      "kind": "sentence",
+      "en": "Our neighbor is a farmer who invites our class to learn about farming.",
+      "vi": "Hàng xóm làm nông, mời lớp tìm hiểu nghề."
+    },
+    {
+      "id": "s3-30-02",
+      "kind": "sentence",
+      "en": "We arrive expecting to meet an animal or two, but a dog and a cat greet us before the gate opens.",
+      "vi": "Chúng tôi nghĩ gặp một hai con vật, nhưng chó mèo đã đón trước khi cổng mở."
+    },
+    {
+      "id": "s3-30-03",
+      "kind": "sentence",
+      "en": "A puppy follows the dog, while a kitten watches from a basket.",
+      "vi": "Chó con theo chó lớn, mèo con nhìn từ giỏ."
+    },
+    {
+      "id": "s3-30-04",
+      "kind": "sentence",
+      "en": "Near the pond, a duck shakes water onto a surprised bird.",
+      "vi": "Gần ao, vịt giũ nước lên chú chim bất ngờ."
+    },
+    {
+      "id": "s3-30-05",
+      "kind": "sentence",
+      "en": "I ask whether every animal is a pet.",
+      "vi": "Tôi hỏi có phải con nào cũng là thú cưng."
+    },
+    {
+      "id": "s3-30-06",
+      "kind": "sentence",
+      "en": "Our neighbor smiles and tells us their names, then explains which creatures need our help before we can have breakfast.",
+      "vi": "Bác mỉm cười, kể tên từng con, rồi chỉ con nào cần giúp trước khi chúng tôi ăn sáng."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 9,
+  "sourceFile": "paragraph/09_two_friends_learning_together.md",
+  "sourceSha256": "31bdc73e6602d4bb900cd8cd848857f7ecc951271d68060749ac173bb1ad4791",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-09-01",
+      "kind": "sentence",
+      "en": "Lan helps me learn Vietnamese, and I help her with English.",
+      "vi": "Lan giúp tôi học tiếng Việt, còn tôi giúp bạn học tiếng Anh."
+    },
+    {
+      "id": "s2-09-02",
+      "kind": "sentence",
+      "en": "We begin each conversation with a review of yesterday's words.",
+      "vi": "Mỗi cuộc trò chuyện bắt đầu bằng việc ôn từ hôm trước."
+    },
+    {
+      "id": "s2-09-03",
+      "kind": "sentence",
+      "en": "When I do not understand a meaning, she opens a dictionary and gives an example.",
+      "vi": "Khi tôi không hiểu nghĩa, Lan mở từ điển và cho ví dụ."
+    },
+    {
+      "id": "s2-09-04",
+      "kind": "sentence",
+      "en": "I check her spelling, and she listens to my pronunciation.",
+      "vi": "Tôi kiểm tra chính tả cho Lan, còn bạn nghe cách phát âm của tôi."
+    },
+    {
+      "id": "s2-09-05",
+      "kind": "sentence",
+      "en": "Sometimes our discussion turns to grammar, but we do not spend the whole evening on rules.",
+      "vi": "Đôi khi chúng tôi bàn về ngữ pháp, nhưng không dành cả tối cho quy tắc."
+    },
+    {
+      "id": "s2-09-06",
+      "kind": "sentence",
+      "en": "Regular practice helps us speak with less fear.",
+      "vi": "Luyện tập đều đặn giúp chúng tôi bớt sợ nói."
+    },
+    {
+      "id": "s2-09-07",
+      "kind": "sentence",
+      "en": "At the end, we order a meal using only the language we are learning.",
+      "vi": "Cuối buổi, chúng tôi gọi món chỉ bằng ngôn ngữ mình đang học."
+    }
+  ]
+}

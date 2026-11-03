@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 4,
+  "sourceFile": "paragraph/04_the_long_walk_to_the_concert.md",
+  "sourceSha256": "1100b7db390efc1e1756780103525b8f688ec2a9614ea94c50441318fe93ee62",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-04-01",
+      "kind": "sentence",
+      "en": "Playing in the town concert has always been my dream.",
+      "vi": "Biểu diễn ở hòa nhạc thị trấn luôn là mơ ước của tôi."
+    },
+    {
+      "id": "s3-04-02",
+      "kind": "sentence",
+      "en": "When the bus breaks down, the distance to the hall suddenly feels enormous.",
+      "vi": "Khi xe buýt hỏng, đường đến hội trường bỗng xa khủng khiếp."
+    },
+    {
+      "id": "s3-04-03",
+      "kind": "sentence",
+      "en": "My first difficulty is carrying the instrument; my second is finding enough energy to keep walking.",
+      "vi": "Khó khăn đầu là mang nhạc cụ; khó khăn thứ hai là tìm đủ sức đi tiếp."
+    },
+    {
+      "id": "s3-04-04",
+      "kind": "sentence",
+      "en": "A stranger offers help, saying it is his duty to support young musicians.",
+      "vi": "Một người lạ giúp, nói có bổn phận ủng hộ nhạc công trẻ."
+    },
+    {
+      "id": "s3-04-05",
+      "kind": "sentence",
+      "en": "His kindness has a lasting effect.",
+      "vi": "Sự tử tế ấy để lại ảnh hưởng lâu dài."
+    },
+    {
+      "id": "s3-04-06",
+      "kind": "sentence",
+      "en": "I arrive just before the event begins.",
+      "vi": "Tôi đến ngay trước khi sự kiện bắt đầu."
+    },
+    {
+      "id": "s3-04-07",
+      "kind": "sentence",
+      "en": "The recording is evidence of my effort, but the experience I remember most is that unexpected walk with someone who believed I would arrive.",
+      "vi": "Bản ghi là bằng chứng nỗ lực, nhưng trải nghiệm tôi nhớ nhất là cùng đi bất ngờ với người tin tôi sẽ đến được."
+    }
+  ]
+}

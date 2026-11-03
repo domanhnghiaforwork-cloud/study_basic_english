@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 47,
+  "sourceFile": "paragraph/47_the_wedding_photograph.md",
+  "sourceSha256": "4fd3ac527b8f8ef6edec7997a0c51440cfd6cc309be21f6ac96d6ace20f241d5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-47-01",
+      "kind": "sentence",
+      "en": "I find a wedding photograph inside a book about romance.",
+      "vi": "Tôi thấy ảnh cưới trong sách về tình yêu."
+    },
+    {
+      "id": "s3-47-02",
+      "kind": "sentence",
+      "en": "The couple look young, laughing beside an unnamed relative.",
+      "vi": "Cặp đôi trông trẻ, cười cạnh người họ hàng không ghi tên."
+    },
+    {
+      "id": "s3-47-03",
+      "kind": "sentence",
+      "en": "Grandma tells me about their marriage, their passion for music, and the affection that made their home welcoming.",
+      "vi": "Bà kể hôn nhân, đam mê âm nhạc và tình cảm khiến nhà họ ấm cúng."
+    },
+    {
+      "id": "s3-47-04",
+      "kind": "sentence",
+      "en": "Years later, a divorce changed their lives, but their attachment to the children remained.",
+      "vi": "Nhiều năm sau, ly hôn đổi cuộc đời nhưng gắn bó với con vẫn còn."
+    },
+    {
+      "id": "s3-47-05",
+      "kind": "sentence",
+      "en": "One person found a new partner; the other moved closer to friends.",
+      "vi": "Một người có bạn đời mới, người kia chuyển gần bạn bè."
+    },
+    {
+      "id": "s3-47-06",
+      "kind": "sentence",
+      "en": "Looking again, I realize the photograph is not a promise that nothing will change.",
+      "vi": "Nhìn lại, tôi nhận ra ảnh không hứa chẳng gì đổi."
+    },
+    {
+      "id": "s3-47-07",
+      "kind": "sentence",
+      "en": "It is a record of a day they were happy together.",
+      "vi": "Nó ghi một ngày họ hạnh phúc bên nhau."
+    }
+  ]
+}

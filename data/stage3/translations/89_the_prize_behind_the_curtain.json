@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 89,
+  "sourceFile": "paragraph/89_the_prize_behind_the_curtain.md",
+  "sourceSha256": "9dd4f594d8e179e9d9f69eba5a859f3959f2fe386e9636b571bb5db3c1963724",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-89-01",
+      "kind": "sentence",
+      "en": "A surprise performance will reveal the winner of our community award.",
+      "vi": "Buổi diễn bất ngờ sẽ công bố người thắng giải cộng đồng."
+    },
+    {
+      "id": "s3-89-02",
+      "kind": "sentence",
+      "en": "The organizer asks us not to rush or separate the guests by age.",
+      "vi": "Ban tổ chức bảo đừng vội hay chia khách theo tuổi."
+    },
+    {
+      "id": "s3-89-03",
+      "kind": "sentence",
+      "en": "Instead, we help people settle at long tables and respond when anyone needs a seat.",
+      "vi": "Thay vào đó, chúng tôi giúp ngồi bàn dài, đáp khi ai cần ghế."
+    },
+    {
+      "id": "s3-89-04",
+      "kind": "sentence",
+      "en": "I am nervous because the rules require me to introduce the winner.",
+      "vi": "Tôi lo vì quy tắc yêu cầu mình giới thiệu người thắng."
+    },
+    {
+      "id": "s3-89-05",
+      "kind": "sentence",
+      "en": "My hands shake until I see my teacher smile.",
+      "vi": "Tay run đến khi thấy cô cười."
+    },
+    {
+      "id": "s3-89-06",
+      "kind": "sentence",
+      "en": "No speech can satisfy everyone, but this reward belongs to a quiet volunteer we all know.",
+      "vi": "Chẳng bài nói nào vừa lòng tất cả, nhưng thưởng này thuộc tình nguyện viên thầm lặng ai cũng biết."
+    },
+    {
+      "id": "s3-89-07",
+      "kind": "sentence",
+      "en": "When the curtain opens, her face seems to shine more brightly than the stage.",
+      "vi": "Màn mở, gương mặt cô như sáng hơn sân khấu."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 39,
+  "sourceFile": "paragraph/39_the_journey_of_a_sandwich.md",
+  "sourceSha256": "7b29b33aea87e9f48f309b448ad6d9e3455aafa7d12768100d9e07996a7911a7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-39-01",
+      "kind": "sentence",
+      "en": "For a comic strip, I follow a sandwich through an imaginary body.",
+      "vi": "Trong truyện tranh, tôi theo bánh sandwich qua cơ thể tưởng tượng."
+    },
+    {
+      "id": "s3-39-02",
+      "kind": "sentence",
+      "en": "One character asks how we digest food, while another carries a sign about nutrition.",
+      "vi": "Một nhân vật hỏi tiêu hóa thế nào, nhân vật khác mang biển dinh dưỡng."
+    },
+    {
+      "id": "s3-39-03",
+      "kind": "sentence",
+      "en": "Along the route, labels identify an intestine, a liver, and a kidney.",
+      "vi": "Dọc đường, nhãn chỉ ruột, gan, thận."
+    },
+    {
+      "id": "s3-39-04",
+      "kind": "sentence",
+      "en": "A separate picture shows a lung beside an artery and a vein.",
+      "vi": "Tranh riêng có phổi cạnh động mạch, tĩnh mạch."
+    },
+    {
+      "id": "s3-39-05",
+      "kind": "sentence",
+      "en": "I add speech bubbles for protein and a vitamin, turning each into a tiny traveler.",
+      "vi": "Tôi thêm bóng thoại cho protein và vitamin, biến mỗi chất thành khách tí hon."
+    },
+    {
+      "id": "s3-39-06",
+      "kind": "sentence",
+      "en": "Our teacher helps me correct the confusing parts.",
+      "vi": "Cô giúp sửa chỗ khó hiểu."
+    },
+    {
+      "id": "s3-39-07",
+      "kind": "sentence",
+      "en": "By the final page, the sandwich has become a reason to ask better questions.",
+      "vi": "Đến trang cuối, bánh đã thành lý do hỏi tốt hơn."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 9,
+  "sourceFile": "paragraph/09_when_the_team_lost_its_captain.md",
+  "sourceSha256": "11c569c49ac23fdefeb104579aeeecd2a5b169a9d94c0c2a9cc472195559dc2d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-09-01",
+      "kind": "sentence",
+      "en": "Our captain leaves before the tournament, and the situation brings stress to everyone.",
+      "vi": "Đội trưởng rời đội trước giải đấu khiến tất cả căng thẳng."
+    },
+    {
+      "id": "s3-09-02",
+      "kind": "sentence",
+      "en": "We need a new system for making decisions.",
+      "vi": "Chúng tôi cần hệ thống quyết định mới."
+    },
+    {
+      "id": "s3-09-03",
+      "kind": "sentence",
+      "en": "One teammate suggests changing the whole structure; another thinks talent alone will carry us through.",
+      "vi": "Một bạn muốn đổi toàn bộ cơ cấu; bạn khác nghĩ chỉ tài năng là đủ."
+    },
+    {
+      "id": "s3-09-04",
+      "kind": "sentence",
+      "en": "Our coach asks each person to name a strength and choose a reliable source of advice.",
+      "vi": "Huấn luyện viên yêu cầu mỗi người nêu điểm mạnh, chọn nguồn lời khuyên đáng tin."
+    },
+    {
+      "id": "s3-09-05",
+      "kind": "sentence",
+      "en": "Her theory is that listening can become a team skill.",
+      "vi": "Lý thuyết của cô là lắng nghe có thể thành kỹ năng tập thể."
+    },
+    {
+      "id": "s3-09-06",
+      "kind": "sentence",
+      "en": "The standard is simple: no laughing at another person's thought.",
+      "vi": "Tiêu chuẩn đơn giản: không cười ý nghĩ của người khác."
+    },
+    {
+      "id": "s3-09-07",
+      "kind": "sentence",
+      "en": "We still lose our first match, but we begin to understand how to play together.",
+      "vi": "Chúng tôi vẫn thua trận đầu, nhưng bắt đầu hiểu cách chơi cùng nhau."
+    }
+  ]
+}

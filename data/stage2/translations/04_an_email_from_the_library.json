@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 4,
+  "sourceFile": "paragraph/04_an_email_from_the_library.md",
+  "sourceSha256": "53c01f65689a5442681f019d63115cb5cc16c4c58cecd675b2f1e4dfa26a319d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-04-01",
+      "kind": "sentence",
+      "en": "I receive an email about a free reading club.",
+      "vi": "Tôi nhận email về một câu lạc bộ đọc sách miễn phí."
+    },
+    {
+      "id": "s2-04-02",
+      "kind": "sentence",
+      "en": "The message gives the library address and a website with more information.",
+      "vi": "Tin nhắn ghi địa chỉ thư viện và trang web có thêm thông tin."
+    },
+    {
+      "id": "s2-04-03",
+      "kind": "sentence",
+      "en": "There is one reason I almost ignore it: I think every meeting is online.",
+      "vi": "Có một lý do khiến tôi suýt bỏ qua: tôi tưởng mọi buổi gặp đều trực tuyến."
+    },
+    {
+      "id": "s2-04-04",
+      "kind": "sentence",
+      "en": "Then I read an example of a usual club afternoon.",
+      "vi": "Rồi tôi đọc ví dụ về một buổi sinh hoạt thường lệ."
+    },
+    {
+      "id": "s2-04-05",
+      "kind": "sentence",
+      "en": "People meet in a room, choose a book, and discuss it together.",
+      "vi": "Mọi người gặp trong phòng, chọn sách và cùng thảo luận."
+    },
+    {
+      "id": "s2-04-06",
+      "kind": "sentence",
+      "en": "Anyone without internet can register at the desk and read offline.",
+      "vi": "Ai không có internet có thể đăng ký tại quầy và đọc ngoại tuyến."
+    },
+    {
+      "id": "s2-04-07",
+      "kind": "sentence",
+      "en": "I write back to ask about the next meeting.",
+      "vi": "Tôi viết thư hỏi về buổi gặp tiếp theo."
+    },
+    {
+      "id": "s2-04-08",
+      "kind": "sentence",
+      "en": "A week later, I walk into the library.",
+      "vi": "Một tuần sau, tôi bước vào thư viện."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 43,
+  "sourceFile": "paragraph/43_the_people_behind_the_hospital_doors.md",
+  "sourceSha256": "8af870837f27fe62451e4f61687d4a6ffbe81029a3cd15a8666d760cd63e46d7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-43-01",
+      "kind": "sentence",
+      "en": "While waiting for my brother, I study a hospital picture book.",
+      "vi": "Trong lúc đợi anh, tôi xem sách tranh bệnh viện."
+    },
+    {
+      "id": "s3-43-02",
+      "kind": "sentence",
+      "en": "One page shows a surgeon and an ambulance; another shows a dentist, a pharmacist, and a therapist.",
+      "vi": "Một trang vẽ bác sĩ phẫu thuật và xe cứu thương; trang khác có nha sĩ, dược sĩ, nhà trị liệu."
+    },
+    {
+      "id": "s3-43-03",
+      "kind": "sentence",
+      "en": "A child with a bruise wears a bandage, while a psychologist listens to a worried parent.",
+      "vi": "Trẻ bị bầm mang băng, nhà tâm lý nghe phụ huynh lo lắng."
+    },
+    {
+      "id": "s3-43-04",
+      "kind": "sentence",
+      "en": "The book explains that mental and physical experiences can both matter during a hospital visit.",
+      "vi": "Sách giải thích trải nghiệm tinh thần và thể chất đều có thể quan trọng khi đến viện."
+    },
+    {
+      "id": "s3-43-05",
+      "kind": "sentence",
+      "en": "When my brother returns, he wants to look at the pictures too.",
+      "vi": "Anh trở ra cũng muốn xem."
+    },
+    {
+      "id": "s3-43-06",
+      "kind": "sentence",
+      "en": "We read together until Dad comes back with the car and takes us home.",
+      "vi": "Chúng tôi cùng đọc đến khi bố mang xe quay lại đón về."
+    }
+  ]
+}

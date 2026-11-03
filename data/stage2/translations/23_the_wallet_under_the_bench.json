@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 23,
+  "sourceFile": "paragraph/23_the_wallet_under_the_bench.md",
+  "sourceSha256": "ede1ad5fa3db9e0319954a28b87b181a02e1275533c49ad68825f15c04fd45b6",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-23-01",
+      "kind": "sentence",
+      "en": "While buying clothes, I find a wallet under a bench.",
+      "vi": "Trong lúc mua quần áo, tôi thấy ví dưới ghế dài."
+    },
+    {
+      "id": "s2-23-02",
+      "kind": "sentence",
+      "en": "There is a coin in one pocket, a bill beside a receipt, and a bank card with a name on it.",
+      "vi": "Một ngăn có đồng xu, bên cạnh biên lai là tờ tiền và thẻ ngân hàng ghi tên."
+    },
+    {
+      "id": "s2-23-03",
+      "kind": "sentence",
+      "en": "I do not know whether it is a credit or debit card.",
+      "vi": "Tôi không biết đó là thẻ tín dụng hay ghi nợ."
+    },
+    {
+      "id": "s2-23-04",
+      "kind": "sentence",
+      "en": "I take everything to the service desk.",
+      "vi": "Tôi mang tất cả đến quầy dịch vụ."
+    },
+    {
+      "id": "s2-23-05",
+      "kind": "sentence",
+      "en": "Soon, a woman arrives holding an empty purse.",
+      "vi": "Chẳng bao lâu, một phụ nữ đến, cầm chiếc túi không."
+    },
+    {
+      "id": "s2-23-06",
+      "kind": "sentence",
+      "en": "She gives her name and describes the wallet before the assistant returns it.",
+      "vi": "Cô nói tên và tả chiếc ví trước khi nhân viên trả lại."
+    },
+    {
+      "id": "s2-23-07",
+      "kind": "sentence",
+      "en": "She thanks me warmly, and I feel glad I checked beneath the bench.",
+      "vi": "Cô cảm ơn nồng nhiệt, còn tôi vui vì đã nhìn xuống gầm ghế."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 34,
+  "sourceFile": "paragraph/34_the_animal_rescue_board_game.md",
+  "sourceSha256": "936470eddef614b7a1760908671afd67dd35cda52aa0c86f2228ba3fbf1bb8a0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-34-01",
+      "kind": "sentence",
+      "en": "We design a board game about returning lost animals to suitable homes.",
+      "vi": "Chúng tôi thiết kế trò bàn đưa động vật lạc về chỗ phù hợp."
+    },
+    {
+      "id": "s3-34-02",
+      "kind": "sentence",
+      "en": "A bat begins in a cave, while a whale and a dolphin wait in the ocean section.",
+      "vi": "Dơi bắt đầu trong hang, cá voi và cá heo đợi khu đại dương."
+    },
+    {
+      "id": "s3-34-03",
+      "kind": "sentence",
+      "en": "A shark blocks one route, and an octopus guards a shortcut.",
+      "vi": "Cá mập chắn một đường, bạch tuộc canh đường tắt."
+    },
+    {
+      "id": "s3-34-04",
+      "kind": "sentence",
+      "en": "My sister draws a squid and a jellyfish to fill the empty sea spaces.",
+      "vi": "Em gái vẽ mực, sứa lấp ô biển trống."
+    },
+    {
+      "id": "s3-34-05",
+      "kind": "sentence",
+      "en": "On land, a turtle meets a frog beside a snake.",
+      "vi": "Trên cạn, rùa gặp ếch cạnh rắn."
+    },
+    {
+      "id": "s3-34-06",
+      "kind": "sentence",
+      "en": "Each player must explain a choice before moving.",
+      "vi": "Mỗi người phải giải thích lựa chọn trước khi đi."
+    },
+    {
+      "id": "s3-34-07",
+      "kind": "sentence",
+      "en": "By the second round, the explanations become more interesting than who reaches the finish first.",
+      "vi": "Đến vòng hai, giải thích thú vị hơn chuyện ai tới đích trước."
+    }
+  ]
+}

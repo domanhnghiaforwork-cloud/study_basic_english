@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 2,
+  "sourceFile": "paragraph/02_a_plan_for_the_bakery.md",
+  "sourceSha256": "3dfb23b493ea27a0e39582387b3c4d4f6f9cd3f957b7bf8fb1ae5cf1a76a57fc",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-02-01",
+      "kind": "sentence",
+      "en": "Our bakery has a new client who wants bread for a school festival.",
+      "vi": "Tiệm bánh của chúng tôi có khách hàng mới muốn đặt bánh mì cho lễ hội trường."
+    },
+    {
+      "id": "s2-02-02",
+      "kind": "sentence",
+      "en": "At our morning meeting, we discuss the project and divide the work.",
+      "vi": "Trong cuộc họp sáng, chúng tôi bàn về dự án và chia việc."
+    },
+    {
+      "id": "s2-02-03",
+      "kind": "sentence",
+      "en": "The team must follow a clear schedule because the bread needs to arrive before lunch.",
+      "vi": "Cả nhóm phải theo lịch rõ ràng vì bánh cần đến trước bữa trưa."
+    },
+    {
+      "id": "s2-02-04",
+      "kind": "sentence",
+      "en": "All the staff can help, but our budget is small.",
+      "vi": "Toàn bộ nhân viên đều có thể giúp, nhưng ngân sách của chúng tôi ít."
+    },
+    {
+      "id": "s2-02-05",
+      "kind": "sentence",
+      "en": "We cannot promise a higher salary yet, so nobody has to work extra hours.",
+      "vi": "Chưa thể hứa tăng lương nên không ai bắt buộc phải làm thêm."
+    },
+    {
+      "id": "s2-02-06",
+      "kind": "sentence",
+      "en": "If this order goes well, the business will earn more income.",
+      "vi": "Nếu đơn hàng thuận lợi, việc kinh doanh sẽ mang lại thu nhập cao hơn."
+    },
+    {
+      "id": "s2-02-07",
+      "kind": "sentence",
+      "en": "We agree to start with a small, realistic order.",
+      "vi": "Chúng tôi thống nhất bắt đầu với một đơn nhỏ, vừa sức."
+    }
+  ]
+}

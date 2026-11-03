@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 79,
+  "sourceFile": "paragraph/79_asking_to_join_the_exhibition.md",
+  "sourceSha256": "d533402990a2842757b1a2c6c5c5e6368783131146621017079373316ddbde11",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-79-01",
+      "kind": "sentence",
+      "en": "I admire the artists in our town exhibition, but I hesitate to apply for a place.",
+      "vi": "Tôi ngưỡng mộ nghệ sĩ triển lãm thị trấn nhưng ngại nộp đơn."
+    },
+    {
+      "id": "s3-79-02",
+      "kind": "sentence",
+      "en": "A friend helps me adjust the photographs of my work and approach the organizer.",
+      "vi": "Bạn giúp chỉnh ảnh tác phẩm, tiếp cận người tổ chức."
+    },
+    {
+      "id": "s3-79-03",
+      "kind": "sentence",
+      "en": "I admit that I have never shown anything publicly.",
+      "vi": "Tôi thú nhận chưa từng trưng công khai."
+    },
+    {
+      "id": "s3-79-04",
+      "kind": "sentence",
+      "en": "She says beginners may appear beside experienced artists if the work is ready.",
+      "vi": "Cô nói người mới có thể xuất hiện cạnh nghệ sĩ kinh nghiệm nếu tác phẩm sẵn."
+    },
+    {
+      "id": "s3-79-05",
+      "kind": "sentence",
+      "en": "Before they announce the final list, two volunteers advise me on the labels and allow me time to revise them.",
+      "vi": "Trước công bố danh sách cuối, hai tình nguyện viên tư vấn nhãn, cho thời gian sửa."
+    },
+    {
+      "id": "s3-79-06",
+      "kind": "sentence",
+      "en": "I appreciate that chance more than an easy promise of success.",
+      "vi": "Tôi trân trọng cơ hội hơn lời hứa thành công dễ dàng."
+    },
+    {
+      "id": "s3-79-07",
+      "kind": "sentence",
+      "en": "For once, submitting the work feels possible.",
+      "vi": "Lần này, nộp tác phẩm thấy khả thi."
+    }
+  ]
+}

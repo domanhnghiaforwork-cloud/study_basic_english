@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 3,
+  "sourceFile": "paragraph/03_the_bridge_that_fell.md",
+  "sourceSha256": "3a35632fd656e4723d3fbacf5d3fb9dc2cd9d2b4517d56cde626b4311bd17732",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-03-01",
+      "kind": "sentence",
+      "en": "Our task in class is to build a paper bridge.",
+      "vi": "Nhiệm vụ trên lớp là xây cầu giấy."
+    },
+    {
+      "id": "s2-03-02",
+      "kind": "sentence",
+      "en": "My plan is to fold one long sheet, but my friend has another idea.",
+      "vi": "Tôi định gấp một tờ dài, nhưng bạn tôi có ý khác."
+    },
+    {
+      "id": "s2-03-03",
+      "kind": "sentence",
+      "en": "Our goal is to hold a small toy car above the table.",
+      "vi": "Mục tiêu là đỡ một chiếc ô tô đồ chơi phía trên mặt bàn."
+    },
+    {
+      "id": "s2-03-04",
+      "kind": "sentence",
+      "en": "The first bridge falls, and we laugh at our mistake.",
+      "vi": "Cây cầu đầu tiên sập xuống, và chúng tôi bật cười vì sai sót của mình."
+    },
+    {
+      "id": "s2-03-05",
+      "kind": "sentence",
+      "en": "Then we look closely at the problem and find a solution: two folded supports.",
+      "vi": "Sau đó, chúng tôi xem kỹ vấn đề và tìm ra giải pháp: hai trụ giấy gấp."
+    },
+    {
+      "id": "s2-03-06",
+      "kind": "sentence",
+      "en": "The result is much stronger.",
+      "vi": "Kết quả chắc chắn hơn nhiều."
+    },
+    {
+      "id": "s2-03-07",
+      "kind": "sentence",
+      "en": "Our teacher calls it a success, but she says the first failure helped us learn how to build something better.",
+      "vi": "Cô giáo gọi đó là thành công, nhưng nói lần thất bại đầu đã giúp chúng tôi học cách xây tốt hơn."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 49,
+  "sourceFile": "paragraph/49_the_printer_that_would_not_work.md",
+  "sourceSha256": "6698df096a8b8bbd586b7948c4f6f0971a044e47102061e39265175cc36f0835",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-49-01",
+      "kind": "sentence",
+      "en": "The school printer stops working before our book sale.",
+      "vi": "Máy in trường hỏng trước buổi bán sách."
+    },
+    {
+      "id": "s2-49-02",
+      "kind": "sentence",
+      "en": "We try to repair it, but one broken part needs attention.",
+      "vi": "Chúng tôi thử sửa nhưng phần hỏng cần xử lý."
+    },
+    {
+      "id": "s2-49-03",
+      "kind": "sentence",
+      "en": "A technician explains how to replace it and cleanse the dusty outer cover with a suitable cloth.",
+      "vi": "Kỹ thuật viên giải thích thay, lau sạch vỏ bụi bằng khăn hợp."
+    },
+    {
+      "id": "s2-49-04",
+      "kind": "sentence",
+      "en": "Then she shows us how to lock and unlock the paper tray.",
+      "vi": "Rồi cô chỉ khóa, mở khay giấy."
+    },
+    {
+      "id": "s2-49-05",
+      "kind": "sentence",
+      "en": "I switch the printer on, press a button, and click the correct file.",
+      "vi": "Tôi bật máy, nhấn nút, nhấp đúng tệp."
+    },
+    {
+      "id": "s2-49-06",
+      "kind": "sentence",
+      "en": "At last, we can print a copy of our poster.",
+      "vi": "Cuối cùng in được bản áp phích."
+    },
+    {
+      "id": "s2-49-07",
+      "kind": "sentence",
+      "en": "The technician leaves smiling, and our sale can begin on time.",
+      "vi": "Kỹ thuật viên cười ra về, buổi bán bắt đầu kịp."
+    }
+  ]
+}

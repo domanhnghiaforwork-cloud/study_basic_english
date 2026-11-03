@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 12,
+  "sourceFile": "paragraph/12_the_trial_on_the_classroom_stage.md",
+  "sourceSha256": "a6bab9477cdea2f0acf4697d48c692923a4f3af217eb067162e4845ba6d10edc",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-12-01",
+      "kind": "sentence",
+      "en": "For drama week, our class stages a trial about a fictional crime.",
+      "vi": "Tuần kịch, lớp dựng phiên tòa về tội phạm hư cấu."
+    },
+    {
+      "id": "s3-12-02",
+      "kind": "sentence",
+      "en": "I play a lawyer, and my friend plays the judge.",
+      "vi": "Tôi đóng luật sư, bạn đóng thẩm phán."
+    },
+    {
+      "id": "s3-12-03",
+      "kind": "sentence",
+      "en": "The court must decide whether the person accused is really the criminal described by a witness.",
+      "vi": "Tòa phải xác định bị cáo có thật là kẻ phạm tội nhân chứng mô tả không."
+    },
+    {
+      "id": "s3-12-04",
+      "kind": "sentence",
+      "en": "One scene mentions prison, but our teacher asks us to think beyond punishment.",
+      "vi": "Một cảnh nhắc nhà tù, nhưng cô bảo nghĩ xa hơn hình phạt."
+    },
+    {
+      "id": "s3-12-05",
+      "kind": "sentence",
+      "en": "What would help the neighbors feel safe after violence?",
+      "vi": "Điều gì giúp hàng xóm thấy an toàn sau bạo lực?"
+    },
+    {
+      "id": "s3-12-06",
+      "kind": "sentence",
+      "en": "The discussion is harder than learning our lines.",
+      "vi": "Thảo luận khó hơn học lời thoại."
+    },
+    {
+      "id": "s3-12-07",
+      "kind": "sentence",
+      "en": "When the play ends, we stay behind to talk about peace, fairness, and the responsibility of telling a serious story.",
+      "vi": "Kịch xong, chúng tôi ở lại bàn hòa bình, công bằng và trách nhiệm khi kể chuyện nghiêm túc."
+    }
+  ]
+}

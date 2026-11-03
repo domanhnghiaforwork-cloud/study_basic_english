@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 49,
+  "sourceFile": "paragraph/49_the_invitation_in_the_drawer.md",
+  "sourceSha256": "440c975367e0e7859219789b6fd82d9192ad47f0afa3371f78d9003d279308b4",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-49-01",
+      "kind": "sentence",
+      "en": "An elderly neighbor asks me to help sort papers after her retirement.",
+      "vi": "Hàng xóm cao tuổi nhờ xếp giấy tờ sau nghỉ hưu."
+    },
+    {
+      "id": "s3-49-02",
+      "kind": "sentence",
+      "en": "We find an invitation to a festival, a program from a funeral, and photographs from a celebration.",
+      "vi": "Chúng tôi tìm thiệp mời lễ hội, chương trình đám tang và ảnh lễ mừng."
+    },
+    {
+      "id": "s3-49-03",
+      "kind": "sentence",
+      "en": "Each ceremony brings back a different memory of her youth.",
+      "vi": "Mỗi nghi lễ gợi kỷ niệm tuổi trẻ khác."
+    },
+    {
+      "id": "s3-49-04",
+      "kind": "sentence",
+      "en": "At the bottom lies a card from her wedding anniversary, with a pressed flower she once received as a gift.",
+      "vi": "Dưới cùng là thiệp kỷ niệm cưới, có hoa ép từng nhận làm quà."
+    },
+    {
+      "id": "s3-49-05",
+      "kind": "sentence",
+      "en": "We stop sorting and make tea.",
+      "vi": "Chúng tôi dừng xếp, pha trà."
+    },
+    {
+      "id": "s3-49-06",
+      "kind": "sentence",
+      "en": "The papers no longer seem like clutter.",
+      "vi": "Giấy tờ không còn như đồ lộn xộn."
+    },
+    {
+      "id": "s3-49-07",
+      "kind": "sentence",
+      "en": "They are small doors into a life I had never taken time to ask about.",
+      "vi": "Chúng là cửa nhỏ vào cuộc đời tôi chưa từng dành thời gian hỏi."
+    }
+  ]
+}

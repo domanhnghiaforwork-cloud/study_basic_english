@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 24,
+  "sourceFile": "paragraph/24_the_landscape_inside_a_box.md",
+  "sourceSha256": "7e94e43a69b9dfa54f12de85d34489a9c2921506e698a1b667debf5a03e18336",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-24-01",
+      "kind": "sentence",
+      "en": "For a school exhibition, we build a valley inside an old box.",
+      "vi": "Cho triển lãm trường, chúng tôi dựng thung lũng trong hộp cũ."
+    },
+    {
+      "id": "s3-24-02",
+      "kind": "sentence",
+      "en": "We use soil for the hills, sand for the coast, and a small rock above a paper cave.",
+      "vi": "Đất làm đồi, cát làm bờ biển, đá nhỏ đặt trên hang giấy."
+    },
+    {
+      "id": "s3-24-03",
+      "kind": "sentence",
+      "en": "Blue thread becomes a stream flowing from a waterfall toward a pond.",
+      "vi": "Chỉ xanh thành suối từ thác đến ao."
+    },
+    {
+      "id": "s3-24-04",
+      "kind": "sentence",
+      "en": "The hardest part is keeping the mud from covering everything else.",
+      "vi": "Khó nhất là giữ bùn không phủ mọi thứ."
+    },
+    {
+      "id": "s3-24-05",
+      "kind": "sentence",
+      "en": "When the model dries, my brother adds a tiny person beside the water.",
+      "vi": "Mô hình khô, em trai thêm người tí hon bên nước."
+    },
+    {
+      "id": "s3-24-06",
+      "kind": "sentence",
+      "en": "That little figure changes the whole scene.",
+      "vi": "Hình người nhỏ đổi cả cảnh."
+    },
+    {
+      "id": "s3-24-07",
+      "kind": "sentence",
+      "en": "Suddenly, the landscape looks like somewhere a traveler might stop and rest.",
+      "vi": "Bỗng phong cảnh như nơi khách lữ hành có thể dừng nghỉ."
+    }
+  ]
+}

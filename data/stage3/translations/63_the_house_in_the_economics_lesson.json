@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 63,
+  "sourceFile": "paragraph/63_the_house_in_the_economics_lesson.md",
+  "sourceSha256": "ab05ff1030636f12eda3b8bbae9ae895c59188d376e5de995d8d256bd3722b3f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-63-01",
+      "kind": "sentence",
+      "en": "Our economics teacher invents a family deciding whether to rent a house.",
+      "vi": "Thầy kinh tế tạo gia đình đang quyết thuê nhà."
+    },
+    {
+      "id": "s3-63-02",
+      "kind": "sentence",
+      "en": "Each group calculates a fee, compares a mortgage, and discusses the property as an asset.",
+      "vi": "Mỗi nhóm tính phí, so khoản vay thế chấp, bàn bất động sản như tài sản."
+    },
+    {
+      "id": "s3-63-03",
+      "kind": "sentence",
+      "en": "A second card introduces a liability and asks us to reconsider.",
+      "vi": "Thẻ thứ hai đưa khoản nợ, yêu cầu nghĩ lại."
+    },
+    {
+      "id": "s3-63-04",
+      "kind": "sentence",
+      "en": "Later, the lesson moves from family equity to a company's capitalization, with inflation and deflation changing the background.",
+      "vi": "Sau đó, bài chuyển từ vốn chủ gia đình sang vốn hóa công ty, với lạm phát, giảm phát đổi bối cảnh."
+    },
+    {
+      "id": "s3-63-05",
+      "kind": "sentence",
+      "en": "None of our first answers survives every new condition.",
+      "vi": "Không đáp án đầu nào còn đúng trong mọi điều kiện mới."
+    },
+    {
+      "id": "s3-63-06",
+      "kind": "sentence",
+      "en": "We finish by drawing question marks around the house, a reminder that understanding a model includes noticing what it leaves out.",
+      "vi": "Cuối buổi, chúng tôi vẽ dấu hỏi quanh nhà, nhắc rằng hiểu mô hình gồm thấy điều nó bỏ sót."
+    }
+  ]
+}

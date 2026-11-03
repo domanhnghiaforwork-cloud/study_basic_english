@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 25,
+  "sourceFile": "paragraph/25_the_costume_box.md",
+  "sourceSha256": "61d1354ca06fd62b0c94d6ea18136d8673bf671e26c60e37efb82a5136047cad",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-25-01",
+      "kind": "sentence",
+      "en": "Our school play needs clothes from different jobs.",
+      "vi": "Vở kịch trường cần trang phục nhiều nghề."
+    },
+    {
+      "id": "s2-25-02",
+      "kind": "sentence",
+      "en": "I open the costume box and find a uniform, a suit, and a pair of boots.",
+      "vi": "Tôi mở hộp trang phục, thấy đồng phục, bộ com lê và đôi ủng."
+    },
+    {
+      "id": "s2-25-03",
+      "kind": "sentence",
+      "en": "There are shoes without socks and a hat with a broken ribbon.",
+      "vi": "Có giày thiếu tất và mũ bị đứt ruy băng."
+    },
+    {
+      "id": "s2-25-04",
+      "kind": "sentence",
+      "en": "My friend chooses a cap and a belt for his character.",
+      "vi": "Bạn tôi chọn mũ lưỡi trai và thắt lưng cho nhân vật."
+    },
+    {
+      "id": "s2-25-05",
+      "kind": "sentence",
+      "en": "I borrow a scarf and gloves to look like someone arriving in winter.",
+      "vi": "Tôi mượn khăn quàng và găng tay để giống người vừa đến vào mùa đông."
+    },
+    {
+      "id": "s2-25-06",
+      "kind": "sentence",
+      "en": "Nothing matches perfectly, but that makes us laugh.",
+      "vi": "Chẳng thứ gì thật đồng bộ, nhưng thế càng làm chúng tôi cười."
+    },
+    {
+      "id": "s2-25-07",
+      "kind": "sentence",
+      "en": "When the teacher calls us onto the stage, the empty box becomes a seat in our pretend train.",
+      "vi": "Khi cô gọi lên sân khấu, hộp rỗng trở thành ghế trên chuyến tàu tưởng tượng."
+    }
+  ]
+}

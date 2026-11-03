@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 15,
+  "sourceFile": "paragraph/15_one_station_many_journeys.md",
+  "sourceSha256": "bcc8a5fdff1401b0f043ed9fdc1995b68e6295cefaa2d93075b0267d71c79d5e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-15-01",
+      "kind": "sentence",
+      "en": "I wait outside the station with my notebook.",
+      "vi": "Tôi đợi ngoài nhà ga với sổ."
+    },
+    {
+      "id": "s2-15-02",
+      "kind": "sentence",
+      "en": "A train arrives above us while the subway runs below the street.",
+      "vi": "Tàu hỏa đến phía trên, tàu điện ngầm chạy dưới phố."
+    },
+    {
+      "id": "s2-15-03",
+      "kind": "sentence",
+      "en": "A woman leaves her bicycle beside a taxi, and a man on a motorcycle stops to ask the time.",
+      "vi": "Phụ nữ dựng xe đạp cạnh taxi, người đi xe máy dừng hỏi giờ."
+    },
+    {
+      "id": "s2-15-04",
+      "kind": "sentence",
+      "en": "Across the road, a truck brings boxes to a shop.",
+      "vi": "Bên kia, xe tải mang hộp tới cửa hàng."
+    },
+    {
+      "id": "s2-15-05",
+      "kind": "sentence",
+      "en": "Farther away, a boat carries people toward a large ship on the river.",
+      "vi": "Xa hơn, thuyền chở người đến tàu lớn trên sông."
+    },
+    {
+      "id": "s2-15-06",
+      "kind": "sentence",
+      "en": "Then a plane passes overhead.",
+      "vi": "Rồi máy bay bay qua."
+    },
+    {
+      "id": "s2-15-07",
+      "kind": "sentence",
+      "en": "I came here to draw one journey, but the whole town seems to be moving in different ways.",
+      "vi": "Tôi đến vẽ một hành trình, nhưng cả thị trấn như di chuyển nhiều cách."
+    }
+  ]
+}

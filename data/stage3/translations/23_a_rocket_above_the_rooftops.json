@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 23,
+  "sourceFile": "paragraph/23_a_rocket_above_the_rooftops.md",
+  "sourceSha256": "f23169e9431f165211601d53212c563b0cd5ecce39e1806e0f0ae4a37807050c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-23-01",
+      "kind": "sentence",
+      "en": "At sunrise, our school launches a paper rocket from the playground.",
+      "vi": "Bình minh, trường phóng tên lửa giấy từ sân."
+    },
+    {
+      "id": "s3-23-02",
+      "kind": "sentence",
+      "en": "The science club has decorated it with a rainbow and pictures of earth from space.",
+      "vi": "Câu lạc bộ khoa học trang trí cầu vồng, ảnh Trái Đất từ không gian."
+    },
+    {
+      "id": "s3-23-03",
+      "kind": "sentence",
+      "en": "Inside the hall, a model satellite hangs beside a painted galaxy.",
+      "vi": "Trong sảnh, mô hình vệ tinh treo cạnh thiên hà được vẽ."
+    },
+    {
+      "id": "s3-23-04",
+      "kind": "sentence",
+      "en": "We spend the morning imagining a journey beyond our planet and into the universe.",
+      "vi": "Cả sáng, chúng tôi tưởng tượng đi khỏi hành tinh, vào vũ trụ."
+    },
+    {
+      "id": "s3-23-05",
+      "kind": "sentence",
+      "en": "At sunset, the paper rocket is still caught in a tree.",
+      "vi": "Hoàng hôn, tên lửa giấy vẫn mắc trên cây."
+    },
+    {
+      "id": "s3-23-06",
+      "kind": "sentence",
+      "en": "Nobody has traveled far, but several younger children have started asking questions.",
+      "vi": "Chẳng ai đi xa, nhưng vài em nhỏ đã bắt đầu hỏi."
+    },
+    {
+      "id": "s3-23-07",
+      "kind": "sentence",
+      "en": "Our teacher says that can be a good beginning for any journey.",
+      "vi": "Cô nói đó có thể là khởi đầu tốt cho mọi hành trình."
+    }
+  ]
+}

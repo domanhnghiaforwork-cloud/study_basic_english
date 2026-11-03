@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 16,
+  "sourceFile": "paragraph/16_permission_for_the_street_fair.md",
+  "sourceSha256": "a79e26b25fdc6e5a20ca8ba8fbfd19e6dcdebdb0353f5f6743ab273d5876d4ac",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-16-01",
+      "kind": "sentence",
+      "en": "Our neighborhood committee wants to hold a street fair.",
+      "vi": "Ủy ban khu phố muốn tổ chức hội chợ đường phố."
+    },
+    {
+      "id": "s3-16-02",
+      "kind": "sentence",
+      "en": "We contact a city agency and ask which department handles the application.",
+      "vi": "Chúng tôi liên hệ cơ quan thành phố, hỏi bộ phận xử lý đơn."
+    },
+    {
+      "id": "s3-16-03",
+      "kind": "sentence",
+      "en": "The administration sends a clear procedure and explains one important regulation about keeping the crossing open.",
+      "vi": "Bên hành chính gửi quy trình rõ, giải thích quy định quan trọng giữ lối sang đường thông thoáng."
+    },
+    {
+      "id": "s3-16-04",
+      "kind": "sentence",
+      "en": "Another requirement concerns cleaning the street afterward.",
+      "vi": "Yêu cầu khác là dọn phố sau sự kiện."
+    },
+    {
+      "id": "s3-16-05",
+      "kind": "sentence",
+      "en": "Before adding my signature to a volunteer contract, I read it carefully with the organizer.",
+      "vi": "Trước khi ký hợp đồng tình nguyện, tôi đọc kỹ cùng người tổ chức."
+    },
+    {
+      "id": "s3-16-06",
+      "kind": "sentence",
+      "en": "The paperwork takes longer than making posters, but it gives us useful questions.",
+      "vi": "Giấy tờ lâu hơn làm áp phích, nhưng gợi câu hỏi hữu ích."
+    },
+    {
+      "id": "s3-16-07",
+      "kind": "sentence",
+      "en": "By opening day, everyone knows where to work and who will collect the rubbish.",
+      "vi": "Đến khai mạc, ai cũng biết chỗ làm và ai gom rác."
+    }
+  ]
+}

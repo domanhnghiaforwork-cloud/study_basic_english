@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 10,
+  "sourceFile": "paragraph/10_a_new_student_at_sixty.md",
+  "sourceSha256": "653023ba9a5a781e3d57db112860bd9f50de32c4aee2a8623fd242ffbc0e2e7b",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s2-10-01",
+      "kind": "sentence",
+      "en": "At sixty, my aunt decides to continue her education.",
+      "vi": "Ở tuổi sáu mươi, dì quyết định tiếp tục học."
+    },
+    {
+      "id": "s2-10-02",
+      "kind": "sentence",
+      "en": "She visits a local college to ask about training in garden care.",
+      "vi": "Dì đến một trường cao đẳng gần nhà để hỏi về khóa đào tạo chăm vườn."
+    },
+    {
+      "id": "s2-10-03",
+      "kind": "sentence",
+      "en": "She does not want a university degree; she wants a useful certificate and time with other learners.",
+      "vi": "Dì không muốn lấy bằng đại học mà muốn có chứng chỉ hữu ích và thời gian cùng những người học khác."
+    },
+    {
+      "id": "s2-10-04",
+      "kind": "sentence",
+      "en": "The course includes science, simple math, and research in a small garden.",
+      "vi": "Khóa học có khoa học, toán đơn giản và nghiên cứu trong một khu vườn nhỏ."
+    },
+    {
+      "id": "s2-10-05",
+      "kind": "sentence",
+      "en": "There is also a lesson about the history of local farming.",
+      "vi": "Còn có bài về lịch sử canh tác địa phương."
+    },
+    {
+      "id": "s2-10-06",
+      "kind": "sentence",
+      "en": "On her first morning, she puts a notebook in her bag and smiles.",
+      "vi": "Sáng đầu tiên, dì bỏ sổ vào túi và mỉm cười."
+    },
+    {
+      "id": "s2-10-07",
+      "kind": "sentence",
+      "en": "Being a student again feels strange, but it also feels exciting.",
+      "vi": "Làm học sinh lần nữa thật lạ, nhưng cũng rất thú vị."
+    }
+  ]
+}

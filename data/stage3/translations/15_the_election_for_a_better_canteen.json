@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 15,
+  "sourceFile": "paragraph/15_the_election_for_a_better_canteen.md",
+  "sourceSha256": "4c3609ec55d8fcc72c560b4b03a4950e0ee5a83c251d1ff09380983d064a043e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s3-15-01",
+      "kind": "sentence",
+      "en": "A school election begins with a simple question: what should change in the canteen?",
+      "vi": "Cuộc bầu cử trường bắt đầu bằng câu hỏi đơn giản: căng tin cần đổi gì?"
+    },
+    {
+      "id": "s3-15-02",
+      "kind": "sentence",
+      "en": "One party wants cheaper food; another wants less plastic.",
+      "vi": "Một đảng muốn đồ ăn rẻ, đảng khác muốn ít nhựa."
+    },
+    {
+      "id": "s3-15-03",
+      "kind": "sentence",
+      "en": "Each campaign must explain its plan before anyone can vote.",
+      "vi": "Mỗi chiến dịch phải giải thích kế hoạch trước khi bỏ phiếu."
+    },
+    {
+      "id": "s3-15-04",
+      "kind": "sentence",
+      "en": "A student association invites the kitchen staff to speak, and the local workers' union sends ideas.",
+      "vi": "Hội học sinh mời nhân viên bếp phát biểu, công đoàn địa phương gửi ý tưởng."
+    },
+    {
+      "id": "s3-15-05",
+      "kind": "sentence",
+      "en": "What began as a small protest becomes a wider movement.",
+      "vi": "Từ phản đối nhỏ, việc ấy thành phong trào rộng hơn."
+    },
+    {
+      "id": "s3-15-06",
+      "kind": "sentence",
+      "en": "Our school is an institution where we can practice listening, says the head teacher.",
+      "vi": "Hiệu trưởng nói trường là tổ chức nơi ta tập lắng nghe."
+    },
+    {
+      "id": "s3-15-07",
+      "kind": "sentence",
+      "en": "By the final meeting, every organization involved supports at least one shared proposal.",
+      "vi": "Đến họp cuối, mọi tổ chức tham gia đều ủng hộ ít nhất một đề xuất chung."
+    }
+  ]
+}
