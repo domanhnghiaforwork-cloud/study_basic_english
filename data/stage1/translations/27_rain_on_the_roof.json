@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 27,
+  "sourceFile": "paragraph/27_rain_on_the_roof.md",
+  "sourceSha256": "406607fef35b8985d3c4e2398622610f9d43723b15a950eac49d299500e9a39f",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-27-01",
+      "kind": "sentence",
+      "en": "Rain falls on the roof, and the garden grows dark.",
+      "vi": "Mưa rơi trên mái nhà, và khu vườn dần tối lại."
+    },
+    {
+      "id": "s1-27-02",
+      "kind": "sentence",
+      "en": "I close the window beside my bed and pull the blanket over my feet.",
+      "vi": "Tôi đóng cửa sổ cạnh giường rồi kéo chăn phủ lên chân."
+    },
+    {
+      "id": "s1-27-03",
+      "kind": "sentence",
+      "en": "My book is on a chair, just beyond my hand.",
+      "vi": "Cuốn sách nằm trên ghế, vừa quá tầm với của tôi."
+    },
+    {
+      "id": "s1-27-04",
+      "kind": "sentence",
+      "en": "I do not want to leave my warm pillow, but I get up anyway.",
+      "vi": "Tôi không muốn rời chiếc gối ấm áp, nhưng rồi vẫn đứng dậy."
+    },
+    {
+      "id": "s1-27-05",
+      "kind": "sentence",
+      "en": "Through the open door, I see Dad sitting on the sofa.",
+      "vi": "Qua cánh cửa mở, tôi thấy bố đang ngồi trên ghế sofa."
+    },
+    {
+      "id": "s1-27-06",
+      "kind": "sentence",
+      "en": "Mom is at the table with a cup of tea.",
+      "vi": "Mẹ ngồi bên bàn với một tách trà."
+    },
+    {
+      "id": "s1-27-07",
+      "kind": "sentence",
+      "en": "A family picture hangs on the wall behind her.",
+      "vi": "Một bức ảnh gia đình treo trên tường phía sau mẹ."
+    },
+    {
+      "id": "s1-27-08",
+      "kind": "sentence",
+      "en": "I carry my book into the room and sit between them.",
+      "vi": "Tôi mang sách vào phòng và ngồi giữa bố mẹ."
+    },
+    {
+      "id": "s1-27-09",
+      "kind": "sentence",
+      "en": "The rain keeps falling, but our house feels warm.",
+      "vi": "Mưa vẫn rơi, nhưng ngôi nhà của chúng tôi thật ấm áp."
+    }
+  ]
+}

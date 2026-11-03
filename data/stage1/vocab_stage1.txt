@@ -1,0 +1,500 @@
+﻿0001. i — tôi
+0002. you — bạn
+0003. he — anh ấy
+0004. she — cô ấy
+0005. it — nó
+0006. we — chúng tôi
+0007. they — họ
+0008. me — tôi (tân ngữ)
+0009. him — anh ấy (tân ngữ)
+0010. her — cô ấy; của cô ấy
+0011. us — chúng tôi (tân ngữ)
+0012. them — họ (tân ngữ)
+0013. my — của tôi
+0014. your — của bạn
+0015. his — của anh ấy
+0016. its — của nó
+0017. our — của chúng tôi
+0018. their — của họ
+0019. mine — cái của tôi
+0020. yours — cái của bạn
+0021. this — cái này
+0022. that — cái kia
+0023. these — những cái này
+0024. those — những cái kia
+0025. who — ai
+0026. what — cái gì
+0027. where — ở đâu
+0028. when — khi nào
+0029. why — tại sao
+0030. how — như thế nào
+0031. which — cái nào
+0032. whose — của ai
+0033. someone — ai đó
+0034. anyone — bất kỳ ai
+0035. everyone — mọi người
+0036. nobody — không ai
+0037. something — điều gì đó
+0038. anything — bất cứ thứ gì
+0039. everything — mọi thứ
+0040. nothing — không có gì
+0041. all — tất cả
+0042. some — một vài
+0043. any — bất kỳ
+0044. many — nhiều (đếm được)
+0045. much — nhiều (không đếm được)
+0046. few — ít (đếm được)
+0047. little — ít; nhỏ
+0048. more — nhiều hơn
+0049. most — nhiều nhất
+0050. less — ít hơn
+0051. enough — đủ
+0052. other — khác
+0053. another — một cái khác
+0054. same — giống nhau
+0055. each — mỗi
+0056. every — mọi
+0057. both — cả hai
+0058. either — một trong hai
+0059. neither — không cái nào trong hai
+0060. one — một
+0061. two — hai
+0062. three — ba
+0063. four — bốn
+0064. five — năm
+0065. six — sáu
+0066. seven — bảy
+0067. eight — tám
+0068. nine — chín
+0069. ten — mười
+0070. eleven — mười một
+0071. twelve — mười hai
+0072. thirteen — mười ba
+0073. fourteen — mười bốn
+0074. fifteen — mười lăm
+0075. sixteen — mười sáu
+0076. seventeen — mười bảy
+0077. eighteen — mười tám
+0078. nineteen — mười chín
+0079. twenty — hai mươi
+0080. thirty — ba mươi
+0081. forty — bốn mươi
+0082. fifty — năm mươi
+0083. hundred — trăm
+0084. thousand — nghìn
+0085. first — thứ nhất; đầu tiên
+0086. second — thứ hai; giây
+0087. third — thứ ba
+0088. last — cuối cùng; trước đó
+0089. next — tiếp theo
+0090. am — là; thì; ở (với I)
+0091. is — là; thì; ở (số ít)
+0092. are — là; thì; ở (số nhiều)
+0093. was — đã là; đã ở (số ít)
+0094. were — đã là; đã ở (số nhiều)
+0095. be — là; thì; ở
+0096. been — đã từng; đã được
+0097. being — đang là
+0098. have — có
+0099. has — có (ngôi thứ ba)
+0100. had — đã có
+0101. do — làm
+0102. does — làm (ngôi thứ ba)
+0103. did — đã làm
+0104. can — có thể
+0105. could — có thể (quá khứ; lịch sự)
+0106. will — sẽ
+0107. would — sẽ; muốn (lịch sự)
+0108. should — nên
+0109. must — phải
+0110. may — có thể; được phép
+0111. might — có lẽ
+0112. not — không
+0113. no — không
+0114. yes — có; vâng
+0115. and — và
+0116. or — hoặc
+0117. but — nhưng
+0118. because — bởi vì
+0119. if — nếu
+0120. so — vì vậy; rất
+0121. than — hơn
+0122. as — như; với tư cách
+0123. while — trong khi
+0124. although — mặc dù
+0125. then — sau đó
+0126. before — trước
+0127. after — sau
+0128. until — cho đến khi
+0129. since — kể từ; bởi vì
+0130. for — cho; trong khoảng
+0131. of — của
+0132. in — trong
+0133. on — trên
+0134. at — ở; lúc
+0135. to — đến; để
+0136. from — từ
+0137. with — với
+0138. without — không có
+0139. by — bởi; bằng; cạnh
+0140. about — về; khoảng
+0141. under — dưới
+0142. over — trên; hơn
+0143. above — phía trên
+0144. below — phía dưới
+0145. between — giữa hai
+0146. among — giữa nhiều
+0147. through — xuyên qua
+0148. across — băng qua
+0149. around — xung quanh
+0150. behind — phía sau
+0151. beside — bên cạnh
+0152. near — gần
+0153. far — xa
+0154. inside — bên trong
+0155. outside — bên ngoài
+0156. into — vào trong
+0157. out — ra ngoài
+0158. up — lên
+0159. down — xuống
+0160. off — tắt; rời khỏi
+0161. away — đi xa
+0162. back — trở lại; lưng
+0163. here — ở đây
+0164. there — ở đó
+0165. now — bây giờ
+0166. today — hôm nay
+0167. tomorrow — ngày mai
+0168. yesterday — hôm qua
+0169. always — luôn luôn
+0170. usually — thường xuyên
+0171. often — thường
+0172. sometimes — đôi khi
+0173. never — không bao giờ
+0174. again — lại; lần nữa
+0175. already — đã rồi
+0176. still — vẫn
+0177. just — vừa mới; chỉ
+0178. only — chỉ
+0179. also — cũng
+0180. too — cũng; quá
+0181. very — rất
+0182. really — thật sự
+0183. quite — khá
+0184. maybe — có lẽ
+0185. please — làm ơn
+0186. thanks — cảm ơn
+0187. hello — xin chào
+0188. hi — chào
+0189. bye — tạm biệt
+0190. sorry — xin lỗi
+0191. okay — được; ổn
+0192. welcome — chào mừng
+0193. morning — buổi sáng
+0194. noon — buổi trưa
+0195. afternoon — buổi chiều
+0196. evening — buổi tối
+0197. night — ban đêm
+0198. day — ngày
+0199. week — tuần
+0200. month — tháng
+0201. year — năm
+0202. hour — giờ
+0203. minute — phút
+0204. time — thời gian
+0205. moment — khoảnh khắc
+0206. monday — thứ hai
+0207. tuesday — thứ ba
+0208. wednesday — thứ tư
+0209. thursday — thứ năm
+0210. friday — thứ sáu
+0211. saturday — thứ bảy
+0212. sunday — chủ nhật
+0213. january — tháng một
+0214. february — tháng hai
+0215. march — tháng ba
+0216. april — tháng tư
+0217. june — tháng sáu
+0218. july — tháng bảy
+0219. august — tháng tám
+0220. september — tháng chín
+0221. october — tháng mười
+0222. november — tháng mười một
+0223. december — tháng mười hai
+0224. person — người
+0225. people — mọi người
+0226. man — đàn ông
+0227. woman — phụ nữ
+0228. boy — cậu bé
+0229. girl — cô bé
+0230. child — đứa trẻ
+0231. baby — em bé
+0232. adult — người lớn
+0233. friend — bạn bè
+0234. family — gia đình
+0235. parent — cha hoặc mẹ
+0236. mother — mẹ
+0237. father — bố
+0238. mom — mẹ
+0239. dad — bố
+0240. son — con trai
+0241. daughter — con gái
+0242. brother — anh/em trai
+0243. sister — chị/em gái
+0244. husband — chồng
+0245. wife — vợ
+0246. grandmother — bà
+0247. grandfather — ông
+0248. uncle — chú; bác; cậu
+0249. aunt — cô; dì; bác gái
+0250. cousin — anh chị em họ
+0251. name — tên
+0252. age — tuổi
+0253. birthday — sinh nhật
+0254. home — nhà; tổ ấm
+0255. house — ngôi nhà
+0256. room — phòng
+0257. bedroom — phòng ngủ
+0258. bathroom — phòng tắm
+0259. kitchen — nhà bếp
+0260. floor — sàn; tầng
+0261. door — cửa ra vào
+0262. window — cửa sổ
+0263. wall — tường
+0264. roof — mái nhà
+0265. bed — giường
+0266. pillow — gối
+0267. blanket — chăn
+0268. chair — ghế
+0269. table — bàn
+0270. sofa — ghế sofa
+0271. lamp — đèn
+0272. light — ánh sáng; nhẹ
+0273. fan — quạt
+0274. clock — đồng hồ
+0275. key — chìa khóa
+0276. bag — túi
+0277. box — hộp
+0278. bottle — chai
+0279. cup — cốc
+0280. glass — ly; kính
+0281. plate — đĩa
+0282. bowl — bát
+0283. spoon — thìa
+0284. fork — nĩa
+0285. knife — dao
+0286. phone — điện thoại
+0287. computer — máy tính
+0288. television — tivi
+0289. radio — đài phát thanh
+0290. book — sách
+0291. paper — giấy
+0292. pen — bút mực
+0293. pencil — bút chì
+0294. picture — bức tranh; ảnh
+0295. photo — ảnh
+0296. letter — lá thư; chữ cái
+0297. word — từ
+0298. sentence — câu
+0299. question — câu hỏi
+0300. answer — câu trả lời
+0301. number — số
+0302. color — màu sắc
+0303. red — đỏ
+0304. blue — xanh dương
+0305. green — xanh lá
+0306. yellow — vàng
+0307. black — đen
+0308. white — trắng
+0309. brown — nâu
+0310. pink — hồng
+0311. orange — cam
+0312. purple — tím
+0313. gray — xám
+0314. big — to
+0315. small — nhỏ
+0316. long — dài
+0317. short — ngắn; thấp
+0318. tall — cao (người)
+0319. high — cao
+0320. low — thấp
+0321. old — già; cũ
+0322. young — trẻ
+0323. new — mới
+0324. good — tốt
+0325. bad — xấu; tệ
+0326. great — tuyệt vời
+0327. nice — tốt; dễ mến
+0328. beautiful — đẹp
+0329. ugly — xấu xí
+0330. happy — vui vẻ
+0331. sad — buồn
+0332. angry — tức giận
+0333. afraid — sợ hãi
+0334. tired — mệt
+0335. hungry — đói
+0336. thirsty — khát
+0337. sick — ốm
+0338. healthy — khỏe mạnh
+0339. hot — nóng
+0340. cold — lạnh
+0341. warm — ấm
+0342. cool — mát
+0343. clean — sạch
+0344. dirty — bẩn
+0345. easy — dễ
+0346. difficult — khó
+0347. hard — khó; cứng
+0348. fast — nhanh
+0349. slow — chậm
+0350. early — sớm
+0351. late — muộn
+0352. right — đúng; bên phải
+0353. wrong — sai
+0354. true — đúng; thật
+0355. false — sai; giả
+0356. full — đầy
+0357. empty — rỗng
+0358. open — mở
+0359. closed — đóng
+0360. free — miễn phí; tự do
+0361. busy — bận
+0362. ready — sẵn sàng
+0363. important — quan trọng
+0364. different — khác nhau
+0365. special — đặc biệt
+0366. favorite — yêu thích
+0367. possible — có thể
+0368. sure — chắc chắn
+0369. safe — an toàn
+0370. go — đi
+0371. come — đến
+0372. get — nhận; lấy
+0373. give — cho
+0374. take — lấy; mang
+0375. make — làm; tạo
+0376. put — đặt; để
+0377. bring — mang đến
+0378. send — gửi
+0379. buy — mua
+0380. sell — bán
+0381. pay — trả tiền
+0382. spend — tiêu; dành (thời gian)
+0383. need — cần
+0384. want — muốn
+0385. like — thích
+0386. love — yêu
+0387. hate — ghét
+0388. hope — hy vọng
+0389. know — biết
+0390. think — nghĩ
+0391. understand — hiểu
+0392. remember — nhớ
+0393. forget — quên
+0394. learn — học
+0395. study — học; nghiên cứu
+0396. teach — dạy
+0397. read — đọc
+0398. write — viết
+0399. speak — nói
+0400. say — nói
+0401. tell — kể; bảo
+0402. talk — nói chuyện
+0403. listen — lắng nghe
+0404. hear — nghe thấy
+0405. see — nhìn thấy
+0406. look — nhìn
+0407. watch — xem
+0408. ask — hỏi
+0409. help — giúp
+0410. try — thử
+0411. use — sử dụng
+0412. work — làm việc
+0413. play — chơi
+0414. start — bắt đầu
+0415. stop — dừng
+0416. finish — hoàn thành
+0417. wait — đợi
+0418. stay — ở lại
+0419. leave — rời đi
+0420. live — sống
+0421. die — chết
+0422. move — di chuyển
+0423. walk — đi bộ
+0424. run — chạy
+0425. sit — ngồi
+0426. stand — đứng
+0427. sleep — ngủ
+0428. wake — thức dậy
+0429. eat — ăn
+0430. drink — uống
+0431. cook — nấu ăn
+0432. wash — rửa
+0433. dress — mặc quần áo
+0434. wear — mặc; đeo
+0435. change — thay đổi
+0436. turn — rẽ; xoay
+0437. find — tìm thấy
+0438. lose — mất
+0439. keep — giữ
+0440. hold — cầm; giữ
+0441. meet — gặp
+0442. call — gọi
+0443. visit — thăm
+0444. travel — du lịch
+0445. drive — lái xe
+0446. ride — đi xe
+0447. fly — bay
+0448. swim — bơi
+0449. dance — nhảy múa
+0450. sing — hát
+0451. smile — mỉm cười
+0452. laugh — cười
+0453. cry — khóc
+0454. feel — cảm thấy
+0455. become — trở thành
+0456. happen — xảy ra
+0457. seem — có vẻ
+0458. mean — có nghĩa
+0459. show — cho xem
+0460. check — kiểm tra
+0461. choose — chọn
+0462. cut — cắt
+0463. break — làm vỡ
+0464. fix — sửa
+0465. build — xây dựng
+0466. carry — mang; vác
+0467. push — đẩy
+0468. pull — kéo
+0469. throw — ném
+0470. catch — bắt; chụp
+0471. a — một (mạo từ)
+0472. an — một (mạo từ)
+0473. the — mạo từ xác định
+0474. water — nước
+0475. food — thức ăn
+0476. rice — cơm; gạo
+0477. bread — bánh mì
+0478. milk — sữa
+0479. tea — trà
+0480. coffee — cà phê
+0481. fruit — trái cây
+0482. apple — quả táo
+0483. banana — quả chuối
+0484. egg — trứng
+0485. meat — thịt
+0486. fish — cá
+0487. chicken — thịt gà; con gà
+0488. vegetable — rau
+0489. sugar — đường
+0490. salt — muối
+0491. breakfast — bữa sáng
+0492. lunch — bữa trưa
+0493. dinner — bữa tối
+0494. restaurant — nhà hàng
+0495. shop — cửa hàng
+0496. school — trường học
+0497. teacher — giáo viên
+0498. student — học sinh; sinh viên
+0499. money — tiền
+0500. price — giá cả

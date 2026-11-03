@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 29,
+  "sourceFile": "paragraph/29_an_evening_without_screens.md",
+  "sourceSha256": "bb719d3a443e350f29d6d7b8214b58383ca1673ac3388468712054d0d1a9213d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-29-01",
+      "kind": "sentence",
+      "en": "Tonight, we put the phone and computer away before dinner.",
+      "vi": "Tối nay, chúng tôi cất điện thoại và máy tính đi trước bữa tối."
+    },
+    {
+      "id": "s1-29-02",
+      "kind": "sentence",
+      "en": "Dad turns off the television, but Mom leaves the radio on quietly.",
+      "vi": "Bố tắt tivi, nhưng mẹ vẫn để đài phát thanh chạy khe khẽ."
+    },
+    {
+      "id": "s1-29-03",
+      "kind": "sentence",
+      "en": "My brother brings a plate for each person, and I carry a bowl of rice to the table.",
+      "vi": "Anh trai mang đĩa cho từng người, còn tôi bưng một bát cơm ra bàn."
+    },
+    {
+      "id": "s1-29-04",
+      "kind": "sentence",
+      "en": "Grandma asks for a spoon.",
+      "vi": "Bà nhờ lấy một chiếc thìa."
+    },
+    {
+      "id": "s1-29-05",
+      "kind": "sentence",
+      "en": "Dad uses a knife to cut the bread, and my brother drops his fork.",
+      "vi": "Bố dùng dao cắt bánh mì, còn anh trai làm rơi chiếc nĩa."
+    },
+    {
+      "id": "s1-29-06",
+      "kind": "sentence",
+      "en": "We laugh and talk about our day.",
+      "vi": "Chúng tôi vừa cười vừa kể về một ngày của mình."
+    },
+    {
+      "id": "s1-29-07",
+      "kind": "sentence",
+      "en": "After dinner, Mom opens a book and reads a story to us.",
+      "vi": "Sau bữa tối, mẹ mở sách và đọc truyện cho chúng tôi nghe."
+    },
+    {
+      "id": "s1-29-08",
+      "kind": "sentence",
+      "en": "Nobody asks to watch anything.",
+      "vi": "Không ai đòi xem gì cả."
+    },
+    {
+      "id": "s1-29-09",
+      "kind": "sentence",
+      "en": "It feels good to listen to a real voice in the room.",
+      "vi": "Được nghe giọng nói của người thân ngay trong phòng thật dễ chịu."
+    }
+  ]
+}

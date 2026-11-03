@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 11,
+  "sourceFile": "paragraph/11_a_note_from_dad.md",
+  "sourceSha256": "8c9f3b51296e6e73f03003c174a8afe6b96de57e61825e214e3ebf9f78125a92",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-11-01",
+      "kind": "group",
+      "en": "Dad leaves a note on the kitchen table: \"I will be home late. Could you help me this afternoon? You should wash the cups, and you must give the dog some water. You may play outside when you finish.\" I can do those things, but my little brother wants to help too.",
+      "vi": "Bố để lại lời nhắn trên bàn bếp: “Bố sẽ về muộn. Chiều nay các con giúp bố nhé? Các con nên rửa cốc và phải cho chó uống nước. Làm xong thì các con được ra ngoài chơi.” Tôi có thể làm những việc ấy, nhưng em trai cũng muốn giúp."
+    },
+    {
+      "id": "s1-11-02",
+      "kind": "group",
+      "en": "\"What does Dad want us to do first?\" he asks. I show him the note.",
+      "vi": "“Bố muốn chúng mình làm gì trước?” em hỏi. Tôi đưa lời nhắn cho em xem."
+    },
+    {
+      "id": "s1-11-03",
+      "kind": "sentence",
+      "en": "He says he would like to wash the cups.",
+      "vi": "Em nói em muốn rửa cốc."
+    },
+    {
+      "id": "s1-11-04",
+      "kind": "sentence",
+      "en": "We work together and finish before dinner.",
+      "vi": "Chúng tôi cùng làm và xong việc trước bữa tối."
+    },
+    {
+      "id": "s1-11-05",
+      "kind": "group",
+      "en": "When Dad comes home, he asks, \"Who did all this?\" We both smile.",
+      "vi": "Khi về nhà, bố hỏi: “Ai đã làm hết những việc này thế?” Cả hai chúng tôi cùng mỉm cười."
+    }
+  ]
+}

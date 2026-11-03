@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 12,
+  "sourceFile": "paragraph/12_rain_at_the_window.md",
+  "sourceSha256": "29ed6ec505b8baaaaa96e39a7488bd975f1369b48c42eeaaa88c92e45131091d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-12-01",
+      "kind": "sentence",
+      "en": "My brother and I want to go outside, but the sky is gray.",
+      "vi": "Anh em tôi muốn ra ngoài, nhưng bầu trời xám xịt."
+    },
+    {
+      "id": "s1-12-02",
+      "kind": "sentence",
+      "en": "\"It might rain,\" Mom says.",
+      "vi": "“Có lẽ trời sắp mưa,” mẹ nói."
+    },
+    {
+      "id": "s1-12-03",
+      "kind": "group",
+      "en": "\"If you go, take your coats.\" I look for mine and find it under the bed.",
+      "vi": "“Nếu đi thì các con mang áo khoác nhé.” Tôi đi tìm áo của mình và thấy nó dưới giường."
+    },
+    {
+      "id": "s1-12-04",
+      "kind": "sentence",
+      "en": "My brother cannot find his, so we wait by the window.",
+      "vi": "Em trai không tìm thấy áo của em, nên chúng tôi đứng đợi bên cửa sổ."
+    },
+    {
+      "id": "s1-12-05",
+      "kind": "group",
+      "en": "\"Do you want to stay home or visit Grandma?\" Mom asks.",
+      "vi": "“Các con muốn ở nhà hay sang thăm bà?” mẹ hỏi."
+    },
+    {
+      "id": "s1-12-06",
+      "kind": "group",
+      "en": "\"Yes, let's visit Grandma!\" I say.",
+      "vi": "“Vâng, mình đi thăm bà đi ạ!” tôi nói."
+    },
+    {
+      "id": "s1-12-07",
+      "kind": "sentence",
+      "en": "My brother says no at first because he wants to play with his ball.",
+      "vi": "Lúc đầu em trai nói không, vì em muốn chơi bóng."
+    },
+    {
+      "id": "s1-12-08",
+      "kind": "sentence",
+      "en": "Then he remembers Grandma's dog.",
+      "vi": "Rồi em nhớ đến chú chó của bà."
+    },
+    {
+      "id": "s1-12-09",
+      "kind": "sentence",
+      "en": "We are not going to have a boring afternoon after all.",
+      "vi": "Hóa ra chúng tôi sẽ không phải trải qua một buổi chiều buồn chán."
+    }
+  ]
+}

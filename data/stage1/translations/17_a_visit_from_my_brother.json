@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 17,
+  "sourceFile": "paragraph/17_a_visit_from_my_brother.md",
+  "sourceSha256": "c3c0215ad6d81059922d5480fb0df1ee14a0039bd3fd404029abfa27f14d35f8",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-17-01",
+      "kind": "sentence",
+      "en": "My brother lives far away, but he is back at home today.",
+      "vi": "Anh trai tôi sống xa nhà, nhưng hôm nay anh đã về thăm."
+    },
+    {
+      "id": "s1-17-02",
+      "kind": "sentence",
+      "en": "Yesterday, he called and told us he was coming.",
+      "vi": "Hôm qua, anh gọi điện báo rằng anh sắp về."
+    },
+    {
+      "id": "s1-17-03",
+      "kind": "sentence",
+      "en": "Now his bag is here by the door, and everyone is happy to see him.",
+      "vi": "Giờ túi của anh đã ở đây, cạnh cửa, và ai cũng vui khi gặp anh."
+    },
+    {
+      "id": "s1-17-04",
+      "kind": "sentence",
+      "en": "He usually brings us a little gift.",
+      "vi": "Anh thường mang về một món quà nhỏ cho cả nhà."
+    },
+    {
+      "id": "s1-17-05",
+      "kind": "sentence",
+      "en": "This time, he has a book for me and some tea for Mom.",
+      "vi": "Lần này, anh có một cuốn sách cho tôi và một ít trà cho mẹ."
+    },
+    {
+      "id": "s1-17-06",
+      "kind": "group",
+      "en": "\"Is Dad there in the kitchen?\" he asks.",
+      "vi": "“Bố có ở trong bếp không?” anh hỏi."
+    },
+    {
+      "id": "s1-17-07",
+      "kind": "sentence",
+      "en": "Dad comes out and gives him a big smile.",
+      "vi": "Bố đi ra, nở một nụ cười thật tươi với anh."
+    },
+    {
+      "id": "s1-17-08",
+      "kind": "sentence",
+      "en": "We always eat together when my brother visits.",
+      "vi": "Mỗi khi anh về thăm, cả nhà luôn ăn cùng nhau."
+    },
+    {
+      "id": "s1-17-09",
+      "kind": "sentence",
+      "en": "Tomorrow, we will go to the park, but tonight we just want to talk.",
+      "vi": "Ngày mai, chúng tôi sẽ đi công viên, còn tối nay chúng tôi chỉ muốn ngồi trò chuyện."
+    }
+  ]
+}

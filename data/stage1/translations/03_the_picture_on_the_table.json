@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 3,
+  "sourceFile": "paragraph/03_the_picture_on_the_table.md",
+  "sourceSha256": "79e63cc2df5ed15128d54be216aba1d04b158205b5faab195b414cbed158e9de",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-03-01",
+      "kind": "sentence",
+      "en": "This morning, I find an old picture on the kitchen table.",
+      "vi": "Sáng nay, tôi tìm thấy một bức ảnh cũ trên bàn bếp."
+    },
+    {
+      "id": "s1-03-02",
+      "kind": "group",
+      "en": "\"Who is that boy?\" I ask my mother. \"Your father,\" she says.",
+      "vi": "“Cậu bé kia là ai vậy?” tôi hỏi mẹ. “Bố con đấy,” mẹ nói."
+    },
+    {
+      "id": "s1-03-03",
+      "kind": "group",
+      "en": "\"What is he doing, and where is he?\" She tells me he is playing near his old house.",
+      "vi": "“Bố đang làm gì và ở đâu vậy ạ?” Mẹ kể rằng bố đang chơi gần ngôi nhà cũ của mình."
+    },
+    {
+      "id": "s1-03-04",
+      "kind": "group",
+      "en": "\"When did you take the picture?\" I ask. She says it was before I was born.",
+      "vi": "“Mẹ chụp bức ảnh này khi nào ạ?” tôi hỏi. Mẹ nói lúc đó tôi còn chưa ra đời."
+    },
+    {
+      "id": "s1-03-05",
+      "kind": "sentence",
+      "en": "These questions make her smile.",
+      "vi": "Những câu hỏi ấy khiến mẹ mỉm cười."
+    },
+    {
+      "id": "s1-03-06",
+      "kind": "sentence",
+      "en": "She brings out another box.",
+      "vi": "Mẹ lấy ra thêm một chiếc hộp."
+    },
+    {
+      "id": "s1-03-07",
+      "kind": "group",
+      "en": "\"Why do you keep all those pictures?\" I ask.",
+      "vi": "“Tại sao mẹ giữ tất cả những bức ảnh kia?” tôi hỏi."
+    },
+    {
+      "id": "s1-03-08",
+      "kind": "sentence",
+      "en": "\"They help me remember,\" she says.",
+      "vi": "“Chúng giúp mẹ lưu giữ kỷ niệm,” mẹ nói."
+    },
+    {
+      "id": "s1-03-09",
+      "kind": "sentence",
+      "en": "Now I understand how a small picture can hold a big story.",
+      "vi": "Giờ tôi hiểu một bức ảnh nhỏ có thể chứa đựng cả một câu chuyện lớn như thế nào."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 38,
+  "sourceFile": "paragraph/38_a_small_sale_for_the_school.md",
+  "sourceSha256": "d2a2bba96187cf9f587b7e3ac05a6f334df8e4c68c38a53359341ee85dcbec4e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-38-01",
+      "kind": "sentence",
+      "en": "Our class wants to buy new books for the school.",
+      "vi": "Lớp tôi muốn mua sách mới cho trường."
+    },
+    {
+      "id": "s1-38-02",
+      "kind": "sentence",
+      "en": "We decide to make little picture cards and sell them on Saturday.",
+      "vi": "Chúng tôi quyết định làm những tấm thiệp tranh nhỏ để bán vào thứ Bảy."
+    },
+    {
+      "id": "s1-38-03",
+      "kind": "sentence",
+      "en": "The teacher asks each child to bring some paper and put it on the big table.",
+      "vi": "Cô giáo nhờ mỗi bạn mang giấy đến và đặt lên chiếc bàn lớn."
+    },
+    {
+      "id": "s1-38-04",
+      "kind": "sentence",
+      "en": "We work together after class.",
+      "vi": "Chúng tôi cùng làm sau giờ học."
+    },
+    {
+      "id": "s1-38-05",
+      "kind": "sentence",
+      "en": "I send a message to my parents about the sale.",
+      "vi": "Tôi nhắn tin cho bố mẹ về buổi bán hàng."
+    },
+    {
+      "id": "s1-38-06",
+      "kind": "sentence",
+      "en": "\"Come early if you want to get a card,\" I write.",
+      "vi": "“Bố mẹ đến sớm nếu muốn mua thiệp nhé,” tôi viết."
+    },
+    {
+      "id": "s1-38-07",
+      "kind": "sentence",
+      "en": "On Saturday, people take their time looking at our pictures.",
+      "vi": "Vào thứ Bảy, mọi người thong thả ngắm tranh của chúng tôi."
+    },
+    {
+      "id": "s1-38-08",
+      "kind": "sentence",
+      "en": "Some give us extra money to help.",
+      "vi": "Một số người còn góp thêm tiền để giúp đỡ."
+    },
+    {
+      "id": "s1-38-09",
+      "kind": "sentence",
+      "en": "By noon, almost every card is gone.",
+      "vi": "Đến trưa, gần như tất cả thiệp đều đã bán hết."
+    },
+    {
+      "id": "s1-38-10",
+      "kind": "sentence",
+      "en": "We are excited to choose the new books.",
+      "vi": "Chúng tôi rất háo hức được chọn những cuốn sách mới."
+    }
+  ]
+}

@@ -1,0 +1,5723 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "A New Friend",
+      "titleVi": "Một người bạn mới",
+      "wordCount": 100,
+      "segments": [
+        {
+          "id": "s1-01-01",
+          "kind": "sentence",
+          "en": "I meet a new family at the house next to mine.",
+          "vi": "Tôi làm quen với một gia đình mới ở ngôi nhà bên cạnh nhà mình."
+        },
+        {
+          "id": "s1-01-02",
+          "kind": "group",
+          "en": "A boy opens the door. He has a little dog, and it wants to play.",
+          "vi": "Một cậu bé mở cửa. Cậu ấy có một chú chó nhỏ, và nó muốn chơi đùa."
+        },
+        {
+          "id": "s1-01-03",
+          "kind": "group",
+          "en": "His sister comes outside. She gives me a ball and says, \"You can play with us.\" Their parents are in the kitchen.",
+          "vi": "Em gái cậu ấy đi ra ngoài. Cô bé đưa cho tôi một quả bóng và nói: “Bạn có thể chơi cùng bọn mình.” Bố mẹ hai bạn đang ở trong bếp."
+        },
+        {
+          "id": "s1-01-04",
+          "kind": "sentence",
+          "en": "They make some food for everyone.",
+          "vi": "Họ chuẩn bị đồ ăn cho mọi người."
+        },
+        {
+          "id": "s1-01-05",
+          "kind": "sentence",
+          "en": "I give the ball to the boy and ask him about the dog.",
+          "vi": "Tôi đưa bóng cho cậu bé và hỏi cậu ấy về chú chó."
+        },
+        {
+          "id": "s1-01-06",
+          "kind": "sentence",
+          "en": "Then I help his sister carry her bag inside.",
+          "vi": "Sau đó, tôi giúp em gái cậu ấy mang túi vào nhà."
+        },
+        {
+          "id": "s1-01-07",
+          "kind": "sentence",
+          "en": "We sit at a small table, eat together, and talk about our school.",
+          "vi": "Chúng tôi ngồi quanh một chiếc bàn nhỏ, cùng ăn và nói chuyện về trường của mình."
+        },
+        {
+          "id": "s1-01-08",
+          "kind": "sentence",
+          "en": "By the end of the afternoon, I have two new friends.",
+          "vi": "Đến cuối buổi chiều, tôi đã có thêm hai người bạn mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "I",
+          "meaning": "tôi",
+          "sourceId": 1
+        },
+        {
+          "word": "you",
+          "meaning": "bạn",
+          "sourceId": 2
+        },
+        {
+          "word": "he",
+          "meaning": "anh ấy",
+          "sourceId": 3
+        },
+        {
+          "word": "she",
+          "meaning": "cô ấy",
+          "sourceId": 4
+        },
+        {
+          "word": "it",
+          "meaning": "nó",
+          "sourceId": 5
+        },
+        {
+          "word": "we",
+          "meaning": "chúng tôi",
+          "sourceId": 6
+        },
+        {
+          "word": "they",
+          "meaning": "họ",
+          "sourceId": 7
+        },
+        {
+          "word": "me",
+          "meaning": "tôi (tân ngữ)",
+          "sourceId": 8
+        },
+        {
+          "word": "him",
+          "meaning": "anh ấy (tân ngữ)",
+          "sourceId": 9
+        },
+        {
+          "word": "her",
+          "meaning": "cô ấy; của cô ấy",
+          "sourceId": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Two Bags at the Door",
+      "titleVi": "Hai chiếc túi cạnh cửa",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-02-01",
+          "kind": "sentence",
+          "en": "Our family is ready to leave, but there are two blue bags by the door.",
+          "vi": "Gia đình tôi đã sẵn sàng ra khỏi nhà, nhưng cạnh cửa có hai chiếc túi màu xanh dương."
+        },
+        {
+          "id": "s1-02-02",
+          "kind": "group",
+          "en": "\"Which bag is mine, and which is yours?\" I ask my brother.",
+          "vi": "“Túi nào của em, túi nào của anh?” tôi hỏi anh trai."
+        },
+        {
+          "id": "s1-02-03",
+          "kind": "sentence",
+          "en": "He opens one bag and shows us a red book.",
+          "vi": "Anh mở một chiếc túi và cho chúng tôi xem một cuốn sách màu đỏ."
+        },
+        {
+          "id": "s1-02-04",
+          "kind": "sentence",
+          "en": "\"This is your book,\" he says.",
+          "vi": "“Đây là sách của em,” anh nói."
+        },
+        {
+          "id": "s1-02-05",
+          "kind": "sentence",
+          "en": "I open the other bag and find his shoes.",
+          "vi": "Tôi mở chiếc túi còn lại và thấy giày của anh."
+        },
+        {
+          "id": "s1-02-06",
+          "kind": "sentence",
+          "en": "Our parents laugh at their two children.",
+          "vi": "Bố mẹ bật cười trước cảnh hai anh em loay hoay."
+        },
+        {
+          "id": "s1-02-07",
+          "kind": "sentence",
+          "en": "We put the right things into each bag and carry them outside.",
+          "vi": "Chúng tôi xếp đúng đồ vào từng túi rồi mang chúng ra ngoài."
+        },
+        {
+          "id": "s1-02-08",
+          "kind": "sentence",
+          "en": "A little dog waits beside the car with its ball.",
+          "vi": "Một chú chó nhỏ đang đợi cạnh ô tô với quả bóng của nó."
+        },
+        {
+          "id": "s1-02-09",
+          "kind": "sentence",
+          "en": "This time, everyone knows what to take.",
+          "vi": "Lần này, ai cũng biết mình cần mang gì."
+        },
+        {
+          "id": "s1-02-10",
+          "kind": "sentence",
+          "en": "We can finally start our day together.",
+          "vi": "Cuối cùng, cả nhà có thể cùng nhau bắt đầu ngày mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "us",
+          "meaning": "chúng tôi (tân ngữ)",
+          "sourceId": 11
+        },
+        {
+          "word": "them",
+          "meaning": "họ (tân ngữ)",
+          "sourceId": 12
+        },
+        {
+          "word": "my",
+          "meaning": "của tôi",
+          "sourceId": 13
+        },
+        {
+          "word": "your",
+          "meaning": "của bạn",
+          "sourceId": 14
+        },
+        {
+          "word": "his",
+          "meaning": "của anh ấy",
+          "sourceId": 15
+        },
+        {
+          "word": "its",
+          "meaning": "của nó",
+          "sourceId": 16
+        },
+        {
+          "word": "our",
+          "meaning": "của chúng tôi",
+          "sourceId": 17
+        },
+        {
+          "word": "their",
+          "meaning": "của họ",
+          "sourceId": 18
+        },
+        {
+          "word": "mine",
+          "meaning": "cái của tôi",
+          "sourceId": 19
+        },
+        {
+          "word": "yours",
+          "meaning": "cái của bạn",
+          "sourceId": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Picture on the Table",
+      "titleVi": "Bức ảnh trên bàn",
+      "wordCount": 94,
+      "segments": [
+        {
+          "id": "s1-03-01",
+          "kind": "sentence",
+          "en": "This morning, I find an old picture on the kitchen table.",
+          "vi": "Sáng nay, tôi tìm thấy một bức ảnh cũ trên bàn bếp."
+        },
+        {
+          "id": "s1-03-02",
+          "kind": "group",
+          "en": "\"Who is that boy?\" I ask my mother. \"Your father,\" she says.",
+          "vi": "“Cậu bé kia là ai vậy?” tôi hỏi mẹ. “Bố con đấy,” mẹ nói."
+        },
+        {
+          "id": "s1-03-03",
+          "kind": "group",
+          "en": "\"What is he doing, and where is he?\" She tells me he is playing near his old house.",
+          "vi": "“Bố đang làm gì và ở đâu vậy ạ?” Mẹ kể rằng bố đang chơi gần ngôi nhà cũ của mình."
+        },
+        {
+          "id": "s1-03-04",
+          "kind": "group",
+          "en": "\"When did you take the picture?\" I ask. She says it was before I was born.",
+          "vi": "“Mẹ chụp bức ảnh này khi nào ạ?” tôi hỏi. Mẹ nói lúc đó tôi còn chưa ra đời."
+        },
+        {
+          "id": "s1-03-05",
+          "kind": "sentence",
+          "en": "These questions make her smile.",
+          "vi": "Những câu hỏi ấy khiến mẹ mỉm cười."
+        },
+        {
+          "id": "s1-03-06",
+          "kind": "sentence",
+          "en": "She brings out another box.",
+          "vi": "Mẹ lấy ra thêm một chiếc hộp."
+        },
+        {
+          "id": "s1-03-07",
+          "kind": "group",
+          "en": "\"Why do you keep all those pictures?\" I ask.",
+          "vi": "“Tại sao mẹ giữ tất cả những bức ảnh kia?” tôi hỏi."
+        },
+        {
+          "id": "s1-03-08",
+          "kind": "sentence",
+          "en": "\"They help me remember,\" she says.",
+          "vi": "“Chúng giúp mẹ lưu giữ kỷ niệm,” mẹ nói."
+        },
+        {
+          "id": "s1-03-09",
+          "kind": "sentence",
+          "en": "Now I understand how a small picture can hold a big story.",
+          "vi": "Giờ tôi hiểu một bức ảnh nhỏ có thể chứa đựng cả một câu chuyện lớn như thế nào."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "this",
+          "meaning": "cái này",
+          "sourceId": 21
+        },
+        {
+          "word": "that",
+          "meaning": "cái kia",
+          "sourceId": 22
+        },
+        {
+          "word": "these",
+          "meaning": "những cái này",
+          "sourceId": 23
+        },
+        {
+          "word": "those",
+          "meaning": "những cái kia",
+          "sourceId": 24
+        },
+        {
+          "word": "who",
+          "meaning": "ai",
+          "sourceId": 25
+        },
+        {
+          "word": "what",
+          "meaning": "cái gì",
+          "sourceId": 26
+        },
+        {
+          "word": "where",
+          "meaning": "ở đâu",
+          "sourceId": 27
+        },
+        {
+          "word": "when",
+          "meaning": "khi nào",
+          "sourceId": 28
+        },
+        {
+          "word": "why",
+          "meaning": "tại sao",
+          "sourceId": 29
+        },
+        {
+          "word": "how",
+          "meaning": "như thế nào",
+          "sourceId": 30
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Bag on the Bus",
+      "titleVi": "Chiếc túi trên xe buýt",
+      "wordCount": 97,
+      "segments": [
+        {
+          "id": "s1-04-01",
+          "kind": "sentence",
+          "en": "Someone leaves a small bag on the bus.",
+          "vi": "Ai đó để quên một chiếc túi nhỏ trên xe buýt."
+        },
+        {
+          "id": "s1-04-02",
+          "kind": "group",
+          "en": "\"Whose bag is this?\" the driver asks.",
+          "vi": "“Túi này của ai vậy?” bác tài hỏi."
+        },
+        {
+          "id": "s1-04-03",
+          "kind": "sentence",
+          "en": "Nobody answers.",
+          "vi": "Không ai trả lời."
+        },
+        {
+          "id": "s1-04-04",
+          "kind": "sentence",
+          "en": "He looks inside and finds something useful: a book with a name on it.",
+          "vi": "Bác nhìn vào trong và tìm thấy một thứ hữu ích: một cuốn sách có ghi tên trên đó."
+        },
+        {
+          "id": "s1-04-05",
+          "kind": "group",
+          "en": "\"Does anyone know a girl called Mai?\" he asks.",
+          "vi": "“Có ai biết một cô bé tên Mai không?” bác hỏi."
+        },
+        {
+          "id": "s1-04-06",
+          "kind": "sentence",
+          "en": "Everyone looks around, but she is not there.",
+          "vi": "Mọi người nhìn quanh, nhưng cô bé không có ở đó."
+        },
+        {
+          "id": "s1-04-07",
+          "kind": "group",
+          "en": "Which school does she go to? The book gives him the answer.",
+          "vi": "Cô bé học trường nào nhỉ? Cuốn sách giúp bác tìm được câu trả lời."
+        },
+        {
+          "id": "s1-04-08",
+          "kind": "sentence",
+          "en": "There is nothing else in the bag except a pen.",
+          "vi": "Trong túi không có gì khác ngoài một chiếc bút."
+        },
+        {
+          "id": "s1-04-09",
+          "kind": "sentence",
+          "en": "He does not take anything out.",
+          "vi": "Bác không lấy thứ gì ra ngoài."
+        },
+        {
+          "id": "s1-04-10",
+          "kind": "sentence",
+          "en": "At the next stop, he calls the school.",
+          "vi": "Đến trạm tiếp theo, bác gọi cho nhà trường."
+        },
+        {
+          "id": "s1-04-11",
+          "kind": "sentence",
+          "en": "Mai comes with her mother, checks everything, and thanks him for his help.",
+          "vi": "Mai đến cùng mẹ, kiểm tra lại đồ đạc và cảm ơn bác vì đã giúp đỡ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "which",
+          "meaning": "cái nào",
+          "sourceId": 31
+        },
+        {
+          "word": "whose",
+          "meaning": "của ai",
+          "sourceId": 32
+        },
+        {
+          "word": "someone",
+          "meaning": "ai đó",
+          "sourceId": 33
+        },
+        {
+          "word": "anyone",
+          "meaning": "bất kỳ ai",
+          "sourceId": 34
+        },
+        {
+          "word": "everyone",
+          "meaning": "mọi người",
+          "sourceId": 35
+        },
+        {
+          "word": "nobody",
+          "meaning": "không ai",
+          "sourceId": 36
+        },
+        {
+          "word": "something",
+          "meaning": "điều gì đó",
+          "sourceId": 37
+        },
+        {
+          "word": "anything",
+          "meaning": "bất cứ thứ gì",
+          "sourceId": 38
+        },
+        {
+          "word": "everything",
+          "meaning": "mọi thứ",
+          "sourceId": 39
+        },
+        {
+          "word": "nothing",
+          "meaning": "không có gì",
+          "sourceId": 40
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Food for Everyone",
+      "titleVi": "Đủ thức ăn cho mọi người",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-05-01",
+          "kind": "sentence",
+          "en": "All our friends come to the house for lunch.",
+          "vi": "Tất cả bạn bè của chúng tôi đều đến nhà ăn trưa."
+        },
+        {
+          "id": "s1-05-02",
+          "kind": "sentence",
+          "en": "We have many apples, but only a few cups.",
+          "vi": "Chúng tôi có nhiều táo, nhưng chỉ có vài chiếc cốc."
+        },
+        {
+          "id": "s1-05-03",
+          "kind": "sentence",
+          "en": "There is some tea in the kitchen and a little milk in the bottle.",
+          "vi": "Trong bếp có một ít trà, còn trong chai có một chút sữa."
+        },
+        {
+          "id": "s1-05-04",
+          "kind": "group",
+          "en": "\"Do we have any bread?\" my sister asks. We do, but there is not much left.",
+          "vi": "“Nhà mình có bánh mì không?” em gái tôi hỏi. Có, nhưng không còn nhiều."
+        },
+        {
+          "id": "s1-05-05",
+          "kind": "sentence",
+          "en": "I cut it into small pieces so everyone can have some.",
+          "vi": "Tôi cắt bánh mì thành những miếng nhỏ để ai cũng được ăn."
+        },
+        {
+          "id": "s1-05-06",
+          "kind": "sentence",
+          "en": "Most people want tea, so we need more water.",
+          "vi": "Hầu hết mọi người đều muốn uống trà, nên chúng tôi cần thêm nước."
+        },
+        {
+          "id": "s1-05-07",
+          "kind": "sentence",
+          "en": "My father brings another bottle from the kitchen.",
+          "vi": "Bố tôi mang thêm một chai nước từ bếp ra."
+        },
+        {
+          "id": "s1-05-08",
+          "kind": "sentence",
+          "en": "We put less sugar in the tea this time.",
+          "vi": "Lần này, chúng tôi cho ít đường hơn vào trà."
+        },
+        {
+          "id": "s1-05-09",
+          "kind": "sentence",
+          "en": "Everyone likes the food, and nobody leaves the table hungry.",
+          "vi": "Ai cũng thích đồ ăn, và không ai rời bàn mà vẫn còn đói."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "all",
+          "meaning": "tất cả",
+          "sourceId": 41
+        },
+        {
+          "word": "some",
+          "meaning": "một vài",
+          "sourceId": 42
+        },
+        {
+          "word": "any",
+          "meaning": "bất kỳ",
+          "sourceId": 43
+        },
+        {
+          "word": "many",
+          "meaning": "nhiều (đếm được)",
+          "sourceId": 44
+        },
+        {
+          "word": "much",
+          "meaning": "nhiều (không đếm được)",
+          "sourceId": 45
+        },
+        {
+          "word": "few",
+          "meaning": "ít (đếm được)",
+          "sourceId": 46
+        },
+        {
+          "word": "little",
+          "meaning": "ít; nhỏ",
+          "sourceId": 47
+        },
+        {
+          "word": "more",
+          "meaning": "nhiều hơn",
+          "sourceId": 48
+        },
+        {
+          "word": "most",
+          "meaning": "nhiều nhất",
+          "sourceId": 49
+        },
+        {
+          "word": "less",
+          "meaning": "ít hơn",
+          "sourceId": 50
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "A Book for Each Friend",
+      "titleVi": "Mỗi người bạn một cuốn sách",
+      "wordCount": 93,
+      "segments": [
+        {
+          "id": "s1-06-01",
+          "kind": "sentence",
+          "en": "Every Friday, two friends visit our little book room.",
+          "vi": "Thứ Sáu hằng tuần, hai người bạn đến phòng sách nhỏ của chúng tôi."
+        },
+        {
+          "id": "s1-06-02",
+          "kind": "sentence",
+          "en": "They both like stories, but they do not always choose the same book.",
+          "vi": "Cả hai đều thích truyện, nhưng không phải lúc nào cũng chọn cùng một cuốn sách."
+        },
+        {
+          "id": "s1-06-03",
+          "kind": "sentence",
+          "en": "Today, each friend can take one book home.",
+          "vi": "Hôm nay, mỗi bạn có thể mang một cuốn sách về nhà."
+        },
+        {
+          "id": "s1-06-04",
+          "kind": "sentence",
+          "en": "One boy wants a story about a dog.",
+          "vi": "Một cậu bé muốn đọc truyện về một chú chó."
+        },
+        {
+          "id": "s1-06-05",
+          "kind": "sentence",
+          "en": "His friend wants another story, about a family.",
+          "vi": "Bạn của cậu lại muốn một câu chuyện khác, về gia đình."
+        },
+        {
+          "id": "s1-06-06",
+          "kind": "sentence",
+          "en": "There are two books on the table, but neither is right for them.",
+          "vi": "Trên bàn có hai cuốn sách, nhưng cả hai đều không phù hợp với các bạn ấy."
+        },
+        {
+          "id": "s1-06-07",
+          "kind": "sentence",
+          "en": "I show them some other books by the window.",
+          "vi": "Tôi chỉ cho hai bạn vài cuốn sách khác cạnh cửa sổ."
+        },
+        {
+          "id": "s1-06-08",
+          "kind": "sentence",
+          "en": "\"You can choose either of these,\" I say.",
+          "vi": "“Các bạn có thể chọn một trong hai cuốn này,” tôi nói."
+        },
+        {
+          "id": "s1-06-09",
+          "kind": "sentence",
+          "en": "Now there are enough books for everyone.",
+          "vi": "Giờ thì đã có đủ sách cho mọi người."
+        },
+        {
+          "id": "s1-06-10",
+          "kind": "sentence",
+          "en": "They sit down to read before they make their choice.",
+          "vi": "Hai bạn ngồi xuống đọc trước khi quyết định chọn sách."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "enough",
+          "meaning": "đủ",
+          "sourceId": 51
+        },
+        {
+          "word": "other",
+          "meaning": "khác",
+          "sourceId": 52
+        },
+        {
+          "word": "another",
+          "meaning": "một cái khác",
+          "sourceId": 53
+        },
+        {
+          "word": "same",
+          "meaning": "giống nhau",
+          "sourceId": 54
+        },
+        {
+          "word": "each",
+          "meaning": "mỗi",
+          "sourceId": 55
+        },
+        {
+          "word": "every",
+          "meaning": "mọi",
+          "sourceId": 56
+        },
+        {
+          "word": "both",
+          "meaning": "cả hai",
+          "sourceId": 57
+        },
+        {
+          "word": "either",
+          "meaning": "một trong hai",
+          "sourceId": 58
+        },
+        {
+          "word": "neither",
+          "meaning": "không cái nào trong hai",
+          "sourceId": 59
+        },
+        {
+          "word": "one",
+          "meaning": "một",
+          "sourceId": 60
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Counting Before the Game",
+      "titleVi": "Đếm số trước trò chơi",
+      "wordCount": 97,
+      "segments": [
+        {
+          "id": "s1-07-01",
+          "kind": "sentence",
+          "en": "Two children wait by the school door.",
+          "vi": "Hai đứa trẻ đứng đợi cạnh cửa trường."
+        },
+        {
+          "id": "s1-07-02",
+          "kind": "sentence",
+          "en": "Three more children come, so now there are five.",
+          "vi": "Ba bạn nữa đến, vậy là bây giờ có năm bạn."
+        },
+        {
+          "id": "s1-07-03",
+          "kind": "sentence",
+          "en": "The teacher brings four balls, and the children help her carry them outside.",
+          "vi": "Cô giáo mang đến bốn quả bóng, và bọn trẻ giúp cô mang chúng ra ngoài."
+        },
+        {
+          "id": "s1-07-04",
+          "kind": "sentence",
+          "en": "Six parents sit near the wall to watch.",
+          "vi": "Sáu phụ huynh ngồi gần tường để xem."
+        },
+        {
+          "id": "s1-07-05",
+          "kind": "sentence",
+          "en": "We make a game with numbers: I say seven, and everyone takes seven small steps.",
+          "vi": "Chúng tôi chơi một trò với các con số: tôi nói “bảy”, và mọi người bước bảy bước nhỏ."
+        },
+        {
+          "id": "s1-07-06",
+          "kind": "sentence",
+          "en": "Then I say eight, and we all clap eight times.",
+          "vi": "Sau đó tôi nói “tám”, và tất cả cùng vỗ tay tám lần."
+        },
+        {
+          "id": "s1-07-07",
+          "kind": "sentence",
+          "en": "The next numbers are nine and ten.",
+          "vi": "Những số tiếp theo là chín và mười."
+        },
+        {
+          "id": "s1-07-08",
+          "kind": "sentence",
+          "en": "By eleven in the morning, we are tired and happy.",
+          "vi": "Đến mười một giờ sáng, chúng tôi vừa mệt vừa vui."
+        },
+        {
+          "id": "s1-07-09",
+          "kind": "sentence",
+          "en": "We sit under a tree, drink some water, and ask the teacher if we can play again tomorrow.",
+          "vi": "Chúng tôi ngồi dưới gốc cây, uống nước và hỏi cô giáo liệu ngày mai có thể chơi tiếp không."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "two",
+          "meaning": "hai",
+          "sourceId": 61
+        },
+        {
+          "word": "three",
+          "meaning": "ba",
+          "sourceId": 62
+        },
+        {
+          "word": "four",
+          "meaning": "bốn",
+          "sourceId": 63
+        },
+        {
+          "word": "five",
+          "meaning": "năm",
+          "sourceId": 64
+        },
+        {
+          "word": "six",
+          "meaning": "sáu",
+          "sourceId": 65
+        },
+        {
+          "word": "seven",
+          "meaning": "bảy",
+          "sourceId": 66
+        },
+        {
+          "word": "eight",
+          "meaning": "tám",
+          "sourceId": 67
+        },
+        {
+          "word": "nine",
+          "meaning": "chín",
+          "sourceId": 68
+        },
+        {
+          "word": "ten",
+          "meaning": "mười",
+          "sourceId": 69
+        },
+        {
+          "word": "eleven",
+          "meaning": "mười một",
+          "sourceId": 70
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Missing Number",
+      "titleVi": "Con số còn thiếu",
+      "wordCount": 98,
+      "segments": [
+        {
+          "id": "s1-08-01",
+          "kind": "sentence",
+          "en": "At twelve, our teacher puts some number cards on the table.",
+          "vi": "Lúc mười hai giờ, cô giáo đặt những tấm thẻ số lên bàn."
+        },
+        {
+          "id": "s1-08-02",
+          "kind": "sentence",
+          "en": "We have to put them in order before lunch.",
+          "vi": "Chúng tôi phải xếp chúng theo thứ tự trước bữa trưa."
+        },
+        {
+          "id": "s1-08-03",
+          "kind": "sentence",
+          "en": "I find thirteen and fourteen under a book.",
+          "vi": "Tôi tìm thấy thẻ số mười ba và mười bốn dưới một cuốn sách."
+        },
+        {
+          "id": "s1-08-04",
+          "kind": "sentence",
+          "en": "My friend has fifteen and sixteen in her hand.",
+          "vi": "Bạn tôi đang cầm thẻ số mười lăm và mười sáu."
+        },
+        {
+          "id": "s1-08-05",
+          "kind": "sentence",
+          "en": "Another child brings eighteen and nineteen from the floor.",
+          "vi": "Một bạn khác nhặt thẻ số mười tám và mười chín từ dưới sàn lên."
+        },
+        {
+          "id": "s1-08-06",
+          "kind": "sentence",
+          "en": "We place twenty at the end, but something is wrong.",
+          "vi": "Chúng tôi đặt thẻ số hai mươi ở cuối, nhưng có điều gì đó không đúng."
+        },
+        {
+          "id": "s1-08-07",
+          "kind": "group",
+          "en": "There is an empty space between sixteen and eighteen. Where is seventeen? We look around and find it behind a chair.",
+          "vi": "Giữa số mười sáu và mười tám có một chỗ trống. Thẻ số mười bảy đâu rồi? Chúng tôi nhìn quanh và tìm thấy nó sau một chiếc ghế."
+        },
+        {
+          "id": "s1-08-08",
+          "kind": "sentence",
+          "en": "The clock says twelve thirty when we finish.",
+          "vi": "Khi chúng tôi làm xong, đồng hồ chỉ mười hai giờ ba mươi."
+        },
+        {
+          "id": "s1-08-09",
+          "kind": "sentence",
+          "en": "Our teacher smiles, and we leave the cards ready for the next class.",
+          "vi": "Cô giáo mỉm cười, còn chúng tôi để sẵn những tấm thẻ cho lớp học tiếp theo."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "twelve",
+          "meaning": "mười hai",
+          "sourceId": 71
+        },
+        {
+          "word": "thirteen",
+          "meaning": "mười ba",
+          "sourceId": 72
+        },
+        {
+          "word": "fourteen",
+          "meaning": "mười bốn",
+          "sourceId": 73
+        },
+        {
+          "word": "fifteen",
+          "meaning": "mười lăm",
+          "sourceId": 74
+        },
+        {
+          "word": "sixteen",
+          "meaning": "mười sáu",
+          "sourceId": 75
+        },
+        {
+          "word": "seventeen",
+          "meaning": "mười bảy",
+          "sourceId": 76
+        },
+        {
+          "word": "eighteen",
+          "meaning": "mười tám",
+          "sourceId": 77
+        },
+        {
+          "word": "nineteen",
+          "meaning": "mười chín",
+          "sourceId": 78
+        },
+        {
+          "word": "twenty",
+          "meaning": "hai mươi",
+          "sourceId": 79
+        },
+        {
+          "word": "thirty",
+          "meaning": "ba mươi",
+          "sourceId": 80
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "A Small Book Sale",
+      "titleVi": "Buổi bán sách nhỏ",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-09-01",
+          "kind": "sentence",
+          "en": "I am at a book sale with my family.",
+          "vi": "Tôi cùng gia đình đến một buổi bán sách."
+        },
+        {
+          "id": "s1-09-02",
+          "kind": "sentence",
+          "en": "The first table has old books, and the second has new ones.",
+          "vi": "Bàn đầu tiên bày sách cũ, còn bàn thứ hai bày sách mới."
+        },
+        {
+          "id": "s1-09-03",
+          "kind": "sentence",
+          "en": "At the third table, children can read for free.",
+          "vi": "Ở bàn thứ ba, trẻ em có thể đọc sách miễn phí."
+        },
+        {
+          "id": "s1-09-04",
+          "kind": "sentence",
+          "en": "My mother gives me fifty thousand dong to spend.",
+          "vi": "Mẹ cho tôi năm mươi nghìn đồng để mua sách."
+        },
+        {
+          "id": "s1-09-05",
+          "kind": "sentence",
+          "en": "I choose a story for forty thousand and keep the rest.",
+          "vi": "Tôi chọn một cuốn truyện giá bốn mươi nghìn và giữ lại số tiền còn thừa."
+        },
+        {
+          "id": "s1-09-06",
+          "kind": "sentence",
+          "en": "Last year, the school sold a hundred books in one day.",
+          "vi": "Năm ngoái, trường bán được một trăm cuốn sách trong một ngày."
+        },
+        {
+          "id": "s1-09-07",
+          "kind": "sentence",
+          "en": "This year, they hope to sell more.",
+          "vi": "Năm nay, mọi người hy vọng bán được nhiều hơn."
+        },
+        {
+          "id": "s1-09-08",
+          "kind": "sentence",
+          "en": "My little brother wants to come to the next sale with his own money.",
+          "vi": "Em trai tôi muốn mang tiền của mình đến buổi bán sách tiếp theo."
+        },
+        {
+          "id": "s1-09-09",
+          "kind": "sentence",
+          "en": "For now, he sits beside me and looks at the pictures in my book.",
+          "vi": "Còn bây giờ, em ngồi cạnh tôi và xem tranh trong cuốn sách của tôi."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "forty",
+          "meaning": "bốn mươi",
+          "sourceId": 81
+        },
+        {
+          "word": "fifty",
+          "meaning": "năm mươi",
+          "sourceId": 82
+        },
+        {
+          "word": "hundred",
+          "meaning": "trăm",
+          "sourceId": 83
+        },
+        {
+          "word": "thousand",
+          "meaning": "nghìn",
+          "sourceId": 84
+        },
+        {
+          "word": "first",
+          "meaning": "thứ nhất; đầu tiên",
+          "sourceId": 85
+        },
+        {
+          "word": "second",
+          "meaning": "thứ hai; giây",
+          "sourceId": 86
+        },
+        {
+          "word": "third",
+          "meaning": "thứ ba",
+          "sourceId": 87
+        },
+        {
+          "word": "last",
+          "meaning": "cuối cùng; trước đó",
+          "sourceId": 88
+        },
+        {
+          "word": "next",
+          "meaning": "tiếp theo",
+          "sourceId": 89
+        },
+        {
+          "word": "am",
+          "meaning": "là; thì; ở (với I)",
+          "sourceId": 90
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "A Different Classroom",
+      "titleVi": "Một lớp học khác",
+      "wordCount": 98,
+      "segments": [
+        {
+          "id": "s1-10-01",
+          "kind": "sentence",
+          "en": "Our classroom is different today.",
+          "vi": "Hôm nay, lớp học của chúng tôi trông khác hẳn."
+        },
+        {
+          "id": "s1-10-02",
+          "kind": "sentence",
+          "en": "There are pictures on the wall and books by the window.",
+          "vi": "Trên tường có tranh, còn cạnh cửa sổ có sách."
+        },
+        {
+          "id": "s1-10-03",
+          "kind": "sentence",
+          "en": "Yesterday, the room was empty because we were all outside.",
+          "vi": "Hôm qua, căn phòng trống không vì tất cả chúng tôi đều ở bên ngoài."
+        },
+        {
+          "id": "s1-10-04",
+          "kind": "sentence",
+          "en": "We had a day to clean and change it together.",
+          "vi": "Chúng tôi đã dành một ngày để cùng dọn dẹp và sắp xếp lại căn phòng."
+        },
+        {
+          "id": "s1-10-05",
+          "kind": "sentence",
+          "en": "Our teacher has been at this school for many years, but she says the room feels new.",
+          "vi": "Cô giáo đã dạy ở trường nhiều năm, nhưng cô nói căn phòng mang lại cảm giác mới mẻ."
+        },
+        {
+          "id": "s1-10-06",
+          "kind": "sentence",
+          "en": "\"You have made a good place to learn,\" she tells us.",
+          "vi": "“Các em đã tạo ra một nơi học tập thật tốt,” cô nói với chúng tôi."
+        },
+        {
+          "id": "s1-10-07",
+          "kind": "sentence",
+          "en": "I want to be the first person to read in our new book corner.",
+          "vi": "Tôi muốn là người đầu tiên đọc sách ở góc sách mới."
+        },
+        {
+          "id": "s1-10-08",
+          "kind": "group",
+          "en": "My friend is being very quiet beside me. She already has a book open and does not want to stop.",
+          "vi": "Bạn tôi đang ngồi rất yên lặng bên cạnh. Bạn ấy đã mở sẵn một cuốn sách và chẳng muốn dừng đọc."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "is",
+          "meaning": "là; thì; ở (số ít)",
+          "sourceId": 91
+        },
+        {
+          "word": "are",
+          "meaning": "là; thì; ở (số nhiều)",
+          "sourceId": 92
+        },
+        {
+          "word": "was",
+          "meaning": "đã là; đã ở (số ít)",
+          "sourceId": 93
+        },
+        {
+          "word": "were",
+          "meaning": "đã là; đã ở (số nhiều)",
+          "sourceId": 94
+        },
+        {
+          "word": "be",
+          "meaning": "là; thì; ở",
+          "sourceId": 95
+        },
+        {
+          "word": "been",
+          "meaning": "đã từng; đã được",
+          "sourceId": 96
+        },
+        {
+          "word": "being",
+          "meaning": "đang là",
+          "sourceId": 97
+        },
+        {
+          "word": "have",
+          "meaning": "có",
+          "sourceId": 98
+        },
+        {
+          "word": "has",
+          "meaning": "có (ngôi thứ ba)",
+          "sourceId": 99
+        },
+        {
+          "word": "had",
+          "meaning": "đã có",
+          "sourceId": 100
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "A Note from Dad",
+      "titleVi": "Lời nhắn của bố",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-11-01",
+          "kind": "group",
+          "en": "Dad leaves a note on the kitchen table: \"I will be home late. Could you help me this afternoon? You should wash the cups, and you must give the dog some water. You may play outside when you finish.\" I can do those things, but my little brother wants to help too.",
+          "vi": "Bố để lại lời nhắn trên bàn bếp: “Bố sẽ về muộn. Chiều nay các con giúp bố nhé? Các con nên rửa cốc và phải cho chó uống nước. Làm xong thì các con được ra ngoài chơi.” Tôi có thể làm những việc ấy, nhưng em trai cũng muốn giúp."
+        },
+        {
+          "id": "s1-11-02",
+          "kind": "group",
+          "en": "\"What does Dad want us to do first?\" he asks. I show him the note.",
+          "vi": "“Bố muốn chúng mình làm gì trước?” em hỏi. Tôi đưa lời nhắn cho em xem."
+        },
+        {
+          "id": "s1-11-03",
+          "kind": "sentence",
+          "en": "He says he would like to wash the cups.",
+          "vi": "Em nói em muốn rửa cốc."
+        },
+        {
+          "id": "s1-11-04",
+          "kind": "sentence",
+          "en": "We work together and finish before dinner.",
+          "vi": "Chúng tôi cùng làm và xong việc trước bữa tối."
+        },
+        {
+          "id": "s1-11-05",
+          "kind": "group",
+          "en": "When Dad comes home, he asks, \"Who did all this?\" We both smile.",
+          "vi": "Khi về nhà, bố hỏi: “Ai đã làm hết những việc này thế?” Cả hai chúng tôi cùng mỉm cười."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "do",
+          "meaning": "làm",
+          "sourceId": 101
+        },
+        {
+          "word": "does",
+          "meaning": "làm (ngôi thứ ba)",
+          "sourceId": 102
+        },
+        {
+          "word": "did",
+          "meaning": "đã làm",
+          "sourceId": 103
+        },
+        {
+          "word": "can",
+          "meaning": "có thể",
+          "sourceId": 104
+        },
+        {
+          "word": "could",
+          "meaning": "có thể (quá khứ; lịch sự)",
+          "sourceId": 105
+        },
+        {
+          "word": "will",
+          "meaning": "sẽ",
+          "sourceId": 106
+        },
+        {
+          "word": "would",
+          "meaning": "sẽ; muốn (lịch sự)",
+          "sourceId": 107
+        },
+        {
+          "word": "should",
+          "meaning": "nên",
+          "sourceId": 108
+        },
+        {
+          "word": "must",
+          "meaning": "phải",
+          "sourceId": 109
+        },
+        {
+          "word": "may",
+          "meaning": "có thể; được phép",
+          "sourceId": 110
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Rain at the Window",
+      "titleVi": "Mưa bên cửa sổ",
+      "wordCount": 92,
+      "segments": [
+        {
+          "id": "s1-12-01",
+          "kind": "sentence",
+          "en": "My brother and I want to go outside, but the sky is gray.",
+          "vi": "Anh em tôi muốn ra ngoài, nhưng bầu trời xám xịt."
+        },
+        {
+          "id": "s1-12-02",
+          "kind": "sentence",
+          "en": "\"It might rain,\" Mom says.",
+          "vi": "“Có lẽ trời sắp mưa,” mẹ nói."
+        },
+        {
+          "id": "s1-12-03",
+          "kind": "group",
+          "en": "\"If you go, take your coats.\" I look for mine and find it under the bed.",
+          "vi": "“Nếu đi thì các con mang áo khoác nhé.” Tôi đi tìm áo của mình và thấy nó dưới giường."
+        },
+        {
+          "id": "s1-12-04",
+          "kind": "sentence",
+          "en": "My brother cannot find his, so we wait by the window.",
+          "vi": "Em trai không tìm thấy áo của em, nên chúng tôi đứng đợi bên cửa sổ."
+        },
+        {
+          "id": "s1-12-05",
+          "kind": "group",
+          "en": "\"Do you want to stay home or visit Grandma?\" Mom asks.",
+          "vi": "“Các con muốn ở nhà hay sang thăm bà?” mẹ hỏi."
+        },
+        {
+          "id": "s1-12-06",
+          "kind": "group",
+          "en": "\"Yes, let's visit Grandma!\" I say.",
+          "vi": "“Vâng, mình đi thăm bà đi ạ!” tôi nói."
+        },
+        {
+          "id": "s1-12-07",
+          "kind": "sentence",
+          "en": "My brother says no at first because he wants to play with his ball.",
+          "vi": "Lúc đầu em trai nói không, vì em muốn chơi bóng."
+        },
+        {
+          "id": "s1-12-08",
+          "kind": "sentence",
+          "en": "Then he remembers Grandma's dog.",
+          "vi": "Rồi em nhớ đến chú chó của bà."
+        },
+        {
+          "id": "s1-12-09",
+          "kind": "sentence",
+          "en": "We are not going to have a boring afternoon after all.",
+          "vi": "Hóa ra chúng tôi sẽ không phải trải qua một buổi chiều buồn chán."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "might",
+          "meaning": "có lẽ",
+          "sourceId": 111
+        },
+        {
+          "word": "not",
+          "meaning": "không",
+          "sourceId": 112
+        },
+        {
+          "word": "no",
+          "meaning": "không",
+          "sourceId": 113
+        },
+        {
+          "word": "yes",
+          "meaning": "có; vâng",
+          "sourceId": 114
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "sourceId": 115
+        },
+        {
+          "word": "or",
+          "meaning": "hoặc",
+          "sourceId": 116
+        },
+        {
+          "word": "but",
+          "meaning": "nhưng",
+          "sourceId": 117
+        },
+        {
+          "word": "because",
+          "meaning": "bởi vì",
+          "sourceId": 118
+        },
+        {
+          "word": "if",
+          "meaning": "nếu",
+          "sourceId": 119
+        },
+        {
+          "word": "so",
+          "meaning": "vì vậy; rất",
+          "sourceId": 120
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Waiting for the Bread",
+      "titleVi": "Chờ bánh mì ra lò",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-13-01",
+          "kind": "sentence",
+          "en": "Grandma has made bread for us since I was a small child.",
+          "vi": "Bà đã làm bánh mì cho chúng tôi từ khi tôi còn nhỏ."
+        },
+        {
+          "id": "s1-13-02",
+          "kind": "sentence",
+          "en": "Today, I work as her little helper.",
+          "vi": "Hôm nay, tôi làm phụ bếp nhí của bà."
+        },
+        {
+          "id": "s1-13-03",
+          "kind": "sentence",
+          "en": "Before we start, I wash my hands.",
+          "vi": "Trước khi bắt đầu, tôi rửa tay."
+        },
+        {
+          "id": "s1-13-04",
+          "kind": "sentence",
+          "en": "She puts the bread in the oven while I clean the table.",
+          "vi": "Bà cho bánh vào lò trong khi tôi lau bàn."
+        },
+        {
+          "id": "s1-13-05",
+          "kind": "sentence",
+          "en": "My brother is younger than me, but he wants to help too.",
+          "vi": "Em trai nhỏ tuổi hơn tôi, nhưng em cũng muốn giúp."
+        },
+        {
+          "id": "s1-13-06",
+          "kind": "sentence",
+          "en": "Although he cannot cook yet, he can bring the plates.",
+          "vi": "Mặc dù chưa biết nấu ăn, em vẫn có thể mang đĩa ra."
+        },
+        {
+          "id": "s1-13-07",
+          "kind": "sentence",
+          "en": "After that, we wait until the bread is ready.",
+          "vi": "Sau đó, chúng tôi đợi cho đến khi bánh chín."
+        },
+        {
+          "id": "s1-13-08",
+          "kind": "sentence",
+          "en": "Then Grandma opens the oven, and the kitchen smells wonderful.",
+          "vi": "Rồi bà mở lò, và cả căn bếp thơm lừng."
+        },
+        {
+          "id": "s1-13-09",
+          "kind": "sentence",
+          "en": "We sit together for lunch.",
+          "vi": "Chúng tôi ngồi ăn trưa cùng nhau."
+        },
+        {
+          "id": "s1-13-10",
+          "kind": "sentence",
+          "en": "The bread is good, but being with Grandma is the best part.",
+          "vi": "Bánh mì rất ngon, nhưng điều tuyệt nhất là được ở bên bà."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "than",
+          "meaning": "hơn",
+          "sourceId": 121
+        },
+        {
+          "word": "as",
+          "meaning": "như; với tư cách",
+          "sourceId": 122
+        },
+        {
+          "word": "while",
+          "meaning": "trong khi",
+          "sourceId": 123
+        },
+        {
+          "word": "although",
+          "meaning": "mặc dù",
+          "sourceId": 124
+        },
+        {
+          "word": "then",
+          "meaning": "sau đó",
+          "sourceId": 125
+        },
+        {
+          "word": "before",
+          "meaning": "trước",
+          "sourceId": 126
+        },
+        {
+          "word": "after",
+          "meaning": "sau",
+          "sourceId": 127
+        },
+        {
+          "word": "until",
+          "meaning": "cho đến khi",
+          "sourceId": 128
+        },
+        {
+          "word": "since",
+          "meaning": "kể từ; bởi vì",
+          "sourceId": 129
+        },
+        {
+          "word": "for",
+          "meaning": "cho; trong khoảng",
+          "sourceId": 130
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "A Letter from Home",
+      "titleVi": "Lá thư từ nhà",
+      "wordCount": 94,
+      "segments": [
+        {
+          "id": "s1-14-01",
+          "kind": "sentence",
+          "en": "A letter from my sister is on the table.",
+          "vi": "Một lá thư của chị gái tôi nằm trên bàn."
+        },
+        {
+          "id": "s1-14-02",
+          "kind": "sentence",
+          "en": "She is away at school and writes to me every week.",
+          "vi": "Chị đi học xa nhà và viết thư cho tôi mỗi tuần."
+        },
+        {
+          "id": "s1-14-03",
+          "kind": "sentence",
+          "en": "I sit in the kitchen with a cup of tea and open it.",
+          "vi": "Tôi ngồi trong bếp với một tách trà rồi mở thư."
+        },
+        {
+          "id": "s1-14-04",
+          "kind": "sentence",
+          "en": "She tells me about her new friends and a little shop by the school.",
+          "vi": "Chị kể về những người bạn mới và một cửa hàng nhỏ gần trường."
+        },
+        {
+          "id": "s1-14-05",
+          "kind": "sentence",
+          "en": "At the end of the letter, she asks for a picture of our dog.",
+          "vi": "Cuối thư, chị nhờ tôi gửi ảnh chú chó của gia đình."
+        },
+        {
+          "id": "s1-14-06",
+          "kind": "group",
+          "en": "I try to take one, but he will not sit without his ball. I give it to him, and he finally stays still.",
+          "vi": "Tôi thử chụp một tấm, nhưng nó không chịu ngồi yên nếu thiếu quả bóng. Tôi đưa bóng cho nó, và cuối cùng nó cũng ngồi yên."
+        },
+        {
+          "id": "s1-14-07",
+          "kind": "sentence",
+          "en": "Now I have a photo to send back to her.",
+          "vi": "Giờ thì tôi đã có ảnh để gửi lại cho chị."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "of",
+          "meaning": "của",
+          "sourceId": 131
+        },
+        {
+          "word": "in",
+          "meaning": "trong",
+          "sourceId": 132
+        },
+        {
+          "word": "on",
+          "meaning": "trên",
+          "sourceId": 133
+        },
+        {
+          "word": "at",
+          "meaning": "ở; lúc",
+          "sourceId": 134
+        },
+        {
+          "word": "to",
+          "meaning": "đến; để",
+          "sourceId": 135
+        },
+        {
+          "word": "from",
+          "meaning": "từ",
+          "sourceId": 136
+        },
+        {
+          "word": "with",
+          "meaning": "với",
+          "sourceId": 137
+        },
+        {
+          "word": "without",
+          "meaning": "không có",
+          "sourceId": 138
+        },
+        {
+          "word": "by",
+          "meaning": "bởi; bằng; cạnh",
+          "sourceId": 139
+        },
+        {
+          "word": "about",
+          "meaning": "về; khoảng",
+          "sourceId": 140
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "The Cat in the Garden",
+      "titleVi": "Chú mèo trong vườn",
+      "wordCount": 94,
+      "segments": [
+        {
+          "id": "s1-15-01",
+          "kind": "sentence",
+          "en": "A small cat sits under a chair in our garden.",
+          "vi": "Một chú mèo nhỏ ngồi dưới chiếc ghế trong vườn nhà tôi."
+        },
+        {
+          "id": "s1-15-02",
+          "kind": "sentence",
+          "en": "Its eyes follow a bird above the wall.",
+          "vi": "Mắt nó dõi theo một con chim ở phía trên bức tường."
+        },
+        {
+          "id": "s1-15-03",
+          "kind": "sentence",
+          "en": "Below the bird, a red ball lies between two boxes.",
+          "vi": "Phía dưới con chim, một quả bóng đỏ nằm giữa hai chiếc hộp."
+        },
+        {
+          "id": "s1-15-04",
+          "kind": "sentence",
+          "en": "The cat walks through the open door and hides among the plants.",
+          "vi": "Chú mèo đi qua cánh cửa đang mở rồi nấp giữa những khóm cây."
+        },
+        {
+          "id": "s1-15-05",
+          "kind": "sentence",
+          "en": "Then it runs across the garden and jumps over the ball.",
+          "vi": "Sau đó, nó chạy băng qua vườn và nhảy qua quả bóng."
+        },
+        {
+          "id": "s1-15-06",
+          "kind": "sentence",
+          "en": "My sister looks around for it, but she cannot see it.",
+          "vi": "Em gái tôi nhìn quanh tìm nó nhưng không thấy."
+        },
+        {
+          "id": "s1-15-07",
+          "kind": "sentence",
+          "en": "I point behind the big tree.",
+          "vi": "Tôi chỉ ra phía sau cái cây lớn."
+        },
+        {
+          "id": "s1-15-08",
+          "kind": "sentence",
+          "en": "The cat is there, looking at us.",
+          "vi": "Chú mèo đang ở đó, nhìn chúng tôi."
+        },
+        {
+          "id": "s1-15-09",
+          "kind": "sentence",
+          "en": "We bring it a bowl of water and sit down nearby.",
+          "vi": "Chúng tôi mang cho nó một bát nước rồi ngồi xuống gần đó."
+        },
+        {
+          "id": "s1-15-10",
+          "kind": "sentence",
+          "en": "The bird stays on the wall and watches.",
+          "vi": "Con chim vẫn đậu trên tường và quan sát."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "under",
+          "meaning": "dưới",
+          "sourceId": 141
+        },
+        {
+          "word": "over",
+          "meaning": "trên; hơn",
+          "sourceId": 142
+        },
+        {
+          "word": "above",
+          "meaning": "phía trên",
+          "sourceId": 143
+        },
+        {
+          "word": "below",
+          "meaning": "phía dưới",
+          "sourceId": 144
+        },
+        {
+          "word": "between",
+          "meaning": "giữa hai",
+          "sourceId": 145
+        },
+        {
+          "word": "among",
+          "meaning": "giữa nhiều",
+          "sourceId": 146
+        },
+        {
+          "word": "through",
+          "meaning": "xuyên qua",
+          "sourceId": 147
+        },
+        {
+          "word": "across",
+          "meaning": "băng qua",
+          "sourceId": 148
+        },
+        {
+          "word": "around",
+          "meaning": "xung quanh",
+          "sourceId": 149
+        },
+        {
+          "word": "behind",
+          "meaning": "phía sau",
+          "sourceId": 150
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Light Upstairs",
+      "titleVi": "Ánh đèn trên tầng",
+      "wordCount": 97,
+      "segments": [
+        {
+          "id": "s1-16-01",
+          "kind": "sentence",
+          "en": "Our house is near the school, so we do not have to walk far.",
+          "vi": "Nhà tôi gần trường nên chúng tôi không phải đi bộ xa."
+        },
+        {
+          "id": "s1-16-02",
+          "kind": "sentence",
+          "en": "This evening, I see a light inside a classroom.",
+          "vi": "Chiều tối nay, tôi thấy ánh đèn bên trong một lớp học."
+        },
+        {
+          "id": "s1-16-03",
+          "kind": "sentence",
+          "en": "My brother waits outside while I look through the window.",
+          "vi": "Em trai đợi bên ngoài trong khi tôi nhìn qua cửa sổ."
+        },
+        {
+          "id": "s1-16-04",
+          "kind": "sentence",
+          "en": "A teacher is standing beside a table.",
+          "vi": "Một cô giáo đang đứng cạnh bàn."
+        },
+        {
+          "id": "s1-16-05",
+          "kind": "sentence",
+          "en": "She waves and asks us to come into the room.",
+          "vi": "Cô vẫy tay và mời chúng tôi vào phòng."
+        },
+        {
+          "id": "s1-16-06",
+          "kind": "sentence",
+          "en": "We carry some books up the stairs for her.",
+          "vi": "Chúng tôi mang giúp cô một ít sách lên cầu thang."
+        },
+        {
+          "id": "s1-16-07",
+          "kind": "sentence",
+          "en": "Then she walks down with us and turns off the light.",
+          "vi": "Sau đó, cô cùng chúng tôi đi xuống rồi tắt đèn."
+        },
+        {
+          "id": "s1-16-08",
+          "kind": "sentence",
+          "en": "We go out through the main door together.",
+          "vi": "Chúng tôi cùng đi ra ngoài qua cửa chính."
+        },
+        {
+          "id": "s1-16-09",
+          "kind": "sentence",
+          "en": "She thanks us for helping.",
+          "vi": "Cô cảm ơn vì chúng tôi đã giúp đỡ."
+        },
+        {
+          "id": "s1-16-10",
+          "kind": "sentence",
+          "en": "The school looks very quiet now, and we walk home before it gets dark.",
+          "vi": "Giờ trường trông rất yên tĩnh, và chúng tôi đi bộ về nhà trước khi trời tối."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "beside",
+          "meaning": "bên cạnh",
+          "sourceId": 151
+        },
+        {
+          "word": "near",
+          "meaning": "gần",
+          "sourceId": 152
+        },
+        {
+          "word": "far",
+          "meaning": "xa",
+          "sourceId": 153
+        },
+        {
+          "word": "inside",
+          "meaning": "bên trong",
+          "sourceId": 154
+        },
+        {
+          "word": "outside",
+          "meaning": "bên ngoài",
+          "sourceId": 155
+        },
+        {
+          "word": "into",
+          "meaning": "vào trong",
+          "sourceId": 156
+        },
+        {
+          "word": "out",
+          "meaning": "ra ngoài",
+          "sourceId": 157
+        },
+        {
+          "word": "up",
+          "meaning": "lên",
+          "sourceId": 158
+        },
+        {
+          "word": "down",
+          "meaning": "xuống",
+          "sourceId": 159
+        },
+        {
+          "word": "off",
+          "meaning": "tắt; rời khỏi",
+          "sourceId": 160
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "A Visit from My Brother",
+      "titleVi": "Anh trai về thăm nhà",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-17-01",
+          "kind": "sentence",
+          "en": "My brother lives far away, but he is back at home today.",
+          "vi": "Anh trai tôi sống xa nhà, nhưng hôm nay anh đã về thăm."
+        },
+        {
+          "id": "s1-17-02",
+          "kind": "sentence",
+          "en": "Yesterday, he called and told us he was coming.",
+          "vi": "Hôm qua, anh gọi điện báo rằng anh sắp về."
+        },
+        {
+          "id": "s1-17-03",
+          "kind": "sentence",
+          "en": "Now his bag is here by the door, and everyone is happy to see him.",
+          "vi": "Giờ túi của anh đã ở đây, cạnh cửa, và ai cũng vui khi gặp anh."
+        },
+        {
+          "id": "s1-17-04",
+          "kind": "sentence",
+          "en": "He usually brings us a little gift.",
+          "vi": "Anh thường mang về một món quà nhỏ cho cả nhà."
+        },
+        {
+          "id": "s1-17-05",
+          "kind": "sentence",
+          "en": "This time, he has a book for me and some tea for Mom.",
+          "vi": "Lần này, anh có một cuốn sách cho tôi và một ít trà cho mẹ."
+        },
+        {
+          "id": "s1-17-06",
+          "kind": "group",
+          "en": "\"Is Dad there in the kitchen?\" he asks.",
+          "vi": "“Bố có ở trong bếp không?” anh hỏi."
+        },
+        {
+          "id": "s1-17-07",
+          "kind": "sentence",
+          "en": "Dad comes out and gives him a big smile.",
+          "vi": "Bố đi ra, nở một nụ cười thật tươi với anh."
+        },
+        {
+          "id": "s1-17-08",
+          "kind": "sentence",
+          "en": "We always eat together when my brother visits.",
+          "vi": "Mỗi khi anh về thăm, cả nhà luôn ăn cùng nhau."
+        },
+        {
+          "id": "s1-17-09",
+          "kind": "sentence",
+          "en": "Tomorrow, we will go to the park, but tonight we just want to talk.",
+          "vi": "Ngày mai, chúng tôi sẽ đi công viên, còn tối nay chúng tôi chỉ muốn ngồi trò chuyện."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "away",
+          "meaning": "đi xa",
+          "sourceId": 161
+        },
+        {
+          "word": "back",
+          "meaning": "trở lại; lưng",
+          "sourceId": 162
+        },
+        {
+          "word": "here",
+          "meaning": "ở đây",
+          "sourceId": 163
+        },
+        {
+          "word": "there",
+          "meaning": "ở đó",
+          "sourceId": 164
+        },
+        {
+          "word": "now",
+          "meaning": "bây giờ",
+          "sourceId": 165
+        },
+        {
+          "word": "today",
+          "meaning": "hôm nay",
+          "sourceId": 166
+        },
+        {
+          "word": "tomorrow",
+          "meaning": "ngày mai",
+          "sourceId": 167
+        },
+        {
+          "word": "yesterday",
+          "meaning": "hôm qua",
+          "sourceId": 168
+        },
+        {
+          "word": "always",
+          "meaning": "luôn luôn",
+          "sourceId": 169
+        },
+        {
+          "word": "usually",
+          "meaning": "thường xuyên",
+          "sourceId": 170
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "One More Try",
+      "titleVi": "Thử thêm một lần",
+      "wordCount": 94,
+      "segments": [
+        {
+          "id": "s1-18-01",
+          "kind": "sentence",
+          "en": "I often read beside my little sister after dinner.",
+          "vi": "Tôi thường ngồi cạnh đọc sách với em gái sau bữa tối."
+        },
+        {
+          "id": "s1-18-02",
+          "kind": "sentence",
+          "en": "Sometimes she asks me to read the same story again.",
+          "vi": "Đôi khi, em nhờ tôi đọc lại đúng câu chuyện cũ."
+        },
+        {
+          "id": "s1-18-03",
+          "kind": "sentence",
+          "en": "She never gets tired of the little dog in the book.",
+          "vi": "Em chẳng bao giờ chán chú chó nhỏ trong sách."
+        },
+        {
+          "id": "s1-18-04",
+          "kind": "sentence",
+          "en": "Tonight, she wants to read it herself.",
+          "vi": "Tối nay, em muốn tự đọc truyện."
+        },
+        {
+          "id": "s1-18-05",
+          "kind": "sentence",
+          "en": "She already knows the first page, but the next one is still difficult.",
+          "vi": "Em đã đọc được trang đầu, nhưng trang tiếp theo vẫn còn khó."
+        },
+        {
+          "id": "s1-18-06",
+          "kind": "sentence",
+          "en": "I have just sat down when she asks for help.",
+          "vi": "Tôi vừa ngồi xuống thì em nhờ giúp."
+        },
+        {
+          "id": "s1-18-07",
+          "kind": "group",
+          "en": "\"Only one word,\" she says. I show her how to say it.",
+          "vi": "“Chỉ một từ thôi,” em nói. Tôi chỉ cho em cách đọc từ đó."
+        },
+        {
+          "id": "s1-18-08",
+          "kind": "group",
+          "en": "She also reads the last page, then smiles at me. I am happy too.",
+          "vi": "Em còn đọc được cả trang cuối, rồi mỉm cười với tôi. Tôi cũng thấy vui."
+        },
+        {
+          "id": "s1-18-09",
+          "kind": "sentence",
+          "en": "Tomorrow, she wants to try a different book.",
+          "vi": "Ngày mai, em muốn thử đọc một cuốn sách khác."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "often",
+          "meaning": "thường",
+          "sourceId": 171
+        },
+        {
+          "word": "sometimes",
+          "meaning": "đôi khi",
+          "sourceId": 172
+        },
+        {
+          "word": "never",
+          "meaning": "không bao giờ",
+          "sourceId": 173
+        },
+        {
+          "word": "again",
+          "meaning": "lại; lần nữa",
+          "sourceId": 174
+        },
+        {
+          "word": "already",
+          "meaning": "đã rồi",
+          "sourceId": 175
+        },
+        {
+          "word": "still",
+          "meaning": "vẫn",
+          "sourceId": 176
+        },
+        {
+          "word": "just",
+          "meaning": "vừa mới; chỉ",
+          "sourceId": 177
+        },
+        {
+          "word": "only",
+          "meaning": "chỉ",
+          "sourceId": 178
+        },
+        {
+          "word": "also",
+          "meaning": "cũng",
+          "sourceId": 179
+        },
+        {
+          "word": "too",
+          "meaning": "cũng; quá",
+          "sourceId": 180
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "The First Day at the Shop",
+      "titleVi": "Ngày đầu đến cửa hàng",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-19-01",
+          "kind": "group",
+          "en": "\"Hello!\" says a woman when I enter the new shop.",
+          "vi": "“Xin chào!” một cô bán hàng nói khi tôi bước vào cửa hàng mới."
+        },
+        {
+          "id": "s1-19-02",
+          "kind": "sentence",
+          "en": "\"Hi,\" I answer.",
+          "vi": "“Cháu chào cô,” tôi đáp."
+        },
+        {
+          "id": "s1-19-03",
+          "kind": "sentence",
+          "en": "The room is very small, but it is quite busy.",
+          "vi": "Căn phòng rất nhỏ nhưng khá đông khách."
+        },
+        {
+          "id": "s1-19-04",
+          "kind": "sentence",
+          "en": "I really want a picture book for my brother.",
+          "vi": "Tôi rất muốn tìm một cuốn truyện tranh cho em trai."
+        },
+        {
+          "id": "s1-19-05",
+          "kind": "sentence",
+          "en": "\"Maybe you can help me,\" I say.",
+          "vi": "“Có lẽ cô giúp được cháu,” tôi nói."
+        },
+        {
+          "id": "s1-19-06",
+          "kind": "group",
+          "en": "\"A book about a dog, please.\" She shows me one, but I drop it on the floor.",
+          "vi": "“Cho cháu một cuốn sách về chó ạ.” Cô đưa tôi xem một cuốn, nhưng tôi làm rơi nó xuống sàn."
+        },
+        {
+          "id": "s1-19-07",
+          "kind": "group",
+          "en": "\"Sorry!\" I say as I pick it up.",
+          "vi": "“Cháu xin lỗi!” tôi nói khi nhặt sách lên."
+        },
+        {
+          "id": "s1-19-08",
+          "kind": "sentence",
+          "en": "She smiles and tells me it is okay.",
+          "vi": "Cô mỉm cười và bảo không sao."
+        },
+        {
+          "id": "s1-19-09",
+          "kind": "group",
+          "en": "I buy the book and say, \"Thanks for your help.\" At the door, she waves.",
+          "vi": "Tôi mua sách rồi nói: “Cảm ơn cô đã giúp cháu.” Ra đến cửa, cô vẫy tay chào."
+        },
+        {
+          "id": "s1-19-10",
+          "kind": "group",
+          "en": "\"Bye! Come back when your brother finishes the story.\"",
+          "vi": "“Tạm biệt nhé! Khi em cháu đọc xong truyện thì lại ghé nhé.”"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "very",
+          "meaning": "rất",
+          "sourceId": 181
+        },
+        {
+          "word": "really",
+          "meaning": "thật sự",
+          "sourceId": 182
+        },
+        {
+          "word": "quite",
+          "meaning": "khá",
+          "sourceId": 183
+        },
+        {
+          "word": "maybe",
+          "meaning": "có lẽ",
+          "sourceId": 184
+        },
+        {
+          "word": "please",
+          "meaning": "làm ơn",
+          "sourceId": 185
+        },
+        {
+          "word": "thanks",
+          "meaning": "cảm ơn",
+          "sourceId": 186
+        },
+        {
+          "word": "hello",
+          "meaning": "xin chào",
+          "sourceId": 187
+        },
+        {
+          "word": "hi",
+          "meaning": "chào",
+          "sourceId": 188
+        },
+        {
+          "word": "bye",
+          "meaning": "tạm biệt",
+          "sourceId": 189
+        },
+        {
+          "word": "sorry",
+          "meaning": "xin lỗi",
+          "sourceId": 190
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "A Day at Our House",
+      "titleVi": "Một ngày ở nhà chúng tôi",
+      "wordCount": 93,
+      "segments": [
+        {
+          "id": "s1-20-01",
+          "kind": "sentence",
+          "en": "\"Welcome to our house,\" my mother says to my cousin.",
+          "vi": "“Chào mừng con đến nhà cô,” mẹ tôi nói với người em họ."
+        },
+        {
+          "id": "s1-20-02",
+          "kind": "sentence",
+          "en": "He will stay with us for a week this month.",
+          "vi": "Em sẽ ở với gia đình tôi một tuần trong tháng này."
+        },
+        {
+          "id": "s1-20-03",
+          "kind": "sentence",
+          "en": "In the morning, we eat bread and drink milk.",
+          "vi": "Buổi sáng, chúng tôi ăn bánh mì và uống sữa."
+        },
+        {
+          "id": "s1-20-04",
+          "kind": "sentence",
+          "en": "At noon, Dad comes home for lunch.",
+          "vi": "Đến trưa, bố về nhà ăn trưa."
+        },
+        {
+          "id": "s1-20-05",
+          "kind": "sentence",
+          "en": "My cousin asks if he can help in the kitchen.",
+          "vi": "Em họ hỏi có thể giúp việc trong bếp không."
+        },
+        {
+          "id": "s1-20-06",
+          "kind": "sentence",
+          "en": "\"Okay,\" Dad says, and gives him some plates.",
+          "vi": "“Được chứ,” bố nói rồi đưa em vài chiếc đĩa."
+        },
+        {
+          "id": "s1-20-07",
+          "kind": "sentence",
+          "en": "In the afternoon, we play outside.",
+          "vi": "Buổi chiều, chúng tôi ra ngoài chơi."
+        },
+        {
+          "id": "s1-20-08",
+          "kind": "sentence",
+          "en": "By evening, we are tired, so we sit together and read.",
+          "vi": "Đến tối, chúng tôi đã mệt nên ngồi đọc sách cùng nhau."
+        },
+        {
+          "id": "s1-20-09",
+          "kind": "sentence",
+          "en": "At night, my cousin calls his mother and tells her about his day.",
+          "vi": "Ban đêm, em họ gọi cho mẹ và kể về ngày của mình."
+        },
+        {
+          "id": "s1-20-10",
+          "kind": "sentence",
+          "en": "He says he already wants to visit us again.",
+          "vi": "Em nói em đã muốn quay lại thăm chúng tôi lần nữa."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "okay",
+          "meaning": "được; ổn",
+          "sourceId": 191
+        },
+        {
+          "word": "welcome",
+          "meaning": "chào mừng",
+          "sourceId": 192
+        },
+        {
+          "word": "morning",
+          "meaning": "buổi sáng",
+          "sourceId": 193
+        },
+        {
+          "word": "noon",
+          "meaning": "buổi trưa",
+          "sourceId": 194
+        },
+        {
+          "word": "afternoon",
+          "meaning": "buổi chiều",
+          "sourceId": 195
+        },
+        {
+          "word": "evening",
+          "meaning": "buổi tối",
+          "sourceId": 196
+        },
+        {
+          "word": "night",
+          "meaning": "ban đêm",
+          "sourceId": 197
+        },
+        {
+          "word": "day",
+          "meaning": "ngày",
+          "sourceId": 198
+        },
+        {
+          "word": "week",
+          "meaning": "tuần",
+          "sourceId": 199
+        },
+        {
+          "word": "month",
+          "meaning": "tháng",
+          "sourceId": 200
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "A Little Time to Read",
+      "titleVi": "Dành chút thời gian để đọc",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-21-01",
+          "kind": "sentence",
+          "en": "This year, I want to read a little every day.",
+          "vi": "Năm nay, tôi muốn đọc một chút mỗi ngày."
+        },
+        {
+          "id": "s1-21-02",
+          "kind": "sentence",
+          "en": "I do not need a whole hour.",
+          "vi": "Tôi không cần dành trọn một giờ."
+        },
+        {
+          "id": "s1-21-03",
+          "kind": "sentence",
+          "en": "Even one minute is a good start when I am busy.",
+          "vi": "Ngay cả một phút cũng là khởi đầu tốt khi tôi bận."
+        },
+        {
+          "id": "s1-21-04",
+          "kind": "sentence",
+          "en": "On Monday, I put a book beside my bed.",
+          "vi": "Vào thứ Hai, tôi đặt một cuốn sách cạnh giường."
+        },
+        {
+          "id": "s1-21-05",
+          "kind": "sentence",
+          "en": "On Tuesday, I read a page before breakfast.",
+          "vi": "Vào thứ Ba, tôi đọc một trang trước bữa sáng."
+        },
+        {
+          "id": "s1-21-06",
+          "kind": "sentence",
+          "en": "By Wednesday, I want to know what happens next.",
+          "vi": "Đến thứ Tư, tôi đã muốn biết câu chuyện sẽ tiếp diễn ra sao."
+        },
+        {
+          "id": "s1-21-07",
+          "kind": "sentence",
+          "en": "On Thursday, I take the book to school.",
+          "vi": "Vào thứ Năm, tôi mang cuốn sách đến trường."
+        },
+        {
+          "id": "s1-21-08",
+          "kind": "sentence",
+          "en": "A friend reads with me on Friday.",
+          "vi": "Một người bạn đọc cùng tôi vào thứ Sáu."
+        },
+        {
+          "id": "s1-21-09",
+          "kind": "sentence",
+          "en": "We laugh at a funny moment in the story.",
+          "vi": "Chúng tôi bật cười trước một tình tiết vui trong truyện."
+        },
+        {
+          "id": "s1-21-10",
+          "kind": "sentence",
+          "en": "Now I make time to read because I enjoy it.",
+          "vi": "Bây giờ, tôi chủ động dành thời gian để đọc vì tôi thích việc đó."
+        },
+        {
+          "id": "s1-21-11",
+          "kind": "sentence",
+          "en": "A small start can become something important.",
+          "vi": "Một khởi đầu nhỏ có thể trở thành điều quan trọng."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "year",
+          "meaning": "năm",
+          "sourceId": 201
+        },
+        {
+          "word": "hour",
+          "meaning": "giờ",
+          "sourceId": 202
+        },
+        {
+          "word": "minute",
+          "meaning": "phút",
+          "sourceId": 203
+        },
+        {
+          "word": "time",
+          "meaning": "thời gian",
+          "sourceId": 204
+        },
+        {
+          "word": "moment",
+          "meaning": "khoảnh khắc",
+          "sourceId": 205
+        },
+        {
+          "word": "monday",
+          "meaning": "thứ hai",
+          "sourceId": 206
+        },
+        {
+          "word": "tuesday",
+          "meaning": "thứ ba",
+          "sourceId": 207
+        },
+        {
+          "word": "wednesday",
+          "meaning": "thứ tư",
+          "sourceId": 208
+        },
+        {
+          "word": "thursday",
+          "meaning": "thứ năm",
+          "sourceId": 209
+        },
+        {
+          "word": "friday",
+          "meaning": "thứ sáu",
+          "sourceId": 210
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Our Family Calendar",
+      "titleVi": "Lịch sinh hoạt gia đình",
+      "wordCount": 98,
+      "segments": [
+        {
+          "id": "s1-22-01",
+          "kind": "sentence",
+          "en": "On Saturday, we make a family calendar.",
+          "vi": "Vào thứ Bảy, chúng tôi làm một cuốn lịch gia đình."
+        },
+        {
+          "id": "s1-22-02",
+          "kind": "sentence",
+          "en": "My brother draws a picture for January, and I write our plans for February.",
+          "vi": "Anh trai vẽ tranh cho tháng Một, còn tôi viết kế hoạch cho tháng Hai."
+        },
+        {
+          "id": "s1-22-03",
+          "kind": "sentence",
+          "en": "In March, we want to visit Grandma.",
+          "vi": "Tháng Ba, chúng tôi muốn đến thăm bà."
+        },
+        {
+          "id": "s1-22-04",
+          "kind": "sentence",
+          "en": "Her birthday is in April.",
+          "vi": "Sinh nhật bà vào tháng Tư."
+        },
+        {
+          "id": "s1-22-05",
+          "kind": "sentence",
+          "en": "We have no family visits planned for May.",
+          "vi": "Chúng tôi chưa có kế hoạch thăm họ hàng trong tháng Năm."
+        },
+        {
+          "id": "s1-22-06",
+          "kind": "sentence",
+          "en": "School finishes in June, and we hope to travel in July.",
+          "vi": "Năm học kết thúc vào tháng Sáu, và chúng tôi hy vọng đi du lịch vào tháng Bảy."
+        },
+        {
+          "id": "s1-22-07",
+          "kind": "sentence",
+          "en": "August is usually a quiet month at home.",
+          "vi": "Tháng Tám thường là một tháng yên ả ở nhà."
+        },
+        {
+          "id": "s1-22-08",
+          "kind": "sentence",
+          "en": "In September, we go back to school with new books.",
+          "vi": "Tháng Chín, chúng tôi trở lại trường với sách mới."
+        },
+        {
+          "id": "s1-22-09",
+          "kind": "sentence",
+          "en": "We leave some empty spaces for plans we do not know yet.",
+          "vi": "Chúng tôi chừa vài khoảng trống cho những kế hoạch chưa biết trước."
+        },
+        {
+          "id": "s1-22-10",
+          "kind": "sentence",
+          "en": "On Sunday, we show the calendar to our parents and put it on the kitchen wall.",
+          "vi": "Vào Chủ nhật, chúng tôi cho bố mẹ xem lịch rồi treo nó lên tường bếp."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "saturday",
+          "meaning": "thứ bảy",
+          "sourceId": 211
+        },
+        {
+          "word": "sunday",
+          "meaning": "chủ nhật",
+          "sourceId": 212
+        },
+        {
+          "word": "january",
+          "meaning": "tháng một",
+          "sourceId": 213
+        },
+        {
+          "word": "february",
+          "meaning": "tháng hai",
+          "sourceId": 214
+        },
+        {
+          "word": "march",
+          "meaning": "tháng ba",
+          "sourceId": 215
+        },
+        {
+          "word": "april",
+          "meaning": "tháng tư",
+          "sourceId": 216
+        },
+        {
+          "word": "june",
+          "meaning": "tháng sáu",
+          "sourceId": 217
+        },
+        {
+          "word": "july",
+          "meaning": "tháng bảy",
+          "sourceId": 218
+        },
+        {
+          "word": "august",
+          "meaning": "tháng tám",
+          "sourceId": 219
+        },
+        {
+          "word": "september",
+          "meaning": "tháng chín",
+          "sourceId": 220
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "A Reading Room for the Town",
+      "titleVi": "Phòng đọc cho khu phố",
+      "wordCount": 98,
+      "segments": [
+        {
+          "id": "s1-23-01",
+          "kind": "sentence",
+          "en": "In October, a man puts a box of books outside his house.",
+          "vi": "Tháng Mười, một người đàn ông đặt một hộp sách bên ngoài nhà mình."
+        },
+        {
+          "id": "s1-23-02",
+          "kind": "sentence",
+          "en": "A woman stops to look and takes a story home.",
+          "vi": "Một người phụ nữ dừng lại xem và mang một cuốn truyện về nhà."
+        },
+        {
+          "id": "s1-23-03",
+          "kind": "sentence",
+          "en": "The next day, she brings it back with two more books.",
+          "vi": "Hôm sau, cô mang trả cuốn sách, kèm thêm hai cuốn nữa."
+        },
+        {
+          "id": "s1-23-04",
+          "kind": "sentence",
+          "en": "By November, many people are sharing books there.",
+          "vi": "Đến tháng Mười Một, nhiều người đã chia sẻ sách ở đó."
+        },
+        {
+          "id": "s1-23-05",
+          "kind": "sentence",
+          "en": "One person brings a small table, and a boy helps carry some chairs.",
+          "vi": "Một người mang đến chiếc bàn nhỏ, còn một cậu bé giúp khiêng vài chiếc ghế."
+        },
+        {
+          "id": "s1-23-06",
+          "kind": "sentence",
+          "en": "A girl makes a picture for the door.",
+          "vi": "Một cô bé vẽ tranh để treo ở cửa."
+        },
+        {
+          "id": "s1-23-07",
+          "kind": "sentence",
+          "en": "In December, the town has a little reading room.",
+          "vi": "Đến tháng Mười Hai, khu phố đã có một phòng đọc nhỏ."
+        },
+        {
+          "id": "s1-23-08",
+          "kind": "sentence",
+          "en": "Every child is welcome to come and read for free.",
+          "vi": "Mọi trẻ em đều được chào đón đến đọc sách miễn phí."
+        },
+        {
+          "id": "s1-23-09",
+          "kind": "sentence",
+          "en": "There is no big television or computer, just books, chairs, and people who enjoy a good story.",
+          "vi": "Ở đó không có tivi lớn hay máy tính, chỉ có sách, ghế và những người yêu thích truyện hay."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "october",
+          "meaning": "tháng mười",
+          "sourceId": 221
+        },
+        {
+          "word": "november",
+          "meaning": "tháng mười một",
+          "sourceId": 222
+        },
+        {
+          "word": "december",
+          "meaning": "tháng mười hai",
+          "sourceId": 223
+        },
+        {
+          "word": "person",
+          "meaning": "người",
+          "sourceId": 224
+        },
+        {
+          "word": "people",
+          "meaning": "mọi người",
+          "sourceId": 225
+        },
+        {
+          "word": "man",
+          "meaning": "đàn ông",
+          "sourceId": 226
+        },
+        {
+          "word": "woman",
+          "meaning": "phụ nữ",
+          "sourceId": 227
+        },
+        {
+          "word": "boy",
+          "meaning": "cậu bé",
+          "sourceId": 228
+        },
+        {
+          "word": "girl",
+          "meaning": "cô bé",
+          "sourceId": 229
+        },
+        {
+          "word": "child",
+          "meaning": "đứa trẻ",
+          "sourceId": 230
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "A Family at the Park",
+      "titleVi": "Gia đình đi công viên",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-24-01",
+          "kind": "sentence",
+          "en": "I go to the park with my family and a friend.",
+          "vi": "Tôi đi công viên cùng gia đình và một người bạn."
+        },
+        {
+          "id": "s1-24-02",
+          "kind": "sentence",
+          "en": "Near the door, a sign says every child must stay with an adult.",
+          "vi": "Gần cổng có biển ghi rằng mỗi trẻ em phải đi cùng một người lớn."
+        },
+        {
+          "id": "s1-24-03",
+          "kind": "sentence",
+          "en": "My father takes my hand while my mother carries the baby.",
+          "vi": "Bố nắm tay tôi, còn mẹ bế em bé."
+        },
+        {
+          "id": "s1-24-04",
+          "kind": "group",
+          "en": "My friend walks with his mom and dad. Their son is the same age as me, and we like the same games.",
+          "vi": "Bạn tôi đi cùng bố mẹ của bạn ấy. Con trai của họ bằng tuổi tôi, và chúng tôi thích cùng những trò chơi."
+        },
+        {
+          "id": "s1-24-05",
+          "kind": "sentence",
+          "en": "We find a place under a tree and sit together for lunch.",
+          "vi": "Chúng tôi tìm chỗ dưới gốc cây rồi ngồi ăn trưa cùng nhau."
+        },
+        {
+          "id": "s1-24-06",
+          "kind": "sentence",
+          "en": "Another parent asks if there is room for her family too.",
+          "vi": "Một phụ huynh khác hỏi còn chỗ cho gia đình cô ấy không."
+        },
+        {
+          "id": "s1-24-07",
+          "kind": "sentence",
+          "en": "We move our bags and welcome them.",
+          "vi": "Chúng tôi dịch túi sang một bên và mời họ cùng ngồi."
+        },
+        {
+          "id": "s1-24-08",
+          "kind": "sentence",
+          "en": "Soon, the children are playing and everyone is talking.",
+          "vi": "Chẳng mấy chốc, bọn trẻ chơi đùa còn mọi người trò chuyện rôm rả."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "baby",
+          "meaning": "em bé",
+          "sourceId": 231
+        },
+        {
+          "word": "adult",
+          "meaning": "người lớn",
+          "sourceId": 232
+        },
+        {
+          "word": "friend",
+          "meaning": "bạn bè",
+          "sourceId": 233
+        },
+        {
+          "word": "family",
+          "meaning": "gia đình",
+          "sourceId": 234
+        },
+        {
+          "word": "parent",
+          "meaning": "cha hoặc mẹ",
+          "sourceId": 235
+        },
+        {
+          "word": "mother",
+          "meaning": "mẹ",
+          "sourceId": 236
+        },
+        {
+          "word": "father",
+          "meaning": "bố",
+          "sourceId": 237
+        },
+        {
+          "word": "mom",
+          "meaning": "mẹ",
+          "sourceId": 238
+        },
+        {
+          "word": "dad",
+          "meaning": "bố",
+          "sourceId": 239
+        },
+        {
+          "word": "son",
+          "meaning": "con trai",
+          "sourceId": 240
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Everyone in One Photo",
+      "titleVi": "Cả nhà trong một bức ảnh",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-25-01",
+          "kind": "sentence",
+          "en": "My grandmother wants a photo of the whole family.",
+          "vi": "Bà tôi muốn có một bức ảnh chụp cả gia đình."
+        },
+        {
+          "id": "s1-25-02",
+          "kind": "sentence",
+          "en": "She sits beside my grandfather in the garden.",
+          "vi": "Bà ngồi cạnh ông trong vườn."
+        },
+        {
+          "id": "s1-25-03",
+          "kind": "sentence",
+          "en": "My uncle stands behind them with his wife.",
+          "vi": "Chú tôi đứng phía sau ông bà cùng vợ của chú."
+        },
+        {
+          "id": "s1-25-04",
+          "kind": "sentence",
+          "en": "Their daughter, my little cousin, sits on the floor in front.",
+          "vi": "Con gái của chú thím, người em họ bé nhỏ của tôi, ngồi trên sàn phía trước."
+        },
+        {
+          "id": "s1-25-05",
+          "kind": "sentence",
+          "en": "My aunt asks her husband to hold the baby.",
+          "vi": "Cô tôi nhờ chồng bế em bé."
+        },
+        {
+          "id": "s1-25-06",
+          "kind": "sentence",
+          "en": "My brother and sister stand beside me.",
+          "vi": "Anh trai và chị gái đứng cạnh tôi."
+        },
+        {
+          "id": "s1-25-07",
+          "kind": "sentence",
+          "en": "We all look at the phone, but nobody is ready at the same time.",
+          "vi": "Tất cả cùng nhìn vào điện thoại, nhưng chẳng ai sẵn sàng cùng lúc."
+        },
+        {
+          "id": "s1-25-08",
+          "kind": "sentence",
+          "en": "First, the baby starts to cry.",
+          "vi": "Đầu tiên, em bé bắt đầu khóc."
+        },
+        {
+          "id": "s1-25-09",
+          "kind": "sentence",
+          "en": "Then my grandfather closes his eyes.",
+          "vi": "Rồi ông tôi lại nhắm mắt."
+        },
+        {
+          "id": "s1-25-10",
+          "kind": "sentence",
+          "en": "At last, we get a good photo.",
+          "vi": "Cuối cùng, chúng tôi cũng chụp được một bức ảnh đẹp."
+        },
+        {
+          "id": "s1-25-11",
+          "kind": "sentence",
+          "en": "Everyone is smiling, and Grandma says it is her favorite picture.",
+          "vi": "Ai cũng đang mỉm cười, và bà nói đó là bức ảnh bà thích nhất."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "daughter",
+          "meaning": "con gái",
+          "sourceId": 241
+        },
+        {
+          "word": "brother",
+          "meaning": "anh/em trai",
+          "sourceId": 242
+        },
+        {
+          "word": "sister",
+          "meaning": "chị/em gái",
+          "sourceId": 243
+        },
+        {
+          "word": "husband",
+          "meaning": "chồng",
+          "sourceId": 244
+        },
+        {
+          "word": "wife",
+          "meaning": "vợ",
+          "sourceId": 245
+        },
+        {
+          "word": "grandmother",
+          "meaning": "bà",
+          "sourceId": 246
+        },
+        {
+          "word": "grandfather",
+          "meaning": "ông",
+          "sourceId": 247
+        },
+        {
+          "word": "uncle",
+          "meaning": "chú; bác; cậu",
+          "sourceId": 248
+        },
+        {
+          "word": "aunt",
+          "meaning": "cô; dì; bác gái",
+          "sourceId": 249
+        },
+        {
+          "word": "cousin",
+          "meaning": "anh chị em họ",
+          "sourceId": 250
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "My First Night in a New Home",
+      "titleVi": "Đêm đầu ở nhà mới",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-26-01",
+          "kind": "sentence",
+          "en": "My name is Lan, and today is my birthday.",
+          "vi": "Tôi tên là Lan, và hôm nay là sinh nhật tôi."
+        },
+        {
+          "id": "s1-26-02",
+          "kind": "sentence",
+          "en": "At the age of ten, I have a new home.",
+          "vi": "Ở tuổi lên mười, tôi có một mái nhà mới."
+        },
+        {
+          "id": "s1-26-03",
+          "kind": "sentence",
+          "en": "Our house is small, but there is a room just for me.",
+          "vi": "Nhà chúng tôi nhỏ, nhưng có một căn phòng dành riêng cho tôi."
+        },
+        {
+          "id": "s1-26-04",
+          "kind": "sentence",
+          "en": "My bedroom has a window near the bed.",
+          "vi": "Phòng ngủ của tôi có cửa sổ gần giường."
+        },
+        {
+          "id": "s1-26-05",
+          "kind": "sentence",
+          "en": "The bathroom is across from it, and the kitchen is downstairs.",
+          "vi": "Phòng tắm ở đối diện phòng ngủ, còn bếp ở tầng dưới."
+        },
+        {
+          "id": "s1-26-06",
+          "kind": "sentence",
+          "en": "Some boxes are still on the floor, waiting for us to open them.",
+          "vi": "Một số thùng đồ vẫn nằm trên sàn, chờ chúng tôi mở ra."
+        },
+        {
+          "id": "s1-26-07",
+          "kind": "sentence",
+          "en": "I find my books and put them beside the window.",
+          "vi": "Tôi tìm sách của mình rồi đặt chúng cạnh cửa sổ."
+        },
+        {
+          "id": "s1-26-08",
+          "kind": "sentence",
+          "en": "Tonight, we eat together at a small table.",
+          "vi": "Tối nay, cả nhà cùng ăn bên một chiếc bàn nhỏ."
+        },
+        {
+          "id": "s1-26-09",
+          "kind": "sentence",
+          "en": "There is no birthday cake, but Mom makes my favorite food.",
+          "vi": "Không có bánh sinh nhật, nhưng mẹ nấu món tôi thích nhất."
+        },
+        {
+          "id": "s1-26-10",
+          "kind": "sentence",
+          "en": "I feel happy here.",
+          "vi": "Tôi cảm thấy hạnh phúc ở đây."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "name",
+          "meaning": "tên",
+          "sourceId": 251
+        },
+        {
+          "word": "age",
+          "meaning": "tuổi",
+          "sourceId": 252
+        },
+        {
+          "word": "birthday",
+          "meaning": "sinh nhật",
+          "sourceId": 253
+        },
+        {
+          "word": "home",
+          "meaning": "nhà; tổ ấm",
+          "sourceId": 254
+        },
+        {
+          "word": "house",
+          "meaning": "ngôi nhà",
+          "sourceId": 255
+        },
+        {
+          "word": "room",
+          "meaning": "phòng",
+          "sourceId": 256
+        },
+        {
+          "word": "bedroom",
+          "meaning": "phòng ngủ",
+          "sourceId": 257
+        },
+        {
+          "word": "bathroom",
+          "meaning": "phòng tắm",
+          "sourceId": 258
+        },
+        {
+          "word": "kitchen",
+          "meaning": "nhà bếp",
+          "sourceId": 259
+        },
+        {
+          "word": "floor",
+          "meaning": "sàn; tầng",
+          "sourceId": 260
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Rain on the Roof",
+      "titleVi": "Mưa trên mái nhà",
+      "wordCount": 98,
+      "segments": [
+        {
+          "id": "s1-27-01",
+          "kind": "sentence",
+          "en": "Rain falls on the roof, and the garden grows dark.",
+          "vi": "Mưa rơi trên mái nhà, và khu vườn dần tối lại."
+        },
+        {
+          "id": "s1-27-02",
+          "kind": "sentence",
+          "en": "I close the window beside my bed and pull the blanket over my feet.",
+          "vi": "Tôi đóng cửa sổ cạnh giường rồi kéo chăn phủ lên chân."
+        },
+        {
+          "id": "s1-27-03",
+          "kind": "sentence",
+          "en": "My book is on a chair, just beyond my hand.",
+          "vi": "Cuốn sách nằm trên ghế, vừa quá tầm với của tôi."
+        },
+        {
+          "id": "s1-27-04",
+          "kind": "sentence",
+          "en": "I do not want to leave my warm pillow, but I get up anyway.",
+          "vi": "Tôi không muốn rời chiếc gối ấm áp, nhưng rồi vẫn đứng dậy."
+        },
+        {
+          "id": "s1-27-05",
+          "kind": "sentence",
+          "en": "Through the open door, I see Dad sitting on the sofa.",
+          "vi": "Qua cánh cửa mở, tôi thấy bố đang ngồi trên ghế sofa."
+        },
+        {
+          "id": "s1-27-06",
+          "kind": "sentence",
+          "en": "Mom is at the table with a cup of tea.",
+          "vi": "Mẹ ngồi bên bàn với một tách trà."
+        },
+        {
+          "id": "s1-27-07",
+          "kind": "sentence",
+          "en": "A family picture hangs on the wall behind her.",
+          "vi": "Một bức ảnh gia đình treo trên tường phía sau mẹ."
+        },
+        {
+          "id": "s1-27-08",
+          "kind": "sentence",
+          "en": "I carry my book into the room and sit between them.",
+          "vi": "Tôi mang sách vào phòng và ngồi giữa bố mẹ."
+        },
+        {
+          "id": "s1-27-09",
+          "kind": "sentence",
+          "en": "The rain keeps falling, but our house feels warm.",
+          "vi": "Mưa vẫn rơi, nhưng ngôi nhà của chúng tôi thật ấm áp."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "door",
+          "meaning": "cửa ra vào",
+          "sourceId": 261
+        },
+        {
+          "word": "window",
+          "meaning": "cửa sổ",
+          "sourceId": 262
+        },
+        {
+          "word": "wall",
+          "meaning": "tường",
+          "sourceId": 263
+        },
+        {
+          "word": "roof",
+          "meaning": "mái nhà",
+          "sourceId": 264
+        },
+        {
+          "word": "bed",
+          "meaning": "giường",
+          "sourceId": 265
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "sourceId": 266
+        },
+        {
+          "word": "blanket",
+          "meaning": "chăn",
+          "sourceId": 267
+        },
+        {
+          "word": "chair",
+          "meaning": "ghế",
+          "sourceId": 268
+        },
+        {
+          "word": "table",
+          "meaning": "bàn",
+          "sourceId": 269
+        },
+        {
+          "word": "sofa",
+          "meaning": "ghế sofa",
+          "sourceId": 270
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "The Key in the Box",
+      "titleVi": "Chìa khóa trong hộp",
+      "wordCount": 98,
+      "segments": [
+        {
+          "id": "s1-28-01",
+          "kind": "sentence",
+          "en": "Dad cannot find his key before work.",
+          "vi": "Bố không tìm thấy chìa khóa trước khi đi làm."
+        },
+        {
+          "id": "s1-28-02",
+          "kind": "sentence",
+          "en": "He looks in his bag, then under a small box on the table.",
+          "vi": "Bố tìm trong túi, rồi dưới một chiếc hộp nhỏ trên bàn."
+        },
+        {
+          "id": "s1-28-03",
+          "kind": "sentence",
+          "en": "I turn on the lamp because there is not much light in the room.",
+          "vi": "Tôi bật đèn bàn vì phòng không có nhiều ánh sáng."
+        },
+        {
+          "id": "s1-28-04",
+          "kind": "sentence",
+          "en": "The fan moves a piece of paper across the floor.",
+          "vi": "Chiếc quạt thổi một mảnh giấy bay ngang qua sàn."
+        },
+        {
+          "id": "s1-28-05",
+          "kind": "sentence",
+          "en": "Dad looks at the clock and says he is late.",
+          "vi": "Bố nhìn đồng hồ và nói mình đã muộn."
+        },
+        {
+          "id": "s1-28-06",
+          "kind": "sentence",
+          "en": "I move a bottle of water and an empty cup, but the key is not there.",
+          "vi": "Tôi dời một chai nước và một chiếc cốc rỗng sang bên, nhưng vẫn không có chìa khóa."
+        },
+        {
+          "id": "s1-28-07",
+          "kind": "group",
+          "en": "Then I see something in a drinking glass beside the box. It is the key! My little brother put it there while he was helping clean the table.",
+          "vi": "Rồi tôi nhìn thấy thứ gì đó trong một chiếc ly cạnh hộp. Chính là chìa khóa! Em trai tôi đã để nó ở đó khi giúp dọn bàn."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "lamp",
+          "meaning": "đèn",
+          "sourceId": 271
+        },
+        {
+          "word": "light",
+          "meaning": "ánh sáng; nhẹ",
+          "sourceId": 272
+        },
+        {
+          "word": "fan",
+          "meaning": "quạt",
+          "sourceId": 273
+        },
+        {
+          "word": "clock",
+          "meaning": "đồng hồ",
+          "sourceId": 274
+        },
+        {
+          "word": "key",
+          "meaning": "chìa khóa",
+          "sourceId": 275
+        },
+        {
+          "word": "bag",
+          "meaning": "túi",
+          "sourceId": 276
+        },
+        {
+          "word": "box",
+          "meaning": "hộp",
+          "sourceId": 277
+        },
+        {
+          "word": "bottle",
+          "meaning": "chai",
+          "sourceId": 278
+        },
+        {
+          "word": "cup",
+          "meaning": "cốc",
+          "sourceId": 279
+        },
+        {
+          "word": "glass",
+          "meaning": "ly; kính",
+          "sourceId": 280
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "An Evening Without Screens",
+      "titleVi": "Buổi tối không dùng màn hình",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-29-01",
+          "kind": "sentence",
+          "en": "Tonight, we put the phone and computer away before dinner.",
+          "vi": "Tối nay, chúng tôi cất điện thoại và máy tính đi trước bữa tối."
+        },
+        {
+          "id": "s1-29-02",
+          "kind": "sentence",
+          "en": "Dad turns off the television, but Mom leaves the radio on quietly.",
+          "vi": "Bố tắt tivi, nhưng mẹ vẫn để đài phát thanh chạy khe khẽ."
+        },
+        {
+          "id": "s1-29-03",
+          "kind": "sentence",
+          "en": "My brother brings a plate for each person, and I carry a bowl of rice to the table.",
+          "vi": "Anh trai mang đĩa cho từng người, còn tôi bưng một bát cơm ra bàn."
+        },
+        {
+          "id": "s1-29-04",
+          "kind": "sentence",
+          "en": "Grandma asks for a spoon.",
+          "vi": "Bà nhờ lấy một chiếc thìa."
+        },
+        {
+          "id": "s1-29-05",
+          "kind": "sentence",
+          "en": "Dad uses a knife to cut the bread, and my brother drops his fork.",
+          "vi": "Bố dùng dao cắt bánh mì, còn anh trai làm rơi chiếc nĩa."
+        },
+        {
+          "id": "s1-29-06",
+          "kind": "sentence",
+          "en": "We laugh and talk about our day.",
+          "vi": "Chúng tôi vừa cười vừa kể về một ngày của mình."
+        },
+        {
+          "id": "s1-29-07",
+          "kind": "sentence",
+          "en": "After dinner, Mom opens a book and reads a story to us.",
+          "vi": "Sau bữa tối, mẹ mở sách và đọc truyện cho chúng tôi nghe."
+        },
+        {
+          "id": "s1-29-08",
+          "kind": "sentence",
+          "en": "Nobody asks to watch anything.",
+          "vi": "Không ai đòi xem gì cả."
+        },
+        {
+          "id": "s1-29-09",
+          "kind": "sentence",
+          "en": "It feels good to listen to a real voice in the room.",
+          "vi": "Được nghe giọng nói của người thân ngay trong phòng thật dễ chịu."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "sourceId": 281
+        },
+        {
+          "word": "bowl",
+          "meaning": "bát",
+          "sourceId": 282
+        },
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "sourceId": 283
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "sourceId": 284
+        },
+        {
+          "word": "knife",
+          "meaning": "dao",
+          "sourceId": 285
+        },
+        {
+          "word": "phone",
+          "meaning": "điện thoại",
+          "sourceId": 286
+        },
+        {
+          "word": "computer",
+          "meaning": "máy tính",
+          "sourceId": 287
+        },
+        {
+          "word": "television",
+          "meaning": "tivi",
+          "sourceId": 288
+        },
+        {
+          "word": "radio",
+          "meaning": "đài phát thanh",
+          "sourceId": 289
+        },
+        {
+          "word": "book",
+          "meaning": "sách",
+          "sourceId": 290
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "A Letter for Grandma",
+      "titleVi": "Viết thư cho bà",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-30-01",
+          "kind": "sentence",
+          "en": "I want to send a letter to Grandma, but I do not know where to start.",
+          "vi": "Tôi muốn gửi thư cho bà, nhưng không biết bắt đầu từ đâu."
+        },
+        {
+          "id": "s1-30-02",
+          "kind": "sentence",
+          "en": "I put a piece of paper on the table and pick up my pen.",
+          "vi": "Tôi đặt một tờ giấy lên bàn rồi cầm bút mực lên."
+        },
+        {
+          "id": "s1-30-03",
+          "kind": "sentence",
+          "en": "Then I put it down and use a pencil first.",
+          "vi": "Sau đó, tôi đặt bút xuống và dùng bút chì trước."
+        },
+        {
+          "id": "s1-30-04",
+          "kind": "sentence",
+          "en": "I write one short sentence about school.",
+          "vi": "Tôi viết một câu ngắn về trường học."
+        },
+        {
+          "id": "s1-30-05",
+          "kind": "sentence",
+          "en": "There is a word I cannot spell, so I ask Mom a question.",
+          "vi": "Có một từ tôi không biết đánh vần, nên tôi hỏi mẹ."
+        },
+        {
+          "id": "s1-30-06",
+          "kind": "sentence",
+          "en": "She gives me the answer and helps me finish.",
+          "vi": "Mẹ giải đáp và giúp tôi viết xong thư."
+        },
+        {
+          "id": "s1-30-07",
+          "kind": "sentence",
+          "en": "I add a picture of our garden and a photo of the family.",
+          "vi": "Tôi thêm một bức tranh khu vườn và một bức ảnh gia đình."
+        },
+        {
+          "id": "s1-30-08",
+          "kind": "sentence",
+          "en": "Now Grandma can see how we are doing.",
+          "vi": "Giờ bà có thể biết chúng tôi dạo này thế nào."
+        },
+        {
+          "id": "s1-30-09",
+          "kind": "sentence",
+          "en": "I hope she writes back soon.",
+          "vi": "Tôi mong bà sẽ sớm viết thư trả lời."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "paper",
+          "meaning": "giấy",
+          "sourceId": 291
+        },
+        {
+          "word": "pen",
+          "meaning": "bút mực",
+          "sourceId": 292
+        },
+        {
+          "word": "pencil",
+          "meaning": "bút chì",
+          "sourceId": 293
+        },
+        {
+          "word": "picture",
+          "meaning": "bức tranh; ảnh",
+          "sourceId": 294
+        },
+        {
+          "word": "photo",
+          "meaning": "ảnh",
+          "sourceId": 295
+        },
+        {
+          "word": "letter",
+          "meaning": "lá thư; chữ cái",
+          "sourceId": 296
+        },
+        {
+          "word": "word",
+          "meaning": "từ",
+          "sourceId": 297
+        },
+        {
+          "word": "sentence",
+          "meaning": "câu",
+          "sourceId": 298
+        },
+        {
+          "word": "question",
+          "meaning": "câu hỏi",
+          "sourceId": 299
+        },
+        {
+          "word": "answer",
+          "meaning": "câu trả lời",
+          "sourceId": 300
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "The Door with the Pink Flower",
+      "titleVi": "Cánh cửa có bông hoa màu hồng",
+      "wordCount": 99,
+      "segments": [
+        {
+          "id": "s1-31-01",
+          "kind": "sentence",
+          "en": "My friend tells me the number of her house, but I forget it on the way.",
+          "vi": "Bạn tôi nói số nhà của bạn ấy, nhưng tôi lại quên trên đường đi."
+        },
+        {
+          "id": "s1-31-02",
+          "kind": "sentence",
+          "en": "I remember the color of the door: blue, with a pink flower on it.",
+          "vi": "Tôi nhớ màu cửa: xanh dương, với một bông hoa màu hồng trên đó."
+        },
+        {
+          "id": "s1-31-03",
+          "kind": "sentence",
+          "en": "I walk past a red house with a green gate.",
+          "vi": "Tôi đi qua một ngôi nhà đỏ có cổng xanh lá."
+        },
+        {
+          "id": "s1-31-04",
+          "kind": "sentence",
+          "en": "The next house has a yellow wall and a black door.",
+          "vi": "Ngôi nhà tiếp theo có tường vàng và cửa đen."
+        },
+        {
+          "id": "s1-31-05",
+          "kind": "sentence",
+          "en": "A white cat sleeps on its brown chair.",
+          "vi": "Một con mèo trắng ngủ trên chiếc ghế màu nâu của ngôi nhà ấy."
+        },
+        {
+          "id": "s1-31-06",
+          "kind": "sentence",
+          "en": "Then I see the flower I remember.",
+          "vi": "Rồi tôi nhìn thấy bông hoa mà mình nhớ."
+        },
+        {
+          "id": "s1-31-07",
+          "kind": "sentence",
+          "en": "My friend opens the door before I can call her.",
+          "vi": "Bạn tôi mở cửa trước khi tôi kịp gọi."
+        },
+        {
+          "id": "s1-31-08",
+          "kind": "group",
+          "en": "\"You found us!\" she says.",
+          "vi": "“Bạn tìm được nhà rồi!” bạn ấy nói."
+        },
+        {
+          "id": "s1-31-09",
+          "kind": "sentence",
+          "en": "I laugh and ask her to write the house number on a piece of paper for next time.",
+          "vi": "Tôi bật cười và nhờ bạn viết số nhà ra giấy để lần sau khỏi quên."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "number",
+          "meaning": "số",
+          "sourceId": 301
+        },
+        {
+          "word": "color",
+          "meaning": "màu sắc",
+          "sourceId": 302
+        },
+        {
+          "word": "red",
+          "meaning": "đỏ",
+          "sourceId": 303
+        },
+        {
+          "word": "blue",
+          "meaning": "xanh dương",
+          "sourceId": 304
+        },
+        {
+          "word": "green",
+          "meaning": "xanh lá",
+          "sourceId": 305
+        },
+        {
+          "word": "yellow",
+          "meaning": "vàng",
+          "sourceId": 306
+        },
+        {
+          "word": "black",
+          "meaning": "đen",
+          "sourceId": 307
+        },
+        {
+          "word": "white",
+          "meaning": "trắng",
+          "sourceId": 308
+        },
+        {
+          "word": "brown",
+          "meaning": "nâu",
+          "sourceId": 309
+        },
+        {
+          "word": "pink",
+          "meaning": "hồng",
+          "sourceId": 310
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "The New Reading Corner",
+      "titleVi": "Góc đọc sách mới",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-32-01",
+          "kind": "sentence",
+          "en": "Our teacher wants to make a reading corner in the classroom.",
+          "vi": "Cô giáo muốn làm một góc đọc sách trong lớp."
+        },
+        {
+          "id": "s1-32-02",
+          "kind": "sentence",
+          "en": "We move a big table away from the window and put a small one there.",
+          "vi": "Chúng tôi dời chiếc bàn lớn ra xa cửa sổ và đặt một chiếc bàn nhỏ vào đó."
+        },
+        {
+          "id": "s1-32-03",
+          "kind": "sentence",
+          "en": "A tall boy helps bring in a long shelf.",
+          "vi": "Một bạn nam cao giúp mang vào một chiếc kệ dài."
+        },
+        {
+          "id": "s1-32-04",
+          "kind": "sentence",
+          "en": "We place it against the gray wall.",
+          "vi": "Chúng tôi kê nó sát bức tường màu xám."
+        },
+        {
+          "id": "s1-32-05",
+          "kind": "sentence",
+          "en": "The books for older children go on a high shelf, and the picture books stay on a low one.",
+          "vi": "Sách cho các bạn lớn được đặt trên kệ cao, còn sách tranh nằm trên kệ thấp."
+        },
+        {
+          "id": "s1-32-06",
+          "kind": "sentence",
+          "en": "My friend brings a purple pillow, and I add an orange blanket.",
+          "vi": "Bạn tôi mang một chiếc gối tím, còn tôi thêm một chiếc chăn màu cam."
+        },
+        {
+          "id": "s1-32-07",
+          "kind": "sentence",
+          "en": "There is room for a short story before class every morning.",
+          "vi": "Mỗi sáng trước giờ học, chúng tôi có chỗ để đọc một câu chuyện ngắn."
+        },
+        {
+          "id": "s1-32-08",
+          "kind": "sentence",
+          "en": "Soon, everyone wants a turn to sit in our new corner.",
+          "vi": "Chẳng mấy chốc, ai cũng muốn được ngồi ở góc đọc mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "orange",
+          "meaning": "cam",
+          "sourceId": 311
+        },
+        {
+          "word": "purple",
+          "meaning": "tím",
+          "sourceId": 312
+        },
+        {
+          "word": "gray",
+          "meaning": "xám",
+          "sourceId": 313
+        },
+        {
+          "word": "big",
+          "meaning": "to",
+          "sourceId": 314
+        },
+        {
+          "word": "small",
+          "meaning": "nhỏ",
+          "sourceId": 315
+        },
+        {
+          "word": "long",
+          "meaning": "dài",
+          "sourceId": 316
+        },
+        {
+          "word": "short",
+          "meaning": "ngắn; thấp",
+          "sourceId": 317
+        },
+        {
+          "word": "tall",
+          "meaning": "cao (người)",
+          "sourceId": 318
+        },
+        {
+          "word": "high",
+          "meaning": "cao",
+          "sourceId": 319
+        },
+        {
+          "word": "low",
+          "meaning": "thấp",
+          "sourceId": 320
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "The Chair Nobody Wanted",
+      "titleVi": "Chiếc ghế không ai muốn lấy",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-33-01",
+          "kind": "sentence",
+          "en": "An old chair stands outside our house.",
+          "vi": "Một chiếc ghế cũ nằm bên ngoài nhà tôi."
+        },
+        {
+          "id": "s1-33-02",
+          "kind": "sentence",
+          "en": "Dad thinks it looks ugly and wants to throw it away.",
+          "vi": "Bố thấy nó xấu xí và muốn vứt đi."
+        },
+        {
+          "id": "s1-33-03",
+          "kind": "sentence",
+          "en": "My young brother has a different idea.",
+          "vi": "Em trai nhỏ của tôi lại có ý tưởng khác."
+        },
+        {
+          "id": "s1-33-04",
+          "kind": "sentence",
+          "en": "He asks if we can give it a new color.",
+          "vi": "Em hỏi liệu chúng tôi có thể sơn cho nó một màu mới không."
+        },
+        {
+          "id": "s1-33-05",
+          "kind": "sentence",
+          "en": "Mom says it is a good plan.",
+          "vi": "Mẹ nói đó là một kế hoạch hay."
+        },
+        {
+          "id": "s1-33-06",
+          "kind": "sentence",
+          "en": "The first coat of paint looks bad because we use too much water.",
+          "vi": "Lớp sơn đầu tiên trông tệ vì chúng tôi dùng quá nhiều nước."
+        },
+        {
+          "id": "s1-33-07",
+          "kind": "sentence",
+          "en": "We try again, and this time the chair looks beautiful.",
+          "vi": "Chúng tôi thử lại, và lần này chiếc ghế trông thật đẹp."
+        },
+        {
+          "id": "s1-33-08",
+          "kind": "sentence",
+          "en": "Our neighbor stops to look.",
+          "vi": "Cô hàng xóm dừng lại ngắm."
+        },
+        {
+          "id": "s1-33-09",
+          "kind": "group",
+          "en": "\"What a nice chair!\" she says.",
+          "vi": "“Chiếc ghế đẹp quá!” cô nói."
+        },
+        {
+          "id": "s1-33-10",
+          "kind": "sentence",
+          "en": "We feel happy when we hear her.",
+          "vi": "Chúng tôi thấy vui khi nghe cô khen."
+        },
+        {
+          "id": "s1-33-11",
+          "kind": "sentence",
+          "en": "It is great to make something useful from a thing nobody wanted.",
+          "vi": "Biến một thứ không ai muốn lấy thành một món đồ hữu ích thật tuyệt."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "old",
+          "meaning": "già; cũ",
+          "sourceId": 321
+        },
+        {
+          "word": "young",
+          "meaning": "trẻ",
+          "sourceId": 322
+        },
+        {
+          "word": "new",
+          "meaning": "mới",
+          "sourceId": 323
+        },
+        {
+          "word": "good",
+          "meaning": "tốt",
+          "sourceId": 324
+        },
+        {
+          "word": "bad",
+          "meaning": "xấu; tệ",
+          "sourceId": 325
+        },
+        {
+          "word": "great",
+          "meaning": "tuyệt vời",
+          "sourceId": 326
+        },
+        {
+          "word": "nice",
+          "meaning": "tốt; dễ mến",
+          "sourceId": 327
+        },
+        {
+          "word": "beautiful",
+          "meaning": "đẹp",
+          "sourceId": 328
+        },
+        {
+          "word": "ugly",
+          "meaning": "xấu xí",
+          "sourceId": 329
+        },
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "sourceId": 330
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "A Long Walk Home",
+      "titleVi": "Quãng đường dài về nhà",
+      "wordCount": 100,
+      "segments": [
+        {
+          "id": "s1-34-01",
+          "kind": "sentence",
+          "en": "After school, I walk home with my brother on a hot afternoon.",
+          "vi": "Tan học, tôi cùng em trai đi bộ về nhà giữa buổi chiều nóng bức."
+        },
+        {
+          "id": "s1-34-02",
+          "kind": "sentence",
+          "en": "We are tired and hungry, and my brother says he is thirsty too.",
+          "vi": "Chúng tôi vừa mệt vừa đói, và em trai nói em còn khát nữa."
+        },
+        {
+          "id": "s1-34-03",
+          "kind": "sentence",
+          "en": "Then we hear a little dog behind a wall.",
+          "vi": "Rồi chúng tôi nghe tiếng một chú chó nhỏ phía sau bức tường."
+        },
+        {
+          "id": "s1-34-04",
+          "kind": "sentence",
+          "en": "It looks sad and afraid.",
+          "vi": "Nó trông buồn bã và sợ hãi."
+        },
+        {
+          "id": "s1-34-05",
+          "kind": "sentence",
+          "en": "My brother is angry because someone has left it there without water.",
+          "vi": "Em trai tức giận vì ai đó đã bỏ nó ở đó mà không cho nước uống."
+        },
+        {
+          "id": "s1-34-06",
+          "kind": "sentence",
+          "en": "I tell him to stay calm and call Mom.",
+          "vi": "Tôi bảo em bình tĩnh và gọi cho mẹ."
+        },
+        {
+          "id": "s1-34-07",
+          "kind": "sentence",
+          "en": "She brings water and takes the dog to a doctor.",
+          "vi": "Mẹ mang nước đến rồi đưa chú chó đi khám bác sĩ."
+        },
+        {
+          "id": "s1-34-08",
+          "kind": "sentence",
+          "en": "It is sick, but it can get better with care.",
+          "vi": "Nó đang bị ốm, nhưng nếu được chăm sóc thì có thể khỏe lại."
+        },
+        {
+          "id": "s1-34-09",
+          "kind": "sentence",
+          "en": "A few days later, we visit again.",
+          "vi": "Vài ngày sau, chúng tôi lại đến thăm."
+        },
+        {
+          "id": "s1-34-10",
+          "kind": "sentence",
+          "en": "The dog looks healthy now, and its nose feels cold against my hand.",
+          "vi": "Giờ chú chó trông khỏe mạnh, và mũi nó mát lạnh khi chạm vào tay tôi."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "sourceId": 331
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "sourceId": 332
+        },
+        {
+          "word": "afraid",
+          "meaning": "sợ hãi",
+          "sourceId": 333
+        },
+        {
+          "word": "tired",
+          "meaning": "mệt",
+          "sourceId": 334
+        },
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "sourceId": 335
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "sourceId": 336
+        },
+        {
+          "word": "sick",
+          "meaning": "ốm",
+          "sourceId": 337
+        },
+        {
+          "word": "healthy",
+          "meaning": "khỏe mạnh",
+          "sourceId": 338
+        },
+        {
+          "word": "hot",
+          "meaning": "nóng",
+          "sourceId": 339
+        },
+        {
+          "word": "cold",
+          "meaning": "lạnh",
+          "sourceId": 340
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Learning to Ride",
+      "titleVi": "Tập đi xe đạp",
+      "wordCount": 97,
+      "segments": [
+        {
+          "id": "s1-35-01",
+          "kind": "sentence",
+          "en": "I meet Dad early in the morning to learn to ride a bicycle.",
+          "vi": "Tôi gặp bố từ sáng sớm để tập đi xe đạp."
+        },
+        {
+          "id": "s1-35-02",
+          "kind": "sentence",
+          "en": "The air is cool, but my hands feel warm on the handlebars.",
+          "vi": "Không khí mát mẻ, nhưng tay tôi thấy ấm khi nắm ghi đông."
+        },
+        {
+          "id": "s1-35-03",
+          "kind": "sentence",
+          "en": "We find a clean path behind the school, away from the dirty road.",
+          "vi": "Chúng tôi tìm một lối đi sạch sau trường, cách xa con đường bẩn."
+        },
+        {
+          "id": "s1-35-04",
+          "kind": "sentence",
+          "en": "Dad says the first part is easy: sit down and keep my feet ready.",
+          "vi": "Bố nói phần đầu rất dễ: ngồi xuống và đặt chân sẵn sàng."
+        },
+        {
+          "id": "s1-35-05",
+          "kind": "sentence",
+          "en": "Moving forward is more difficult.",
+          "vi": "Đi về phía trước thì khó hơn."
+        },
+        {
+          "id": "s1-35-06",
+          "kind": "sentence",
+          "en": "I try to go fast, lose my balance, and stop.",
+          "vi": "Tôi thử đi nhanh, mất thăng bằng rồi dừng lại."
+        },
+        {
+          "id": "s1-35-07",
+          "kind": "group",
+          "en": "Dad tells me a slow start is better. I try again.",
+          "vi": "Bố bảo bắt đầu chậm sẽ tốt hơn. Tôi thử lại."
+        },
+        {
+          "id": "s1-35-08",
+          "kind": "sentence",
+          "en": "It is hard work, but after a few more tries, I can ride to the end of the path.",
+          "vi": "Việc này khá vất vả, nhưng sau vài lần nữa, tôi đã đạp được đến cuối lối đi."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "warm",
+          "meaning": "ấm",
+          "sourceId": 341
+        },
+        {
+          "word": "cool",
+          "meaning": "mát",
+          "sourceId": 342
+        },
+        {
+          "word": "clean",
+          "meaning": "sạch",
+          "sourceId": 343
+        },
+        {
+          "word": "dirty",
+          "meaning": "bẩn",
+          "sourceId": 344
+        },
+        {
+          "word": "easy",
+          "meaning": "dễ",
+          "sourceId": 345
+        },
+        {
+          "word": "difficult",
+          "meaning": "khó",
+          "sourceId": 346
+        },
+        {
+          "word": "hard",
+          "meaning": "khó; cứng",
+          "sourceId": 347
+        },
+        {
+          "word": "fast",
+          "meaning": "nhanh",
+          "sourceId": 348
+        },
+        {
+          "word": "slow",
+          "meaning": "chậm",
+          "sourceId": 349
+        },
+        {
+          "word": "early",
+          "meaning": "sớm",
+          "sourceId": 350
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Is the Reading Room Open?",
+      "titleVi": "Phòng đọc có mở cửa không?",
+      "wordCount": 97,
+      "segments": [
+        {
+          "id": "s1-36-01",
+          "kind": "sentence",
+          "en": "A message says the reading room is closed today, but my friend thinks the message is false.",
+          "vi": "Một thông báo nói hôm nay phòng đọc đóng cửa, nhưng bạn tôi nghĩ thông báo đó không đúng."
+        },
+        {
+          "id": "s1-36-02",
+          "kind": "sentence",
+          "en": "\"The door was open this morning,\" she says.",
+          "vi": "“Sáng nay cửa vẫn mở mà,” bạn ấy nói."
+        },
+        {
+          "id": "s1-36-03",
+          "kind": "sentence",
+          "en": "We walk there after lunch to find out what is true.",
+          "vi": "Sau bữa trưa, chúng tôi đi bộ đến đó để xem thực hư thế nào."
+        },
+        {
+          "id": "s1-36-04",
+          "kind": "sentence",
+          "en": "At first, we think we have come too late because the front room is empty.",
+          "vi": "Lúc đầu, chúng tôi nghĩ mình đến quá muộn vì phòng phía trước trống không."
+        },
+        {
+          "id": "s1-36-05",
+          "kind": "group",
+          "en": "Then a woman calls us from the back. That room is full of children reading.",
+          "vi": "Rồi một cô gọi chúng tôi từ phía sau. Căn phòng phía sau đầy trẻ em đang đọc sách."
+        },
+        {
+          "id": "s1-36-06",
+          "kind": "sentence",
+          "en": "\"You came to the right place,\" she says.",
+          "vi": "“Các cháu đến đúng chỗ rồi,” cô nói."
+        },
+        {
+          "id": "s1-36-07",
+          "kind": "group",
+          "en": "\"The message had the wrong date.\" We choose two books and sit down.",
+          "vi": "“Thông báo ghi nhầm ngày đấy.” Chúng tôi chọn hai cuốn sách rồi ngồi xuống."
+        },
+        {
+          "id": "s1-36-08",
+          "kind": "sentence",
+          "en": "Reading here is free, so we can come back tomorrow.",
+          "vi": "Đọc sách ở đây miễn phí nên ngày mai chúng tôi có thể quay lại."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "late",
+          "meaning": "muộn",
+          "sourceId": 351
+        },
+        {
+          "word": "right",
+          "meaning": "đúng; bên phải",
+          "sourceId": 352
+        },
+        {
+          "word": "wrong",
+          "meaning": "sai",
+          "sourceId": 353
+        },
+        {
+          "word": "true",
+          "meaning": "đúng; thật",
+          "sourceId": 354
+        },
+        {
+          "word": "false",
+          "meaning": "sai; giả",
+          "sourceId": 355
+        },
+        {
+          "word": "full",
+          "meaning": "đầy",
+          "sourceId": 356
+        },
+        {
+          "word": "empty",
+          "meaning": "rỗng",
+          "sourceId": 357
+        },
+        {
+          "word": "open",
+          "meaning": "mở",
+          "sourceId": 358
+        },
+        {
+          "word": "closed",
+          "meaning": "đóng",
+          "sourceId": 359
+        },
+        {
+          "word": "free",
+          "meaning": "miễn phí; tự do",
+          "sourceId": 360
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "A Special Day by the Water",
+      "titleVi": "Ngày đặc biệt bên hồ",
+      "wordCount": 97,
+      "segments": [
+        {
+          "id": "s1-37-01",
+          "kind": "sentence",
+          "en": "Dad is usually busy on Saturday, but today he is ready to go to the lake with us.",
+          "vi": "Bố thường bận vào thứ Bảy, nhưng hôm nay bố đã sẵn sàng đi hồ cùng chúng tôi."
+        },
+        {
+          "id": "s1-37-02",
+          "kind": "sentence",
+          "en": "It is a special day because Grandma is coming too.",
+          "vi": "Đây là một ngày đặc biệt vì bà cũng đi cùng."
+        },
+        {
+          "id": "s1-37-03",
+          "kind": "sentence",
+          "en": "We pack her favorite food and take a different road through the town.",
+          "vi": "Chúng tôi mang món bà thích và đi một con đường khác xuyên qua khu phố."
+        },
+        {
+          "id": "s1-37-04",
+          "kind": "sentence",
+          "en": "Before we leave, Dad tells us something important: we must stay close to an adult near the water.",
+          "vi": "Trước khi đi, bố dặn một điều quan trọng: ở gần nước, chúng tôi phải luôn ở sát một người lớn."
+        },
+        {
+          "id": "s1-37-05",
+          "kind": "group",
+          "en": "\"Is it possible to swim there?\" my brother asks. Dad is not sure, so we will check first.",
+          "vi": "“Mình có bơi ở đó được không ạ?” em trai hỏi. Bố chưa chắc, nên chúng tôi sẽ kiểm tra trước."
+        },
+        {
+          "id": "s1-37-06",
+          "kind": "sentence",
+          "en": "We want everyone to be safe.",
+          "vi": "Chúng tôi muốn mọi người đều an toàn."
+        },
+        {
+          "id": "s1-37-07",
+          "kind": "sentence",
+          "en": "Even if we cannot swim, we can still eat, walk, and enjoy being together.",
+          "vi": "Ngay cả khi không bơi được, cả nhà vẫn có thể ăn uống, đi dạo và vui vẻ bên nhau."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "busy",
+          "meaning": "bận",
+          "sourceId": 361
+        },
+        {
+          "word": "ready",
+          "meaning": "sẵn sàng",
+          "sourceId": 362
+        },
+        {
+          "word": "important",
+          "meaning": "quan trọng",
+          "sourceId": 363
+        },
+        {
+          "word": "different",
+          "meaning": "khác nhau",
+          "sourceId": 364
+        },
+        {
+          "word": "special",
+          "meaning": "đặc biệt",
+          "sourceId": 365
+        },
+        {
+          "word": "favorite",
+          "meaning": "yêu thích",
+          "sourceId": 366
+        },
+        {
+          "word": "possible",
+          "meaning": "có thể",
+          "sourceId": 367
+        },
+        {
+          "word": "sure",
+          "meaning": "chắc chắn",
+          "sourceId": 368
+        },
+        {
+          "word": "safe",
+          "meaning": "an toàn",
+          "sourceId": 369
+        },
+        {
+          "word": "go",
+          "meaning": "đi",
+          "sourceId": 370
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "A Small Sale for the School",
+      "titleVi": "Buổi bán hàng giúp trường học",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-38-01",
+          "kind": "sentence",
+          "en": "Our class wants to buy new books for the school.",
+          "vi": "Lớp tôi muốn mua sách mới cho trường."
+        },
+        {
+          "id": "s1-38-02",
+          "kind": "sentence",
+          "en": "We decide to make little picture cards and sell them on Saturday.",
+          "vi": "Chúng tôi quyết định làm những tấm thiệp tranh nhỏ để bán vào thứ Bảy."
+        },
+        {
+          "id": "s1-38-03",
+          "kind": "sentence",
+          "en": "The teacher asks each child to bring some paper and put it on the big table.",
+          "vi": "Cô giáo nhờ mỗi bạn mang giấy đến và đặt lên chiếc bàn lớn."
+        },
+        {
+          "id": "s1-38-04",
+          "kind": "sentence",
+          "en": "We work together after class.",
+          "vi": "Chúng tôi cùng làm sau giờ học."
+        },
+        {
+          "id": "s1-38-05",
+          "kind": "sentence",
+          "en": "I send a message to my parents about the sale.",
+          "vi": "Tôi nhắn tin cho bố mẹ về buổi bán hàng."
+        },
+        {
+          "id": "s1-38-06",
+          "kind": "sentence",
+          "en": "\"Come early if you want to get a card,\" I write.",
+          "vi": "“Bố mẹ đến sớm nếu muốn mua thiệp nhé,” tôi viết."
+        },
+        {
+          "id": "s1-38-07",
+          "kind": "sentence",
+          "en": "On Saturday, people take their time looking at our pictures.",
+          "vi": "Vào thứ Bảy, mọi người thong thả ngắm tranh của chúng tôi."
+        },
+        {
+          "id": "s1-38-08",
+          "kind": "sentence",
+          "en": "Some give us extra money to help.",
+          "vi": "Một số người còn góp thêm tiền để giúp đỡ."
+        },
+        {
+          "id": "s1-38-09",
+          "kind": "sentence",
+          "en": "By noon, almost every card is gone.",
+          "vi": "Đến trưa, gần như tất cả thiệp đều đã bán hết."
+        },
+        {
+          "id": "s1-38-10",
+          "kind": "sentence",
+          "en": "We are excited to choose the new books.",
+          "vi": "Chúng tôi rất háo hức được chọn những cuốn sách mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "come",
+          "meaning": "đến",
+          "sourceId": 371
+        },
+        {
+          "word": "get",
+          "meaning": "nhận; lấy",
+          "sourceId": 372
+        },
+        {
+          "word": "give",
+          "meaning": "cho",
+          "sourceId": 373
+        },
+        {
+          "word": "take",
+          "meaning": "lấy; mang",
+          "sourceId": 374
+        },
+        {
+          "word": "make",
+          "meaning": "làm; tạo",
+          "sourceId": 375
+        },
+        {
+          "word": "put",
+          "meaning": "đặt; để",
+          "sourceId": 376
+        },
+        {
+          "word": "bring",
+          "meaning": "mang đến",
+          "sourceId": 377
+        },
+        {
+          "word": "send",
+          "meaning": "gửi",
+          "sourceId": 378
+        },
+        {
+          "word": "buy",
+          "meaning": "mua",
+          "sourceId": 379
+        },
+        {
+          "word": "sell",
+          "meaning": "bán",
+          "sourceId": 380
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Saving for Something Small",
+      "titleVi": "Tiết kiệm cho một món đồ nhỏ",
+      "wordCount": 100,
+      "segments": [
+        {
+          "id": "s1-39-01",
+          "kind": "sentence",
+          "en": "I want a new football, but I do not need one today.",
+          "vi": "Tôi muốn một quả bóng đá mới, nhưng hôm nay chưa cần mua."
+        },
+        {
+          "id": "s1-39-02",
+          "kind": "sentence",
+          "en": "I still have an old ball that I like.",
+          "vi": "Tôi vẫn còn một quả bóng cũ mà mình thích."
+        },
+        {
+          "id": "s1-39-03",
+          "kind": "sentence",
+          "en": "Every week, I put a little money in a box instead of going to the shop to spend it.",
+          "vi": "Mỗi tuần, tôi bỏ một ít tiền vào hộp thay vì ra cửa hàng tiêu."
+        },
+        {
+          "id": "s1-39-04",
+          "kind": "sentence",
+          "en": "I know I must pay for the new ball myself.",
+          "vi": "Tôi biết mình phải tự trả tiền mua quả bóng mới."
+        },
+        {
+          "id": "s1-39-05",
+          "kind": "sentence",
+          "en": "Some days, I hate waiting, especially when my friends have new things.",
+          "vi": "Có những ngày tôi ghét phải chờ, nhất là khi bạn bè có đồ mới."
+        },
+        {
+          "id": "s1-39-06",
+          "kind": "sentence",
+          "en": "Mom asks me to think about what I already have.",
+          "vi": "Mẹ nhắc tôi nghĩ về những gì mình đang có."
+        },
+        {
+          "id": "s1-39-07",
+          "kind": "sentence",
+          "en": "I love playing with my friends, and our games are fun with any ball.",
+          "vi": "Tôi thích chơi cùng bạn bè, và dùng quả bóng nào thì chúng tôi cũng chơi vui."
+        },
+        {
+          "id": "s1-39-08",
+          "kind": "sentence",
+          "en": "I hope to buy a new one soon, but I can enjoy today too.",
+          "vi": "Tôi hy vọng sớm mua được bóng mới, nhưng vẫn có thể tận hưởng ngày hôm nay."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "pay",
+          "meaning": "trả tiền",
+          "sourceId": 381
+        },
+        {
+          "word": "spend",
+          "meaning": "tiêu; dành (thời gian)",
+          "sourceId": 382
+        },
+        {
+          "word": "need",
+          "meaning": "cần",
+          "sourceId": 383
+        },
+        {
+          "word": "want",
+          "meaning": "muốn",
+          "sourceId": 384
+        },
+        {
+          "word": "like",
+          "meaning": "thích",
+          "sourceId": 385
+        },
+        {
+          "word": "love",
+          "meaning": "yêu",
+          "sourceId": 386
+        },
+        {
+          "word": "hate",
+          "meaning": "ghét",
+          "sourceId": 387
+        },
+        {
+          "word": "hope",
+          "meaning": "hy vọng",
+          "sourceId": 388
+        },
+        {
+          "word": "know",
+          "meaning": "biết",
+          "sourceId": 389
+        },
+        {
+          "word": "think",
+          "meaning": "nghĩ",
+          "sourceId": 390
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "A Page Every Day",
+      "titleVi": "Mỗi ngày một trang sách",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-40-01",
+          "kind": "sentence",
+          "en": "I study English with my sister after dinner.",
+          "vi": "Tôi học tiếng Anh cùng chị gái sau bữa tối."
+        },
+        {
+          "id": "s1-40-02",
+          "kind": "sentence",
+          "en": "She does not teach at a school, but she likes helping me learn.",
+          "vi": "Chị không dạy ở trường, nhưng chị thích giúp tôi học."
+        },
+        {
+          "id": "s1-40-03",
+          "kind": "sentence",
+          "en": "First, I read a short story.",
+          "vi": "Trước tiên, tôi đọc một truyện ngắn."
+        },
+        {
+          "id": "s1-40-04",
+          "kind": "sentence",
+          "en": "Then I write two sentences about it.",
+          "vi": "Sau đó, tôi viết hai câu về truyện."
+        },
+        {
+          "id": "s1-40-05",
+          "kind": "sentence",
+          "en": "If I do not understand something, I ask her to say it another way.",
+          "vi": "Nếu không hiểu điều gì, tôi nhờ chị diễn đạt theo cách khác."
+        },
+        {
+          "id": "s1-40-06",
+          "kind": "sentence",
+          "en": "We speak English for a few minutes before we finish.",
+          "vi": "Chúng tôi nói tiếng Anh vài phút trước khi kết thúc."
+        },
+        {
+          "id": "s1-40-07",
+          "kind": "sentence",
+          "en": "I sometimes forget a word I knew yesterday.",
+          "vi": "Đôi khi, tôi quên một từ mà hôm qua mình vẫn còn nhớ."
+        },
+        {
+          "id": "s1-40-08",
+          "kind": "sentence",
+          "en": "My sister tells me that this is normal.",
+          "vi": "Chị nói với tôi rằng điều đó là bình thường."
+        },
+        {
+          "id": "s1-40-09",
+          "kind": "sentence",
+          "en": "\"Remember one useful sentence and use it tomorrow,\" she says.",
+          "vi": "“Hãy nhớ một câu hữu ích và dùng nó vào ngày mai,” chị nói."
+        },
+        {
+          "id": "s1-40-10",
+          "kind": "sentence",
+          "en": "A page every day is helping me feel more comfortable with English.",
+          "vi": "Đọc một trang mỗi ngày đang giúp tôi cảm thấy tự tin hơn với tiếng Anh."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "understand",
+          "meaning": "hiểu",
+          "sourceId": 391
+        },
+        {
+          "word": "remember",
+          "meaning": "nhớ",
+          "sourceId": 392
+        },
+        {
+          "word": "forget",
+          "meaning": "quên",
+          "sourceId": 393
+        },
+        {
+          "word": "learn",
+          "meaning": "học",
+          "sourceId": 394
+        },
+        {
+          "word": "study",
+          "meaning": "học; nghiên cứu",
+          "sourceId": 395
+        },
+        {
+          "word": "teach",
+          "meaning": "dạy",
+          "sourceId": 396
+        },
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "sourceId": 397
+        },
+        {
+          "word": "write",
+          "meaning": "viết",
+          "sourceId": 398
+        },
+        {
+          "word": "speak",
+          "meaning": "nói",
+          "sourceId": 399
+        },
+        {
+          "word": "say",
+          "meaning": "nói",
+          "sourceId": 400
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "The Sound Behind the Door",
+      "titleVi": "Âm thanh sau cánh cửa",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-41-01",
+          "kind": "sentence",
+          "en": "My sister and I hear a strange sound behind the kitchen door.",
+          "vi": "Chị em tôi nghe một âm thanh lạ sau cửa bếp."
+        },
+        {
+          "id": "s1-41-02",
+          "kind": "group",
+          "en": "We stop to listen. It sounds like a small animal.",
+          "vi": "Chúng tôi dừng lại lắng nghe. Nghe giống tiếng một con vật nhỏ."
+        },
+        {
+          "id": "s1-41-03",
+          "kind": "group",
+          "en": "\"Can you see anything?\" she asks.",
+          "vi": "“Em có thấy gì không?” chị hỏi."
+        },
+        {
+          "id": "s1-41-04",
+          "kind": "sentence",
+          "en": "I look through the window, but the room is dark.",
+          "vi": "Tôi nhìn qua cửa sổ, nhưng trong phòng tối quá."
+        },
+        {
+          "id": "s1-41-05",
+          "kind": "sentence",
+          "en": "We ask Dad to help us.",
+          "vi": "Chúng tôi nhờ bố giúp."
+        },
+        {
+          "id": "s1-41-06",
+          "kind": "sentence",
+          "en": "He opens the door and tells us to watch the floor.",
+          "vi": "Bố mở cửa và bảo chúng tôi nhìn xuống sàn."
+        },
+        {
+          "id": "s1-41-07",
+          "kind": "sentence",
+          "en": "A little cat walks out from under a chair.",
+          "vi": "Một chú mèo nhỏ bước ra từ dưới ghế."
+        },
+        {
+          "id": "s1-41-08",
+          "kind": "sentence",
+          "en": "We try to call it, but it runs away.",
+          "vi": "Chúng tôi thử gọi nó, nhưng nó lại chạy mất."
+        },
+        {
+          "id": "s1-41-09",
+          "kind": "sentence",
+          "en": "Later, we talk to our neighbor, who is looking for her cat.",
+          "vi": "Sau đó, chúng tôi nói chuyện với cô hàng xóm đang tìm mèo."
+        },
+        {
+          "id": "s1-41-10",
+          "kind": "sentence",
+          "en": "We tell her what happened and show her where it went.",
+          "vi": "Chúng tôi kể chuyện đã xảy ra và chỉ cho cô hướng nó chạy."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "tell",
+          "meaning": "kể; bảo",
+          "sourceId": 401
+        },
+        {
+          "word": "talk",
+          "meaning": "nói chuyện",
+          "sourceId": 402
+        },
+        {
+          "word": "listen",
+          "meaning": "lắng nghe",
+          "sourceId": 403
+        },
+        {
+          "word": "hear",
+          "meaning": "nghe thấy",
+          "sourceId": 404
+        },
+        {
+          "word": "see",
+          "meaning": "nhìn thấy",
+          "sourceId": 405
+        },
+        {
+          "word": "look",
+          "meaning": "nhìn",
+          "sourceId": 406
+        },
+        {
+          "word": "watch",
+          "meaning": "xem",
+          "sourceId": 407
+        },
+        {
+          "word": "ask",
+          "meaning": "hỏi",
+          "sourceId": 408
+        },
+        {
+          "word": "help",
+          "meaning": "giúp",
+          "sourceId": 409
+        },
+        {
+          "word": "try",
+          "meaning": "thử",
+          "sourceId": 410
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "The Place Where We Play",
+      "titleVi": "Nơi chúng tôi vui chơi",
+      "wordCount": 100,
+      "segments": [
+        {
+          "id": "s1-42-01",
+          "kind": "sentence",
+          "en": "The people who live on our street want a place for children to play.",
+          "vi": "Những người sống trên phố chúng tôi muốn có chỗ cho trẻ em vui chơi."
+        },
+        {
+          "id": "s1-42-02",
+          "kind": "sentence",
+          "en": "There is an empty room near the shop that nobody needs.",
+          "vi": "Có một căn phòng trống gần cửa hàng mà không ai cần dùng."
+        },
+        {
+          "id": "s1-42-03",
+          "kind": "sentence",
+          "en": "We ask if we can use it on Saturday and wait for an answer.",
+          "vi": "Chúng tôi hỏi xem có thể dùng phòng vào thứ Bảy không rồi chờ câu trả lời."
+        },
+        {
+          "id": "s1-42-04",
+          "kind": "sentence",
+          "en": "Our parents come to work with us, and we start by cleaning the floor.",
+          "vi": "Bố mẹ đến làm cùng, và chúng tôi bắt đầu bằng việc lau sàn."
+        },
+        {
+          "id": "s1-42-05",
+          "kind": "sentence",
+          "en": "We stop for water, then finish putting the books and games in place.",
+          "vi": "Chúng tôi dừng lại uống nước rồi xếp nốt sách và trò chơi vào chỗ."
+        },
+        {
+          "id": "s1-42-06",
+          "kind": "sentence",
+          "en": "Some children stay to try a game while others leave for lunch.",
+          "vi": "Một số bạn ở lại chơi thử, còn những bạn khác ra về ăn trưa."
+        },
+        {
+          "id": "s1-42-07",
+          "kind": "sentence",
+          "en": "Before we go, we make a sign for the door.",
+          "vi": "Trước khi đi, chúng tôi làm một tấm biển treo ở cửa."
+        },
+        {
+          "id": "s1-42-08",
+          "kind": "sentence",
+          "en": "Now our street has a place where friends can meet after school.",
+          "vi": "Giờ khu phố đã có nơi để bạn bè gặp nhau sau giờ học."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "use",
+          "meaning": "sử dụng",
+          "sourceId": 411
+        },
+        {
+          "word": "work",
+          "meaning": "làm việc",
+          "sourceId": 412
+        },
+        {
+          "word": "play",
+          "meaning": "chơi",
+          "sourceId": 413
+        },
+        {
+          "word": "start",
+          "meaning": "bắt đầu",
+          "sourceId": 414
+        },
+        {
+          "word": "stop",
+          "meaning": "dừng",
+          "sourceId": 415
+        },
+        {
+          "word": "finish",
+          "meaning": "hoàn thành",
+          "sourceId": 416
+        },
+        {
+          "word": "wait",
+          "meaning": "đợi",
+          "sourceId": 417
+        },
+        {
+          "word": "stay",
+          "meaning": "ở lại",
+          "sourceId": 418
+        },
+        {
+          "word": "leave",
+          "meaning": "rời đi",
+          "sourceId": 419
+        },
+        {
+          "word": "live",
+          "meaning": "sống",
+          "sourceId": 420
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Looking After Our Dog",
+      "titleVi": "Chăm sóc chú chó của gia đình",
+      "wordCount": 96,
+      "segments": [
+        {
+          "id": "s1-43-01",
+          "kind": "sentence",
+          "en": "Our dog is old, so we move his bed near the kitchen where it is warm.",
+          "vi": "Chó nhà tôi đã già nên chúng tôi chuyển ổ nằm của nó đến gần căn bếp ấm áp."
+        },
+        {
+          "id": "s1-43-02",
+          "kind": "sentence",
+          "en": "He does not run as much as before, but he still likes to walk with us.",
+          "vi": "Nó không chạy nhiều như trước nữa, nhưng vẫn thích đi dạo với chúng tôi."
+        },
+        {
+          "id": "s1-43-03",
+          "kind": "sentence",
+          "en": "In the morning, we wake early and give him water to drink.",
+          "vi": "Buổi sáng, chúng tôi dậy sớm và cho nó uống nước."
+        },
+        {
+          "id": "s1-43-04",
+          "kind": "sentence",
+          "en": "He is slow to eat, so we sit beside him and wait.",
+          "vi": "Nó ăn chậm, nên chúng tôi ngồi cạnh và chờ."
+        },
+        {
+          "id": "s1-43-05",
+          "kind": "sentence",
+          "en": "When he wants to go outside, he will stand by the door.",
+          "vi": "Khi muốn ra ngoài, nó sẽ đứng cạnh cửa."
+        },
+        {
+          "id": "s1-43-06",
+          "kind": "sentence",
+          "en": "He can sleep for hours after a short walk.",
+          "vi": "Sau một quãng đi bộ ngắn, nó có thể ngủ hàng giờ."
+        },
+        {
+          "id": "s1-43-07",
+          "kind": "sentence",
+          "en": "I know every animal will die one day.",
+          "vi": "Tôi biết một ngày nào đó con vật nào rồi cũng sẽ chết."
+        },
+        {
+          "id": "s1-43-08",
+          "kind": "sentence",
+          "en": "For now, I want our dog to feel safe and loved.",
+          "vi": "Còn bây giờ, tôi muốn chú chó của mình cảm thấy an toàn và được yêu thương."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "die",
+          "meaning": "chết",
+          "sourceId": 421
+        },
+        {
+          "word": "move",
+          "meaning": "di chuyển",
+          "sourceId": 422
+        },
+        {
+          "word": "walk",
+          "meaning": "đi bộ",
+          "sourceId": 423
+        },
+        {
+          "word": "run",
+          "meaning": "chạy",
+          "sourceId": 424
+        },
+        {
+          "word": "sit",
+          "meaning": "ngồi",
+          "sourceId": 425
+        },
+        {
+          "word": "stand",
+          "meaning": "đứng",
+          "sourceId": 426
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "sourceId": 427
+        },
+        {
+          "word": "wake",
+          "meaning": "thức dậy",
+          "sourceId": 428
+        },
+        {
+          "word": "eat",
+          "meaning": "ăn",
+          "sourceId": 429
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "sourceId": 430
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Getting Ready for Dinner",
+      "titleVi": "Chuẩn bị cho bữa tối",
+      "wordCount": 101,
+      "segments": [
+        {
+          "id": "s1-44-01",
+          "kind": "sentence",
+          "en": "My sister and I want to cook dinner before our parents come home.",
+          "vi": "Chị em tôi muốn nấu bữa tối trước khi bố mẹ về nhà."
+        },
+        {
+          "id": "s1-44-02",
+          "kind": "sentence",
+          "en": "First, we wash our hands and find the food in the kitchen.",
+          "vi": "Trước tiên, chúng tôi rửa tay và tìm thực phẩm trong bếp."
+        },
+        {
+          "id": "s1-44-03",
+          "kind": "sentence",
+          "en": "I wear an old shirt because I might get dirty.",
+          "vi": "Tôi mặc áo cũ vì có thể sẽ bị bẩn."
+        },
+        {
+          "id": "s1-44-04",
+          "kind": "sentence",
+          "en": "My sister helps our little brother dress before he sits down to watch us.",
+          "vi": "Chị giúp em trai nhỏ mặc quần áo rồi em ngồi xuống xem chúng tôi nấu."
+        },
+        {
+          "id": "s1-44-05",
+          "kind": "sentence",
+          "en": "We turn on the light above the table and keep a bowl nearby for the vegetables.",
+          "vi": "Chúng tôi bật đèn phía trên bàn và để sẵn một chiếc bát gần đó để đựng rau."
+        },
+        {
+          "id": "s1-44-06",
+          "kind": "sentence",
+          "en": "\"Hold this for me,\" she says as she gets a spoon.",
+          "vi": "“Em cầm cái này giúp chị nhé,” chị nói khi lấy thìa."
+        },
+        {
+          "id": "s1-44-07",
+          "kind": "group",
+          "en": "We change our plan when we cannot find any rice. Bread and eggs will be fine.",
+          "vi": "Chúng tôi đổi kế hoạch khi không tìm thấy gạo. Bánh mì và trứng cũng được."
+        },
+        {
+          "id": "s1-44-08",
+          "kind": "sentence",
+          "en": "The important thing is not to lose time arguing.",
+          "vi": "Điều quan trọng là đừng mất thời gian tranh cãi."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cook",
+          "meaning": "nấu ăn",
+          "sourceId": 431
+        },
+        {
+          "word": "wash",
+          "meaning": "rửa",
+          "sourceId": 432
+        },
+        {
+          "word": "dress",
+          "meaning": "mặc quần áo",
+          "sourceId": 433
+        },
+        {
+          "word": "wear",
+          "meaning": "mặc; đeo",
+          "sourceId": 434
+        },
+        {
+          "word": "change",
+          "meaning": "thay đổi",
+          "sourceId": 435
+        },
+        {
+          "word": "turn",
+          "meaning": "rẽ; xoay",
+          "sourceId": 436
+        },
+        {
+          "word": "find",
+          "meaning": "tìm thấy",
+          "sourceId": 437
+        },
+        {
+          "word": "lose",
+          "meaning": "mất",
+          "sourceId": 438
+        },
+        {
+          "word": "keep",
+          "meaning": "giữ",
+          "sourceId": 439
+        },
+        {
+          "word": "hold",
+          "meaning": "cầm; giữ",
+          "sourceId": 440
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Our Plans for the School Break",
+      "titleVi": "Kế hoạch cho kỳ nghỉ học",
+      "wordCount": 101,
+      "segments": [
+        {
+          "id": "s1-45-01",
+          "kind": "sentence",
+          "en": "During the school break, my friend wants to travel with her family.",
+          "vi": "Trong kỳ nghỉ học, bạn tôi muốn đi du lịch cùng gia đình."
+        },
+        {
+          "id": "s1-45-02",
+          "kind": "sentence",
+          "en": "They will fly to another city and visit her uncle.",
+          "vi": "Họ sẽ bay đến một thành phố khác để thăm chú của bạn ấy."
+        },
+        {
+          "id": "s1-45-03",
+          "kind": "sentence",
+          "en": "I will stay near home, but I have plans too.",
+          "vi": "Tôi sẽ ở gần nhà, nhưng tôi cũng có kế hoạch riêng."
+        },
+        {
+          "id": "s1-45-04",
+          "kind": "sentence",
+          "en": "Dad will drive us to a lake where we can swim.",
+          "vi": "Bố sẽ lái xe đưa chúng tôi đến một cái hồ có thể bơi được."
+        },
+        {
+          "id": "s1-45-05",
+          "kind": "sentence",
+          "en": "My brother wants to ride his bicycle there, but the road is too long.",
+          "vi": "Em trai muốn đạp xe đến đó, nhưng đường quá xa."
+        },
+        {
+          "id": "s1-45-06",
+          "kind": "sentence",
+          "en": "On Friday, we will meet our cousins for dinner.",
+          "vi": "Vào thứ Sáu, chúng tôi sẽ gặp các anh chị em họ để ăn tối."
+        },
+        {
+          "id": "s1-45-07",
+          "kind": "sentence",
+          "en": "They love music and always ask us to sing and dance with them.",
+          "vi": "Họ thích âm nhạc và luôn rủ chúng tôi hát, nhảy cùng."
+        },
+        {
+          "id": "s1-45-08",
+          "kind": "sentence",
+          "en": "I promise to call my friend and tell her about it.",
+          "vi": "Tôi hứa sẽ gọi cho bạn và kể lại mọi chuyện."
+        },
+        {
+          "id": "s1-45-09",
+          "kind": "sentence",
+          "en": "A good break does not have to take us far away.",
+          "vi": "Một kỳ nghỉ vui không nhất thiết phải đưa ta đi thật xa."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "meet",
+          "meaning": "gặp",
+          "sourceId": 441
+        },
+        {
+          "word": "call",
+          "meaning": "gọi",
+          "sourceId": 442
+        },
+        {
+          "word": "visit",
+          "meaning": "thăm",
+          "sourceId": 443
+        },
+        {
+          "word": "travel",
+          "meaning": "du lịch",
+          "sourceId": 444
+        },
+        {
+          "word": "drive",
+          "meaning": "lái xe",
+          "sourceId": 445
+        },
+        {
+          "word": "ride",
+          "meaning": "đi xe",
+          "sourceId": 446
+        },
+        {
+          "word": "fly",
+          "meaning": "bay",
+          "sourceId": 447
+        },
+        {
+          "word": "swim",
+          "meaning": "bơi",
+          "sourceId": 448
+        },
+        {
+          "word": "dance",
+          "meaning": "nhảy múa",
+          "sourceId": 449
+        },
+        {
+          "word": "sing",
+          "meaning": "hát",
+          "sourceId": 450
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Before the School Show",
+      "titleVi": "Trước buổi biểu diễn ở trường",
+      "wordCount": 99,
+      "segments": [
+        {
+          "id": "s1-46-01",
+          "kind": "sentence",
+          "en": "Before the school show, I feel so afraid that I want to cry.",
+          "vi": "Trước buổi biểu diễn ở trường, tôi sợ đến mức muốn khóc."
+        },
+        {
+          "id": "s1-46-02",
+          "kind": "sentence",
+          "en": "I want to become a singer, but standing in front of people is difficult.",
+          "vi": "Tôi muốn trở thành ca sĩ, nhưng đứng trước nhiều người thật khó."
+        },
+        {
+          "id": "s1-46-03",
+          "kind": "group",
+          "en": "My teacher asks me to check the room. She opens the door to show me the people inside.",
+          "vi": "Cô giáo bảo tôi nhìn xem căn phòng thế nào. Cô mở cửa để cho tôi thấy những người bên trong."
+        },
+        {
+          "id": "s1-46-04",
+          "kind": "sentence",
+          "en": "\"A mistake does not mean you are a bad singer,\" she says.",
+          "vi": "“Một lỗi nhỏ không có nghĩa là em hát dở,” cô nói."
+        },
+        {
+          "id": "s1-46-05",
+          "kind": "sentence",
+          "en": "I take a slow breath and try to smile.",
+          "vi": "Tôi hít thở chậm rồi cố mỉm cười."
+        },
+        {
+          "id": "s1-46-06",
+          "kind": "sentence",
+          "en": "Things do not seem so frightening now.",
+          "vi": "Giờ mọi thứ có vẻ không còn đáng sợ đến thế."
+        },
+        {
+          "id": "s1-46-07",
+          "kind": "sentence",
+          "en": "Whatever may happen, my friends will help me.",
+          "vi": "Dù có chuyện gì xảy ra, bạn bè sẽ giúp tôi."
+        },
+        {
+          "id": "s1-46-08",
+          "kind": "sentence",
+          "en": "I walk onto the stage.",
+          "vi": "Tôi bước lên sân khấu."
+        },
+        {
+          "id": "s1-46-09",
+          "kind": "sentence",
+          "en": "In the first song, a funny line makes everyone laugh, and I relax.",
+          "vi": "Trong bài hát đầu tiên, một câu hát vui khiến mọi người bật cười, và tôi thấy thoải mái hơn."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "smile",
+          "meaning": "mỉm cười",
+          "sourceId": 451
+        },
+        {
+          "word": "laugh",
+          "meaning": "cười",
+          "sourceId": 452
+        },
+        {
+          "word": "cry",
+          "meaning": "khóc",
+          "sourceId": 453
+        },
+        {
+          "word": "feel",
+          "meaning": "cảm thấy",
+          "sourceId": 454
+        },
+        {
+          "word": "become",
+          "meaning": "trở thành",
+          "sourceId": 455
+        },
+        {
+          "word": "happen",
+          "meaning": "xảy ra",
+          "sourceId": 456
+        },
+        {
+          "word": "seem",
+          "meaning": "có vẻ",
+          "sourceId": 457
+        },
+        {
+          "word": "mean",
+          "meaning": "có nghĩa",
+          "sourceId": 458
+        },
+        {
+          "word": "show",
+          "meaning": "cho xem",
+          "sourceId": 459
+        },
+        {
+          "word": "check",
+          "meaning": "kiểm tra",
+          "sourceId": 460
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Building a Toy House",
+      "titleVi": "Làm nhà đồ chơi",
+      "wordCount": 100,
+      "segments": [
+        {
+          "id": "s1-47-01",
+          "kind": "sentence",
+          "en": "Dad helps us build a toy house from a box.",
+          "vi": "Bố giúp chúng tôi làm một ngôi nhà đồ chơi từ chiếc hộp."
+        },
+        {
+          "id": "s1-47-02",
+          "kind": "sentence",
+          "en": "First, we choose a place on the table and carry the box there.",
+          "vi": "Đầu tiên, chúng tôi chọn một chỗ trên bàn rồi mang hộp đến đó."
+        },
+        {
+          "id": "s1-47-03",
+          "kind": "sentence",
+          "en": "Dad uses a knife to cut out a little door.",
+          "vi": "Bố dùng dao cắt một ô cửa nhỏ."
+        },
+        {
+          "id": "s1-47-04",
+          "kind": "sentence",
+          "en": "I push it open while my brother holds the wall.",
+          "vi": "Tôi đẩy cửa ra trong khi em trai giữ vách nhà."
+        },
+        {
+          "id": "s1-47-05",
+          "kind": "sentence",
+          "en": "\"Do not pull too hard, or you will break it,\" Dad says.",
+          "vi": "“Đừng kéo mạnh quá, kẻo làm hỏng nó,” bố nói."
+        },
+        {
+          "id": "s1-47-06",
+          "kind": "sentence",
+          "en": "We make a small window too.",
+          "vi": "Chúng tôi làm thêm một cửa sổ nhỏ."
+        },
+        {
+          "id": "s1-47-07",
+          "kind": "sentence",
+          "en": "My brother drops the roof, but we can fix it with some paper.",
+          "vi": "Em trai làm rơi mái nhà, nhưng chúng tôi có thể dùng giấy sửa lại."
+        },
+        {
+          "id": "s1-47-08",
+          "kind": "sentence",
+          "en": "We throw the extra pieces into a bag.",
+          "vi": "Chúng tôi ném những mẩu thừa vào một chiếc túi."
+        },
+        {
+          "id": "s1-47-09",
+          "kind": "sentence",
+          "en": "One piece falls past the bag, and I catch it.",
+          "vi": "Một mẩu rơi ra ngoài miệng túi, và tôi chụp được nó."
+        },
+        {
+          "id": "s1-47-10",
+          "kind": "sentence",
+          "en": "Soon, our little toy family has a home.",
+          "vi": "Chẳng mấy chốc, gia đình đồ chơi nhỏ của chúng tôi đã có nhà."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "choose",
+          "meaning": "chọn",
+          "sourceId": 461
+        },
+        {
+          "word": "cut",
+          "meaning": "cắt",
+          "sourceId": 462
+        },
+        {
+          "word": "break",
+          "meaning": "làm vỡ",
+          "sourceId": 463
+        },
+        {
+          "word": "fix",
+          "meaning": "sửa",
+          "sourceId": 464
+        },
+        {
+          "word": "build",
+          "meaning": "xây dựng",
+          "sourceId": 465
+        },
+        {
+          "word": "carry",
+          "meaning": "mang; vác",
+          "sourceId": 466
+        },
+        {
+          "word": "push",
+          "meaning": "đẩy",
+          "sourceId": 467
+        },
+        {
+          "word": "pull",
+          "meaning": "kéo",
+          "sourceId": 468
+        },
+        {
+          "word": "throw",
+          "meaning": "ném",
+          "sourceId": 469
+        },
+        {
+          "word": "catch",
+          "meaning": "bắt; chụp",
+          "sourceId": 470
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Breakfast at Grandmas House",
+      "titleVi": "Bữa sáng ở nhà bà",
+      "wordCount": 95,
+      "segments": [
+        {
+          "id": "s1-48-01",
+          "kind": "sentence",
+          "en": "On Sunday, we have breakfast at Grandma's house.",
+          "vi": "Vào Chủ nhật, chúng tôi ăn sáng ở nhà bà."
+        },
+        {
+          "id": "s1-48-02",
+          "kind": "sentence",
+          "en": "She puts an old blue cup beside my plate and fills it with milk.",
+          "vi": "Bà đặt một chiếc cốc màu xanh dương đã cũ cạnh đĩa của tôi rồi rót đầy sữa."
+        },
+        {
+          "id": "s1-48-03",
+          "kind": "sentence",
+          "en": "Dad has coffee, and Mom asks for tea.",
+          "vi": "Bố uống cà phê, còn mẹ xin một tách trà."
+        },
+        {
+          "id": "s1-48-04",
+          "kind": "sentence",
+          "en": "There is bread on the table, with some other food in little bowls.",
+          "vi": "Trên bàn có bánh mì cùng vài món ăn khác trong những chiếc bát nhỏ."
+        },
+        {
+          "id": "s1-48-05",
+          "kind": "sentence",
+          "en": "Grandma brings the rice from the kitchen while I pour water for everyone.",
+          "vi": "Bà mang cơm từ bếp ra trong khi tôi rót nước cho mọi người."
+        },
+        {
+          "id": "s1-48-06",
+          "kind": "sentence",
+          "en": "We eat slowly and talk about our week.",
+          "vi": "Chúng tôi ăn chậm rãi và kể chuyện trong tuần."
+        },
+        {
+          "id": "s1-48-07",
+          "kind": "sentence",
+          "en": "A bird sings outside the open window.",
+          "vi": "Một con chim hót bên ngoài cửa sổ đang mở."
+        },
+        {
+          "id": "s1-48-08",
+          "kind": "sentence",
+          "en": "When the meal is over, I help wash the cups.",
+          "vi": "Ăn xong, tôi giúp rửa cốc."
+        },
+        {
+          "id": "s1-48-09",
+          "kind": "sentence",
+          "en": "Grandma says I can come back next Sunday, and I already know I will.",
+          "vi": "Bà bảo Chủ nhật tới tôi có thể lại đến, và tôi biết chắc mình sẽ đến."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "a",
+          "meaning": "một (mạo từ)",
+          "sourceId": 471
+        },
+        {
+          "word": "an",
+          "meaning": "một (mạo từ)",
+          "sourceId": 472
+        },
+        {
+          "word": "the",
+          "meaning": "mạo từ xác định",
+          "sourceId": 473
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "sourceId": 474
+        },
+        {
+          "word": "food",
+          "meaning": "thức ăn",
+          "sourceId": 475
+        },
+        {
+          "word": "rice",
+          "meaning": "cơm; gạo",
+          "sourceId": 476
+        },
+        {
+          "word": "bread",
+          "meaning": "bánh mì",
+          "sourceId": 477
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "sourceId": 478
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "sourceId": 479
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "sourceId": 480
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Shopping for Dinner",
+      "titleVi": "Mua thực phẩm cho bữa tối",
+      "wordCount": 101,
+      "segments": [
+        {
+          "id": "s1-49-01",
+          "kind": "sentence",
+          "en": "Mom and I go shopping for dinner.",
+          "vi": "Mẹ và tôi đi mua thực phẩm cho bữa tối."
+        },
+        {
+          "id": "s1-49-02",
+          "kind": "sentence",
+          "en": "She wants chicken, but I would like fish.",
+          "vi": "Mẹ muốn ăn thịt gà, nhưng tôi lại muốn ăn cá."
+        },
+        {
+          "id": "s1-49-03",
+          "kind": "sentence",
+          "en": "We decide to buy a little of each and leave the other meat for another day.",
+          "vi": "Chúng tôi quyết định mua mỗi thứ một ít, còn loại thịt khác thì để hôm khác."
+        },
+        {
+          "id": "s1-49-04",
+          "kind": "sentence",
+          "en": "At the fruit shop, I choose an apple for myself and a banana for my brother.",
+          "vi": "Ở cửa hàng trái cây, tôi chọn một quả táo cho mình và một quả chuối cho em trai."
+        },
+        {
+          "id": "s1-49-05",
+          "kind": "sentence",
+          "en": "Mom asks me to find a green vegetable for the meal.",
+          "vi": "Mẹ nhờ tôi tìm một loại rau xanh cho bữa ăn."
+        },
+        {
+          "id": "s1-49-06",
+          "kind": "sentence",
+          "en": "Back at home, I put an egg in a bowl while she starts to cook.",
+          "vi": "Về nhà, tôi cho một quả trứng vào bát trong khi mẹ bắt đầu nấu."
+        },
+        {
+          "id": "s1-49-07",
+          "kind": "sentence",
+          "en": "She adds a little salt, then asks me to make tea.",
+          "vi": "Mẹ thêm chút muối rồi nhờ tôi pha trà."
+        },
+        {
+          "id": "s1-49-08",
+          "kind": "sentence",
+          "en": "I almost put sugar into the wrong bowl.",
+          "vi": "Suýt nữa tôi cho đường nhầm vào bát thức ăn."
+        },
+        {
+          "id": "s1-49-09",
+          "kind": "sentence",
+          "en": "We laugh, and I check before adding anything else.",
+          "vi": "Chúng tôi bật cười, và tôi kiểm tra trước khi cho thêm bất cứ thứ gì."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fruit",
+          "meaning": "trái cây",
+          "sourceId": 481
+        },
+        {
+          "word": "apple",
+          "meaning": "quả táo",
+          "sourceId": 482
+        },
+        {
+          "word": "banana",
+          "meaning": "quả chuối",
+          "sourceId": 483
+        },
+        {
+          "word": "egg",
+          "meaning": "trứng",
+          "sourceId": 484
+        },
+        {
+          "word": "meat",
+          "meaning": "thịt",
+          "sourceId": 485
+        },
+        {
+          "word": "fish",
+          "meaning": "cá",
+          "sourceId": 486
+        },
+        {
+          "word": "chicken",
+          "meaning": "thịt gà; con gà",
+          "sourceId": 487
+        },
+        {
+          "word": "vegetable",
+          "meaning": "rau",
+          "sourceId": 488
+        },
+        {
+          "word": "sugar",
+          "meaning": "đường",
+          "sourceId": 489
+        },
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "sourceId": 490
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Lunch for a New Student",
+      "titleVi": "Bữa trưa cho học sinh mới",
+      "wordCount": 100,
+      "segments": [
+        {
+          "id": "s1-50-01",
+          "kind": "sentence",
+          "en": "A new student comes to our school today.",
+          "vi": "Hôm nay, một học sinh mới đến trường tôi."
+        },
+        {
+          "id": "s1-50-02",
+          "kind": "sentence",
+          "en": "At breakfast, Mom gives me some money for lunch.",
+          "vi": "Trong bữa sáng, mẹ cho tôi ít tiền ăn trưa."
+        },
+        {
+          "id": "s1-50-03",
+          "kind": "sentence",
+          "en": "She works at a small restaurant next to the book shop.",
+          "vi": "Mẹ làm ở một nhà hàng nhỏ cạnh hiệu sách."
+        },
+        {
+          "id": "s1-50-04",
+          "kind": "sentence",
+          "en": "At noon, I see the new boy sitting alone.",
+          "vi": "Đến trưa, tôi thấy bạn mới ngồi một mình."
+        },
+        {
+          "id": "s1-50-05",
+          "kind": "sentence",
+          "en": "He has forgotten his food, so I ask him to come with me.",
+          "vi": "Bạn ấy quên mang đồ ăn, nên tôi rủ bạn đi cùng."
+        },
+        {
+          "id": "s1-50-06",
+          "kind": "sentence",
+          "en": "Mom shows us a meal with a low price.",
+          "vi": "Mẹ chỉ cho chúng tôi một suất ăn giá rẻ."
+        },
+        {
+          "id": "s1-50-07",
+          "kind": "sentence",
+          "en": "We have enough money to share it.",
+          "vi": "Chúng tôi có đủ tiền để mua rồi chia nhau ăn."
+        },
+        {
+          "id": "s1-50-08",
+          "kind": "sentence",
+          "en": "Our teacher comes in for her own lunch and sits nearby.",
+          "vi": "Cô giáo cũng vào ăn trưa và ngồi gần đó."
+        },
+        {
+          "id": "s1-50-09",
+          "kind": "sentence",
+          "en": "After school, the boy thanks me and asks if we can play together before dinner.",
+          "vi": "Tan học, cậu bạn cảm ơn và hỏi liệu chúng tôi có thể chơi cùng nhau trước bữa tối không."
+        },
+        {
+          "id": "s1-50-10",
+          "kind": "sentence",
+          "en": "I think I have made a new friend.",
+          "vi": "Tôi nghĩ mình vừa có thêm một người bạn mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "sourceId": 491
+        },
+        {
+          "word": "lunch",
+          "meaning": "bữa trưa",
+          "sourceId": 492
+        },
+        {
+          "word": "dinner",
+          "meaning": "bữa tối",
+          "sourceId": 493
+        },
+        {
+          "word": "restaurant",
+          "meaning": "nhà hàng",
+          "sourceId": 494
+        },
+        {
+          "word": "shop",
+          "meaning": "cửa hàng",
+          "sourceId": 495
+        },
+        {
+          "word": "school",
+          "meaning": "trường học",
+          "sourceId": 496
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "sourceId": 497
+        },
+        {
+          "word": "student",
+          "meaning": "học sinh; sinh viên",
+          "sourceId": 498
+        },
+        {
+          "word": "money",
+          "meaning": "tiền",
+          "sourceId": 499
+        },
+        {
+          "word": "price",
+          "meaning": "giá cả",
+          "sourceId": 500
+        }
+      ]
+    }
+  ]
+}

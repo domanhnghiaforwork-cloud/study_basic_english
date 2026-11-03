@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 4,
+  "sourceFile": "paragraph/04_the_bag_on_the_bus.md",
+  "sourceSha256": "0895803faf01978ba896944c40bd2bd9b00e766db1d353f6c24e4ecdb242fe77",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-04-01",
+      "kind": "sentence",
+      "en": "Someone leaves a small bag on the bus.",
+      "vi": "Ai đó để quên một chiếc túi nhỏ trên xe buýt."
+    },
+    {
+      "id": "s1-04-02",
+      "kind": "group",
+      "en": "\"Whose bag is this?\" the driver asks.",
+      "vi": "“Túi này của ai vậy?” bác tài hỏi."
+    },
+    {
+      "id": "s1-04-03",
+      "kind": "sentence",
+      "en": "Nobody answers.",
+      "vi": "Không ai trả lời."
+    },
+    {
+      "id": "s1-04-04",
+      "kind": "sentence",
+      "en": "He looks inside and finds something useful: a book with a name on it.",
+      "vi": "Bác nhìn vào trong và tìm thấy một thứ hữu ích: một cuốn sách có ghi tên trên đó."
+    },
+    {
+      "id": "s1-04-05",
+      "kind": "group",
+      "en": "\"Does anyone know a girl called Mai?\" he asks.",
+      "vi": "“Có ai biết một cô bé tên Mai không?” bác hỏi."
+    },
+    {
+      "id": "s1-04-06",
+      "kind": "sentence",
+      "en": "Everyone looks around, but she is not there.",
+      "vi": "Mọi người nhìn quanh, nhưng cô bé không có ở đó."
+    },
+    {
+      "id": "s1-04-07",
+      "kind": "group",
+      "en": "Which school does she go to? The book gives him the answer.",
+      "vi": "Cô bé học trường nào nhỉ? Cuốn sách giúp bác tìm được câu trả lời."
+    },
+    {
+      "id": "s1-04-08",
+      "kind": "sentence",
+      "en": "There is nothing else in the bag except a pen.",
+      "vi": "Trong túi không có gì khác ngoài một chiếc bút."
+    },
+    {
+      "id": "s1-04-09",
+      "kind": "sentence",
+      "en": "He does not take anything out.",
+      "vi": "Bác không lấy thứ gì ra ngoài."
+    },
+    {
+      "id": "s1-04-10",
+      "kind": "sentence",
+      "en": "At the next stop, he calls the school.",
+      "vi": "Đến trạm tiếp theo, bác gọi cho nhà trường."
+    },
+    {
+      "id": "s1-04-11",
+      "kind": "sentence",
+      "en": "Mai comes with her mother, checks everything, and thanks him for his help.",
+      "vi": "Mai đến cùng mẹ, kiểm tra lại đồ đạc và cảm ơn bác vì đã giúp đỡ."
+    }
+  ]
+}

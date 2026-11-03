@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 13,
+  "sourceFile": "paragraph/13_waiting_for_the_bread.md",
+  "sourceSha256": "257bdb15a893193e0e17b2e2a65ad8946aa4d2d6a6672c461eebeb0df9c4fb22",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-13-01",
+      "kind": "sentence",
+      "en": "Grandma has made bread for us since I was a small child.",
+      "vi": "Bà đã làm bánh mì cho chúng tôi từ khi tôi còn nhỏ."
+    },
+    {
+      "id": "s1-13-02",
+      "kind": "sentence",
+      "en": "Today, I work as her little helper.",
+      "vi": "Hôm nay, tôi làm phụ bếp nhí của bà."
+    },
+    {
+      "id": "s1-13-03",
+      "kind": "sentence",
+      "en": "Before we start, I wash my hands.",
+      "vi": "Trước khi bắt đầu, tôi rửa tay."
+    },
+    {
+      "id": "s1-13-04",
+      "kind": "sentence",
+      "en": "She puts the bread in the oven while I clean the table.",
+      "vi": "Bà cho bánh vào lò trong khi tôi lau bàn."
+    },
+    {
+      "id": "s1-13-05",
+      "kind": "sentence",
+      "en": "My brother is younger than me, but he wants to help too.",
+      "vi": "Em trai nhỏ tuổi hơn tôi, nhưng em cũng muốn giúp."
+    },
+    {
+      "id": "s1-13-06",
+      "kind": "sentence",
+      "en": "Although he cannot cook yet, he can bring the plates.",
+      "vi": "Mặc dù chưa biết nấu ăn, em vẫn có thể mang đĩa ra."
+    },
+    {
+      "id": "s1-13-07",
+      "kind": "sentence",
+      "en": "After that, we wait until the bread is ready.",
+      "vi": "Sau đó, chúng tôi đợi cho đến khi bánh chín."
+    },
+    {
+      "id": "s1-13-08",
+      "kind": "sentence",
+      "en": "Then Grandma opens the oven, and the kitchen smells wonderful.",
+      "vi": "Rồi bà mở lò, và cả căn bếp thơm lừng."
+    },
+    {
+      "id": "s1-13-09",
+      "kind": "sentence",
+      "en": "We sit together for lunch.",
+      "vi": "Chúng tôi ngồi ăn trưa cùng nhau."
+    },
+    {
+      "id": "s1-13-10",
+      "kind": "sentence",
+      "en": "The bread is good, but being with Grandma is the best part.",
+      "vi": "Bánh mì rất ngon, nhưng điều tuyệt nhất là được ở bên bà."
+    }
+  ]
+}

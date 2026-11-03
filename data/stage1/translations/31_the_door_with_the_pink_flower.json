@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 31,
+  "sourceFile": "paragraph/31_the_door_with_the_pink_flower.md",
+  "sourceSha256": "148b73187a1cfa8d55a395be384278a80908321d1b96e0bc4a9f8f018bed7f2d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-31-01",
+      "kind": "sentence",
+      "en": "My friend tells me the number of her house, but I forget it on the way.",
+      "vi": "Bạn tôi nói số nhà của bạn ấy, nhưng tôi lại quên trên đường đi."
+    },
+    {
+      "id": "s1-31-02",
+      "kind": "sentence",
+      "en": "I remember the color of the door: blue, with a pink flower on it.",
+      "vi": "Tôi nhớ màu cửa: xanh dương, với một bông hoa màu hồng trên đó."
+    },
+    {
+      "id": "s1-31-03",
+      "kind": "sentence",
+      "en": "I walk past a red house with a green gate.",
+      "vi": "Tôi đi qua một ngôi nhà đỏ có cổng xanh lá."
+    },
+    {
+      "id": "s1-31-04",
+      "kind": "sentence",
+      "en": "The next house has a yellow wall and a black door.",
+      "vi": "Ngôi nhà tiếp theo có tường vàng và cửa đen."
+    },
+    {
+      "id": "s1-31-05",
+      "kind": "sentence",
+      "en": "A white cat sleeps on its brown chair.",
+      "vi": "Một con mèo trắng ngủ trên chiếc ghế màu nâu của ngôi nhà ấy."
+    },
+    {
+      "id": "s1-31-06",
+      "kind": "sentence",
+      "en": "Then I see the flower I remember.",
+      "vi": "Rồi tôi nhìn thấy bông hoa mà mình nhớ."
+    },
+    {
+      "id": "s1-31-07",
+      "kind": "sentence",
+      "en": "My friend opens the door before I can call her.",
+      "vi": "Bạn tôi mở cửa trước khi tôi kịp gọi."
+    },
+    {
+      "id": "s1-31-08",
+      "kind": "group",
+      "en": "\"You found us!\" she says.",
+      "vi": "“Bạn tìm được nhà rồi!” bạn ấy nói."
+    },
+    {
+      "id": "s1-31-09",
+      "kind": "sentence",
+      "en": "I laugh and ask her to write the house number on a piece of paper for next time.",
+      "vi": "Tôi bật cười và nhờ bạn viết số nhà ra giấy để lần sau khỏi quên."
+    }
+  ]
+}

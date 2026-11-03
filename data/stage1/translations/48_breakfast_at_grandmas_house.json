@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 48,
+  "sourceFile": "paragraph/48_breakfast_at_grandmas_house.md",
+  "sourceSha256": "3dc1fc1ffe239aefcafc4eb3d4d46693d0c6f83e8f4ad29a51fb4f71d2d323f3",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-48-01",
+      "kind": "sentence",
+      "en": "On Sunday, we have breakfast at Grandma's house.",
+      "vi": "Vào Chủ nhật, chúng tôi ăn sáng ở nhà bà."
+    },
+    {
+      "id": "s1-48-02",
+      "kind": "sentence",
+      "en": "She puts an old blue cup beside my plate and fills it with milk.",
+      "vi": "Bà đặt một chiếc cốc màu xanh dương đã cũ cạnh đĩa của tôi rồi rót đầy sữa."
+    },
+    {
+      "id": "s1-48-03",
+      "kind": "sentence",
+      "en": "Dad has coffee, and Mom asks for tea.",
+      "vi": "Bố uống cà phê, còn mẹ xin một tách trà."
+    },
+    {
+      "id": "s1-48-04",
+      "kind": "sentence",
+      "en": "There is bread on the table, with some other food in little bowls.",
+      "vi": "Trên bàn có bánh mì cùng vài món ăn khác trong những chiếc bát nhỏ."
+    },
+    {
+      "id": "s1-48-05",
+      "kind": "sentence",
+      "en": "Grandma brings the rice from the kitchen while I pour water for everyone.",
+      "vi": "Bà mang cơm từ bếp ra trong khi tôi rót nước cho mọi người."
+    },
+    {
+      "id": "s1-48-06",
+      "kind": "sentence",
+      "en": "We eat slowly and talk about our week.",
+      "vi": "Chúng tôi ăn chậm rãi và kể chuyện trong tuần."
+    },
+    {
+      "id": "s1-48-07",
+      "kind": "sentence",
+      "en": "A bird sings outside the open window.",
+      "vi": "Một con chim hót bên ngoài cửa sổ đang mở."
+    },
+    {
+      "id": "s1-48-08",
+      "kind": "sentence",
+      "en": "When the meal is over, I help wash the cups.",
+      "vi": "Ăn xong, tôi giúp rửa cốc."
+    },
+    {
+      "id": "s1-48-09",
+      "kind": "sentence",
+      "en": "Grandma says I can come back next Sunday, and I already know I will.",
+      "vi": "Bà bảo Chủ nhật tới tôi có thể lại đến, và tôi biết chắc mình sẽ đến."
+    }
+  ]
+}

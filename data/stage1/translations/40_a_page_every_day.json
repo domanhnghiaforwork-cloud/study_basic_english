@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 40,
+  "sourceFile": "paragraph/40_a_page_every_day.md",
+  "sourceSha256": "2c794a27b324aca0e1f9f4db0cda3ea3e7ba7ac2f419e8ad3a340091980458e0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-40-01",
+      "kind": "sentence",
+      "en": "I study English with my sister after dinner.",
+      "vi": "Tôi học tiếng Anh cùng chị gái sau bữa tối."
+    },
+    {
+      "id": "s1-40-02",
+      "kind": "sentence",
+      "en": "She does not teach at a school, but she likes helping me learn.",
+      "vi": "Chị không dạy ở trường, nhưng chị thích giúp tôi học."
+    },
+    {
+      "id": "s1-40-03",
+      "kind": "sentence",
+      "en": "First, I read a short story.",
+      "vi": "Trước tiên, tôi đọc một truyện ngắn."
+    },
+    {
+      "id": "s1-40-04",
+      "kind": "sentence",
+      "en": "Then I write two sentences about it.",
+      "vi": "Sau đó, tôi viết hai câu về truyện."
+    },
+    {
+      "id": "s1-40-05",
+      "kind": "sentence",
+      "en": "If I do not understand something, I ask her to say it another way.",
+      "vi": "Nếu không hiểu điều gì, tôi nhờ chị diễn đạt theo cách khác."
+    },
+    {
+      "id": "s1-40-06",
+      "kind": "sentence",
+      "en": "We speak English for a few minutes before we finish.",
+      "vi": "Chúng tôi nói tiếng Anh vài phút trước khi kết thúc."
+    },
+    {
+      "id": "s1-40-07",
+      "kind": "sentence",
+      "en": "I sometimes forget a word I knew yesterday.",
+      "vi": "Đôi khi, tôi quên một từ mà hôm qua mình vẫn còn nhớ."
+    },
+    {
+      "id": "s1-40-08",
+      "kind": "sentence",
+      "en": "My sister tells me that this is normal.",
+      "vi": "Chị nói với tôi rằng điều đó là bình thường."
+    },
+    {
+      "id": "s1-40-09",
+      "kind": "sentence",
+      "en": "\"Remember one useful sentence and use it tomorrow,\" she says.",
+      "vi": "“Hãy nhớ một câu hữu ích và dùng nó vào ngày mai,” chị nói."
+    },
+    {
+      "id": "s1-40-10",
+      "kind": "sentence",
+      "en": "A page every day is helping me feel more comfortable with English.",
+      "vi": "Đọc một trang mỗi ngày đang giúp tôi cảm thấy tự tin hơn với tiếng Anh."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 39,
+  "sourceFile": "paragraph/39_saving_for_something_small.md",
+  "sourceSha256": "d499811c8b985b56bc3445f81e47ba3752bf72fced66bdb001b300434ecb6c0d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-39-01",
+      "kind": "sentence",
+      "en": "I want a new football, but I do not need one today.",
+      "vi": "Tôi muốn một quả bóng đá mới, nhưng hôm nay chưa cần mua."
+    },
+    {
+      "id": "s1-39-02",
+      "kind": "sentence",
+      "en": "I still have an old ball that I like.",
+      "vi": "Tôi vẫn còn một quả bóng cũ mà mình thích."
+    },
+    {
+      "id": "s1-39-03",
+      "kind": "sentence",
+      "en": "Every week, I put a little money in a box instead of going to the shop to spend it.",
+      "vi": "Mỗi tuần, tôi bỏ một ít tiền vào hộp thay vì ra cửa hàng tiêu."
+    },
+    {
+      "id": "s1-39-04",
+      "kind": "sentence",
+      "en": "I know I must pay for the new ball myself.",
+      "vi": "Tôi biết mình phải tự trả tiền mua quả bóng mới."
+    },
+    {
+      "id": "s1-39-05",
+      "kind": "sentence",
+      "en": "Some days, I hate waiting, especially when my friends have new things.",
+      "vi": "Có những ngày tôi ghét phải chờ, nhất là khi bạn bè có đồ mới."
+    },
+    {
+      "id": "s1-39-06",
+      "kind": "sentence",
+      "en": "Mom asks me to think about what I already have.",
+      "vi": "Mẹ nhắc tôi nghĩ về những gì mình đang có."
+    },
+    {
+      "id": "s1-39-07",
+      "kind": "sentence",
+      "en": "I love playing with my friends, and our games are fun with any ball.",
+      "vi": "Tôi thích chơi cùng bạn bè, và dùng quả bóng nào thì chúng tôi cũng chơi vui."
+    },
+    {
+      "id": "s1-39-08",
+      "kind": "sentence",
+      "en": "I hope to buy a new one soon, but I can enjoy today too.",
+      "vi": "Tôi hy vọng sớm mua được bóng mới, nhưng vẫn có thể tận hưởng ngày hôm nay."
+    }
+  ]
+}

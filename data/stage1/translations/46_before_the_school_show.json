@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 46,
+  "sourceFile": "paragraph/46_before_the_school_show.md",
+  "sourceSha256": "90d77912a2e60dac72e906febbda1c5460ee5bcea634a4427a78a1a39b75206e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-46-01",
+      "kind": "sentence",
+      "en": "Before the school show, I feel so afraid that I want to cry.",
+      "vi": "Trước buổi biểu diễn ở trường, tôi sợ đến mức muốn khóc."
+    },
+    {
+      "id": "s1-46-02",
+      "kind": "sentence",
+      "en": "I want to become a singer, but standing in front of people is difficult.",
+      "vi": "Tôi muốn trở thành ca sĩ, nhưng đứng trước nhiều người thật khó."
+    },
+    {
+      "id": "s1-46-03",
+      "kind": "group",
+      "en": "My teacher asks me to check the room. She opens the door to show me the people inside.",
+      "vi": "Cô giáo bảo tôi nhìn xem căn phòng thế nào. Cô mở cửa để cho tôi thấy những người bên trong."
+    },
+    {
+      "id": "s1-46-04",
+      "kind": "sentence",
+      "en": "\"A mistake does not mean you are a bad singer,\" she says.",
+      "vi": "“Một lỗi nhỏ không có nghĩa là em hát dở,” cô nói."
+    },
+    {
+      "id": "s1-46-05",
+      "kind": "sentence",
+      "en": "I take a slow breath and try to smile.",
+      "vi": "Tôi hít thở chậm rồi cố mỉm cười."
+    },
+    {
+      "id": "s1-46-06",
+      "kind": "sentence",
+      "en": "Things do not seem so frightening now.",
+      "vi": "Giờ mọi thứ có vẻ không còn đáng sợ đến thế."
+    },
+    {
+      "id": "s1-46-07",
+      "kind": "sentence",
+      "en": "Whatever may happen, my friends will help me.",
+      "vi": "Dù có chuyện gì xảy ra, bạn bè sẽ giúp tôi."
+    },
+    {
+      "id": "s1-46-08",
+      "kind": "sentence",
+      "en": "I walk onto the stage.",
+      "vi": "Tôi bước lên sân khấu."
+    },
+    {
+      "id": "s1-46-09",
+      "kind": "sentence",
+      "en": "In the first song, a funny line makes everyone laugh, and I relax.",
+      "vi": "Trong bài hát đầu tiên, một câu hát vui khiến mọi người bật cười, và tôi thấy thoải mái hơn."
+    }
+  ]
+}

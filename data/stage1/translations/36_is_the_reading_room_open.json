@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 36,
+  "sourceFile": "paragraph/36_is_the_reading_room_open.md",
+  "sourceSha256": "e495b768f2ee25e7ba1934612ee19c75e347736cfa00f88f10f7b680b0eaaaa8",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-36-01",
+      "kind": "sentence",
+      "en": "A message says the reading room is closed today, but my friend thinks the message is false.",
+      "vi": "Một thông báo nói hôm nay phòng đọc đóng cửa, nhưng bạn tôi nghĩ thông báo đó không đúng."
+    },
+    {
+      "id": "s1-36-02",
+      "kind": "sentence",
+      "en": "\"The door was open this morning,\" she says.",
+      "vi": "“Sáng nay cửa vẫn mở mà,” bạn ấy nói."
+    },
+    {
+      "id": "s1-36-03",
+      "kind": "sentence",
+      "en": "We walk there after lunch to find out what is true.",
+      "vi": "Sau bữa trưa, chúng tôi đi bộ đến đó để xem thực hư thế nào."
+    },
+    {
+      "id": "s1-36-04",
+      "kind": "sentence",
+      "en": "At first, we think we have come too late because the front room is empty.",
+      "vi": "Lúc đầu, chúng tôi nghĩ mình đến quá muộn vì phòng phía trước trống không."
+    },
+    {
+      "id": "s1-36-05",
+      "kind": "group",
+      "en": "Then a woman calls us from the back. That room is full of children reading.",
+      "vi": "Rồi một cô gọi chúng tôi từ phía sau. Căn phòng phía sau đầy trẻ em đang đọc sách."
+    },
+    {
+      "id": "s1-36-06",
+      "kind": "sentence",
+      "en": "\"You came to the right place,\" she says.",
+      "vi": "“Các cháu đến đúng chỗ rồi,” cô nói."
+    },
+    {
+      "id": "s1-36-07",
+      "kind": "group",
+      "en": "\"The message had the wrong date.\" We choose two books and sit down.",
+      "vi": "“Thông báo ghi nhầm ngày đấy.” Chúng tôi chọn hai cuốn sách rồi ngồi xuống."
+    },
+    {
+      "id": "s1-36-08",
+      "kind": "sentence",
+      "en": "Reading here is free, so we can come back tomorrow.",
+      "vi": "Đọc sách ở đây miễn phí nên ngày mai chúng tôi có thể quay lại."
+    }
+  ]
+}

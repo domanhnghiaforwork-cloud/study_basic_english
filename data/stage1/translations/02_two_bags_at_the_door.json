@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 2,
+  "sourceFile": "paragraph/02_two_bags_at_the_door.md",
+  "sourceSha256": "3427b3e53d86e326970ce33f646e643fa4fa83bf7ff8529d5f0fca1d285a025c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-02-01",
+      "kind": "sentence",
+      "en": "Our family is ready to leave, but there are two blue bags by the door.",
+      "vi": "Gia đình tôi đã sẵn sàng ra khỏi nhà, nhưng cạnh cửa có hai chiếc túi màu xanh dương."
+    },
+    {
+      "id": "s1-02-02",
+      "kind": "group",
+      "en": "\"Which bag is mine, and which is yours?\" I ask my brother.",
+      "vi": "“Túi nào của em, túi nào của anh?” tôi hỏi anh trai."
+    },
+    {
+      "id": "s1-02-03",
+      "kind": "sentence",
+      "en": "He opens one bag and shows us a red book.",
+      "vi": "Anh mở một chiếc túi và cho chúng tôi xem một cuốn sách màu đỏ."
+    },
+    {
+      "id": "s1-02-04",
+      "kind": "sentence",
+      "en": "\"This is your book,\" he says.",
+      "vi": "“Đây là sách của em,” anh nói."
+    },
+    {
+      "id": "s1-02-05",
+      "kind": "sentence",
+      "en": "I open the other bag and find his shoes.",
+      "vi": "Tôi mở chiếc túi còn lại và thấy giày của anh."
+    },
+    {
+      "id": "s1-02-06",
+      "kind": "sentence",
+      "en": "Our parents laugh at their two children.",
+      "vi": "Bố mẹ bật cười trước cảnh hai anh em loay hoay."
+    },
+    {
+      "id": "s1-02-07",
+      "kind": "sentence",
+      "en": "We put the right things into each bag and carry them outside.",
+      "vi": "Chúng tôi xếp đúng đồ vào từng túi rồi mang chúng ra ngoài."
+    },
+    {
+      "id": "s1-02-08",
+      "kind": "sentence",
+      "en": "A little dog waits beside the car with its ball.",
+      "vi": "Một chú chó nhỏ đang đợi cạnh ô tô với quả bóng của nó."
+    },
+    {
+      "id": "s1-02-09",
+      "kind": "sentence",
+      "en": "This time, everyone knows what to take.",
+      "vi": "Lần này, ai cũng biết mình cần mang gì."
+    },
+    {
+      "id": "s1-02-10",
+      "kind": "sentence",
+      "en": "We can finally start our day together.",
+      "vi": "Cuối cùng, cả nhà có thể cùng nhau bắt đầu ngày mới."
+    }
+  ]
+}

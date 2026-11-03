@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 1,
+  "sourceFile": "paragraph/01_a_new_friend.md",
+  "sourceSha256": "5a6d22423a30abebd7c01bd76e42e148e9f72b0ffd8d98a9cb3ae4626ef5bdb0",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-01-01",
+      "kind": "sentence",
+      "en": "I meet a new family at the house next to mine.",
+      "vi": "Tôi làm quen với một gia đình mới ở ngôi nhà bên cạnh nhà mình."
+    },
+    {
+      "id": "s1-01-02",
+      "kind": "group",
+      "en": "A boy opens the door. He has a little dog, and it wants to play.",
+      "vi": "Một cậu bé mở cửa. Cậu ấy có một chú chó nhỏ, và nó muốn chơi đùa."
+    },
+    {
+      "id": "s1-01-03",
+      "kind": "group",
+      "en": "His sister comes outside. She gives me a ball and says, \"You can play with us.\" Their parents are in the kitchen.",
+      "vi": "Em gái cậu ấy đi ra ngoài. Cô bé đưa cho tôi một quả bóng và nói: “Bạn có thể chơi cùng bọn mình.” Bố mẹ hai bạn đang ở trong bếp."
+    },
+    {
+      "id": "s1-01-04",
+      "kind": "sentence",
+      "en": "They make some food for everyone.",
+      "vi": "Họ chuẩn bị đồ ăn cho mọi người."
+    },
+    {
+      "id": "s1-01-05",
+      "kind": "sentence",
+      "en": "I give the ball to the boy and ask him about the dog.",
+      "vi": "Tôi đưa bóng cho cậu bé và hỏi cậu ấy về chú chó."
+    },
+    {
+      "id": "s1-01-06",
+      "kind": "sentence",
+      "en": "Then I help his sister carry her bag inside.",
+      "vi": "Sau đó, tôi giúp em gái cậu ấy mang túi vào nhà."
+    },
+    {
+      "id": "s1-01-07",
+      "kind": "sentence",
+      "en": "We sit at a small table, eat together, and talk about our school.",
+      "vi": "Chúng tôi ngồi quanh một chiếc bàn nhỏ, cùng ăn và nói chuyện về trường của mình."
+    },
+    {
+      "id": "s1-01-08",
+      "kind": "sentence",
+      "en": "By the end of the afternoon, I have two new friends.",
+      "vi": "Đến cuối buổi chiều, tôi đã có thêm hai người bạn mới."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 18,
+  "sourceFile": "paragraph/18_one_more_try.md",
+  "sourceSha256": "323cb62208e69b54fa803a80c3e120cefe3a14fe1a8223b35841e4b42ef6b415",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-18-01",
+      "kind": "sentence",
+      "en": "I often read beside my little sister after dinner.",
+      "vi": "Tôi thường ngồi cạnh đọc sách với em gái sau bữa tối."
+    },
+    {
+      "id": "s1-18-02",
+      "kind": "sentence",
+      "en": "Sometimes she asks me to read the same story again.",
+      "vi": "Đôi khi, em nhờ tôi đọc lại đúng câu chuyện cũ."
+    },
+    {
+      "id": "s1-18-03",
+      "kind": "sentence",
+      "en": "She never gets tired of the little dog in the book.",
+      "vi": "Em chẳng bao giờ chán chú chó nhỏ trong sách."
+    },
+    {
+      "id": "s1-18-04",
+      "kind": "sentence",
+      "en": "Tonight, she wants to read it herself.",
+      "vi": "Tối nay, em muốn tự đọc truyện."
+    },
+    {
+      "id": "s1-18-05",
+      "kind": "sentence",
+      "en": "She already knows the first page, but the next one is still difficult.",
+      "vi": "Em đã đọc được trang đầu, nhưng trang tiếp theo vẫn còn khó."
+    },
+    {
+      "id": "s1-18-06",
+      "kind": "sentence",
+      "en": "I have just sat down when she asks for help.",
+      "vi": "Tôi vừa ngồi xuống thì em nhờ giúp."
+    },
+    {
+      "id": "s1-18-07",
+      "kind": "group",
+      "en": "\"Only one word,\" she says. I show her how to say it.",
+      "vi": "“Chỉ một từ thôi,” em nói. Tôi chỉ cho em cách đọc từ đó."
+    },
+    {
+      "id": "s1-18-08",
+      "kind": "group",
+      "en": "She also reads the last page, then smiles at me. I am happy too.",
+      "vi": "Em còn đọc được cả trang cuối, rồi mỉm cười với tôi. Tôi cũng thấy vui."
+    },
+    {
+      "id": "s1-18-09",
+      "kind": "sentence",
+      "en": "Tomorrow, she wants to try a different book.",
+      "vi": "Ngày mai, em muốn thử đọc một cuốn sách khác."
+    }
+  ]
+}

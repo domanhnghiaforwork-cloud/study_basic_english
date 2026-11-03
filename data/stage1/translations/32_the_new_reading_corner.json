@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 32,
+  "sourceFile": "paragraph/32_the_new_reading_corner.md",
+  "sourceSha256": "26f5154c873109159d1a505bea5fac2fc45a2375e86bb5cc447c753705d58f6c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-32-01",
+      "kind": "sentence",
+      "en": "Our teacher wants to make a reading corner in the classroom.",
+      "vi": "Cô giáo muốn làm một góc đọc sách trong lớp."
+    },
+    {
+      "id": "s1-32-02",
+      "kind": "sentence",
+      "en": "We move a big table away from the window and put a small one there.",
+      "vi": "Chúng tôi dời chiếc bàn lớn ra xa cửa sổ và đặt một chiếc bàn nhỏ vào đó."
+    },
+    {
+      "id": "s1-32-03",
+      "kind": "sentence",
+      "en": "A tall boy helps bring in a long shelf.",
+      "vi": "Một bạn nam cao giúp mang vào một chiếc kệ dài."
+    },
+    {
+      "id": "s1-32-04",
+      "kind": "sentence",
+      "en": "We place it against the gray wall.",
+      "vi": "Chúng tôi kê nó sát bức tường màu xám."
+    },
+    {
+      "id": "s1-32-05",
+      "kind": "sentence",
+      "en": "The books for older children go on a high shelf, and the picture books stay on a low one.",
+      "vi": "Sách cho các bạn lớn được đặt trên kệ cao, còn sách tranh nằm trên kệ thấp."
+    },
+    {
+      "id": "s1-32-06",
+      "kind": "sentence",
+      "en": "My friend brings a purple pillow, and I add an orange blanket.",
+      "vi": "Bạn tôi mang một chiếc gối tím, còn tôi thêm một chiếc chăn màu cam."
+    },
+    {
+      "id": "s1-32-07",
+      "kind": "sentence",
+      "en": "There is room for a short story before class every morning.",
+      "vi": "Mỗi sáng trước giờ học, chúng tôi có chỗ để đọc một câu chuyện ngắn."
+    },
+    {
+      "id": "s1-32-08",
+      "kind": "sentence",
+      "en": "Soon, everyone wants a turn to sit in our new corner.",
+      "vi": "Chẳng mấy chốc, ai cũng muốn được ngồi ở góc đọc mới."
+    }
+  ]
+}

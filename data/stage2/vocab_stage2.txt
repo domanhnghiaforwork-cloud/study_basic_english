@@ -1,0 +1,500 @@
+﻿0501. job — công việc
+0502. career — sự nghiệp
+0503. office — văn phòng
+0504. company — công ty
+0505. boss — sếp
+0506. manager — quản lý
+0507. employee — nhân viên
+0508. worker — người lao động
+0509. colleague — đồng nghiệp
+0510. customer — khách hàng
+0511. client — khách hàng; thân chủ
+0512. business — kinh doanh
+0513. meeting — cuộc họp
+0514. project — dự án
+0515. team — đội; nhóm
+0516. staff — nhân viên
+0517. salary — lương
+0518. income — thu nhập
+0519. budget — ngân sách
+0520. schedule — lịch trình
+0521. task — nhiệm vụ
+0522. plan — kế hoạch
+0523. goal — mục tiêu
+0524. idea — ý tưởng
+0525. problem — vấn đề
+0526. solution — giải pháp
+0527. mistake — lỗi
+0528. success — thành công
+0529. failure — thất bại
+0530. result — kết quả
+0531. reason — lý do
+0532. example — ví dụ
+0533. information — thông tin
+0534. message — tin nhắn; thông điệp
+0535. email — thư điện tử
+0536. address — địa chỉ
+0537. website — trang web
+0538. internet — mạng Internet
+0539. online — trực tuyến
+0540. offline — ngoại tuyến
+0541. file — tệp tin
+0542. folder — thư mục
+0543. document — tài liệu
+0544. page — trang
+0545. screen — màn hình
+0546. keyboard — bàn phím
+0547. mouse — chuột máy tính; con chuột
+0548. printer — máy in
+0549. password — mật khẩu
+0550. account — tài khoản
+0551. app — ứng dụng
+0552. software — phần mềm
+0553. video — video
+0554. audio — âm thanh
+0555. music — âm nhạc
+0556. song — bài hát
+0557. movie — bộ phim
+0558. film — phim
+0559. news — tin tức
+0560. story — câu chuyện
+0561. article — bài báo
+0562. magazine — tạp chí
+0563. newspaper — báo giấy
+0564. library — thư viện
+0565. class — lớp học
+0566. lesson — bài học
+0567. course — khóa học
+0568. subject — môn học
+0569. homework — bài tập về nhà
+0570. exercise — bài tập; vận động
+0571. exam — kỳ thi
+0572. test — bài kiểm tra
+0573. grade — điểm số; khối lớp
+0574. score — điểm số
+0575. mark — dấu; điểm
+0576. level — trình độ; mức độ
+0577. skill — kỹ năng
+0578. knowledge — kiến thức
+0579. language — ngôn ngữ
+0580. english — tiếng Anh
+0581. vietnamese — tiếng Việt
+0582. grammar — ngữ pháp
+0583. pronunciation — phát âm
+0584. spelling — cách đánh vần
+0585. meaning — ý nghĩa
+0586. dictionary — từ điển
+0587. conversation — cuộc trò chuyện
+0588. discussion — cuộc thảo luận
+0589. practice — luyện tập
+0590. review — ôn tập; đánh giá
+0591. training — sự đào tạo
+0592. education — giáo dục
+0593. college — cao đẳng
+0594. university — đại học
+0595. degree — bằng cấp
+0596. certificate — chứng chỉ
+0597. research — nghiên cứu
+0598. science — khoa học
+0599. math — toán học
+0600. history — lịch sử
+0601. geography — địa lý
+0602. art — nghệ thuật
+0603. city — thành phố
+0604. town — thị trấn
+0605. village — làng quê
+0606. country — đất nước; nông thôn
+0607. province — tỉnh
+0608. district — quận; huyện
+0609. neighborhood — khu dân cư
+0610. street — đường phố
+0611. road — con đường
+0612. lane — ngõ; làn đường
+0613. path — lối đi
+0614. bridge — cây cầu
+0615. corner — góc
+0616. center — trung tâm
+0617. north — phía bắc
+0618. south — phía nam
+0619. east — phía đông
+0620. west — phía tây
+0621. left — bên trái
+0622. straight — thẳng
+0623. front — phía trước
+0624. middle — ở giữa
+0625. side — bên; phía
+0626. bottom — đáy
+0627. top — đỉnh; phía trên
+0628. entrance — lối vào
+0629. exit — lối ra
+0630. place — nơi; địa điểm
+0631. location — vị trí
+0632. area — khu vực
+0633. map — bản đồ
+0634. direction — hướng
+0635. sign — biển báo; ký hiệu
+0636. traffic — giao thông
+0637. transport — vận tải
+0638. vehicle — phương tiện giao thông
+0639. car — ô tô
+0640. bus — xe buýt
+0641. train — tàu hỏa
+0642. plane — máy bay
+0643. bicycle — xe đạp
+0644. motorcycle — xe máy
+0645. taxi — taxi
+0646. truck — xe tải
+0647. boat — thuyền
+0648. ship — tàu thủy
+0649. subway — tàu điện ngầm
+0650. station — nhà ga
+0651. airport — sân bay
+0652. terminal — nhà ga; bến
+0653. ticket — vé
+0654. passport — hộ chiếu
+0655. visa — thị thực
+0656. luggage — hành lý
+0657. suitcase — vali
+0658. trip — chuyến đi
+0659. journey — hành trình
+0660. vacation — kỳ nghỉ
+0661. holiday — ngày lễ; kỳ nghỉ
+0662. tour — chuyến tham quan
+0663. tourist — du khách
+0664. hotel — khách sạn
+0665. hostel — nhà trọ
+0666. reservation — sự đặt trước
+0667. booking — việc đặt chỗ
+0668. reception — quầy lễ tân
+0669. service — dịch vụ
+0670. facility — cơ sở vật chất
+0671. building — tòa nhà
+0672. apartment — căn hộ
+0673. farm — nông trại
+0674. factory — nhà máy
+0675. market — chợ; thị trường
+0676. supermarket — siêu thị
+0677. mall — trung tâm mua sắm
+0678. bank — ngân hàng
+0679. hospital — bệnh viện
+0680. clinic — phòng khám
+0681. pharmacy — hiệu thuốc
+0682. police — cảnh sát
+0683. post — bưu phẩm; đăng
+0684. postcard — bưu thiếp
+0685. park — công viên
+0686. museum — bảo tàng
+0687. cinema — rạp chiếu phim
+0688. theater — nhà hát
+0689. stadium — sân vận động
+0690. gym — phòng tập thể hình
+0691. pool — hồ bơi
+0692. beach — bãi biển
+0693. river — sông
+0694. lake — hồ
+0695. sea — biển
+0696. ocean — đại dương
+0697. mountain — núi
+0698. hill — đồi
+0699. forest — rừng
+0700. island — đảo
+0701. field — cánh đồng
+0702. garden — vườn
+0703. shopping — mua sắm
+0704. store — cửa hàng
+0705. product — sản phẩm
+0706. item — món đồ
+0707. brand — thương hiệu
+0708. size — kích cỡ
+0709. weight — cân nặng
+0710. height — chiều cao
+0711. length — chiều dài
+0712. width — chiều rộng
+0713. shape — hình dạng
+0714. material — chất liệu
+0715. quality — chất lượng
+0716. quantity — số lượng
+0717. cost — chi phí
+0718. discount — giảm giá
+0719. sale — đợt bán hàng; giảm giá
+0720. cash — tiền mặt
+0721. coin — đồng xu
+0722. bill — hóa đơn; tờ tiền
+0723. receipt — biên lai
+0724. card — thẻ
+0725. credit — tín dụng
+0726. debit — ghi nợ
+0727. wallet — ví tiền
+0728. purse — ví; túi xách nhỏ
+0729. pocket — túi áo/quần
+0730. clothes — quần áo
+0731. shirt — áo sơ mi
+0732. tee — áo phông
+0733. blouse — áo kiểu
+0734. jacket — áo khoác
+0735. coat — áo khoác dài
+0736. sweater — áo len
+0737. pants — quần dài
+0738. jeans — quần bò
+0739. shorts — quần đùi
+0740. skirt — chân váy
+0741. uniform — đồng phục
+0742. suit — bộ com-lê; phù hợp
+0743. shoes — giày
+0744. boots — ủng
+0745. socks — tất
+0746. hat — mũ
+0747. cap — mũ lưỡi trai
+0748. belt — thắt lưng
+0749. scarf — khăn choàng
+0750. gloves — găng tay
+0751. ring — nhẫn
+0752. necklace — dây chuyền
+0753. bracelet — vòng tay
+0754. umbrella — ô; dù
+0755. fabric — vải
+0756. cotton — bông; vải cotton
+0757. leather — da thuộc
+0758. plastic — nhựa
+0759. metal — kim loại
+0760. wood — gỗ
+0761. stone — đá
+0762. silver — bạc
+0763. gold — vàng (kim loại)
+0764. cheap — rẻ
+0765. expensive — đắt
+0766. valuable — có giá trị
+0767. fresh — tươi; mới
+0768. recent — gần đây
+0769. modern — hiện đại
+0770. traditional — truyền thống
+0771. popular — phổ biến
+0772. famous — nổi tiếng
+0773. common — thông dụng; phổ biến
+0774. rare — hiếm
+0775. simple — đơn giản
+0776. complicated — phức tạp
+0777. comfortable — thoải mái
+0778. uncomfortable — khó chịu
+0779. soft — mềm
+0780. rough — thô ráp
+0781. smooth — mịn; trơn
+0782. heavy — nặng
+0783. bright — sáng
+0784. dark — tối
+0785. thick — dày
+0786. thin — mỏng; gầy
+0787. wide — rộng
+0788. narrow — hẹp
+0789. deep — sâu
+0790. shallow — nông
+0791. dry — khô
+0792. wet — ướt
+0793. private — riêng tư
+0794. public — công cộng
+0795. local — địa phương
+0796. foreign — nước ngoài
+0797. national — thuộc quốc gia
+0798. international — quốc tế
+0799. meal — bữa ăn
+0800. dish — món ăn; đĩa
+0801. menu — thực đơn
+0802. recipe — công thức nấu ăn
+0803. ingredient — nguyên liệu
+0804. soup — súp
+0805. noodle — mì; bún
+0806. pasta — mì Ý
+0807. pizza — bánh pizza
+0808. burger — bánh mì kẹp thịt
+0809. sandwich — bánh mì kẹp
+0810. sausage — xúc xích
+0811. beef — thịt bò
+0812. pork — thịt lợn
+0813. seafood — hải sản
+0814. shrimp — tôm
+0815. crab — cua
+0816. salad — món rau trộn
+0817. potato — khoai tây
+0818. tomato — cà chua
+0819. onion — hành tây
+0820. carrot — cà rốt
+0821. cucumber — dưa chuột
+0822. cabbage — bắp cải
+0823. mushroom — nấm
+0824. bean — đậu
+0825. corn — ngô
+0826. lemon — chanh vàng
+0827. lime — chanh xanh
+0828. mango — xoài
+0829. pineapple — dứa
+0830. grape — nho
+0831. watermelon — dưa hấu
+0832. strawberry — dâu tây
+0833. peach — đào
+0834. pear — lê
+0835. coconut — dừa
+0836. juice — nước ép
+0837. soda — nước ngọt có ga
+0838. yogurt — sữa chua
+0839. cheese — phô mai
+0840. butter — bơ
+0841. cream — kem; kem sữa
+0842. cake — bánh ngọt
+0843. cookie — bánh quy
+0844. chocolate — sô cô la
+0845. candy — kẹo
+0846. snack — đồ ăn nhẹ
+0847. dessert — món tráng miệng
+0848. pepper — hạt tiêu; ớt
+0849. spice — gia vị
+0850. oil — dầu
+0851. flour — bột mì
+0852. sauce — nước sốt
+0853. vinegar — giấm
+0854. honey — mật ong
+0855. sweet — ngọt
+0856. sour — chua
+0857. bitter — đắng
+0858. salty — mặn
+0859. spicy — cay
+0860. delicious — ngon
+0861. tasty — ngon miệng
+0862. raw — sống; chưa nấu
+0863. boiled — đã luộc
+0864. fried — đã chiên
+0865. baked — đã nướng
+0866. vegetarian — người ăn chay; chay
+0867. health — sức khỏe
+0868. body — cơ thể
+0869. head — đầu
+0870. hair — tóc
+0871. face — khuôn mặt
+0872. eye — mắt
+0873. ear — tai
+0874. nose — mũi
+0875. mouth — miệng
+0876. tooth — răng
+0877. teeth — răng (số nhiều)
+0878. tongue — lưỡi
+0879. neck — cổ
+0880. shoulder — vai
+0881. arm — cánh tay
+0882. elbow — khuỷu tay
+0883. hand — bàn tay
+0884. finger — ngón tay
+0885. thumb — ngón cái
+0886. chest — ngực
+0887. stomach — bụng; dạ dày
+0888. backbone — xương sống
+0889. leg — chân
+0890. knee — đầu gối
+0891. foot — bàn chân
+0892. feet — bàn chân (số nhiều)
+0893. toe — ngón chân
+0894. skin — da
+0895. bone — xương
+0896. blood — máu
+0897. heart — tim
+0898. brain — não
+0899. ache — đau nhức
+0900. pain — cơn đau
+0901. fever — sốt
+0902. cough — ho
+0903. flu — cúm
+0904. coldness — sự lạnh lẽo
+0905. medicine — thuốc
+0906. pill — viên thuốc
+0907. doctor — bác sĩ
+0908. nurse — y tá
+0909. patient — bệnh nhân
+0910. appointment — cuộc hẹn
+0911. emergency — tình huống khẩn cấp
+0912. accident — tai nạn
+0913. injury — chấn thương
+0914. hurt — đau; làm đau
+0915. rest — nghỉ ngơi
+0916. relax — thư giãn
+0917. breathe — hít thở
+0918. smell — ngửi; mùi
+0919. taste — nếm; vị
+0920. touch — chạm
+0921. stretch — duỗi; kéo giãn
+0922. jump — nhảy
+0923. climb — leo
+0924. fall — ngã; rơi
+0925. rise — tăng; mọc lên
+0926. lift — nâng
+0927. drop — thả rơi
+0928. pick — nhặt; chọn
+0929. borrow — mượn
+0930. lend — cho mượn
+0931. return — trở lại; trả lại
+0932. share — chia sẻ
+0933. join — tham gia
+0934. invite — mời
+0935. accept — chấp nhận
+0936. refuse — từ chối
+0937. agree — đồng ý
+0938. disagree — không đồng ý
+0939. believe — tin tưởng
+0940. trust — tin cậy
+0941. doubt — nghi ngờ
+0942. prefer — thích hơn
+0943. decide — quyết định
+0944. promise — hứa
+0945. explain — giải thích
+0946. describe — miêu tả
+0947. repeat — lặp lại
+0948. correct — sửa đúng; chính xác
+0949. improve — cải thiện
+0950. prepare — chuẩn bị
+0951. organize — sắp xếp; tổ chức
+0952. manage — quản lý
+0953. create — tạo ra
+0954. design — thiết kế
+0955. produce — sản xuất
+0956. receive — nhận
+0957. collect — thu thập
+0958. add — thêm
+0959. remove — loại bỏ
+0960. fill — đổ đầy; điền
+0961. cover — che phủ
+0962. protect — bảo vệ
+0963. save — tiết kiệm; lưu
+0964. waste — lãng phí
+0965. support — hỗ trợ
+0966. serve — phục vụ
+0967. order — gọi món; đặt hàng
+0968. cancel — hủy bỏ
+0969. compare — so sánh
+0970. count — đếm
+0971. measure — đo lường
+0972. weigh — cân
+0973. mix — trộn
+0974. pour — rót
+0975. boil — đun sôi
+0976. fry — chiên
+0977. bake — nướng
+0978. slice — cắt lát
+0979. peel — gọt vỏ
+0980. pack — đóng gói
+0981. cleanse — làm sạch
+0982. repair — sửa chữa
+0983. replace — thay thế
+0984. lock — khóa
+0985. unlock — mở khóa
+0986. switch — chuyển; công tắc
+0987. press — nhấn
+0988. click — nhấp chuột
+0989. print — in
+0990. copy — sao chép
+0991. paste — dán
+0992. search — tìm kiếm
+0993. connect — kết nối
+0994. download — tải xuống
+0995. upload — tải lên
+0996. charge — sạc; tính phí
+0997. advice — lời khuyên
+0998. chance — cơ hội
+0999. activity — hoạt động
+1000. ability — khả năng

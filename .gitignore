@@ -1,0 +1,24 @@
+# Local environments and dependencies
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Builds, test artifacts, and deployment archives
+dist/
+test-results/
+playwright-report/
+outputs/
+
+# Local hosting identity and design-tool metadata
+web/.openai/
+web/.hallmark/
+
+# Local configuration and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 22,
+  "sourceFile": "paragraph/22_our_family_calendar.md",
+  "sourceSha256": "20759da47888af123303b851e4012534b73d1d8946ceabe1a6ae893b8cf9daba",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-22-01",
+      "kind": "sentence",
+      "en": "On Saturday, we make a family calendar.",
+      "vi": "Vào thứ Bảy, chúng tôi làm một cuốn lịch gia đình."
+    },
+    {
+      "id": "s1-22-02",
+      "kind": "sentence",
+      "en": "My brother draws a picture for January, and I write our plans for February.",
+      "vi": "Anh trai vẽ tranh cho tháng Một, còn tôi viết kế hoạch cho tháng Hai."
+    },
+    {
+      "id": "s1-22-03",
+      "kind": "sentence",
+      "en": "In March, we want to visit Grandma.",
+      "vi": "Tháng Ba, chúng tôi muốn đến thăm bà."
+    },
+    {
+      "id": "s1-22-04",
+      "kind": "sentence",
+      "en": "Her birthday is in April.",
+      "vi": "Sinh nhật bà vào tháng Tư."
+    },
+    {
+      "id": "s1-22-05",
+      "kind": "sentence",
+      "en": "We have no family visits planned for May.",
+      "vi": "Chúng tôi chưa có kế hoạch thăm họ hàng trong tháng Năm."
+    },
+    {
+      "id": "s1-22-06",
+      "kind": "sentence",
+      "en": "School finishes in June, and we hope to travel in July.",
+      "vi": "Năm học kết thúc vào tháng Sáu, và chúng tôi hy vọng đi du lịch vào tháng Bảy."
+    },
+    {
+      "id": "s1-22-07",
+      "kind": "sentence",
+      "en": "August is usually a quiet month at home.",
+      "vi": "Tháng Tám thường là một tháng yên ả ở nhà."
+    },
+    {
+      "id": "s1-22-08",
+      "kind": "sentence",
+      "en": "In September, we go back to school with new books.",
+      "vi": "Tháng Chín, chúng tôi trở lại trường với sách mới."
+    },
+    {
+      "id": "s1-22-09",
+      "kind": "sentence",
+      "en": "We leave some empty spaces for plans we do not know yet.",
+      "vi": "Chúng tôi chừa vài khoảng trống cho những kế hoạch chưa biết trước."
+    },
+    {
+      "id": "s1-22-10",
+      "kind": "sentence",
+      "en": "On Sunday, we show the calendar to our parents and put it on the kitchen wall.",
+      "vi": "Vào Chủ nhật, chúng tôi cho bố mẹ xem lịch rồi treo nó lên tường bếp."
+    }
+  ]
+}

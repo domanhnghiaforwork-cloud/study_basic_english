@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 44,
+  "sourceFile": "paragraph/44_getting_ready_for_dinner.md",
+  "sourceSha256": "a547db5e23060f8aaf266d3b6d85fe2336e18f75f45b47b39a0a452db277f7c7",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-44-01",
+      "kind": "sentence",
+      "en": "My sister and I want to cook dinner before our parents come home.",
+      "vi": "Chị em tôi muốn nấu bữa tối trước khi bố mẹ về nhà."
+    },
+    {
+      "id": "s1-44-02",
+      "kind": "sentence",
+      "en": "First, we wash our hands and find the food in the kitchen.",
+      "vi": "Trước tiên, chúng tôi rửa tay và tìm thực phẩm trong bếp."
+    },
+    {
+      "id": "s1-44-03",
+      "kind": "sentence",
+      "en": "I wear an old shirt because I might get dirty.",
+      "vi": "Tôi mặc áo cũ vì có thể sẽ bị bẩn."
+    },
+    {
+      "id": "s1-44-04",
+      "kind": "sentence",
+      "en": "My sister helps our little brother dress before he sits down to watch us.",
+      "vi": "Chị giúp em trai nhỏ mặc quần áo rồi em ngồi xuống xem chúng tôi nấu."
+    },
+    {
+      "id": "s1-44-05",
+      "kind": "sentence",
+      "en": "We turn on the light above the table and keep a bowl nearby for the vegetables.",
+      "vi": "Chúng tôi bật đèn phía trên bàn và để sẵn một chiếc bát gần đó để đựng rau."
+    },
+    {
+      "id": "s1-44-06",
+      "kind": "sentence",
+      "en": "\"Hold this for me,\" she says as she gets a spoon.",
+      "vi": "“Em cầm cái này giúp chị nhé,” chị nói khi lấy thìa."
+    },
+    {
+      "id": "s1-44-07",
+      "kind": "group",
+      "en": "We change our plan when we cannot find any rice. Bread and eggs will be fine.",
+      "vi": "Chúng tôi đổi kế hoạch khi không tìm thấy gạo. Bánh mì và trứng cũng được."
+    },
+    {
+      "id": "s1-44-08",
+      "kind": "sentence",
+      "en": "The important thing is not to lose time arguing.",
+      "vi": "Điều quan trọng là đừng mất thời gian tranh cãi."
+    }
+  ]
+}

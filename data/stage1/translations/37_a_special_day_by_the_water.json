@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 37,
+  "sourceFile": "paragraph/37_a_special_day_by_the_water.md",
+  "sourceSha256": "7c8aa403eea22f28341ff3056612fb248ad617ab28f5ab619bc4d77d7b8e12ec",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-37-01",
+      "kind": "sentence",
+      "en": "Dad is usually busy on Saturday, but today he is ready to go to the lake with us.",
+      "vi": "Bố thường bận vào thứ Bảy, nhưng hôm nay bố đã sẵn sàng đi hồ cùng chúng tôi."
+    },
+    {
+      "id": "s1-37-02",
+      "kind": "sentence",
+      "en": "It is a special day because Grandma is coming too.",
+      "vi": "Đây là một ngày đặc biệt vì bà cũng đi cùng."
+    },
+    {
+      "id": "s1-37-03",
+      "kind": "sentence",
+      "en": "We pack her favorite food and take a different road through the town.",
+      "vi": "Chúng tôi mang món bà thích và đi một con đường khác xuyên qua khu phố."
+    },
+    {
+      "id": "s1-37-04",
+      "kind": "sentence",
+      "en": "Before we leave, Dad tells us something important: we must stay close to an adult near the water.",
+      "vi": "Trước khi đi, bố dặn một điều quan trọng: ở gần nước, chúng tôi phải luôn ở sát một người lớn."
+    },
+    {
+      "id": "s1-37-05",
+      "kind": "group",
+      "en": "\"Is it possible to swim there?\" my brother asks. Dad is not sure, so we will check first.",
+      "vi": "“Mình có bơi ở đó được không ạ?” em trai hỏi. Bố chưa chắc, nên chúng tôi sẽ kiểm tra trước."
+    },
+    {
+      "id": "s1-37-06",
+      "kind": "sentence",
+      "en": "We want everyone to be safe.",
+      "vi": "Chúng tôi muốn mọi người đều an toàn."
+    },
+    {
+      "id": "s1-37-07",
+      "kind": "sentence",
+      "en": "Even if we cannot swim, we can still eat, walk, and enjoy being together.",
+      "vi": "Ngay cả khi không bơi được, cả nhà vẫn có thể ăn uống, đi dạo và vui vẻ bên nhau."
+    }
+  ]
+}

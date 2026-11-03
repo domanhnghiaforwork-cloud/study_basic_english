@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 25,
+  "sourceFile": "paragraph/25_everyone_in_one_photo.md",
+  "sourceSha256": "ca3c546b8bb519e7d73971d9e68eda703652aa458e34a837ea11140c114e8499",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-25-01",
+      "kind": "sentence",
+      "en": "My grandmother wants a photo of the whole family.",
+      "vi": "Bà tôi muốn có một bức ảnh chụp cả gia đình."
+    },
+    {
+      "id": "s1-25-02",
+      "kind": "sentence",
+      "en": "She sits beside my grandfather in the garden.",
+      "vi": "Bà ngồi cạnh ông trong vườn."
+    },
+    {
+      "id": "s1-25-03",
+      "kind": "sentence",
+      "en": "My uncle stands behind them with his wife.",
+      "vi": "Chú tôi đứng phía sau ông bà cùng vợ của chú."
+    },
+    {
+      "id": "s1-25-04",
+      "kind": "sentence",
+      "en": "Their daughter, my little cousin, sits on the floor in front.",
+      "vi": "Con gái của chú thím, người em họ bé nhỏ của tôi, ngồi trên sàn phía trước."
+    },
+    {
+      "id": "s1-25-05",
+      "kind": "sentence",
+      "en": "My aunt asks her husband to hold the baby.",
+      "vi": "Cô tôi nhờ chồng bế em bé."
+    },
+    {
+      "id": "s1-25-06",
+      "kind": "sentence",
+      "en": "My brother and sister stand beside me.",
+      "vi": "Anh trai và chị gái đứng cạnh tôi."
+    },
+    {
+      "id": "s1-25-07",
+      "kind": "sentence",
+      "en": "We all look at the phone, but nobody is ready at the same time.",
+      "vi": "Tất cả cùng nhìn vào điện thoại, nhưng chẳng ai sẵn sàng cùng lúc."
+    },
+    {
+      "id": "s1-25-08",
+      "kind": "sentence",
+      "en": "First, the baby starts to cry.",
+      "vi": "Đầu tiên, em bé bắt đầu khóc."
+    },
+    {
+      "id": "s1-25-09",
+      "kind": "sentence",
+      "en": "Then my grandfather closes his eyes.",
+      "vi": "Rồi ông tôi lại nhắm mắt."
+    },
+    {
+      "id": "s1-25-10",
+      "kind": "sentence",
+      "en": "At last, we get a good photo.",
+      "vi": "Cuối cùng, chúng tôi cũng chụp được một bức ảnh đẹp."
+    },
+    {
+      "id": "s1-25-11",
+      "kind": "sentence",
+      "en": "Everyone is smiling, and Grandma says it is her favorite picture.",
+      "vi": "Ai cũng đang mỉm cười, và bà nói đó là bức ảnh bà thích nhất."
+    }
+  ]
+}

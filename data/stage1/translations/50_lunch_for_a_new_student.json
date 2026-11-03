@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 50,
+  "sourceFile": "paragraph/50_lunch_for_a_new_student.md",
+  "sourceSha256": "e940408cd2ecc5355fe2a5476881637691f41b56ed679099ce54cbbb0e2b8f6e",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-50-01",
+      "kind": "sentence",
+      "en": "A new student comes to our school today.",
+      "vi": "Hôm nay, một học sinh mới đến trường tôi."
+    },
+    {
+      "id": "s1-50-02",
+      "kind": "sentence",
+      "en": "At breakfast, Mom gives me some money for lunch.",
+      "vi": "Trong bữa sáng, mẹ cho tôi ít tiền ăn trưa."
+    },
+    {
+      "id": "s1-50-03",
+      "kind": "sentence",
+      "en": "She works at a small restaurant next to the book shop.",
+      "vi": "Mẹ làm ở một nhà hàng nhỏ cạnh hiệu sách."
+    },
+    {
+      "id": "s1-50-04",
+      "kind": "sentence",
+      "en": "At noon, I see the new boy sitting alone.",
+      "vi": "Đến trưa, tôi thấy bạn mới ngồi một mình."
+    },
+    {
+      "id": "s1-50-05",
+      "kind": "sentence",
+      "en": "He has forgotten his food, so I ask him to come with me.",
+      "vi": "Bạn ấy quên mang đồ ăn, nên tôi rủ bạn đi cùng."
+    },
+    {
+      "id": "s1-50-06",
+      "kind": "sentence",
+      "en": "Mom shows us a meal with a low price.",
+      "vi": "Mẹ chỉ cho chúng tôi một suất ăn giá rẻ."
+    },
+    {
+      "id": "s1-50-07",
+      "kind": "sentence",
+      "en": "We have enough money to share it.",
+      "vi": "Chúng tôi có đủ tiền để mua rồi chia nhau ăn."
+    },
+    {
+      "id": "s1-50-08",
+      "kind": "sentence",
+      "en": "Our teacher comes in for her own lunch and sits nearby.",
+      "vi": "Cô giáo cũng vào ăn trưa và ngồi gần đó."
+    },
+    {
+      "id": "s1-50-09",
+      "kind": "sentence",
+      "en": "After school, the boy thanks me and asks if we can play together before dinner.",
+      "vi": "Tan học, cậu bạn cảm ơn và hỏi liệu chúng tôi có thể chơi cùng nhau trước bữa tối không."
+    },
+    {
+      "id": "s1-50-10",
+      "kind": "sentence",
+      "en": "I think I have made a new friend.",
+      "vi": "Tôi nghĩ mình vừa có thêm một người bạn mới."
+    }
+  ]
+}

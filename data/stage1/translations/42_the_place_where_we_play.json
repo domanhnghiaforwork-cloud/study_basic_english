@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 42,
+  "sourceFile": "paragraph/42_the_place_where_we_play.md",
+  "sourceSha256": "c0c86e08b514509290cc8f079f1ceb3a2c2757b602574561f929dfc68f24ed5a",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-42-01",
+      "kind": "sentence",
+      "en": "The people who live on our street want a place for children to play.",
+      "vi": "Những người sống trên phố chúng tôi muốn có chỗ cho trẻ em vui chơi."
+    },
+    {
+      "id": "s1-42-02",
+      "kind": "sentence",
+      "en": "There is an empty room near the shop that nobody needs.",
+      "vi": "Có một căn phòng trống gần cửa hàng mà không ai cần dùng."
+    },
+    {
+      "id": "s1-42-03",
+      "kind": "sentence",
+      "en": "We ask if we can use it on Saturday and wait for an answer.",
+      "vi": "Chúng tôi hỏi xem có thể dùng phòng vào thứ Bảy không rồi chờ câu trả lời."
+    },
+    {
+      "id": "s1-42-04",
+      "kind": "sentence",
+      "en": "Our parents come to work with us, and we start by cleaning the floor.",
+      "vi": "Bố mẹ đến làm cùng, và chúng tôi bắt đầu bằng việc lau sàn."
+    },
+    {
+      "id": "s1-42-05",
+      "kind": "sentence",
+      "en": "We stop for water, then finish putting the books and games in place.",
+      "vi": "Chúng tôi dừng lại uống nước rồi xếp nốt sách và trò chơi vào chỗ."
+    },
+    {
+      "id": "s1-42-06",
+      "kind": "sentence",
+      "en": "Some children stay to try a game while others leave for lunch.",
+      "vi": "Một số bạn ở lại chơi thử, còn những bạn khác ra về ăn trưa."
+    },
+    {
+      "id": "s1-42-07",
+      "kind": "sentence",
+      "en": "Before we go, we make a sign for the door.",
+      "vi": "Trước khi đi, chúng tôi làm một tấm biển treo ở cửa."
+    },
+    {
+      "id": "s1-42-08",
+      "kind": "sentence",
+      "en": "Now our street has a place where friends can meet after school.",
+      "vi": "Giờ khu phố đã có nơi để bạn bè gặp nhau sau giờ học."
+    }
+  ]
+}

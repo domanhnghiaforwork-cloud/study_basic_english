@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 28,
+  "sourceFile": "paragraph/28_the_key_in_the_box.md",
+  "sourceSha256": "6d5d5f03ff51df40267ab70879c8bea784ee211a9c4c553d304e7c2e06f83c9d",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-28-01",
+      "kind": "sentence",
+      "en": "Dad cannot find his key before work.",
+      "vi": "Bố không tìm thấy chìa khóa trước khi đi làm."
+    },
+    {
+      "id": "s1-28-02",
+      "kind": "sentence",
+      "en": "He looks in his bag, then under a small box on the table.",
+      "vi": "Bố tìm trong túi, rồi dưới một chiếc hộp nhỏ trên bàn."
+    },
+    {
+      "id": "s1-28-03",
+      "kind": "sentence",
+      "en": "I turn on the lamp because there is not much light in the room.",
+      "vi": "Tôi bật đèn bàn vì phòng không có nhiều ánh sáng."
+    },
+    {
+      "id": "s1-28-04",
+      "kind": "sentence",
+      "en": "The fan moves a piece of paper across the floor.",
+      "vi": "Chiếc quạt thổi một mảnh giấy bay ngang qua sàn."
+    },
+    {
+      "id": "s1-28-05",
+      "kind": "sentence",
+      "en": "Dad looks at the clock and says he is late.",
+      "vi": "Bố nhìn đồng hồ và nói mình đã muộn."
+    },
+    {
+      "id": "s1-28-06",
+      "kind": "sentence",
+      "en": "I move a bottle of water and an empty cup, but the key is not there.",
+      "vi": "Tôi dời một chai nước và một chiếc cốc rỗng sang bên, nhưng vẫn không có chìa khóa."
+    },
+    {
+      "id": "s1-28-07",
+      "kind": "group",
+      "en": "Then I see something in a drinking glass beside the box. It is the key! My little brother put it there while he was helping clean the table.",
+      "vi": "Rồi tôi nhìn thấy thứ gì đó trong một chiếc ly cạnh hộp. Chính là chìa khóa! Em trai tôi đã để nó ở đó khi giúp dọn bàn."
+    }
+  ]
+}

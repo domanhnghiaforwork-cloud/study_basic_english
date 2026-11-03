@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 34,
+  "sourceFile": "paragraph/34_a_long_walk_home.md",
+  "sourceSha256": "d49d24e4ebf182b66d1815f9abdc0eec5a1f7f2e310bf358fbc9d3e7ab3a45a5",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-34-01",
+      "kind": "sentence",
+      "en": "After school, I walk home with my brother on a hot afternoon.",
+      "vi": "Tan học, tôi cùng em trai đi bộ về nhà giữa buổi chiều nóng bức."
+    },
+    {
+      "id": "s1-34-02",
+      "kind": "sentence",
+      "en": "We are tired and hungry, and my brother says he is thirsty too.",
+      "vi": "Chúng tôi vừa mệt vừa đói, và em trai nói em còn khát nữa."
+    },
+    {
+      "id": "s1-34-03",
+      "kind": "sentence",
+      "en": "Then we hear a little dog behind a wall.",
+      "vi": "Rồi chúng tôi nghe tiếng một chú chó nhỏ phía sau bức tường."
+    },
+    {
+      "id": "s1-34-04",
+      "kind": "sentence",
+      "en": "It looks sad and afraid.",
+      "vi": "Nó trông buồn bã và sợ hãi."
+    },
+    {
+      "id": "s1-34-05",
+      "kind": "sentence",
+      "en": "My brother is angry because someone has left it there without water.",
+      "vi": "Em trai tức giận vì ai đó đã bỏ nó ở đó mà không cho nước uống."
+    },
+    {
+      "id": "s1-34-06",
+      "kind": "sentence",
+      "en": "I tell him to stay calm and call Mom.",
+      "vi": "Tôi bảo em bình tĩnh và gọi cho mẹ."
+    },
+    {
+      "id": "s1-34-07",
+      "kind": "sentence",
+      "en": "She brings water and takes the dog to a doctor.",
+      "vi": "Mẹ mang nước đến rồi đưa chú chó đi khám bác sĩ."
+    },
+    {
+      "id": "s1-34-08",
+      "kind": "sentence",
+      "en": "It is sick, but it can get better with care.",
+      "vi": "Nó đang bị ốm, nhưng nếu được chăm sóc thì có thể khỏe lại."
+    },
+    {
+      "id": "s1-34-09",
+      "kind": "sentence",
+      "en": "A few days later, we visit again.",
+      "vi": "Vài ngày sau, chúng tôi lại đến thăm."
+    },
+    {
+      "id": "s1-34-10",
+      "kind": "sentence",
+      "en": "The dog looks healthy now, and its nose feels cold against my hand.",
+      "vi": "Giờ chú chó trông khỏe mạnh, và mũi nó mát lạnh khi chạm vào tay tôi."
+    }
+  ]
+}

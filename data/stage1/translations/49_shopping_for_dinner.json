@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 49,
+  "sourceFile": "paragraph/49_shopping_for_dinner.md",
+  "sourceSha256": "aa9227ced6fd4b62cd17dd23296f48a773267600e9a05327350e973af6d45722",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-49-01",
+      "kind": "sentence",
+      "en": "Mom and I go shopping for dinner.",
+      "vi": "Mẹ và tôi đi mua thực phẩm cho bữa tối."
+    },
+    {
+      "id": "s1-49-02",
+      "kind": "sentence",
+      "en": "She wants chicken, but I would like fish.",
+      "vi": "Mẹ muốn ăn thịt gà, nhưng tôi lại muốn ăn cá."
+    },
+    {
+      "id": "s1-49-03",
+      "kind": "sentence",
+      "en": "We decide to buy a little of each and leave the other meat for another day.",
+      "vi": "Chúng tôi quyết định mua mỗi thứ một ít, còn loại thịt khác thì để hôm khác."
+    },
+    {
+      "id": "s1-49-04",
+      "kind": "sentence",
+      "en": "At the fruit shop, I choose an apple for myself and a banana for my brother.",
+      "vi": "Ở cửa hàng trái cây, tôi chọn một quả táo cho mình và một quả chuối cho em trai."
+    },
+    {
+      "id": "s1-49-05",
+      "kind": "sentence",
+      "en": "Mom asks me to find a green vegetable for the meal.",
+      "vi": "Mẹ nhờ tôi tìm một loại rau xanh cho bữa ăn."
+    },
+    {
+      "id": "s1-49-06",
+      "kind": "sentence",
+      "en": "Back at home, I put an egg in a bowl while she starts to cook.",
+      "vi": "Về nhà, tôi cho một quả trứng vào bát trong khi mẹ bắt đầu nấu."
+    },
+    {
+      "id": "s1-49-07",
+      "kind": "sentence",
+      "en": "She adds a little salt, then asks me to make tea.",
+      "vi": "Mẹ thêm chút muối rồi nhờ tôi pha trà."
+    },
+    {
+      "id": "s1-49-08",
+      "kind": "sentence",
+      "en": "I almost put sugar into the wrong bowl.",
+      "vi": "Suýt nữa tôi cho đường nhầm vào bát thức ăn."
+    },
+    {
+      "id": "s1-49-09",
+      "kind": "sentence",
+      "en": "We laugh, and I check before adding anything else.",
+      "vi": "Chúng tôi bật cười, và tôi kiểm tra trước khi cho thêm bất cứ thứ gì."
+    }
+  ]
+}

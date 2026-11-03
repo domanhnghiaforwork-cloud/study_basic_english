@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 10,
+  "sourceFile": "paragraph/10_a_different_classroom.md",
+  "sourceSha256": "72c44dd0f752c3376ab3c1697ab4871fe6783ac52988826d9e6325932fd5b09a",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-10-01",
+      "kind": "sentence",
+      "en": "Our classroom is different today.",
+      "vi": "Hôm nay, lớp học của chúng tôi trông khác hẳn."
+    },
+    {
+      "id": "s1-10-02",
+      "kind": "sentence",
+      "en": "There are pictures on the wall and books by the window.",
+      "vi": "Trên tường có tranh, còn cạnh cửa sổ có sách."
+    },
+    {
+      "id": "s1-10-03",
+      "kind": "sentence",
+      "en": "Yesterday, the room was empty because we were all outside.",
+      "vi": "Hôm qua, căn phòng trống không vì tất cả chúng tôi đều ở bên ngoài."
+    },
+    {
+      "id": "s1-10-04",
+      "kind": "sentence",
+      "en": "We had a day to clean and change it together.",
+      "vi": "Chúng tôi đã dành một ngày để cùng dọn dẹp và sắp xếp lại căn phòng."
+    },
+    {
+      "id": "s1-10-05",
+      "kind": "sentence",
+      "en": "Our teacher has been at this school for many years, but she says the room feels new.",
+      "vi": "Cô giáo đã dạy ở trường nhiều năm, nhưng cô nói căn phòng mang lại cảm giác mới mẻ."
+    },
+    {
+      "id": "s1-10-06",
+      "kind": "sentence",
+      "en": "\"You have made a good place to learn,\" she tells us.",
+      "vi": "“Các em đã tạo ra một nơi học tập thật tốt,” cô nói với chúng tôi."
+    },
+    {
+      "id": "s1-10-07",
+      "kind": "sentence",
+      "en": "I want to be the first person to read in our new book corner.",
+      "vi": "Tôi muốn là người đầu tiên đọc sách ở góc sách mới."
+    },
+    {
+      "id": "s1-10-08",
+      "kind": "group",
+      "en": "My friend is being very quiet beside me. She already has a book open and does not want to stop.",
+      "vi": "Bạn tôi đang ngồi rất yên lặng bên cạnh. Bạn ấy đã mở sẵn một cuốn sách và chẳng muốn dừng đọc."
+    }
+  ]
+}

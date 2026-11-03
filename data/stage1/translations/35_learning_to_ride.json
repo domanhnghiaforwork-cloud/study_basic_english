@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 35,
+  "sourceFile": "paragraph/35_learning_to_ride.md",
+  "sourceSha256": "753148167c47ccb5fd92018c582177e0c515eb13ff7914a7b3d8283943d61a25",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-35-01",
+      "kind": "sentence",
+      "en": "I meet Dad early in the morning to learn to ride a bicycle.",
+      "vi": "Tôi gặp bố từ sáng sớm để tập đi xe đạp."
+    },
+    {
+      "id": "s1-35-02",
+      "kind": "sentence",
+      "en": "The air is cool, but my hands feel warm on the handlebars.",
+      "vi": "Không khí mát mẻ, nhưng tay tôi thấy ấm khi nắm ghi đông."
+    },
+    {
+      "id": "s1-35-03",
+      "kind": "sentence",
+      "en": "We find a clean path behind the school, away from the dirty road.",
+      "vi": "Chúng tôi tìm một lối đi sạch sau trường, cách xa con đường bẩn."
+    },
+    {
+      "id": "s1-35-04",
+      "kind": "sentence",
+      "en": "Dad says the first part is easy: sit down and keep my feet ready.",
+      "vi": "Bố nói phần đầu rất dễ: ngồi xuống và đặt chân sẵn sàng."
+    },
+    {
+      "id": "s1-35-05",
+      "kind": "sentence",
+      "en": "Moving forward is more difficult.",
+      "vi": "Đi về phía trước thì khó hơn."
+    },
+    {
+      "id": "s1-35-06",
+      "kind": "sentence",
+      "en": "I try to go fast, lose my balance, and stop.",
+      "vi": "Tôi thử đi nhanh, mất thăng bằng rồi dừng lại."
+    },
+    {
+      "id": "s1-35-07",
+      "kind": "group",
+      "en": "Dad tells me a slow start is better. I try again.",
+      "vi": "Bố bảo bắt đầu chậm sẽ tốt hơn. Tôi thử lại."
+    },
+    {
+      "id": "s1-35-08",
+      "kind": "sentence",
+      "en": "It is hard work, but after a few more tries, I can ride to the end of the path.",
+      "vi": "Việc này khá vất vả, nhưng sau vài lần nữa, tôi đã đạp được đến cuối lối đi."
+    }
+  ]
+}

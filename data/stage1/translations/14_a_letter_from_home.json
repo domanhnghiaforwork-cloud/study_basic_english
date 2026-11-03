@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 14,
+  "sourceFile": "paragraph/14_a_letter_from_home.md",
+  "sourceSha256": "fc4cddb5dee87368aa61debc4d2e2e7d44d508074c478da8fc605b95d749f801",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-14-01",
+      "kind": "sentence",
+      "en": "A letter from my sister is on the table.",
+      "vi": "Một lá thư của chị gái tôi nằm trên bàn."
+    },
+    {
+      "id": "s1-14-02",
+      "kind": "sentence",
+      "en": "She is away at school and writes to me every week.",
+      "vi": "Chị đi học xa nhà và viết thư cho tôi mỗi tuần."
+    },
+    {
+      "id": "s1-14-03",
+      "kind": "sentence",
+      "en": "I sit in the kitchen with a cup of tea and open it.",
+      "vi": "Tôi ngồi trong bếp với một tách trà rồi mở thư."
+    },
+    {
+      "id": "s1-14-04",
+      "kind": "sentence",
+      "en": "She tells me about her new friends and a little shop by the school.",
+      "vi": "Chị kể về những người bạn mới và một cửa hàng nhỏ gần trường."
+    },
+    {
+      "id": "s1-14-05",
+      "kind": "sentence",
+      "en": "At the end of the letter, she asks for a picture of our dog.",
+      "vi": "Cuối thư, chị nhờ tôi gửi ảnh chú chó của gia đình."
+    },
+    {
+      "id": "s1-14-06",
+      "kind": "group",
+      "en": "I try to take one, but he will not sit without his ball. I give it to him, and he finally stays still.",
+      "vi": "Tôi thử chụp một tấm, nhưng nó không chịu ngồi yên nếu thiếu quả bóng. Tôi đưa bóng cho nó, và cuối cùng nó cũng ngồi yên."
+    },
+    {
+      "id": "s1-14-07",
+      "kind": "sentence",
+      "en": "Now I have a photo to send back to her.",
+      "vi": "Giờ thì tôi đã có ảnh để gửi lại cho chị."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 9,
+  "sourceFile": "paragraph/09_a_small_book_sale.md",
+  "sourceSha256": "ae81387d5aa971485f00110861fccce2c9b8cc25120535776dd9fd2a03594c05",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-09-01",
+      "kind": "sentence",
+      "en": "I am at a book sale with my family.",
+      "vi": "Tôi cùng gia đình đến một buổi bán sách."
+    },
+    {
+      "id": "s1-09-02",
+      "kind": "sentence",
+      "en": "The first table has old books, and the second has new ones.",
+      "vi": "Bàn đầu tiên bày sách cũ, còn bàn thứ hai bày sách mới."
+    },
+    {
+      "id": "s1-09-03",
+      "kind": "sentence",
+      "en": "At the third table, children can read for free.",
+      "vi": "Ở bàn thứ ba, trẻ em có thể đọc sách miễn phí."
+    },
+    {
+      "id": "s1-09-04",
+      "kind": "sentence",
+      "en": "My mother gives me fifty thousand dong to spend.",
+      "vi": "Mẹ cho tôi năm mươi nghìn đồng để mua sách."
+    },
+    {
+      "id": "s1-09-05",
+      "kind": "sentence",
+      "en": "I choose a story for forty thousand and keep the rest.",
+      "vi": "Tôi chọn một cuốn truyện giá bốn mươi nghìn và giữ lại số tiền còn thừa."
+    },
+    {
+      "id": "s1-09-06",
+      "kind": "sentence",
+      "en": "Last year, the school sold a hundred books in one day.",
+      "vi": "Năm ngoái, trường bán được một trăm cuốn sách trong một ngày."
+    },
+    {
+      "id": "s1-09-07",
+      "kind": "sentence",
+      "en": "This year, they hope to sell more.",
+      "vi": "Năm nay, mọi người hy vọng bán được nhiều hơn."
+    },
+    {
+      "id": "s1-09-08",
+      "kind": "sentence",
+      "en": "My little brother wants to come to the next sale with his own money.",
+      "vi": "Em trai tôi muốn mang tiền của mình đến buổi bán sách tiếp theo."
+    },
+    {
+      "id": "s1-09-09",
+      "kind": "sentence",
+      "en": "For now, he sits beside me and looks at the pictures in my book.",
+      "vi": "Còn bây giờ, em ngồi cạnh tôi và xem tranh trong cuốn sách của tôi."
+    }
+  ]
+}

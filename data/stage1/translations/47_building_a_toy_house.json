@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 47,
+  "sourceFile": "paragraph/47_building_a_toy_house.md",
+  "sourceSha256": "68b13b593c94d6296b5a25f5654d13b4054b912f29b63f1eeb60cc883fd19d21",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-47-01",
+      "kind": "sentence",
+      "en": "Dad helps us build a toy house from a box.",
+      "vi": "Bố giúp chúng tôi làm một ngôi nhà đồ chơi từ chiếc hộp."
+    },
+    {
+      "id": "s1-47-02",
+      "kind": "sentence",
+      "en": "First, we choose a place on the table and carry the box there.",
+      "vi": "Đầu tiên, chúng tôi chọn một chỗ trên bàn rồi mang hộp đến đó."
+    },
+    {
+      "id": "s1-47-03",
+      "kind": "sentence",
+      "en": "Dad uses a knife to cut out a little door.",
+      "vi": "Bố dùng dao cắt một ô cửa nhỏ."
+    },
+    {
+      "id": "s1-47-04",
+      "kind": "sentence",
+      "en": "I push it open while my brother holds the wall.",
+      "vi": "Tôi đẩy cửa ra trong khi em trai giữ vách nhà."
+    },
+    {
+      "id": "s1-47-05",
+      "kind": "sentence",
+      "en": "\"Do not pull too hard, or you will break it,\" Dad says.",
+      "vi": "“Đừng kéo mạnh quá, kẻo làm hỏng nó,” bố nói."
+    },
+    {
+      "id": "s1-47-06",
+      "kind": "sentence",
+      "en": "We make a small window too.",
+      "vi": "Chúng tôi làm thêm một cửa sổ nhỏ."
+    },
+    {
+      "id": "s1-47-07",
+      "kind": "sentence",
+      "en": "My brother drops the roof, but we can fix it with some paper.",
+      "vi": "Em trai làm rơi mái nhà, nhưng chúng tôi có thể dùng giấy sửa lại."
+    },
+    {
+      "id": "s1-47-08",
+      "kind": "sentence",
+      "en": "We throw the extra pieces into a bag.",
+      "vi": "Chúng tôi ném những mẩu thừa vào một chiếc túi."
+    },
+    {
+      "id": "s1-47-09",
+      "kind": "sentence",
+      "en": "One piece falls past the bag, and I catch it.",
+      "vi": "Một mẩu rơi ra ngoài miệng túi, và tôi chụp được nó."
+    },
+    {
+      "id": "s1-47-10",
+      "kind": "sentence",
+      "en": "Soon, our little toy family has a home.",
+      "vi": "Chẳng mấy chốc, gia đình đồ chơi nhỏ của chúng tôi đã có nhà."
+    }
+  ]
+}

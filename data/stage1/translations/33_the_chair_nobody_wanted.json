@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 33,
+  "sourceFile": "paragraph/33_the_chair_nobody_wanted.md",
+  "sourceSha256": "f0990678a09e98cf0e4b09368e18eec6225a8f945278c48b264d46d9e88144ac",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-33-01",
+      "kind": "sentence",
+      "en": "An old chair stands outside our house.",
+      "vi": "Một chiếc ghế cũ nằm bên ngoài nhà tôi."
+    },
+    {
+      "id": "s1-33-02",
+      "kind": "sentence",
+      "en": "Dad thinks it looks ugly and wants to throw it away.",
+      "vi": "Bố thấy nó xấu xí và muốn vứt đi."
+    },
+    {
+      "id": "s1-33-03",
+      "kind": "sentence",
+      "en": "My young brother has a different idea.",
+      "vi": "Em trai nhỏ của tôi lại có ý tưởng khác."
+    },
+    {
+      "id": "s1-33-04",
+      "kind": "sentence",
+      "en": "He asks if we can give it a new color.",
+      "vi": "Em hỏi liệu chúng tôi có thể sơn cho nó một màu mới không."
+    },
+    {
+      "id": "s1-33-05",
+      "kind": "sentence",
+      "en": "Mom says it is a good plan.",
+      "vi": "Mẹ nói đó là một kế hoạch hay."
+    },
+    {
+      "id": "s1-33-06",
+      "kind": "sentence",
+      "en": "The first coat of paint looks bad because we use too much water.",
+      "vi": "Lớp sơn đầu tiên trông tệ vì chúng tôi dùng quá nhiều nước."
+    },
+    {
+      "id": "s1-33-07",
+      "kind": "sentence",
+      "en": "We try again, and this time the chair looks beautiful.",
+      "vi": "Chúng tôi thử lại, và lần này chiếc ghế trông thật đẹp."
+    },
+    {
+      "id": "s1-33-08",
+      "kind": "sentence",
+      "en": "Our neighbor stops to look.",
+      "vi": "Cô hàng xóm dừng lại ngắm."
+    },
+    {
+      "id": "s1-33-09",
+      "kind": "group",
+      "en": "\"What a nice chair!\" she says.",
+      "vi": "“Chiếc ghế đẹp quá!” cô nói."
+    },
+    {
+      "id": "s1-33-10",
+      "kind": "sentence",
+      "en": "We feel happy when we hear her.",
+      "vi": "Chúng tôi thấy vui khi nghe cô khen."
+    },
+    {
+      "id": "s1-33-11",
+      "kind": "sentence",
+      "en": "It is great to make something useful from a thing nobody wanted.",
+      "vi": "Biến một thứ không ai muốn lấy thành một món đồ hữu ích thật tuyệt."
+    }
+  ]
+}

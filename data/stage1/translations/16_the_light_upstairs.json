@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 16,
+  "sourceFile": "paragraph/16_the_light_upstairs.md",
+  "sourceSha256": "66d44c78b103f6aa22d54ac0f3c5e52b25160e513a743d77c43f73c2e354ed40",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-16-01",
+      "kind": "sentence",
+      "en": "Our house is near the school, so we do not have to walk far.",
+      "vi": "Nhà tôi gần trường nên chúng tôi không phải đi bộ xa."
+    },
+    {
+      "id": "s1-16-02",
+      "kind": "sentence",
+      "en": "This evening, I see a light inside a classroom.",
+      "vi": "Chiều tối nay, tôi thấy ánh đèn bên trong một lớp học."
+    },
+    {
+      "id": "s1-16-03",
+      "kind": "sentence",
+      "en": "My brother waits outside while I look through the window.",
+      "vi": "Em trai đợi bên ngoài trong khi tôi nhìn qua cửa sổ."
+    },
+    {
+      "id": "s1-16-04",
+      "kind": "sentence",
+      "en": "A teacher is standing beside a table.",
+      "vi": "Một cô giáo đang đứng cạnh bàn."
+    },
+    {
+      "id": "s1-16-05",
+      "kind": "sentence",
+      "en": "She waves and asks us to come into the room.",
+      "vi": "Cô vẫy tay và mời chúng tôi vào phòng."
+    },
+    {
+      "id": "s1-16-06",
+      "kind": "sentence",
+      "en": "We carry some books up the stairs for her.",
+      "vi": "Chúng tôi mang giúp cô một ít sách lên cầu thang."
+    },
+    {
+      "id": "s1-16-07",
+      "kind": "sentence",
+      "en": "Then she walks down with us and turns off the light.",
+      "vi": "Sau đó, cô cùng chúng tôi đi xuống rồi tắt đèn."
+    },
+    {
+      "id": "s1-16-08",
+      "kind": "sentence",
+      "en": "We go out through the main door together.",
+      "vi": "Chúng tôi cùng đi ra ngoài qua cửa chính."
+    },
+    {
+      "id": "s1-16-09",
+      "kind": "sentence",
+      "en": "She thanks us for helping.",
+      "vi": "Cô cảm ơn vì chúng tôi đã giúp đỡ."
+    },
+    {
+      "id": "s1-16-10",
+      "kind": "sentence",
+      "en": "The school looks very quiet now, and we walk home before it gets dark.",
+      "vi": "Giờ trường trông rất yên tĩnh, và chúng tôi đi bộ về nhà trước khi trời tối."
+    }
+  ]
+}

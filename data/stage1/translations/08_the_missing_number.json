@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 8,
+  "sourceFile": "paragraph/08_the_missing_number.md",
+  "sourceSha256": "060402ffa67b69b9e390f9b467600c7051c6a70aaff4e8091dd591e6862ef442",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-08-01",
+      "kind": "sentence",
+      "en": "At twelve, our teacher puts some number cards on the table.",
+      "vi": "Lúc mười hai giờ, cô giáo đặt những tấm thẻ số lên bàn."
+    },
+    {
+      "id": "s1-08-02",
+      "kind": "sentence",
+      "en": "We have to put them in order before lunch.",
+      "vi": "Chúng tôi phải xếp chúng theo thứ tự trước bữa trưa."
+    },
+    {
+      "id": "s1-08-03",
+      "kind": "sentence",
+      "en": "I find thirteen and fourteen under a book.",
+      "vi": "Tôi tìm thấy thẻ số mười ba và mười bốn dưới một cuốn sách."
+    },
+    {
+      "id": "s1-08-04",
+      "kind": "sentence",
+      "en": "My friend has fifteen and sixteen in her hand.",
+      "vi": "Bạn tôi đang cầm thẻ số mười lăm và mười sáu."
+    },
+    {
+      "id": "s1-08-05",
+      "kind": "sentence",
+      "en": "Another child brings eighteen and nineteen from the floor.",
+      "vi": "Một bạn khác nhặt thẻ số mười tám và mười chín từ dưới sàn lên."
+    },
+    {
+      "id": "s1-08-06",
+      "kind": "sentence",
+      "en": "We place twenty at the end, but something is wrong.",
+      "vi": "Chúng tôi đặt thẻ số hai mươi ở cuối, nhưng có điều gì đó không đúng."
+    },
+    {
+      "id": "s1-08-07",
+      "kind": "group",
+      "en": "There is an empty space between sixteen and eighteen. Where is seventeen? We look around and find it behind a chair.",
+      "vi": "Giữa số mười sáu và mười tám có một chỗ trống. Thẻ số mười bảy đâu rồi? Chúng tôi nhìn quanh và tìm thấy nó sau một chiếc ghế."
+    },
+    {
+      "id": "s1-08-08",
+      "kind": "sentence",
+      "en": "The clock says twelve thirty when we finish.",
+      "vi": "Khi chúng tôi làm xong, đồng hồ chỉ mười hai giờ ba mươi."
+    },
+    {
+      "id": "s1-08-09",
+      "kind": "sentence",
+      "en": "Our teacher smiles, and we leave the cards ready for the next class.",
+      "vi": "Cô giáo mỉm cười, còn chúng tôi để sẵn những tấm thẻ cho lớp học tiếp theo."
+    }
+  ]
+}

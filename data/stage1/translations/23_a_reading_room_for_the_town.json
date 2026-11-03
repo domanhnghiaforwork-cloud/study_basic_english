@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 23,
+  "sourceFile": "paragraph/23_a_reading_room_for_the_town.md",
+  "sourceSha256": "a1b5162fb2593eac979a84310d729dbf550a205081839aa39fc56f480d6c7767",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-23-01",
+      "kind": "sentence",
+      "en": "In October, a man puts a box of books outside his house.",
+      "vi": "Tháng Mười, một người đàn ông đặt một hộp sách bên ngoài nhà mình."
+    },
+    {
+      "id": "s1-23-02",
+      "kind": "sentence",
+      "en": "A woman stops to look and takes a story home.",
+      "vi": "Một người phụ nữ dừng lại xem và mang một cuốn truyện về nhà."
+    },
+    {
+      "id": "s1-23-03",
+      "kind": "sentence",
+      "en": "The next day, she brings it back with two more books.",
+      "vi": "Hôm sau, cô mang trả cuốn sách, kèm thêm hai cuốn nữa."
+    },
+    {
+      "id": "s1-23-04",
+      "kind": "sentence",
+      "en": "By November, many people are sharing books there.",
+      "vi": "Đến tháng Mười Một, nhiều người đã chia sẻ sách ở đó."
+    },
+    {
+      "id": "s1-23-05",
+      "kind": "sentence",
+      "en": "One person brings a small table, and a boy helps carry some chairs.",
+      "vi": "Một người mang đến chiếc bàn nhỏ, còn một cậu bé giúp khiêng vài chiếc ghế."
+    },
+    {
+      "id": "s1-23-06",
+      "kind": "sentence",
+      "en": "A girl makes a picture for the door.",
+      "vi": "Một cô bé vẽ tranh để treo ở cửa."
+    },
+    {
+      "id": "s1-23-07",
+      "kind": "sentence",
+      "en": "In December, the town has a little reading room.",
+      "vi": "Đến tháng Mười Hai, khu phố đã có một phòng đọc nhỏ."
+    },
+    {
+      "id": "s1-23-08",
+      "kind": "sentence",
+      "en": "Every child is welcome to come and read for free.",
+      "vi": "Mọi trẻ em đều được chào đón đến đọc sách miễn phí."
+    },
+    {
+      "id": "s1-23-09",
+      "kind": "sentence",
+      "en": "There is no big television or computer, just books, chairs, and people who enjoy a good story.",
+      "vi": "Ở đó không có tivi lớn hay máy tính, chỉ có sách, ghế và những người yêu thích truyện hay."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 24,
+  "sourceFile": "paragraph/24_a_family_at_the_park.md",
+  "sourceSha256": "44cd283af63f7aaecff8affbfa55c67b977af0263c221feb8bfb7ac0f52df961",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-24-01",
+      "kind": "sentence",
+      "en": "I go to the park with my family and a friend.",
+      "vi": "Tôi đi công viên cùng gia đình và một người bạn."
+    },
+    {
+      "id": "s1-24-02",
+      "kind": "sentence",
+      "en": "Near the door, a sign says every child must stay with an adult.",
+      "vi": "Gần cổng có biển ghi rằng mỗi trẻ em phải đi cùng một người lớn."
+    },
+    {
+      "id": "s1-24-03",
+      "kind": "sentence",
+      "en": "My father takes my hand while my mother carries the baby.",
+      "vi": "Bố nắm tay tôi, còn mẹ bế em bé."
+    },
+    {
+      "id": "s1-24-04",
+      "kind": "group",
+      "en": "My friend walks with his mom and dad. Their son is the same age as me, and we like the same games.",
+      "vi": "Bạn tôi đi cùng bố mẹ của bạn ấy. Con trai của họ bằng tuổi tôi, và chúng tôi thích cùng những trò chơi."
+    },
+    {
+      "id": "s1-24-05",
+      "kind": "sentence",
+      "en": "We find a place under a tree and sit together for lunch.",
+      "vi": "Chúng tôi tìm chỗ dưới gốc cây rồi ngồi ăn trưa cùng nhau."
+    },
+    {
+      "id": "s1-24-06",
+      "kind": "sentence",
+      "en": "Another parent asks if there is room for her family too.",
+      "vi": "Một phụ huynh khác hỏi còn chỗ cho gia đình cô ấy không."
+    },
+    {
+      "id": "s1-24-07",
+      "kind": "sentence",
+      "en": "We move our bags and welcome them.",
+      "vi": "Chúng tôi dịch túi sang một bên và mời họ cùng ngồi."
+    },
+    {
+      "id": "s1-24-08",
+      "kind": "sentence",
+      "en": "Soon, the children are playing and everyone is talking.",
+      "vi": "Chẳng mấy chốc, bọn trẻ chơi đùa còn mọi người trò chuyện rôm rả."
+    }
+  ]
+}

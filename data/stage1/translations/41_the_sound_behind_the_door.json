@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 41,
+  "sourceFile": "paragraph/41_the_sound_behind_the_door.md",
+  "sourceSha256": "5b9d3e9dbac0a3d0a3f750229129d5f58eec57f2fd791def7039d341d78c11be",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-41-01",
+      "kind": "sentence",
+      "en": "My sister and I hear a strange sound behind the kitchen door.",
+      "vi": "Chị em tôi nghe một âm thanh lạ sau cửa bếp."
+    },
+    {
+      "id": "s1-41-02",
+      "kind": "group",
+      "en": "We stop to listen. It sounds like a small animal.",
+      "vi": "Chúng tôi dừng lại lắng nghe. Nghe giống tiếng một con vật nhỏ."
+    },
+    {
+      "id": "s1-41-03",
+      "kind": "group",
+      "en": "\"Can you see anything?\" she asks.",
+      "vi": "“Em có thấy gì không?” chị hỏi."
+    },
+    {
+      "id": "s1-41-04",
+      "kind": "sentence",
+      "en": "I look through the window, but the room is dark.",
+      "vi": "Tôi nhìn qua cửa sổ, nhưng trong phòng tối quá."
+    },
+    {
+      "id": "s1-41-05",
+      "kind": "sentence",
+      "en": "We ask Dad to help us.",
+      "vi": "Chúng tôi nhờ bố giúp."
+    },
+    {
+      "id": "s1-41-06",
+      "kind": "sentence",
+      "en": "He opens the door and tells us to watch the floor.",
+      "vi": "Bố mở cửa và bảo chúng tôi nhìn xuống sàn."
+    },
+    {
+      "id": "s1-41-07",
+      "kind": "sentence",
+      "en": "A little cat walks out from under a chair.",
+      "vi": "Một chú mèo nhỏ bước ra từ dưới ghế."
+    },
+    {
+      "id": "s1-41-08",
+      "kind": "sentence",
+      "en": "We try to call it, but it runs away.",
+      "vi": "Chúng tôi thử gọi nó, nhưng nó lại chạy mất."
+    },
+    {
+      "id": "s1-41-09",
+      "kind": "sentence",
+      "en": "Later, we talk to our neighbor, who is looking for her cat.",
+      "vi": "Sau đó, chúng tôi nói chuyện với cô hàng xóm đang tìm mèo."
+    },
+    {
+      "id": "s1-41-10",
+      "kind": "sentence",
+      "en": "We tell her what happened and show her where it went.",
+      "vi": "Chúng tôi kể chuyện đã xảy ra và chỉ cho cô hướng nó chạy."
+    }
+  ]
+}

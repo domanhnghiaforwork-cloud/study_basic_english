@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 5,
+  "sourceFile": "paragraph/05_food_for_everyone.md",
+  "sourceSha256": "434a0b0c132b0abd02d174127aaa407aafb3168fe5472c8c2c292d8822963099",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-05-01",
+      "kind": "sentence",
+      "en": "All our friends come to the house for lunch.",
+      "vi": "Tất cả bạn bè của chúng tôi đều đến nhà ăn trưa."
+    },
+    {
+      "id": "s1-05-02",
+      "kind": "sentence",
+      "en": "We have many apples, but only a few cups.",
+      "vi": "Chúng tôi có nhiều táo, nhưng chỉ có vài chiếc cốc."
+    },
+    {
+      "id": "s1-05-03",
+      "kind": "sentence",
+      "en": "There is some tea in the kitchen and a little milk in the bottle.",
+      "vi": "Trong bếp có một ít trà, còn trong chai có một chút sữa."
+    },
+    {
+      "id": "s1-05-04",
+      "kind": "group",
+      "en": "\"Do we have any bread?\" my sister asks. We do, but there is not much left.",
+      "vi": "“Nhà mình có bánh mì không?” em gái tôi hỏi. Có, nhưng không còn nhiều."
+    },
+    {
+      "id": "s1-05-05",
+      "kind": "sentence",
+      "en": "I cut it into small pieces so everyone can have some.",
+      "vi": "Tôi cắt bánh mì thành những miếng nhỏ để ai cũng được ăn."
+    },
+    {
+      "id": "s1-05-06",
+      "kind": "sentence",
+      "en": "Most people want tea, so we need more water.",
+      "vi": "Hầu hết mọi người đều muốn uống trà, nên chúng tôi cần thêm nước."
+    },
+    {
+      "id": "s1-05-07",
+      "kind": "sentence",
+      "en": "My father brings another bottle from the kitchen.",
+      "vi": "Bố tôi mang thêm một chai nước từ bếp ra."
+    },
+    {
+      "id": "s1-05-08",
+      "kind": "sentence",
+      "en": "We put less sugar in the tea this time.",
+      "vi": "Lần này, chúng tôi cho ít đường hơn vào trà."
+    },
+    {
+      "id": "s1-05-09",
+      "kind": "sentence",
+      "en": "Everyone likes the food, and nobody leaves the table hungry.",
+      "vi": "Ai cũng thích đồ ăn, và không ai rời bàn mà vẫn còn đói."
+    }
+  ]
+}

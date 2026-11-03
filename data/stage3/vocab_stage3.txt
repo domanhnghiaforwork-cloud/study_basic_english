@@ -1,0 +1,1000 @@
+﻿1001. access — quyền truy cập; tiếp cận
+1002. achievement — thành tựu
+1003. advantage — lợi thế
+1004. agreement — thỏa thuận
+1005. amount — lượng
+1006. analysis — sự phân tích
+1007. argument — cuộc tranh luận
+1008. attention — sự chú ý
+1009. attitude — thái độ
+1010. behavior — hành vi
+1011. benefit — lợi ích
+1012. challenge — thử thách
+1013. choice — sự lựa chọn
+1014. condition — điều kiện; tình trạng
+1015. confidence — sự tự tin
+1016. conflict — xung đột
+1017. consequence — hậu quả
+1018. contact — sự liên hệ
+1019. content — nội dung
+1020. context — bối cảnh
+1021. control — sự kiểm soát
+1022. cooperation — sự hợp tác
+1023. culture — văn hóa
+1024. danger — nguy hiểm
+1025. data — dữ liệu
+1026. decision — quyết định
+1027. demand — nhu cầu; sự yêu cầu
+1028. detail — chi tiết
+1029. development — sự phát triển
+1030. difference — sự khác biệt
+1031. difficulty — khó khăn
+1032. distance — khoảng cách
+1033. dream — giấc mơ
+1034. duty — bổn phận
+1035. effect — ảnh hưởng; tác động
+1036. effort — nỗ lực
+1037. energy — năng lượng
+1038. event — sự kiện
+1039. evidence — bằng chứng
+1040. experience — kinh nghiệm; trải nghiệm
+1041. fact — sự thật
+1042. fear — nỗi sợ
+1043. feeling — cảm xúc
+1044. focus — sự tập trung
+1045. freedom — tự do
+1046. future — tương lai
+1047. growth — sự phát triển
+1048. habit — thói quen
+1049. happiness — niềm hạnh phúc
+1050. honesty — sự trung thực
+1051. identity — danh tính
+1052. importance — tầm quan trọng
+1053. influence — ảnh hưởng
+1054. interest — sự quan tâm; lãi suất
+1055. issue — vấn đề
+1056. justice — công lý
+1057. limit — giới hạn
+1058. luck — may mắn
+1059. method — phương pháp
+1060. opinion — ý kiến
+1061. opportunity — cơ hội
+1062. option — lựa chọn
+1063. pattern — mẫu; quy luật
+1064. performance — hiệu suất; màn trình diễn
+1065. permission — sự cho phép
+1066. personality — tính cách
+1067. pleasure — niềm vui
+1068. policy — chính sách
+1069. pressure — áp lực
+1070. priority — ưu tiên
+1071. process — quá trình
+1072. progress — tiến bộ
+1073. purpose — mục đích
+1074. relationship — mối quan hệ
+1075. responsibility — trách nhiệm
+1076. risk — rủi ro
+1077. role — vai trò
+1078. rule — quy tắc
+1079. secret — bí mật
+1080. sense — cảm giác; ý nghĩa
+1081. situation — tình huống
+1082. source — nguồn
+1083. standard — tiêu chuẩn
+1084. strength — sức mạnh
+1085. stress — căng thẳng
+1086. structure — cấu trúc
+1087. system — hệ thống
+1088. talent — tài năng
+1089. theory — lý thuyết
+1090. thought — suy nghĩ
+1091. truth — sự thật
+1092. value — giá trị
+1093. view — quan điểm; góc nhìn
+1094. weakness — điểm yếu
+1095. wish — điều ước
+1096. wonder — sự ngạc nhiên
+1097. authority — chính quyền; thẩm quyền
+1098. citizen — công dân
+1099. community — cộng đồng
+1100. society — xã hội
+1101. population — dân số
+1102. nation — quốc gia
+1103. region — vùng miền
+1104. territory — lãnh thổ
+1105. border — biên giới
+1106. capital — thủ đô; vốn
+1107. flag — lá cờ
+1108. law — luật
+1109. legal — hợp pháp
+1110. illegal — bất hợp pháp
+1111. crime — tội phạm
+1112. criminal — tội phạm; thuộc hình sự
+1113. prison — nhà tù
+1114. court — tòa án
+1115. judge — thẩm phán
+1116. lawyer — luật sư
+1117. trial — phiên tòa; thử nghiệm
+1118. punishment — sự trừng phạt
+1119. violence — bạo lực
+1120. peace — hòa bình
+1121. war — chiến tranh
+1122. battle — trận chiến
+1123. military — quân đội; quân sự
+1124. soldier — người lính
+1125. army — quân đội
+1126. weapon — vũ khí
+1127. security — an ninh
+1128. safety — sự an toàn
+1129. protection — sự bảo vệ
+1130. rights — các quyền
+1131. human — con người; thuộc loài người
+1132. politics — chính trị
+1133. political — thuộc chính trị
+1134. government — chính phủ
+1135. president — tổng thống; chủ tịch
+1136. minister — bộ trưởng
+1137. leader — lãnh đạo
+1138. leadership — khả năng lãnh đạo
+1139. parliament — quốc hội
+1140. congress — đại hội; quốc hội
+1141. election — cuộc bầu cử
+1142. vote — lá phiếu; bỏ phiếu
+1143. party — bữa tiệc; đảng
+1144. campaign — chiến dịch
+1145. protest — biểu tình
+1146. movement — phong trào
+1147. union — liên minh; công đoàn
+1148. association — hiệp hội
+1149. organization — tổ chức
+1150. institution — cơ quan; thể chế
+1151. agency — cơ quan; đại lý
+1152. department — phòng ban
+1153. committee — ủy ban
+1154. administration — sự quản lý; chính quyền
+1155. regulation — quy định
+1156. requirement — yêu cầu
+1157. procedure — thủ tục
+1158. contract — hợp đồng
+1159. signature — chữ ký
+1160. application — đơn đăng ký; ứng dụng
+1161. form — mẫu đơn; hình thức
+1162. license — giấy phép
+1163. permit — giấy phép; cho phép
+1164. registration — đăng ký
+1165. record — hồ sơ; ghi chép
+1166. report — báo cáo
+1167. statement — lời tuyên bố
+1168. notice — thông báo
+1169. announcement — thông cáo
+1170. communication — giao tiếp; truyền thông
+1171. media — truyền thông
+1172. journalist — nhà báo
+1173. reporter — phóng viên
+1174. editor — biên tập viên
+1175. audience — khán giả; người nghe
+1176. volunteer — tình nguyện viên
+1177. charity — từ thiện
+1178. donation — sự quyên góp
+1179. shelter — nơi trú ẩn
+1180. poverty — sự nghèo đói
+1181. wealth — sự giàu có
+1182. equality — sự bình đẳng
+1183. inequality — sự bất bình đẳng
+1184. discrimination — sự phân biệt đối xử
+1185. diversity — sự đa dạng
+1186. tradition — truyền thống
+1187. religion — tôn giáo
+1188. faith — đức tin
+1189. belief — niềm tin
+1190. respect — sự tôn trọng
+1191. reputation — danh tiếng
+1192. status — địa vị; trạng thái
+1193. classroom — phòng học
+1194. environment — môi trường
+1195. nature — thiên nhiên
+1196. weather — thời tiết
+1197. climate — khí hậu
+1198. temperature — nhiệt độ
+1199. season — mùa
+1200. spring — mùa xuân; suối
+1201. summer — mùa hè
+1202. autumn — mùa thu
+1203. winter — mùa đông
+1204. sun — mặt trời
+1205. sunshine — ánh nắng
+1206. moon — mặt trăng
+1207. star — ngôi sao
+1208. sky — bầu trời
+1209. cloud — mây
+1210. rain — mưa
+1211. snow — tuyết
+1212. wind — gió
+1213. storm — bão
+1214. thunder — sấm
+1215. lightning — tia chớp
+1216. fog — sương mù
+1217. ice — băng
+1218. frost — sương giá
+1219. heat — nhiệt
+1220. humidity — độ ẩm
+1221. rainbow — cầu vồng
+1222. sunrise — bình minh
+1223. sunset — hoàng hôn
+1224. planet — hành tinh
+1225. earth — Trái Đất; đất
+1226. space — không gian; vũ trụ
+1227. universe — vũ trụ
+1228. galaxy — thiên hà
+1229. satellite — vệ tinh
+1230. rocket — tên lửa
+1231. soil — đất trồng
+1232. sand — cát
+1233. mud — bùn
+1234. rock — đá tảng
+1235. cave — hang động
+1236. valley — thung lũng
+1237. waterfall — thác nước
+1238. stream — dòng suối
+1239. pond — ao
+1240. coast — bờ biển
+1241. shore — bờ
+1242. wave — sóng
+1243. tide — thủy triều
+1244. current — dòng chảy; hiện tại
+1245. air — không khí
+1246. oxygen — ôxy
+1247. carbon — cacbon
+1248. gas — khí
+1249. smoke — khói
+1250. dust — bụi
+1251. fire — lửa
+1252. flame — ngọn lửa
+1253. ash — tro
+1254. pollution — ô nhiễm
+1255. wastewater — nước thải
+1256. garbage — rác
+1257. trash — rác
+1258. rubbish — rác
+1259. recycling — việc tái chế
+1260. resource — tài nguyên
+1261. fuel — nhiên liệu
+1262. electricity — điện
+1263. power — năng lượng; quyền lực
+1264. battery — pin
+1265. solar — thuộc mặt trời
+1266. windy — nhiều gió
+1267. rainy — có mưa
+1268. sunny — nắng
+1269. cloudy — nhiều mây
+1270. stormy — có bão
+1271. freezing — rất lạnh; đóng băng
+1272. flood — lũ lụt
+1273. drought — hạn hán
+1274. earthquake — động đất
+1275. volcano — núi lửa
+1276. eruption — sự phun trào
+1277. disaster — thảm họa
+1278. species — loài
+1279. plant — cây; trồng
+1280. tree — cây thân gỗ
+1281. leaf — lá cây
+1282. leaves — những chiếc lá
+1283. flower — hoa
+1284. grass — cỏ
+1285. root — rễ
+1286. branch — cành cây
+1287. seed — hạt giống
+1288. harvest — mùa thu hoạch
+1289. crop — cây trồng; mùa vụ
+1290. agriculture — nông nghiệp
+1291. farmer — nông dân
+1292. farming — nghề nông
+1293. animal — động vật
+1294. pet — thú cưng
+1295. dog — chó
+1296. cat — mèo
+1297. puppy — chó con
+1298. kitten — mèo con
+1299. bird — chim
+1300. duck — vịt
+1301. hen — gà mái
+1302. rooster — gà trống
+1303. turkey — gà tây
+1304. cow — bò
+1305. bull — bò đực
+1306. calf — bê
+1307. pig — lợn
+1308. sheep — cừu
+1309. goat — dê
+1310. horse — ngựa
+1311. donkey — lừa
+1312. rabbit — thỏ
+1313. rat — chuột cống
+1314. squirrel — sóc
+1315. monkey — khỉ
+1316. gorilla — khỉ đột
+1317. lion — sư tử
+1318. tiger — hổ
+1319. leopard — báo
+1320. bear — gấu
+1321. wolf — sói
+1322. fox — cáo
+1323. deer — hươu
+1324. elephant — voi
+1325. giraffe — hươu cao cổ
+1326. zebra — ngựa vằn
+1327. camel — lạc đà
+1328. panda — gấu trúc
+1329. kangaroo — chuột túi
+1330. koala — gấu koala
+1331. bat — dơi
+1332. whale — cá voi
+1333. dolphin — cá heo
+1334. shark — cá mập
+1335. octopus — bạch tuộc
+1336. squid — mực
+1337. jellyfish — sứa
+1338. turtle — rùa
+1339. frog — ếch
+1340. snake — rắn
+1341. lizard — thằn lằn
+1342. crocodile — cá sấu
+1343. butterfly — bướm
+1344. bee — ong
+1345. ant — kiến
+1346. spider — nhện
+1347. mosquito — muỗi
+1348. insect — côn trùng
+1349. worm — giun
+1350. shell — vỏ cứng; vỏ sò
+1351. feather — lông vũ
+1352. fur — lông thú
+1353. wing — cánh
+1354. tail — đuôi
+1355. claw — móng vuốt
+1356. beak — mỏ chim
+1357. horn — sừng
+1358. nest — tổ chim
+1359. wild — hoang dã
+1360. wildlife — động vật hoang dã
+1361. domestic — trong nước; thuần hóa
+1362. natural — tự nhiên
+1363. alive — còn sống
+1364. dead — đã chết
+1365. birth — sự sinh ra
+1366. death — cái chết
+1367. life — cuộc sống
+1368. lifetime — cả cuộc đời
+1369. sex — giới tính; tình dục
+1370. gender — giới tính
+1371. male — nam; con đực
+1372. female — nữ; con cái
+1373. reproduction — sự sinh sản
+1374. organism — sinh vật
+1375. cell — tế bào
+1376. tissue — mô
+1377. muscle — cơ bắp
+1378. organ — cơ quan
+1379. skeleton — bộ xương
+1380. nerve — dây thần kinh
+1381. vein — tĩnh mạch
+1382. artery — động mạch
+1383. lung — phổi
+1384. liver — gan
+1385. kidney — thận
+1386. intestine — ruột
+1387. digest — tiêu hóa
+1388. nutrition — dinh dưỡng
+1389. protein — chất đạm
+1390. vitamin — vitamin
+1391. mineral — khoáng chất
+1392. calorie — calo
+1393. illness — bệnh tật
+1394. disease — bệnh
+1395. infection — nhiễm trùng
+1396. virus — vi-rút
+1397. bacteria — vi khuẩn
+1398. symptom — triệu chứng
+1399. diagnosis — chẩn đoán
+1400. treatment — điều trị
+1401. therapy — liệu pháp
+1402. surgery — phẫu thuật
+1403. operation — ca phẫu thuật; hoạt động
+1404. hospitalization — sự nhập viện
+1405. recovery — sự hồi phục
+1406. medication — thuốc điều trị
+1407. prescription — đơn thuốc
+1408. injection — mũi tiêm
+1409. vaccine — vắc-xin
+1410. allergy — dị ứng
+1411. asthma — hen suyễn
+1412. diabetes — bệnh tiểu đường
+1413. cancer — ung thư
+1414. headache — đau đầu
+1415. stomachache — đau bụng
+1416. toothache — đau răng
+1417. sore — đau rát
+1418. swollen — sưng lên
+1419. bleeding — chảy máu
+1420. wound — vết thương
+1421. bruise — vết bầm
+1422. bandage — băng gạc
+1423. ambulance — xe cứu thương
+1424. surgeon — bác sĩ phẫu thuật
+1425. dentist — nha sĩ
+1426. pharmacist — dược sĩ
+1427. therapist — nhà trị liệu
+1428. psychologist — nhà tâm lý học
+1429. mental — thuộc tinh thần
+1430. physical — thuộc thể chất
+1431. emotional — thuộc cảm xúc
+1432. anxiety — sự lo âu
+1433. depression — trầm cảm
+1434. mood — tâm trạng
+1435. memory — trí nhớ
+1436. concentration — sự tập trung
+1437. awareness — nhận thức
+1438. consciousness — ý thức
+1439. intelligence — trí thông minh
+1440. imagination — trí tưởng tượng
+1441. creativity — sự sáng tạo
+1442. curiosity — tính tò mò
+1443. motivation — động lực
+1444. inspiration — cảm hứng
+1445. patience — sự kiên nhẫn
+1446. courage — lòng can đảm
+1447. kindness — lòng tốt
+1448. generosity — sự hào phóng
+1449. sympathy — sự cảm thông
+1450. empathy — sự đồng cảm
+1451. compassion — lòng trắc ẩn
+1452. forgiveness — sự tha thứ
+1453. jealousy — sự ghen tị
+1454. envy — sự đố kỵ
+1455. anger — sự tức giận
+1456. joy — niềm vui
+1457. sorrow — nỗi buồn
+1458. sadness — sự buồn bã
+1459. loneliness — sự cô đơn
+1460. friendship — tình bạn
+1461. romance — chuyện tình cảm
+1462. affection — tình cảm
+1463. passion — niềm đam mê
+1464. attachment — sự gắn bó
+1465. marriage — hôn nhân
+1466. wedding — đám cưới
+1467. divorce — ly hôn
+1468. couple — cặp đôi
+1469. partner — bạn đời; đối tác
+1470. relative — họ hàng
+1471. ancestor — tổ tiên
+1472. descendant — hậu duệ
+1473. nephew — cháu trai
+1474. niece — cháu gái
+1475. grandchild — cháu
+1476. stepfather — cha dượng
+1477. stepmother — mẹ kế
+1478. adoption — sự nhận con nuôi
+1479. childhood — thời thơ ấu
+1480. teenager — thiếu niên
+1481. youth — tuổi trẻ
+1482. elderly — người cao tuổi
+1483. retirement — nghỉ hưu
+1484. funeral — đám tang
+1485. ceremony — nghi lễ
+1486. celebration — lễ kỷ niệm
+1487. festival — lễ hội
+1488. anniversary — ngày kỷ niệm
+1489. invitation — lời mời
+1490. gift — quà tặng
+1491. surprise — sự bất ngờ
+1492. profession — nghề nghiệp
+1493. occupation — nghề nghiệp
+1494. engineer — kỹ sư
+1495. developer — lập trình viên; nhà phát triển
+1496. programmer — lập trình viên
+1497. designer — nhà thiết kế
+1498. architect — kiến trúc sư
+1499. accountant — kế toán
+1500. auditor — kiểm toán viên
+1501. banker — nhân viên ngân hàng
+1502. cashier — thu ngân
+1503. salesperson — nhân viên bán hàng
+1504. seller — người bán
+1505. buyer — người mua
+1506. merchant — thương nhân
+1507. entrepreneur — doanh nhân
+1508. investor — nhà đầu tư
+1509. consultant — chuyên gia tư vấn
+1510. assistant — trợ lý
+1511. secretary — thư ký
+1512. receptionist — nhân viên lễ tân
+1513. chef — đầu bếp
+1514. waiter — nam phục vụ bàn
+1515. waitress — nữ phục vụ bàn
+1516. bartender — nhân viên pha chế
+1517. baker — thợ làm bánh
+1518. butcher — người bán thịt
+1519. tailor — thợ may
+1520. barber — thợ cắt tóc
+1521. hairdresser — thợ làm tóc
+1522. mechanic — thợ máy
+1523. electrician — thợ điện
+1524. plumber — thợ sửa ống nước
+1525. carpenter — thợ mộc
+1526. painter — họa sĩ; thợ sơn
+1527. photographer — nhiếp ảnh gia
+1528. musician — nhạc sĩ
+1529. singer — ca sĩ
+1530. actor — nam diễn viên
+1531. actress — nữ diễn viên
+1532. director — đạo diễn; giám đốc
+1533. writer — nhà văn
+1534. poet — nhà thơ
+1535. artist — nghệ sĩ
+1536. scientist — nhà khoa học
+1537. researcher — nhà nghiên cứu
+1538. professor — giáo sư
+1539. lecturer — giảng viên
+1540. principal — hiệu trưởng; chủ yếu
+1541. coach — huấn luyện viên
+1542. athlete — vận động viên
+1543. referee — trọng tài
+1544. pilot — phi công
+1545. driver — tài xế
+1546. captain — thuyền trưởng; đội trưởng
+1547. sailor — thủy thủ
+1548. firefighter — lính cứu hỏa
+1549. fisherman — ngư dân
+1550. hunter — thợ săn
+1551. vet — bác sĩ thú y
+1552. politician — chính trị gia
+1553. diplomat — nhà ngoại giao
+1554. translator — người dịch
+1555. interpreter — phiên dịch viên
+1556. guide — hướng dẫn viên
+1557. librarian — thủ thư
+1558. technician — kỹ thuật viên
+1559. operator — người vận hành
+1560. supervisor — người giám sát
+1561. owner — chủ sở hữu
+1562. founder — người sáng lập
+1563. chairman — chủ tịch
+1564. executive — người điều hành; cấp quản lý
+1565. intern — thực tập sinh
+1566. apprentice — người học nghề
+1567. trainee — người tập sự
+1568. freelancer — người làm tự do
+1569. contractor — nhà thầu
+1570. employer — người sử dụng lao động
+1571. unemployment — thất nghiệp
+1572. employment — việc làm
+1573. workplace — nơi làm việc
+1574. workforce — lực lượng lao động
+1575. overtime — làm thêm giờ
+1576. shift — ca làm; sự thay đổi
+1577. promotion — thăng chức; khuyến mãi
+1578. bonus — tiền thưởng
+1579. benefits — phúc lợi
+1580. insurance — bảo hiểm
+1581. pension — lương hưu
+1582. recruitment — tuyển dụng
+1583. interview — phỏng vấn
+1584. resume — sơ yếu lý lịch; tiếp tục
+1585. qualification — trình độ chuyên môn
+1586. reference — sự tham khảo; người giới thiệu
+1587. economy — nền kinh tế
+1588. economic — thuộc kinh tế
+1589. finance — tài chính
+1590. financial — thuộc tài chính
+1591. marketplace — sàn giao dịch
+1592. trade — thương mại
+1593. industry — ngành công nghiệp
+1594. manufacturing — sản xuất công nghiệp
+1595. production — sự sản xuất
+1596. productivity — năng suất
+1597. supply — nguồn cung
+1598. demanding — đòi hỏi cao
+1599. distribution — sự phân phối
+1600. delivery — sự giao hàng
+1601. shipment — lô hàng
+1602. warehouse — nhà kho
+1603. inventory — hàng tồn kho
+1604. stock — cổ phiếu; hàng tồn
+1605. shareholder — cổ đông
+1606. investment — đầu tư
+1607. profit — lợi nhuận
+1608. loss — thua lỗ; sự mất mát
+1609. revenue — doanh thu
+1610. expense — khoản chi phí
+1611. expenditure — chi tiêu
+1612. payment — khoản thanh toán
+1613. transaction — giao dịch
+1614. transfer — chuyển khoản; chuyển đổi
+1615. deposit — tiền đặt cọc; tiền gửi
+1616. withdrawal — sự rút tiền
+1617. loan — khoản vay
+1618. debt — nợ
+1619. rate — tỷ lệ; mức giá
+1620. tax — thuế
+1621. fee — phí
+1622. rent — thuê; tiền thuê
+1623. mortgage — khoản vay thế chấp
+1624. property — tài sản; bất động sản
+1625. asset — tài sản
+1626. liability — khoản nợ; trách nhiệm
+1627. equity — vốn chủ sở hữu
+1628. capitalization — vốn hóa
+1629. inflation — lạm phát
+1630. deflation — giảm phát
+1631. currency — tiền tệ
+1632. exchange — trao đổi; đổi tiền
+1633. import — nhập khẩu
+1634. export — xuất khẩu
+1635. tariff — thuế quan
+1636. competition — cạnh tranh
+1637. competitor — đối thủ cạnh tranh
+1638. strategy — chiến lược
+1639. target — mục tiêu
+1640. segment — phân khúc
+1641. consumer — người tiêu dùng
+1642. consumption — tiêu dùng
+1643. advertising — quảng cáo
+1644. advertisement — mẫu quảng cáo
+1645. marketing — tiếp thị
+1646. sponsorship — tài trợ
+1647. partnership — quan hệ hợp tác
+1648. negotiation — đàm phán
+1649. deal — thỏa thuận; giao dịch
+1650. bargain — món hời; mặc cả
+1651. invoice — hóa đơn bán hàng
+1652. refund — hoàn tiền
+1653. warranty — bảo hành
+1654. guarantee — sự bảo đảm
+1655. subscription — gói đăng ký định kỳ
+1656. membership — tư cách thành viên
+1657. purchase — mua hàng
+1658. renting — việc thuê
+1659. ownership — quyền sở hữu
+1660. bankruptcy — phá sản
+1661. savings — tiền tiết kiệm
+1662. wealthy — giàu có
+1663. poor — nghèo
+1664. rich — giàu
+1665. luxury — xa xỉ
+1666. affordable — vừa túi tiền
+1667. reasonable — hợp lý
+1668. competitive — cạnh tranh
+1669. commercial — thuộc thương mại
+1670. industrial — thuộc công nghiệp
+1671. agricultural — thuộc nông nghiệp
+1672. professional — chuyên nghiệp
+1673. independent — độc lập
+1674. reliable — đáng tin cậy
+1675. efficient — hiệu quả
+1676. productive — năng suất cao
+1677. sustainable — bền vững
+1678. stable — ổn định
+1679. flexible — linh hoạt
+1680. accurate — chính xác
+1681. active — năng động; đang hoạt động
+1682. actual — thực tế
+1683. additional — bổ sung
+1684. advanced — nâng cao
+1685. ambitious — tham vọng
+1686. amazing — đáng kinh ngạc
+1687. ancient — cổ đại
+1688. annual — hằng năm
+1689. apparent — rõ ràng; có vẻ
+1690. appropriate — phù hợp
+1691. available — có sẵn
+1692. average — trung bình
+1693. aware — nhận thức được
+1694. basic — cơ bản
+1695. brave — dũng cảm
+1696. calm — bình tĩnh
+1697. careful — cẩn thận
+1698. careless — bất cẩn
+1699. certain — chắc chắn
+1700. clear — rõ ràng
+1701. clever — thông minh
+1702. confident — tự tin
+1703. confused — bối rối
+1704. convenient — thuận tiện
+1705. creative — sáng tạo
+1706. critical — quan trọng; có tính phê bình
+1707. curious — tò mò
+1708. daily — hằng ngày
+1709. dangerous — nguy hiểm
+1710. dependent — phụ thuộc
+1711. direct — trực tiếp
+1712. disabled — khuyết tật; bị vô hiệu
+1713. disappointed — thất vọng
+1714. disappointing — gây thất vọng
+1715. distant — xa xôi
+1716. doubtful — đáng ngờ
+1717. dramatic — kịch tính
+1718. educational — mang tính giáo dục
+1719. effective — có hiệu quả
+1720. entire — toàn bộ
+1721. enormous — khổng lồ
+1722. essential — thiết yếu
+1723. exact — chính xác
+1724. excellent — xuất sắc
+1725. excited — hào hứng
+1726. exciting — thú vị
+1727. experienced — có kinh nghiệm
+1728. fair — công bằng; hội chợ
+1729. familiar — quen thuộc
+1730. fantastic — tuyệt vời
+1731. formal — trang trọng
+1732. friendly — thân thiện
+1733. funny — hài hước
+1734. generous — hào phóng
+1735. gentle — dịu dàng
+1736. glad — vui mừng
+1737. global — toàn cầu
+1738. grateful — biết ơn
+1739. guilty — có tội; cảm thấy có lỗi
+1740. helpful — hữu ích
+1741. honest — trung thực
+1742. immediate — ngay lập tức
+1743. impatient — thiếu kiên nhẫn
+1744. impressive — ấn tượng
+1745. informal — không trang trọng
+1746. innocent — vô tội
+1747. interesting — thú vị
+1748. kind — tốt bụng; loại
+1749. lazy — lười
+1750. likely — có khả năng
+1751. lonely — cô đơn
+1752. loud — ồn; to tiếng
+1753. loyal — trung thành
+1754. lucky — may mắn
+1755. major — chính; lớn
+1756. minor — nhỏ; thứ yếu
+1757. negative — tiêu cực
+1758. nervous — lo lắng
+1759. normal — bình thường
+1760. obvious — hiển nhiên
+1761. ordinary — bình thường
+1762. original — nguyên bản
+1763. perfect — hoàn hảo
+1764. permanent — lâu dài
+1765. personal — cá nhân
+1766. pleasant — dễ chịu
+1767. positive — tích cực
+1768. powerful — mạnh mẽ
+1769. practical — thực tế
+1770. precious — quý giá
+1771. precise — chính xác, tỉ mỉ
+1772. proud — tự hào
+1773. quick — nhanh
+1774. quiet — yên tĩnh
+1775. real — thật; thực tế
+1776. regular — đều đặn
+1777. responsible — có trách nhiệm
+1778. serious — nghiêm túc
+1779. achieve — đạt được
+1780. adapt — thích nghi
+1781. adjust — điều chỉnh
+1782. admire — ngưỡng mộ
+1783. admit — thừa nhận
+1784. advise — khuyên
+1785. allow — cho phép
+1786. announce — thông báo
+1787. appear — xuất hiện
+1788. apply — nộp đơn; áp dụng
+1789. appreciate — trân trọng
+1790. approach — tiếp cận
+1791. approve — chấp thuận
+1792. argue — tranh luận
+1793. arrange — sắp xếp
+1794. arrive — đến nơi
+1795. assume — giả định
+1796. attack — tấn công
+1797. avoid — tránh
+1798. balance — cân bằng
+1799. behave — cư xử
+1800. belong — thuộc về
+1801. blame — đổ lỗi
+1802. bother — làm phiền
+1803. celebrate — ăn mừng
+1804. claim — tuyên bố; yêu cầu quyền lợi
+1805. combine — kết hợp
+1806. communicate — giao tiếp
+1807. complain — phàn nàn
+1808. complete — hoàn thành
+1809. concentrate — tập trung
+1810. confirm — xác nhận
+1811. consider — cân nhắc
+1812. consist — bao gồm
+1813. contain — chứa đựng
+1814. continue — tiếp tục
+1815. contribute — đóng góp
+1816. convince — thuyết phục
+1817. cooperate — hợp tác
+1818. cope — đối phó
+1819. criticize — chỉ trích
+1820. debate — tranh luận
+1821. decrease — giảm
+1822. deliver — giao hàng; chuyển đến
+1823. depend — phụ thuộc
+1824. deserve — xứng đáng
+1825. destroy — phá hủy
+1826. determine — xác định
+1827. develop — phát triển
+1828. differ — khác nhau
+1829. discover — khám phá
+1830. discuss — thảo luận
+1831. dislike — không thích
+1832. divide — chia
+1833. earn — kiếm được
+1834. encourage — khuyến khích
+1835. enjoy — tận hưởng
+1836. ensure — đảm bảo
+1837. enter — bước vào
+1838. establish — thành lập
+1839. estimate — ước tính
+1840. examine — khám xét; kiểm tra
+1841. exist — tồn tại
+1842. expect — mong đợi
+1843. express — bày tỏ
+1844. fail — thất bại
+1845. feed — cho ăn
+1846. fight — chiến đấu
+1847. forgive — tha thứ
+1848. gain — đạt được; tăng
+1849. gather — tập hợp
+1850. handle — xử lý
+1851. identify — nhận diện
+1852. imagine — tưởng tượng
+1853. include — bao gồm
+1854. increase — tăng
+1855. inform — thông báo
+1856. insist — khăng khăng
+1857. introduce — giới thiệu
+1858. involve — liên quan; bao gồm
+1859. lead — lãnh đạo; dẫn dắt
+1860. maintain — duy trì
+1861. mention — đề cập
+1862. observe — quan sát
+1863. occur — xảy ra
+1864. offer — đề nghị
+1865. participate — tham gia
+1866. perform — thực hiện; biểu diễn
+1867. prevent — ngăn ngừa
+1868. prove — chứng minh
+1869. provide — cung cấp
+1870. publish — xuất bản
+1871. realize — nhận ra
+1872. recognize — nhận biết
+1873. recommend — đề xuất
+1874. reduce — giảm
+1875. reflect — phản ánh; suy ngẫm
+1876. register — đăng ký
+1877. reject — từ chối
+1878. relate — liên quan
+1879. release — phát hành; thả ra
+1880. remind — nhắc nhở
+1881. require — yêu cầu
+1882. respond — phản hồi
+1883. reveal — tiết lộ
+1884. reward — thưởng; phần thưởng
+1885. rush — vội vã
+1886. satisfy — làm hài lòng
+1887. separate — tách ra
+1888. settle — giải quyết; ổn định
+1889. shake — lắc; bắt tay
+1890. shine — tỏa sáng
+1891. shoot — bắn; quay phim
+1892. shout — hét lên
+1893. solve — giải quyết
+1894. spread — lan rộng
+1895. succeed — thành công
+1896. suggest — gợi ý
+1897. suffer — chịu đựng
+1898. suppose — giả sử
+1899. survive — sống sót
+1900. suspect — nghi ngờ
+1901. tend — có xu hướng
+1902. threaten — đe dọa
+1903. translate — dịch
+1904. update — cập nhật
+1905. upgrade — nâng cấp
+1906. warn — cảnh báo
+1907. whisper — thì thầm
+1908. yell — hét lớn
+1909. yield — tạo ra; nhường
+1910. absorb — hấp thụ
+1911. accelerate — tăng tốc
+1912. accompany — đi cùng
+1913. acquire — thu được
+1914. act — hành động
+1915. activate — kích hoạt
+1916. addict — làm nghiện
+1917. adopt — nhận nuôi; áp dụng
+1918. affect — ảnh hưởng
+1919. aid — giúp đỡ; viện trợ
+1920. allocate — phân bổ
+1921. amuse — làm vui
+1922. analyze — phân tích
+1923. apologize — xin lỗi
+1924. attract — thu hút
+1925. awaken — đánh thức
+1926. ban — cấm
+1927. bend — uốn cong
+1928. bite — cắn
+1929. blink — chớp mắt
+1930. block — chặn; khối
+1931. blow — thổi
+1932. brush — chải; bàn chải
+1933. burn — đốt cháy
+1934. calculate — tính toán
+1935. capture — bắt giữ; ghi lại
+1936. chase — đuổi theo
+1937. cheat — gian lận
+1938. cheer — cổ vũ
+1939. clap — vỗ tay
+1940. classify — phân loại
+1941. collapse — sụp đổ
+1942. compete — cạnh tranh
+1943. construct — xây dựng
+1944. consume — tiêu thụ
+1945. convert — chuyển đổi
+1946. crash — va chạm; đổ vỡ
+1947. cross — băng qua
+1948. cure — chữa khỏi
+1949. cycle — đạp xe; chu kỳ
+1950. damage — gây hư hỏng; thiệt hại
+1951. delay — trì hoãn
+1952. deny — phủ nhận
+1953. designate — chỉ định
+1954. detect — phát hiện
+1955. dig — đào
+1956. disappear — biến mất
+1957. distribute — phân phát
+1958. drag — kéo lê
+1959. escape — trốn thoát
+1960. expand — mở rộng
+1961. explode — nổ
+1962. explore — khám phá
+1963. extend — kéo dài
+1964. freeze — đóng băng
+1965. graduate — tốt nghiệp
+1966. greet — chào đón
+1967. guess — đoán
+1968. hire — thuê; tuyển dụng
+1969. ignore — phớt lờ
+1970. impress — gây ấn tượng
+1971. invest — đầu tư
+1972. lay — đặt xuống
+1973. lean — dựa; nghiêng
+1974. melt — tan chảy
+1975. nod — gật đầu
+1976. obey — tuân theo
+1977. owe — nợ
+1978. pause — tạm dừng
+1979. persuade — thuyết phục
+1980. postpone — hoãn
+1981. punish — trừng phạt
+1982. quit — bỏ; nghỉ việc
+1983. recycle — tái chế
+1984. recover — phục hồi
+1985. reform — cải cách
+1986. replaceable — có thể thay thế
+1987. reply — trả lời
+1988. rescue — cứu hộ
+1989. resist — chống lại
+1990. retire — nghỉ hưu
+1991. roll — lăn; cuộn
+1992. rub — chà xát
+1993. scatter — rải; phân tán
+1994. scratch — cào; gãi
+1995. scream — la hét
+1996. select — chọn lựa
+1997. sew — may vá
+1998. skate — trượt băng
+1999. skip — bỏ qua; nhảy dây
+2000. slip — trượt

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 7,
+  "sourceFile": "paragraph/07_counting_before_the_game.md",
+  "sourceSha256": "45e61b9a5e64e9218c7b8894279989f9e5613255cc3f4fe763a98c7c016dce6c",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-07-01",
+      "kind": "sentence",
+      "en": "Two children wait by the school door.",
+      "vi": "Hai đứa trẻ đứng đợi cạnh cửa trường."
+    },
+    {
+      "id": "s1-07-02",
+      "kind": "sentence",
+      "en": "Three more children come, so now there are five.",
+      "vi": "Ba bạn nữa đến, vậy là bây giờ có năm bạn."
+    },
+    {
+      "id": "s1-07-03",
+      "kind": "sentence",
+      "en": "The teacher brings four balls, and the children help her carry them outside.",
+      "vi": "Cô giáo mang đến bốn quả bóng, và bọn trẻ giúp cô mang chúng ra ngoài."
+    },
+    {
+      "id": "s1-07-04",
+      "kind": "sentence",
+      "en": "Six parents sit near the wall to watch.",
+      "vi": "Sáu phụ huynh ngồi gần tường để xem."
+    },
+    {
+      "id": "s1-07-05",
+      "kind": "sentence",
+      "en": "We make a game with numbers: I say seven, and everyone takes seven small steps.",
+      "vi": "Chúng tôi chơi một trò với các con số: tôi nói “bảy”, và mọi người bước bảy bước nhỏ."
+    },
+    {
+      "id": "s1-07-06",
+      "kind": "sentence",
+      "en": "Then I say eight, and we all clap eight times.",
+      "vi": "Sau đó tôi nói “tám”, và tất cả cùng vỗ tay tám lần."
+    },
+    {
+      "id": "s1-07-07",
+      "kind": "sentence",
+      "en": "The next numbers are nine and ten.",
+      "vi": "Những số tiếp theo là chín và mười."
+    },
+    {
+      "id": "s1-07-08",
+      "kind": "sentence",
+      "en": "By eleven in the morning, we are tired and happy.",
+      "vi": "Đến mười một giờ sáng, chúng tôi vừa mệt vừa vui."
+    },
+    {
+      "id": "s1-07-09",
+      "kind": "sentence",
+      "en": "We sit under a tree, drink some water, and ask the teacher if we can play again tomorrow.",
+      "vi": "Chúng tôi ngồi dưới gốc cây, uống nước và hỏi cô giáo liệu ngày mai có thể chơi tiếp không."
+    }
+  ]
+}

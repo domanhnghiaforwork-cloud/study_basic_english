@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 19,
+  "sourceFile": "paragraph/19_the_first_day_at_the_shop.md",
+  "sourceSha256": "26a99bf2d6ed0fb356865eeae9be7fc39db4ec2a28355d06a470faf6b0f3939a",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-19-01",
+      "kind": "group",
+      "en": "\"Hello!\" says a woman when I enter the new shop.",
+      "vi": "“Xin chào!” một cô bán hàng nói khi tôi bước vào cửa hàng mới."
+    },
+    {
+      "id": "s1-19-02",
+      "kind": "sentence",
+      "en": "\"Hi,\" I answer.",
+      "vi": "“Cháu chào cô,” tôi đáp."
+    },
+    {
+      "id": "s1-19-03",
+      "kind": "sentence",
+      "en": "The room is very small, but it is quite busy.",
+      "vi": "Căn phòng rất nhỏ nhưng khá đông khách."
+    },
+    {
+      "id": "s1-19-04",
+      "kind": "sentence",
+      "en": "I really want a picture book for my brother.",
+      "vi": "Tôi rất muốn tìm một cuốn truyện tranh cho em trai."
+    },
+    {
+      "id": "s1-19-05",
+      "kind": "sentence",
+      "en": "\"Maybe you can help me,\" I say.",
+      "vi": "“Có lẽ cô giúp được cháu,” tôi nói."
+    },
+    {
+      "id": "s1-19-06",
+      "kind": "group",
+      "en": "\"A book about a dog, please.\" She shows me one, but I drop it on the floor.",
+      "vi": "“Cho cháu một cuốn sách về chó ạ.” Cô đưa tôi xem một cuốn, nhưng tôi làm rơi nó xuống sàn."
+    },
+    {
+      "id": "s1-19-07",
+      "kind": "group",
+      "en": "\"Sorry!\" I say as I pick it up.",
+      "vi": "“Cháu xin lỗi!” tôi nói khi nhặt sách lên."
+    },
+    {
+      "id": "s1-19-08",
+      "kind": "sentence",
+      "en": "She smiles and tells me it is okay.",
+      "vi": "Cô mỉm cười và bảo không sao."
+    },
+    {
+      "id": "s1-19-09",
+      "kind": "group",
+      "en": "I buy the book and say, \"Thanks for your help.\" At the door, she waves.",
+      "vi": "Tôi mua sách rồi nói: “Cảm ơn cô đã giúp cháu.” Ra đến cửa, cô vẫy tay chào."
+    },
+    {
+      "id": "s1-19-10",
+      "kind": "group",
+      "en": "\"Bye! Come back when your brother finishes the story.\"",
+      "vi": "“Tạm biệt nhé! Khi em cháu đọc xong truyện thì lại ghé nhé.”"
+    }
+  ]
+}

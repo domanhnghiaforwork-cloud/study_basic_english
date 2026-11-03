@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 21,
+  "sourceFile": "paragraph/21_a_little_time_to_read.md",
+  "sourceSha256": "e749649df3a20df3d62f23b230d32b44edd24e7c0bdf48daf30f927985b0ba31",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-21-01",
+      "kind": "sentence",
+      "en": "This year, I want to read a little every day.",
+      "vi": "Năm nay, tôi muốn đọc một chút mỗi ngày."
+    },
+    {
+      "id": "s1-21-02",
+      "kind": "sentence",
+      "en": "I do not need a whole hour.",
+      "vi": "Tôi không cần dành trọn một giờ."
+    },
+    {
+      "id": "s1-21-03",
+      "kind": "sentence",
+      "en": "Even one minute is a good start when I am busy.",
+      "vi": "Ngay cả một phút cũng là khởi đầu tốt khi tôi bận."
+    },
+    {
+      "id": "s1-21-04",
+      "kind": "sentence",
+      "en": "On Monday, I put a book beside my bed.",
+      "vi": "Vào thứ Hai, tôi đặt một cuốn sách cạnh giường."
+    },
+    {
+      "id": "s1-21-05",
+      "kind": "sentence",
+      "en": "On Tuesday, I read a page before breakfast.",
+      "vi": "Vào thứ Ba, tôi đọc một trang trước bữa sáng."
+    },
+    {
+      "id": "s1-21-06",
+      "kind": "sentence",
+      "en": "By Wednesday, I want to know what happens next.",
+      "vi": "Đến thứ Tư, tôi đã muốn biết câu chuyện sẽ tiếp diễn ra sao."
+    },
+    {
+      "id": "s1-21-07",
+      "kind": "sentence",
+      "en": "On Thursday, I take the book to school.",
+      "vi": "Vào thứ Năm, tôi mang cuốn sách đến trường."
+    },
+    {
+      "id": "s1-21-08",
+      "kind": "sentence",
+      "en": "A friend reads with me on Friday.",
+      "vi": "Một người bạn đọc cùng tôi vào thứ Sáu."
+    },
+    {
+      "id": "s1-21-09",
+      "kind": "sentence",
+      "en": "We laugh at a funny moment in the story.",
+      "vi": "Chúng tôi bật cười trước một tình tiết vui trong truyện."
+    },
+    {
+      "id": "s1-21-10",
+      "kind": "sentence",
+      "en": "Now I make time to read because I enjoy it.",
+      "vi": "Bây giờ, tôi chủ động dành thời gian để đọc vì tôi thích việc đó."
+    },
+    {
+      "id": "s1-21-11",
+      "kind": "sentence",
+      "en": "A small start can become something important.",
+      "vi": "Một khởi đầu nhỏ có thể trở thành điều quan trọng."
+    }
+  ]
+}

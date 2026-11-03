@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 15,
+  "sourceFile": "paragraph/15_the_cat_in_the_garden.md",
+  "sourceSha256": "7d4879f590fd265e87e57d7615bf239042e16ebcba1914ebe10057b2c29e8fae",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-15-01",
+      "kind": "sentence",
+      "en": "A small cat sits under a chair in our garden.",
+      "vi": "Một chú mèo nhỏ ngồi dưới chiếc ghế trong vườn nhà tôi."
+    },
+    {
+      "id": "s1-15-02",
+      "kind": "sentence",
+      "en": "Its eyes follow a bird above the wall.",
+      "vi": "Mắt nó dõi theo một con chim ở phía trên bức tường."
+    },
+    {
+      "id": "s1-15-03",
+      "kind": "sentence",
+      "en": "Below the bird, a red ball lies between two boxes.",
+      "vi": "Phía dưới con chim, một quả bóng đỏ nằm giữa hai chiếc hộp."
+    },
+    {
+      "id": "s1-15-04",
+      "kind": "sentence",
+      "en": "The cat walks through the open door and hides among the plants.",
+      "vi": "Chú mèo đi qua cánh cửa đang mở rồi nấp giữa những khóm cây."
+    },
+    {
+      "id": "s1-15-05",
+      "kind": "sentence",
+      "en": "Then it runs across the garden and jumps over the ball.",
+      "vi": "Sau đó, nó chạy băng qua vườn và nhảy qua quả bóng."
+    },
+    {
+      "id": "s1-15-06",
+      "kind": "sentence",
+      "en": "My sister looks around for it, but she cannot see it.",
+      "vi": "Em gái tôi nhìn quanh tìm nó nhưng không thấy."
+    },
+    {
+      "id": "s1-15-07",
+      "kind": "sentence",
+      "en": "I point behind the big tree.",
+      "vi": "Tôi chỉ ra phía sau cái cây lớn."
+    },
+    {
+      "id": "s1-15-08",
+      "kind": "sentence",
+      "en": "The cat is there, looking at us.",
+      "vi": "Chú mèo đang ở đó, nhìn chúng tôi."
+    },
+    {
+      "id": "s1-15-09",
+      "kind": "sentence",
+      "en": "We bring it a bowl of water and sit down nearby.",
+      "vi": "Chúng tôi mang cho nó một bát nước rồi ngồi xuống gần đó."
+    },
+    {
+      "id": "s1-15-10",
+      "kind": "sentence",
+      "en": "The bird stays on the wall and watches.",
+      "vi": "Con chim vẫn đậu trên tường và quan sát."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 6,
+  "sourceFile": "paragraph/06_a_book_for_each_friend.md",
+  "sourceSha256": "6b7bf418d30b604fb2f896c3a8c71428a69149001c897b82c20cb1154a922f57",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-06-01",
+      "kind": "sentence",
+      "en": "Every Friday, two friends visit our little book room.",
+      "vi": "Thứ Sáu hằng tuần, hai người bạn đến phòng sách nhỏ của chúng tôi."
+    },
+    {
+      "id": "s1-06-02",
+      "kind": "sentence",
+      "en": "They both like stories, but they do not always choose the same book.",
+      "vi": "Cả hai đều thích truyện, nhưng không phải lúc nào cũng chọn cùng một cuốn sách."
+    },
+    {
+      "id": "s1-06-03",
+      "kind": "sentence",
+      "en": "Today, each friend can take one book home.",
+      "vi": "Hôm nay, mỗi bạn có thể mang một cuốn sách về nhà."
+    },
+    {
+      "id": "s1-06-04",
+      "kind": "sentence",
+      "en": "One boy wants a story about a dog.",
+      "vi": "Một cậu bé muốn đọc truyện về một chú chó."
+    },
+    {
+      "id": "s1-06-05",
+      "kind": "sentence",
+      "en": "His friend wants another story, about a family.",
+      "vi": "Bạn của cậu lại muốn một câu chuyện khác, về gia đình."
+    },
+    {
+      "id": "s1-06-06",
+      "kind": "sentence",
+      "en": "There are two books on the table, but neither is right for them.",
+      "vi": "Trên bàn có hai cuốn sách, nhưng cả hai đều không phù hợp với các bạn ấy."
+    },
+    {
+      "id": "s1-06-07",
+      "kind": "sentence",
+      "en": "I show them some other books by the window.",
+      "vi": "Tôi chỉ cho hai bạn vài cuốn sách khác cạnh cửa sổ."
+    },
+    {
+      "id": "s1-06-08",
+      "kind": "sentence",
+      "en": "\"You can choose either of these,\" I say.",
+      "vi": "“Các bạn có thể chọn một trong hai cuốn này,” tôi nói."
+    },
+    {
+      "id": "s1-06-09",
+      "kind": "sentence",
+      "en": "Now there are enough books for everyone.",
+      "vi": "Giờ thì đã có đủ sách cho mọi người."
+    },
+    {
+      "id": "s1-06-10",
+      "kind": "sentence",
+      "en": "They sit down to read before they make their choice.",
+      "vi": "Hai bạn ngồi xuống đọc trước khi quyết định chọn sách."
+    }
+  ]
+}

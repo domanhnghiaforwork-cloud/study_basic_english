@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 26,
+  "sourceFile": "paragraph/26_my_first_night_in_a_new_home.md",
+  "sourceSha256": "9067f8eb0a4e0626e43739687bee28b869ce01d0bd5cb01629e32edcf96d74c3",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-26-01",
+      "kind": "sentence",
+      "en": "My name is Lan, and today is my birthday.",
+      "vi": "Tôi tên là Lan, và hôm nay là sinh nhật tôi."
+    },
+    {
+      "id": "s1-26-02",
+      "kind": "sentence",
+      "en": "At the age of ten, I have a new home.",
+      "vi": "Ở tuổi lên mười, tôi có một mái nhà mới."
+    },
+    {
+      "id": "s1-26-03",
+      "kind": "sentence",
+      "en": "Our house is small, but there is a room just for me.",
+      "vi": "Nhà chúng tôi nhỏ, nhưng có một căn phòng dành riêng cho tôi."
+    },
+    {
+      "id": "s1-26-04",
+      "kind": "sentence",
+      "en": "My bedroom has a window near the bed.",
+      "vi": "Phòng ngủ của tôi có cửa sổ gần giường."
+    },
+    {
+      "id": "s1-26-05",
+      "kind": "sentence",
+      "en": "The bathroom is across from it, and the kitchen is downstairs.",
+      "vi": "Phòng tắm ở đối diện phòng ngủ, còn bếp ở tầng dưới."
+    },
+    {
+      "id": "s1-26-06",
+      "kind": "sentence",
+      "en": "Some boxes are still on the floor, waiting for us to open them.",
+      "vi": "Một số thùng đồ vẫn nằm trên sàn, chờ chúng tôi mở ra."
+    },
+    {
+      "id": "s1-26-07",
+      "kind": "sentence",
+      "en": "I find my books and put them beside the window.",
+      "vi": "Tôi tìm sách của mình rồi đặt chúng cạnh cửa sổ."
+    },
+    {
+      "id": "s1-26-08",
+      "kind": "sentence",
+      "en": "Tonight, we eat together at a small table.",
+      "vi": "Tối nay, cả nhà cùng ăn bên một chiếc bàn nhỏ."
+    },
+    {
+      "id": "s1-26-09",
+      "kind": "sentence",
+      "en": "There is no birthday cake, but Mom makes my favorite food.",
+      "vi": "Không có bánh sinh nhật, nhưng mẹ nấu món tôi thích nhất."
+    },
+    {
+      "id": "s1-26-10",
+      "kind": "sentence",
+      "en": "I feel happy here.",
+      "vi": "Tôi cảm thấy hạnh phúc ở đây."
+    }
+  ]
+}

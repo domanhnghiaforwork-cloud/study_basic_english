@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "lessonId": 30,
+  "sourceFile": "paragraph/30_a_letter_for_grandma.md",
+  "sourceSha256": "042526dd30e1efa81b89b29f179f29d434aff6c35bb2090e9b9cb34967ac4068",
+  "language": "vi",
+  "segments": [
+    {
+      "id": "s1-30-01",
+      "kind": "sentence",
+      "en": "I want to send a letter to Grandma, but I do not know where to start.",
+      "vi": "Tôi muốn gửi thư cho bà, nhưng không biết bắt đầu từ đâu."
+    },
+    {
+      "id": "s1-30-02",
+      "kind": "sentence",
+      "en": "I put a piece of paper on the table and pick up my pen.",
+      "vi": "Tôi đặt một tờ giấy lên bàn rồi cầm bút mực lên."
+    },
+    {
+      "id": "s1-30-03",
+      "kind": "sentence",
+      "en": "Then I put it down and use a pencil first.",
+      "vi": "Sau đó, tôi đặt bút xuống và dùng bút chì trước."
+    },
+    {
+      "id": "s1-30-04",
+      "kind": "sentence",
+      "en": "I write one short sentence about school.",
+      "vi": "Tôi viết một câu ngắn về trường học."
+    },
+    {
+      "id": "s1-30-05",
+      "kind": "sentence",
+      "en": "There is a word I cannot spell, so I ask Mom a question.",
+      "vi": "Có một từ tôi không biết đánh vần, nên tôi hỏi mẹ."
+    },
+    {
+      "id": "s1-30-06",
+      "kind": "sentence",
+      "en": "She gives me the answer and helps me finish.",
+      "vi": "Mẹ giải đáp và giúp tôi viết xong thư."
+    },
+    {
+      "id": "s1-30-07",
+      "kind": "sentence",
+      "en": "I add a picture of our garden and a photo of the family.",
+      "vi": "Tôi thêm một bức tranh khu vườn và một bức ảnh gia đình."
+    },
+    {
+      "id": "s1-30-08",
+      "kind": "sentence",
+      "en": "Now Grandma can see how we are doing.",
+      "vi": "Giờ bà có thể biết chúng tôi dạo này thế nào."
+    },
+    {
+      "id": "s1-30-09",
+      "kind": "sentence",
+      "en": "I hope she writes back soon.",
+      "vi": "Tôi mong bà sẽ sớm viết thư trả lời."
+    }
+  ]
+}
